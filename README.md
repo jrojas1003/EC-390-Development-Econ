@@ -1,6 +1,6 @@
-# International Economic Issues <img align="right" height="45" src="UO.png">
+# International Economic Issues <img align="right" height="45" src="images/UO.png">
 
-Welcome to EC 380: International Economic Issues (Winter 2025) at the University of Oregon.
+Welcome to EC 390: Development Economics (Fall 2025) at the University of Oregon.
 
 - Instructor: [Jose Rojas-Fallas](https://jose-rojas-fallas.quarto.pub/econ/)
 - Syllabus
