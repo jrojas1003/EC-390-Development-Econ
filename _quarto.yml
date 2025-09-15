@@ -7,7 +7,7 @@ project:
 
 website:
   title: "EC 390 - Development Econ"
-  favicon: UO-icon.png
+  favicon: images/UO-icon.png
   navbar:
     right:
       - href: Lectures/list.qmd 
