@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+/.quarto/
+Readings/Gerber-Textbook/Gerber-Textbook-2021.pdf
+Readings/Krugman-Textbook/Krugman-Textbook-2023.pdf
+Class-Activity-Roster.xlsx
+*.xlsx
+!Grade-Projection.xlsx
+\[Key\]*
+Assignments/Exams

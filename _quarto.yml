@@ -1,0 +1,32 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+  output-dir: docs   
+
+website:
+  title: "EC 390 - Development Econ"
+  favicon: UO-icon.png
+  navbar:
+    right:
+      - href: Lectures/list.qmd 
+        text: Slides
+      - href: Readings/list.qmd
+        text: Readings
+      - href: Assignments/list.qmd
+        text: Homework
+
+  announcement: 
+    icon: clipboard2-check-fill
+    dismissable: true
+    content: "Welcome to my Development Economics Course"
+    type: warning
+    position: below-navbar
+
+format:
+  html:
+    theme: 
+      - cosmo 
+      - styles.scss
+    toc: false

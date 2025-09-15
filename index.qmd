@@ -1,0 +1,50 @@
+---
+title: "Home"
+---
+
+## Syllabus
+
+## Fall 2025 Class Details
+
+:::: {.columns}
+:::{.column width="50%"}
+
+**Instructor:** Jose Rojas-Fallas
+
+**Email:** jrojas2@uoregon.edu
+
+**Office Hours:** Day - Time in Office
+:::
+
+::: {.column width="50%"}
+
+**Class Location:** Classroom
+
+**Class Day & Time:** Day(s) - Time
+
+**Textbook/Readings:** [Check Here](Readings/list.qmd)
+:::
+
+::::
+
+### Course Grade Breakdown
+
+For more details, read the Syllabus above
+
+
+| Assignment   | Grade Weight  | 
+|:------------|:------------:|
+| Problem Sets (x5) | **25%** |
+| Quizzes (x4) | **10%** |
+| Midterm Exam | **30%** |
+| Final Exam | **30%** |
+
+
+### Tentative Schedule
+
+| **Week** |  **Reading** |    **Topic**    | **Assignments** |
+
+
+## Acknowledgements
+
+This class has been created using materials passed down by a former UO graduate student. 
