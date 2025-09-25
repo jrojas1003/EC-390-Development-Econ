@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Announcement Box\n\n\n\nWelcome to EC 390!\nThis is where everything in our course lives. Please explore the site (and let me know if something is broken).\nThis space (literally this box) is where I will post timely announcements. I will also make them on Canvas so that you receive an actual notification, but you should be checking this website often.\nWe will use Canvas as a glorified assignment submission space and gradebook. In short, you’ll submit assignments there and see your grades there."
+  },
+  {
+    "objectID": "index.html#syllabus",
+    "href": "index.html#syllabus",
+    "title": "Home",
+    "section": "Syllabus",
+    "text": "Syllabus\n\n  Fall 2025 Syllabus PDF\n  \n    Download"
+  },
+  {
     "objectID": "index.html#fall-2025-class-details",
     "href": "index.html#fall-2025-class-details",
     "title": "Home",
     "section": "Fall 2025 Class Details",
-    "text": "Fall 2025 Class Details\n\n\nInstructor: Jose Rojas-Fallas\nEmail: jrojas2@uoregon.edu\nOffice Hours: Day - Time in Office\n\nClass Location: Classroom\nClass Day & Time: Day(s) - Time\nTextbook/Readings: Check Here\n\n\n\nCourse Grade Breakdown\nFor more details, read the Syllabus above\n\n\n\nAssignment\nGrade Weight\n\n\n\n\nProblem Sets (x5)\n25%\n\n\nQuizzes (x4)\n10%\n\n\nMidterm Exam\n30%\n\n\nFinal Exam\n30%\n\n\n\n\n\nTentative Schedule\nWeek | Reading | Topic | Assignments |"
+    "text": "Fall 2025 Class Details\n\n\nInstructor: Jose Rojas-Fallas\nEmail: jrojas2@uoregon.edu\nOffice Hours: Tuesday - 09:00 - 11:00 am (PLC 525)\n\nClass Location: Gerlinger 302\nClass Day & Time: Mon/Wed (12:00pm - 1:20pm)\nTextbook/Readings: Check Here\n\n\n\nCourse Grade Breakdown\nFor more details, read the Syllabus above\n\n\n\nAssignment\nGrade Weight\n\n\n\n\nProblem Sets (x4)\n20%\n\n\nQuizzes (x4)\n10%\n\n\nMidterm Exam\n30%\n\n\nFinal Project\n40%\n\n\n\n\n\nTentative Schedule\n\n\n\n\n\n\n\n\n\nWeek\nReading\nTopic\nAssignments\n\n\n\n\nW01\nCh. 1 & 2\nGrowth & Development\nQuiz 01\n\n\nW02\nCh. 3 & 4\nTheories of Growth & Development\nPS 01 & Final Project Topic\n\n\nW03\nCh. 05\nPoverty & Inequity\nQuiz 02\n\n\nW04\nCh. 09\nAgriculture & Rural Development\nProblem Set 02\n\n\nW05\nCh. 06\nPopulation\nMidterm Exam\n\n\nW06\nCh. 07\nUrbanization & Rural-Urban Migration\nAnnotated Biblio.\n\n\nW07\nCh. 08\nEducatoin & Health\nProblem Set 03\n\n\nW08\nCh. 11\nGovernance & Institutions\nQuiz 03 & Outline\n\n\nW09\nCh. 12 & 14\nForeign Aid, Trade, & Globalization\nProblem Set 04\n\n\nW10\n–\nFinal Project Presentations\nPresentations"
   },
   {
     "objectID": "index.html#acknowledgements",
@@ -12,5 +26,355 @@
     "title": "Home",
     "section": "Acknowledgements",
     "text": "Acknowledgements\nThis class has been created using materials passed down by a former UO graduate student."
+  },
+  {
+    "objectID": "Lectures/list.html",
+    "href": "Lectures/list.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Expand"
+  },
+  {
+    "objectID": "Lectures/list.html#introduction",
+    "href": "Lectures/list.html#introduction",
+    "title": "Lectures",
+    "section": "",
+    "text": "Expand"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html",
+    "href": "Lectures/00-Introduction/003-dev-overview.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "My Dev Econ professor made it very easy to understand with the following:\n\n\n\nIn OECD Countries\n\nLabor Economics\nHealth Economics\nPublic Economics\nEnvironmental Economics\nHousehold Economics\nIndustrial Organization\nUrban Economics\nBehavioral Economics\n\n\nIn Developing Countries\n\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#what-is-development-econ",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#what-is-development-econ",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "My Dev Econ professor made it very easy to understand with the following:\n\n\n\nIn OECD Countries\n\nLabor Economics\nHealth Economics\nPublic Economics\nEnvironmental Economics\nHousehold Economics\nIndustrial Organization\nUrban Economics\nBehavioral Economics\n\n\nIn Developing Countries\n\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field",
+    "title": "EC 390 - Development Econ",
+    "section": "Development Economics as a Field",
+    "text": "Development Economics as a Field\nWhat makes Development Different?\n\n\nInternational setting\nVery low socioeconomic status populations\nLots of constraints (financial, behavioral, market, institutional, etc.)\nLittle social protection\nMissing markets (financial, product, land)\nPresence of strong non-market institutions (social networks, informal markets)\nMonopolistic markets (no “perfect competition” assumptions)\nInstitutional setting is widely diverse, varying from country to country"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-1",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Development Economics as a Field",
+    "text": "Development Economics as a Field\nWhat makes Development Similar?\n\n\nPolicy concerns  welfare, environment, institutional quality, etc.\nEconometric tools\nAttention to causal mechanisms"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-2",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Development Economics as a Field",
+    "text": "Development Economics as a Field\nConsequences\n\nPresence of market imperfections and constraints  attention to theory\n\nWhat is the “model” we should think of?\n\nDifferent institutional setting  Nuanced understanding of local context\nLow-income countries  Sparse data availability\nNot US, so who cares?  Target questions with wider appeal than country context"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#now-lets-play-a-game",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#now-lets-play-a-game",
+    "title": "EC 390 - Development Econ",
+    "section": "Now Let’s Play a Game",
+    "text": "Now Let’s Play a Game"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/001-welcome.html",
+    "href": "Lectures/00-Introduction/001-welcome.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Welcome to EC 390!\nMy name is Jose Rojas-Fallas, 5th Year PhD Candidate in Economics\nPlease visit my website to learn more about me and my work!\n\nThe traffic would also be great for me \n\n. . .\n\nI am a international trade, development, and microeconomist\n\n. . .\n\nI am originally from Costa Rica\n\n. . .\n\nI am going to make this class fun for us both"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/001-welcome.html#preamble",
+    "href": "Lectures/00-Introduction/001-welcome.html#preamble",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Welcome to EC 390!\nMy name is Jose Rojas-Fallas, 5th Year PhD Candidate in Economics\nPlease visit my website to learn more about me and my work!\n\nThe traffic would also be great for me \n\n. . .\n\nI am a international trade, development, and microeconomist\n\n. . .\n\nI am originally from Costa Rica\n\n. . .\n\nI am going to make this class fun for us both"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/001-welcome.html#what-are-we-getting-out-of-this-course",
+    "href": "Lectures/00-Introduction/001-welcome.html#what-are-we-getting-out-of-this-course",
+    "title": "EC 390 - Development Econ",
+    "section": "What Are We Getting Out of This Course",
+    "text": "What Are We Getting Out of This Course\n\n\nCredit!\nKnowledge on fundamental theories and concepts in development economics\nAn understanding on what makes countries grow at different rates\nPractical skills on how to do basic research and talk about it\nA different worldview!\n\n\n\n\nNow let’s talk about the course details"
+  },
+  {
+    "objectID": "Assignments/list.html",
+    "href": "Assignments/list.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Submit to Canvas on Date"
+  },
+  {
+    "objectID": "Assignments/list.html#problem-sets",
+    "href": "Assignments/list.html#problem-sets",
+    "title": "Assignments",
+    "section": "",
+    "text": "Submit to Canvas on Date"
+  },
+  {
+    "objectID": "Assignments/list.html#quizzes",
+    "href": "Assignments/list.html#quizzes",
+    "title": "Assignments",
+    "section": "Quizzes",
+    "text": "Quizzes\n\nQuiz 01\n\n\nQuiz 02\n\n\nQuiz 03\n\n\nQuiz 04\n\n\n\n\n\n\nNote\n\n\n\nThis is a note.\n\n\n\n\n\n\n\n\nTip\n\n\n\nThis is a tip.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nThis is something important.\n\n\n\n\n\n\n\n\nCaution\n\n\n\nThis is a cautionary message.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nThis is a warning message."
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#preamble",
+    "href": "Lectures/00-Introduction/000-compile.html#preamble",
+    "title": "Introduction and Overview",
+    "section": "Preamble",
+    "text": "Preamble\nWelcome to EC 390!\nMy name is Jose Rojas-Fallas, 5th Year PhD Candidate in Economics\nPlease visit my website to learn more about me and my work!\n\nThe traffic would also be great for me \n\n\n\nI am a international trade, development, and microeconomist\n\n\n\n\nI am originally from Costa Rica\n\n\n\n\nI am going to make this class fun for us both"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#what-are-we-getting-out-of-this-course",
+    "href": "Lectures/00-Introduction/000-compile.html#what-are-we-getting-out-of-this-course",
+    "title": "Introduction and Overview",
+    "section": "What Are We Getting Out of This Course",
+    "text": "What Are We Getting Out of This Course\n\n\nCredit!\nKnowledge on fundamental theories and concepts in development economics\nAn understanding on what makes countries grow at different rates\nPractical skills on how to do basic research and talk about it\nA different worldview!\n\n\n\n\nNow let’s talk about the course details"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#class-information",
+    "href": "Lectures/00-Introduction/000-compile.html#class-information",
+    "title": "Introduction and Overview",
+    "section": "Class Information",
+    "text": "Class Information\n\nLectures  Monday & Wednesday in Gerlinger 302\nOffice Hours  Tuesdays from 09:00 am to 11:00 am\n\n\nLectures\n\n\nSlides are only one part of the course, not a perfect substitute\nDuring lectures, I will go through example problems, ask you to solve things, ask for your opinions, etc.\n\nIt will be somewhat interactive, keeping you on your toes and allowing you to push back on things I say\n\nBy being in lecture (and paying attention), my goal is to make things clearer beyond what the textbook and bring it into the real world"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#logistics",
+    "href": "Lectures/00-Introduction/000-compile.html#logistics",
+    "title": "Introduction and Overview",
+    "section": "Logistics",
+    "text": "Logistics\n\nOur textbook is Economic Development by M. Todaro and S. Smith\n\nI recommend you check the Readings to keep on track\n\n\n\n\nCourse Topics\n\n\nGrowth & Development\nTheories of Growth & Development\nPoverty & Inequality\nAgriculture & Rural Development\nPopulation\nUrbanization & Rural-Urban Migration\nEducation & Health\nGovernance & Institutions\nForeign Aid\nTrade & Globalization\n\n\n\nCourse Grades\n\n\n20%  4x Problem Sets\n10%  4x Quizzes\n30%  Midterm Exam\n50%  Final Project"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#canvas-course-set-up",
+    "href": "Lectures/00-Introduction/000-compile.html#canvas-course-set-up",
+    "title": "Introduction and Overview",
+    "section": "Canvas & Course Set-Up",
+    "text": "Canvas & Course Set-Up\nCanvas will be a place for you to submit assignments and as a gradebook\nEverything else will be in our course website\n\nCourse Website\n\nThis is a link! It works!"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#assignments",
+    "href": "Lectures/00-Introduction/000-compile.html#assignments",
+    "title": "Introduction and Overview",
+    "section": "Assignments",
+    "text": "Assignments\nProblem Sets\n\n\nWill be made available one week before they are due (usually on Wednesday)\nDue at 11:59am (before lecture) but you can submit late up until 11:59pm of that day\nThere will be a late submission penalty which is proportional to how many hours late it was submitted\n\n\n\nSubmissions\n\n\nOnly PDF files are accepted\nIf you write your answers with pen and take pictures/scan them, compile them into a single PDF file\n\nMake sure they are legible\nYou can do this by using any website that merges pdf files (be sure they are in the proper order)  Adobe works just fine"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#assignments-1",
+    "href": "Lectures/00-Introduction/000-compile.html#assignments-1",
+    "title": "Introduction and Overview",
+    "section": "Assignments",
+    "text": "Assignments\nQuizzes\n\nThese are intended to test your critical thinking and develop your ability to form coherent and succint arguments\nThey will have a 45min time limit\nSubmissions should be no more than a paragraph or two in length\n\n\nExample from my International Econ class:\n\nIn lecture, we briefly talked about how the median voter model does not work well when considering trade policy. Voters seemingly support protectionist trade policies, even when they may go against their direct interests. Why do you think this happens?"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#midterm-exam",
+    "href": "Lectures/00-Introduction/000-compile.html#midterm-exam",
+    "title": "Introduction and Overview",
+    "section": "Midterm Exam",
+    "text": "Midterm Exam\n\n\nThe midterm exam is scheduled for Wednesday of Week 5 (October 29th)\nIt will consist of multiple choice questions, short-answer questions, and multi-part analysis questions\nI’ll do my best to create a practice exam beforehand but no promises"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#final-project",
+    "href": "Lectures/00-Introduction/000-compile.html#final-project",
+    "title": "Introduction and Overview",
+    "section": "Final Project",
+    "text": "Final Project\nYou will come up with a research proposal on any topic related to development economics\n\nYou will NOT be writing a full research paper\n\n\n\nYou will identify a specific question\nYou will motivate why it is an important question\nYou will propose some form of answering it using theory, data, or policy analysis\n\n\n\n\nYou will create a 10min presentation on your work"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#final-project-1",
+    "href": "Lectures/00-Introduction/000-compile.html#final-project-1",
+    "title": "Introduction and Overview",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n\n Week 02\n Week 06\n Week 08\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#final-project-2",
+    "href": "Lectures/00-Introduction/000-compile.html#final-project-2",
+    "title": "Introduction and Overview",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n  Week 02  Topic Selection:\n\nSubmit a brief (1-2 paragraph) description of your proposed research question, including why you believe it is important to answer and why it is relevant to development economics\n\n Week 06\n Week 08\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#final-project-3",
+    "href": "Lectures/00-Introduction/000-compile.html#final-project-3",
+    "title": "Introduction and Overview",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n\nProvide at least THREE peer-reviewed articles related to your topic, with a breif summary (about 1-2 paragraphs) of how it informs your own question\n\n Week 08\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#final-project-4",
+    "href": "Lectures/00-Introduction/000-compile.html#final-project-4",
+    "title": "Introduction and Overview",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n Week 08  Presentation Outline\n\nSubmit a draft outline/rough draft of your presentation slides in which you summarize your question, motivation, and proposed approach to answer it\n\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#final-project-5",
+    "href": "Lectures/00-Introduction/000-compile.html#final-project-5",
+    "title": "Introduction and Overview",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n Week 08  Presentation Outline\n Week 10  Final Presentation\n\nDeliver a 10-minute presentation of your research project\n\nThis has a caveat"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#final-project-caveat",
+    "href": "Lectures/00-Introduction/000-compile.html#final-project-caveat",
+    "title": "Introduction and Overview",
+    "section": "Final Project Caveat",
+    "text": "Final Project Caveat\n\nI have allocated the entirety of Week 10 for presentations, but that only allows us 240min which equals only 24 presentations\n\n\n\nBecause of this, I will allow you to submit a recording of your presentation instead\nBy Week 04, I will ask for volunteers to present in-class\n\nThis will be first-come, first-serve\n\nVolunteers will receive Extra Credit for doing so, however there is a second caveat\nIf you do sign up to present, that is a commitment you are making with me  you CANNOT back out of it\n\nIf you fail to present in person, you will be punished in your grade for doing so"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#what-is-development-econ",
+    "href": "Lectures/00-Introduction/000-compile.html#what-is-development-econ",
+    "title": "Introduction and Overview",
+    "section": "What is Development Econ?",
+    "text": "What is Development Econ?\nMy Dev Econ professor made it very easy to understand with the following:\n\n\n\nIn OECD Countries\n\nLabor Economics\nHealth Economics\nPublic Economics\nEnvironmental Economics\nHousehold Economics\nIndustrial Organization\nUrban Economics\nBehavioral Economics\n\n\nIn Developing Countries\n\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#development-economics-as-a-field",
+    "href": "Lectures/00-Introduction/000-compile.html#development-economics-as-a-field",
+    "title": "Introduction and Overview",
+    "section": "Development Economics as a Field",
+    "text": "Development Economics as a Field\nWhat makes Development Different?\n\n\nInternational setting\nVery low socioeconomic status populations\nLots of constraints (financial, behavioral, market, institutional, etc.)\nLittle social protection\nMissing markets (financial, product, land)\nPresence of strong non-market institutions (social networks, informal markets)\nMonopolistic markets (no “perfect competition” assumptions)\nInstitutional setting is widely diverse, varying from country to country"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#development-economics-as-a-field-1",
+    "href": "Lectures/00-Introduction/000-compile.html#development-economics-as-a-field-1",
+    "title": "Introduction and Overview",
+    "section": "Development Economics as a Field",
+    "text": "Development Economics as a Field\nWhat makes Development Similar?\n\n\nPolicy concerns  welfare, environment, institutional quality, etc.\nEconometric tools\nAttention to causal mechanisms"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#development-economics-as-a-field-2",
+    "href": "Lectures/00-Introduction/000-compile.html#development-economics-as-a-field-2",
+    "title": "Introduction and Overview",
+    "section": "Development Economics as a Field",
+    "text": "Development Economics as a Field\nConsequences\n\nPresence of market imperfections and constraints  attention to theory\n\nWhat is the “model” we should think of?\n\nDifferent institutional setting  Nuanced understanding of local context\nLow-income countries  Sparse data availability\nNot US, so who cares?  Target questions with wider appeal than country context"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/000-compile.html#now-lets-play-a-game",
+    "href": "Lectures/00-Introduction/000-compile.html#now-lets-play-a-game",
+    "title": "Introduction and Overview",
+    "section": "Now Let’s Play a Game",
+    "text": "Now Let’s Play a Game"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html",
+    "href": "Lectures/00-Introduction/002-syllabus.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Lectures  Monday & Wednesday in Gerlinger 302\nOffice Hours  Tuesdays from 09:00 am to 11:00 am\n\n. . .\nLectures\n\n\nSlides are only one part of the course, not a perfect substitute\nDuring lectures, I will go through example problems, ask you to solve things, ask for your opinions, etc.\n\nIt will be somewhat interactive, keeping you on your toes and allowing you to push back on things I say\n\nBy being in lecture (and paying attention), my goal is to make things clearer beyond what the textbook and bring it into the real world"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#class-information",
+    "href": "Lectures/00-Introduction/002-syllabus.html#class-information",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Lectures  Monday & Wednesday in Gerlinger 302\nOffice Hours  Tuesdays from 09:00 am to 11:00 am\n\n. . .\nLectures\n\n\nSlides are only one part of the course, not a perfect substitute\nDuring lectures, I will go through example problems, ask you to solve things, ask for your opinions, etc.\n\nIt will be somewhat interactive, keeping you on your toes and allowing you to push back on things I say\n\nBy being in lecture (and paying attention), my goal is to make things clearer beyond what the textbook and bring it into the real world"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#logistics",
+    "href": "Lectures/00-Introduction/002-syllabus.html#logistics",
+    "title": "EC 390 - Development Econ",
+    "section": "Logistics",
+    "text": "Logistics\n\nOur textbook is Economic Development by M. Todaro and S. Smith\n\nI recommend you check the Readings to keep on track\n\n\n\n\nCourse Topics\n\n\nGrowth & Development\nTheories of Growth & Development\nPoverty & Inequality\nAgriculture & Rural Development\nPopulation\nUrbanization & Rural-Urban Migration\nEducation & Health\nGovernance & Institutions\nForeign Aid\nTrade & Globalization\n\n\n\nCourse Grades\n\n\n20%  4x Problem Sets\n10%  4x Quizzes\n30%  Midterm Exam\n50%  Final Project"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#canvas-course-set-up",
+    "href": "Lectures/00-Introduction/002-syllabus.html#canvas-course-set-up",
+    "title": "EC 390 - Development Econ",
+    "section": "Canvas & Course Set-Up",
+    "text": "Canvas & Course Set-Up\nCanvas will be a place for you to submit assignments and as a gradebook\nEverything else will be in our course website\n\nCourse Website\n\nThis is a link! It works!"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#assignments",
+    "href": "Lectures/00-Introduction/002-syllabus.html#assignments",
+    "title": "EC 390 - Development Econ",
+    "section": "Assignments",
+    "text": "Assignments\nProblem Sets\n\n\nWill be made available one week before they are due (usually on Wednesday)\nDue at 11:59am (before lecture) but you can submit late up until 11:59pm of that day\nThere will be a late submission penalty which is proportional to how many hours late it was submitted\n\n\n. . .\nSubmissions\n\n\nOnly PDF files are accepted\nIf you write your answers with pen and take pictures/scan them, compile them into a single PDF file\n\nMake sure they are legible\nYou can do this by using any website that merges pdf files (be sure they are in the proper order)  Adobe works just fine"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#assignments-1",
+    "href": "Lectures/00-Introduction/002-syllabus.html#assignments-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Assignments",
+    "text": "Assignments\nQuizzes\n\nThese are intended to test your critical thinking and develop your ability to form coherent and succint arguments\nThey will have a 45min time limit\nSubmissions should be no more than a paragraph or two in length\n\n\nExample from my International Econ class:\n\nIn lecture, we briefly talked about how the median voter model does not work well when considering trade policy. Voters seemingly support protectionist trade policies, even when they may go against their direct interests. Why do you think this happens?"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#midterm-exam",
+    "href": "Lectures/00-Introduction/002-syllabus.html#midterm-exam",
+    "title": "EC 390 - Development Econ",
+    "section": "Midterm Exam",
+    "text": "Midterm Exam\n\n\nThe midterm exam is scheduled for Wednesday of Week 5 (October 29th)\nIt will consist of multiple choice questions, short-answer questions, and multi-part analysis questions\nI’ll do my best to create a practice exam beforehand but no promises"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nYou will come up with a research proposal on any topic related to development economics\n\nYou will NOT be writing a full research paper\n\n\n\nYou will identify a specific question\nYou will motivate why it is an important question\nYou will propose some form of answering it using theory, data, or policy analysis\n\n\n\n\nYou will create a 10min presentation on your work"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-1",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n\n Week 02\n Week 06\n Week 08\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-2",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n  Week 02  Topic Selection:\n\nSubmit a brief (1-2 paragraph) description of your proposed research question, including why you believe it is important to answer and why it is relevant to development economics\n\n Week 06\n Week 08\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-3",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-3",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n\nProvide at least THREE peer-reviewed articles related to your topic, with a breif summary (about 1-2 paragraphs) of how it informs your own question\n\n Week 08\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-4",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-4",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n Week 08  Presentation Outline\n\nSubmit a draft outline/rough draft of your presentation slides in which you summarize your question, motivation, and proposed approach to answer it\n\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-5",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-5",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n Week 08  Presentation Outline\n Week 10  Final Presentation\n\nDeliver a 10-minute presentation of your research project\n\nThis has a caveat"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-caveat",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-caveat",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project Caveat",
+    "text": "Final Project Caveat\n\nI have allocated the entirety of Week 10 for presentations, but that only allows us 240min which equals only 24 presentations\n\n\n\nBecause of this, I will allow you to submit a recording of your presentation instead\nBy Week 04, I will ask for volunteers to present in-class\n\nThis will be first-come, first-serve\n\nVolunteers will receive Extra Credit for doing so, however there is a second caveat\nIf you do sign up to present, that is a commitment you are making with me  you CANNOT back out of it\n\nIf you fail to present in person, you will be punished in your grade for doing so"
+  },
+  {
+    "objectID": "Readings/list.html",
+    "href": "Readings/list.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Stuff goes here"
+  },
+  {
+    "objectID": "Readings/list.html#readings",
+    "href": "Readings/list.html#readings",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Stuff goes here"
   }
 ]
