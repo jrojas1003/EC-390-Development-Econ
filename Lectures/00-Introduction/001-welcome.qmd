@@ -1,0 +1,47 @@
+---
+name: Introduction Section
+---
+
+## Preamble
+
+Welcome to EC 390! 
+
+My name is Jose Rojas-Fallas, 5th Year PhD Candidate in Economics 
+
+Please visit my [website](https://jose-rojas-fallas.quarto.pub){target="_blank"} to learn more about me and my work!
+
+- The traffic would also be great for me {{< fa regular face-smile-beam >}}
+
+. . .
+
+> [_I am_]{.note .hii} a [international trade, development, and microeconomist]{.hp}
+
+. . .
+
+> [_I am_]{.note .hii} originally from Costa Rica
+
+. . .
+
+> [_I am_]{.note .hii} going to make this class fun for us both
+
+---
+
+## What Are We Getting Out of This Course
+
+::: {.incremental}
+- Credit!
+
+- Knowledge on fundamental theories and concepts in development economics
+
+- An understanding on what makes countries grow at different rates
+
+- Practical skills on how to do basic research and talk about it
+
+- A different worldview!
+:::
+
+::: {.fragment}
+
+> Now let's talk about the course details
+
+:::

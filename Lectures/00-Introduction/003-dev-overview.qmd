@@ -1,0 +1,91 @@
+---
+name: Development Overview
+---
+
+## What is Development Econ?
+
+My Dev Econ professor made it very easy to understand with the following:
+
+:::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%" .align-center}
+[In OECD Countries]{.hii}
+
+- Labor Economics
+- Health Economics
+- Public Economics
+- Environmental Economics
+- Household Economics
+- Industrial Organization
+- Urban Economics
+- Behavioral Economics
+:::
+
+::: {.column width="50%" .align-center}
+[In Developing Countries]{.hp}
+
+- Development Economics
+- Development Economics
+- Development Economics
+- Development Economics
+- Development Economics
+- Development Economics
+- Development Economics
+- Development Economics
+:::
+
+::::
+
+::::
+
+---
+
+## Development Economics as a Field
+
+[What makes Development Different?]{.hi}
+
+::: {.incremental}
+- International setting
+- Very low socioeconomic status populations
+- Lots of constraints (financial, behavioral, market, institutional, etc.)
+- Little social protection
+- Missing markets (financial, product, land)
+- Presence of strong non-market institutions (social networks, informal markets)
+- Monopolistic markets (no "perfect competition" assumptions)
+- Institutional setting is widely diverse, varying from country to country
+:::
+
+---
+
+## Development Economics as a Field
+
+[What makes Development Similar?]{.hi}
+
+::: {.fragment}
+- Policy concerns {{< fa arrow-right >}} welfare, environment, institutional quality, etc.
+- Econometric tools 
+- Attention to causal mechanisms
+:::
+
+---
+
+## Development Economics as a Field
+
+[Consequences]{.hi}
+
+- Presence of market imperfections and constraints {{< fa arrow-right >}} [attention to theory]{.h} 
+    - What is the "model" we should think of?
+
+- Different institutional setting {{< fa arrow-right >}} Nuanced understanding of local context
+
+- Low-income countries {{< fa arrow-right >}} Sparse data availability
+
+- Not US, so who cares? {{< fa arrow-right >}} Target questions with wider appeal than country context 
+
+---
+
+## Now Let's Play a Game
+
+![](images/saw-puppet.webp){fig-align="center"}

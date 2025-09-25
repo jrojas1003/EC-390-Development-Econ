@@ -1,0 +1,249 @@
+---
+name: Syllabus Overview
+---
+
+## Class Information
+
+- [Lectures]{.hp} {{< fa arrow-right >}} Monday & Wednesday in Gerlinger 302
+
+- [Office Hours]{.hp} {{< fa arrow-right >}} Tuesdays from 09:00 am to 11:00 am 
+
+. . .
+
+[Lectures]{.hi}
+
+::: {.fragment}
+- Slides are only one part of the course, not a perfect substitute 
+- During lectures, I will go through example problems, ask you to solve things, ask for your opinions, etc. 
+    - It will be somewhat interactive, keeping you on your toes and allowing you to push back on things I say
+- By being in lecture (and paying attention), my goal is to make things clearer beyond what the textbook and bring it into the real world
+:::
+
+---
+
+## Logistics
+
+- Our [textbook]{.hi} is [*Economic Development*]{.hi} by M. Todaro and S. Smith
+
+    - I recommend you check the [***Readings***](../../Readings/list.qmd){target="_blank"} to keep on track
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Course Topics]{.h .align-center}
+
+::: {.fragment .tiny}
+- Growth & Development
+- Theories of Growth & Development
+- Poverty & Inequality
+- Agriculture & Rural Development
+- Population
+- Urbanization & Rural-Urban Migration
+- Education & Health
+- Governance & Institutions
+- Foreign Aid
+- Trade & Globalization
+:::
+:::
+
+::: {.column width="50%"}
+[Course Grades]{.h .align-center}
+
+::: {.incremental}
+- 20% {{< fa arrow-right >}} 4x Problem Sets
+- 10% {{< fa arrow-right >}} 4x Quizzes
+- 30% {{< fa arrow-right >}} Midterm Exam
+- 50% {{< fa arrow-right >}} Final Project
+:::
+
+:::
+
+::::
+
+---
+
+## Canvas & Course Set-Up
+
+Canvas will be a place for you to submit assignments and as a gradebook
+
+Everything else will be in our course website
+
+<br><br><br>
+
+[**Course Website**](https://jrojas1003.github.io/EC-390-Development-Econ/){target=_blank .hp .Large .align-center}
+
+[{{< fa arrow-up >}}]{.align-center}
+
+[This is a link! It works!]{.hii .align-center}
+
+---
+
+## Assignments
+
+[Problem Sets]{.h .align-center}
+
+::: {.fragment .tiny}
+- Will be made available [one week]{.hp} before they are due (usually on Wednesday)
+- Due at 11:59am (before lecture) but you can submit late up until 11:59pm of that day
+- There will be a [late submission penalty]{.hp} which is proportional to how many hours late it was submitted
+:::
+
+. . .
+
+[Submissions]{.h .align-center}
+
+::: {.tiny}
+- Only [PDF]{.hp} files are accepted
+- If you write your answers with pen and take pictures/scan them, compile them into [a single PDF file]{.hp} 
+    - Make sure they are legible 
+    - You can do this by using any website that merges pdf files (be sure they are in the proper order) {{< fa arrow-right >}} [Adobe](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} works just fine
+:::
+
+---
+
+## Assignments
+
+[Quizzes]{.h .align-center}
+
+- These are intended to test your critical thinking and develop your ability to form coherent and succint arguments
+
+- They will have a 45min time limit 
+
+- Submissions should be no more than a paragraph or two in length
+
+::: {.fragment}
+[Example from my International Econ class:]{.hi} 
+
+> [In lecture, we briefly talked about how the median voter model does not work well when considering trade policy. Voters seemingly support protectionist trade policies, even when they may go against their direct interests. Why do you think this happens?]{.note .tiny}
+:::
+
+---
+
+## Midterm Exam
+
+::: {.vertical-center}
+- The midterm exam is scheduled for Wednesday of Week 5 (October 29th)
+- It will consist of multiple choice questions, short-answer questions, and multi-part analysis questions
+- I'll do my best to create a practice exam beforehand but no promises
+:::
+
+---
+
+## Final Project
+
+You will come up with a research proposal on any topic related to development economics
+
+- [You will]{.h} [NOT]{.hp} [be writing a full research paper]{.h}
+
+::: {.fragment}
+- [_You will_]{.hp} identify a specific question
+- [_You will_]{.hp} motivate why it is an important question
+- [_You will_]{.hp} propose some form of answering it using theory, data, or policy analysis
+:::
+
+::: {.fragment}
+- [_You will_]{.hp} create a 10min presentation on your work {{< fa skull >}} 
+:::
+
+---
+
+## Final Project
+
+I will give more details as we move along the term but here is the rough outline:
+
+::: {.vertical-center}
+{{< fa regular clock >}} [Week 02]{.hp}
+
+{{< fa regular clock >}} [Week 06]{.hp}
+
+{{< fa regular clock >}} [Week 08]{.hp}
+
+{{< fa regular clock >}} [Week 10]{.hp}
+:::
+
+---
+
+## Final Project
+
+I will give more details as we move along the term but here is the rough outline:
+
+<br>
+{{< fa regular clock >}} [Week 02]{.hp} {{< fa arrow-right >}} [Topic Selection]{.hi}:
+
+- Submit a brief (1-2 paragraph) description of your proposed research question, including why you believe it is important to answer and why it is relevant to development economics
+
+{{< fa regular clock >}} [Week 06]{.hp}
+
+{{< fa regular clock >}} [Week 08]{.hp}
+
+{{< fa regular clock >}} [Week 10]{.hp}
+
+---
+
+## Final Project
+
+I will give more details as we move along the term but here is the rough outline:
+
+{{< fa regular clock >}} [Week 02]{.hp} {{< fa arrow-right >}} [Topic Selection]{.hi}
+
+{{< fa regular clock >}} [Week 06]{.hp} {{< fa arrow-right >}} [Annotated Bibliography]{.hi}
+
+- Provide [at least THREE peer-reviewed articles]{.h} related to your topic, with a breif summary (about 1-2 paragraphs) of how it informs your own question
+
+{{< fa regular clock >}} [Week 08]{.hp}
+
+{{< fa regular clock >}} [Week 10]{.hp}
+
+---
+
+## Final Project
+
+I will give more details as we move along the term but here is the rough outline:
+
+{{< fa regular clock >}} [Week 02]{.hp} {{< fa arrow-right >}} [Topic Selection]{.hi}
+
+{{< fa regular clock >}} [Week 06]{.hp} {{< fa arrow-right >}} [Annotated Bibliography]{.hi}
+
+{{< fa regular clock >}} [Week 08]{.hp} {{< fa arrow-right >}} [Presentation Outline]{.hi}
+
+- Submit a draft outline/rough draft of your presentation slides in which you summarize your question, motivation, and proposed approach to answer it
+
+{{< fa regular clock >}} [Week 10]{.hp}
+
+---
+
+## Final Project
+
+I will give more details as we move along the term but here is the rough outline:
+
+{{< fa regular clock >}} [Week 02]{.hp} {{< fa arrow-right >}} [Topic Selection]{.hi}
+
+{{< fa regular clock >}} [Week 06]{.hp} {{< fa arrow-right >}} [Annotated Bibliography]{.hi}
+
+{{< fa regular clock >}} [Week 08]{.hp} {{< fa arrow-right >}} [Presentation Outline]{.hi}
+
+{{< fa regular clock >}} [Week 10]{.hp} {{< fa arrow-right >}} [Final Presentation]{.hi}
+
+- Deliver a 10-minute presentation of your research project
+
+[This has a caveat]{.hp}
+
+---
+
+## Final Project Caveat
+
+- I have allocated the entirety of Week 10 for presentations, but that only allows us 240min which equals only 24 presentations
+
+::: {.incremental}
+- Because of this, I will allow you to submit a recording of your presentation instead
+
+- By [Week 04]{.hi}, I will ask for volunteers to present in-class 
+    - This will be first-come, first-serve
+
+- Volunteers will receive Extra Credit for doing so, however there is a [second caveat]{.hp}
+
+- If you do sign up to present, that is a commitment you are making with me {{< fa arrow-right >}} you [CANNOT]{.hp} back out of it
+
+    - If you fail to present in person, you will be punished in your grade for doing so
+:::
+

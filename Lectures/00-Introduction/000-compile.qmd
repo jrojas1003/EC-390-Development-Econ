@@ -1,0 +1,26 @@
+---
+title: "Introduction and Overview"
+subtitle: "EC 390 - Development Economics"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number  : true
+        footer: "EC390, Lecture 00 | Introduction and Overview"
+        preview-links: auto
+        code-f  old: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+{{< include 001-welcome.qmd >}}
+
+# Syllabus {.inverse .note}
+
+{{< include 002-syllabus.qmd >}}
+
+# Development Economics Overview {.inverse .note}
+
+{{< include 003-dev-overview.qmd >}}
