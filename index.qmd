@@ -2,7 +2,33 @@
 title: "Home"
 ---
 
+::: {.callout-warning}
+## Announcement Box
+Welcome to EC 390! 
+
+This is where **everything** in our course lives. 
+Please explore the site (and let me know if something is broken).
+
+This space (literally this box) is where I will post timely announcements. 
+I will also make them on Canvas so that you receive an actual notification, but you should be checking this website often. 
+
+We will use Canvas as a glorified assignment submission space and gradebook. 
+In short, you'll submit assignments there and see your grades there. 
+:::
+
 ## Syllabus
+
+```{=html}
+<details>
+  <summary>Fall 2025 Syllabus PDF</summary>
+  <a class="btn btn-primary btn-lg cv-download" href="Documents/Syllabus/Syllabus.pdf" target="_blank">
+    <i class="fa-solid fa-file-arrow-down"></i>Download
+  </a>
+  <div class="embed-container">
+    <iframe src="Documents/Syllabus/Syllabus.pdf" style="border: 0.5px" height="1000" width="800"></iframe>
+  </div>
+</details>
+```
 
 ## Fall 2025 Class Details
 
@@ -13,14 +39,14 @@ title: "Home"
 
 **Email:** jrojas2@uoregon.edu
 
-**Office Hours:** Day - Time in Office
+**Office Hours:** Tuesday - 09:00 - 11:00 am (PLC 525)
 :::
 
 ::: {.column width="50%"}
 
-**Class Location:** Classroom
+**Class Location:** Gerlinger 302
 
-**Class Day & Time:** Day(s) - Time
+**Class Day & Time:** Mon/Wed (12:00pm - 1:20pm)
 
 **Textbook/Readings:** [Check Here](Readings/list.qmd)
 :::
@@ -29,21 +55,31 @@ title: "Home"
 
 ### Course Grade Breakdown
 
-For more details, read the Syllabus above
+For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf){target="_blank"} above
 
 
-| Assignment   | Grade Weight  | 
-|:------------|:------------:|
-| Problem Sets (x5) | **25%** |
-| Quizzes (x4) | **10%** |
-| Midterm Exam | **30%** |
-| Final Exam | **30%** |
+|     Assignment    | Grade Weight | 
+|:-----------------:|:------------:|
+| Problem Sets (x4) |    **20%**   |
+| Quizzes (x4)      |    **10%**   |
+| Midterm Exam      |    **30%**   |
+| Final Project     |    **40%**   |
 
 
 ### Tentative Schedule
 
-| **Week** |  **Reading** |    **Topic**    | **Assignments** |
-
+| **Week** |  **Reading** |             **Topic**                |          **Assignments**        |
+|:--------:|:------------:|:------------------------------------:|:-------------------------------:|
+|    W01   |  Ch. 1 & 2   |         Growth & Development         |              Quiz 01            |
+|    W02   |  Ch. 3 & 4   |     Theories of Growth & Development |    PS 01 & Final Project Topic  |
+|    W03   |    Ch. 05    |         Poverty & Inequity           |              Quiz 02            |
+|    W04   |    Ch. 09    |     Agriculture & Rural Development  |          Problem Set 02         |
+|    W05   |    Ch. 06    |             Population               |         **Midterm Exam**        |
+|    W06   |    Ch. 07    | Urbanization & Rural-Urban Migration |         Annotated Biblio.       |
+|    W07   |    Ch. 08    |       Educatoin & Health             |          Problem Set 03         |
+|    W08   |    Ch. 11    |      Governance & Institutions       |         Quiz 03 & Outline       |
+|    W09   |  Ch. 12 & 14 |  Foreign Aid, Trade, & Globalization |          Problem Set 04         | 
+|    W10   |      --      |      Final Project Presentations     |         **Presentations**       |
 
 ## Acknowledgements
 
