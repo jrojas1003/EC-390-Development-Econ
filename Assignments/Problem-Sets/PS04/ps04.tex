@@ -1,0 +1,156 @@
+\documentclass[12pt]{exam}
+
+% ---------------------------------------------------
+% Page Layout
+% ---------------------------------------------------
+\usepackage{geometry}   % Flexible page dimensions
+\geometry{margin=1in, centering}
+
+% ---------------------------------------------------
+% Encoding and Fonts
+% ---------------------------------------------------
+\usepackage[utf8]{inputenc}   % Input encoding
+\usepackage[T1]{fontenc}      % Output font encoding
+\usepackage{lmodern}          % Latin Modern fonts (improves output)
+
+% ---------------------------------------------------
+% Tables and Columns
+% ---------------------------------------------------
+\usepackage{multicol}   % Multiple column environments
+\usepackage{multirow}   % Multi-row cells in tables
+\usepackage{booktabs}   % Better looking tables
+
+% ---------------------------------------------------
+% Graphics and Figures
+% ---------------------------------------------------
+\usepackage{graphicx}   % Include graphics
+\usepackage{caption}    % Customization of captions
+
+% ---------------------------------------------------
+% Text Styling
+% ---------------------------------------------------
+\usepackage{color}      % Color support
+\usepackage{soul}       % Highlighting, underlining, strikethrough, etc.
+
+% ---------------------------------------------------
+% Headers, Footers, and Symbols
+% ---------------------------------------------------
+\usepackage{lastpage}   % Reference last page in document
+\usepackage{bbding}     % Special symbols (checkmarks, etc.)
+\usepackage{pmboxdraw}  % Box drawing characters
+\usepackage{fontawesome} % Allows customization of icons 
+
+% ---------------------------------------------------
+% Section Formatting
+% ---------------------------------------------------
+\usepackage{titlesec}   % Customize section titles
+
+% ---------------------------------------------------
+% Hyperlinks and URLs
+% ---------------------------------------------------
+\usepackage{url}        % Simple URL typesetting
+\usepackage{hyperref}   % Clickable hyperlinks
+
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+  
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    citecolor=blue,
+}
+
+% ---------------------------------------------------
+% Multiple Choice Options 
+% ---------------------------------------------------
+\CorrectChoiceEmphasis{\color{red}\bfseries\itshape}
+
+% ---------------------------------------------------
+% Defines Header & Footer Content
+% ---------------------------------------------------
+% This is the name of the course (left header)
+\newcommand{\class}{\fontfamily{lmss} \textbf{EC 390}} 
+% This is the name of the assignment (center header)
+\newcommand{\examnum}{\fontfamily{lmss} \textbf{PS 01}} 
+% This is the due date (right header)
+\newcommand{\examdate}{\fontfamily{lmss} \textbf{January 15 at 01:59pm}} 
+
+% ---------------------------------------------------
+% Points Options
+% ---------------------------------------------------
+\addpoints              % Allows to add points up to include table at end of document
+\bracketedpoints        % Puts points per question inside brackets instead of parenthesis 
+
+% ---------------------------------------------------
+% Header & Footer Options
+% ---------------------------------------------------
+\pagestyle{headandfoot}         % Fancy equivalent for exam documentclass
+\firstpageheadrule              % Horizontal bar in first page
+\runningheadrule                % Horizontal bar in rest of pages
+
+% 1st page header content
+\firstpageheader{\class}{}{\fontfamily{lmss} Due \examdate} 
+% Rest of pages header content
+\runningheader{\class}{\examnum}{\fontfamily{lmss} Due \examdate} 
+
+% 1st page footer content
+\firstpagefooter{\fontfamily{lmss} Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} 
+% Rest of pages footer content
+\runningfooter{\fontfamily{lmss} Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} 
+
+% ---------------------------------------------------
+% Section Formatting & Options
+% ---------------------------------------------------
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+
+% ---------------------------------------------------
+% Body Begins
+% ---------------------------------------------------
+\begin{document}
+
+\fontfamily{lmss}\selectfont
+
+\begin{center}
+    \textbf{{\LARGE EC 390 Problem Set 04}} \\
+    \bigskip 
+\end{center}
+
+% ---------------------------------------------------
+% Instructions
+% ---------------------------------------------------
+\noindent \textbf{Instructions:} 
+Answers must be submitted online through the designated Canvas assignment in a \textbf{PDF file}.
+Any other file type is not allowed. 
+This Problem Set is due on \examdate.
+Please write as legible and clearly as possible. 
+You will not be given full credit if your answers cannot be easily understood. 
+
+% ---------------------------------------------------
+% Questions Begins
+% ---------------------------------------------------
+\section*{Questions}
+
+\begin{questions}
+    
+\question 
+Text here
+
+\begin{parts}
+    \part[5] Part 01
+    \part[10] Part 02
+\end{parts}
+
+
+\end{questions}
+
+\end{document}

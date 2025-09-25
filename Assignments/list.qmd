@@ -2,4 +2,51 @@
 title: Assignments
 ---
 
-## Assignment 01
+## Problem Sets
+
+### [PS 01]()
+
+::: {.callout-tip}
+### Submit to [Canvas](https://canvas.uoregon.edu/courses/274682){target="_blank"} on Date
+:::
+
+### PS 02
+
+### PS 03
+
+### PS 04
+
+## Quizzes
+
+### Quiz 01
+
+### Quiz 02
+
+### Quiz 03
+
+### Quiz 04
+
+::: {.callout-note}
+### Note
+This is a note.
+:::
+
+::: {.callout-tip}
+### Tip
+This is a tip.
+:::
+
+::: {.callout-important}
+### Important
+This is something important.
+:::
+
+::: {.callout-caution}
+### Caution
+This is a cautionary message.
+:::
+
+::: {.callout-warning}
+### Warning
+This is a warning message.
+:::
