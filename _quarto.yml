@@ -11,7 +11,7 @@ website:
   navbar:
     right:
       - href: Lectures/list.qmd 
-        text: Slides
+        text: Lectures
       - href: Readings/list.qmd
         text: Readings
       - href: Assignments/list.qmd
