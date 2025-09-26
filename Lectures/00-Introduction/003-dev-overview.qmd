@@ -89,3 +89,9 @@ My Dev Econ professor made it very easy to understand with the following:
 ## Now Let's Play a Game
 
 ![](images/saw-puppet.webp){fig-align="center"}
+
+---
+
+## Activity Groups
+
+![](images/Activity-Groups.png){fig-align="center"}
