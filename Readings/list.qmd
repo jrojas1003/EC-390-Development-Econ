@@ -6,9 +6,15 @@ name: Course Readings
 
 ### Economic Development - M. Todaro & S. Smith
 
-[Chapter 01 - Introducing Economic Development: A Global Perspective](Chapters/Economic-Development-13E/Econ-Dev-Ch1.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+---
 
+::: {.align-center}
+[Chapter 01 - Introducing Economic Development: A Global Perspective](Chapters/Economic-Development-13E/Econ-Dev-Ch1.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
+
+::: {.align-center}
 [Chapter 02 - Comparative Economic Development](Chapters/Economic-Development-13E/Econ-Dev-Ch2.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
 
 <!--
 [Chapter 03 - Classic Theories of Economic Growth and Development](Chapters/Economic-Development-13E/Econ-Dev-Ch3.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
@@ -31,3 +37,17 @@ name: Course Readings
 
 [Chapter 14 - Foreign Finance, Investment, Aid, and Conflict: Controversies and Opportunities](Chapters/Economic-Development-13E/Econ-Dev-Ch14.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 -->
+
+---
+
+### Development Microeconomics - P. Bardhan & C. Udry
+
+---
+
+### Poor Economics : A Radical Rethinking of the Way to Fight Global Poverty - A. Banarjee & E. Duflo
+
+---
+
+### The Elusive Quest for Growth - W. Easterly
+
+---
