@@ -4,49 +4,69 @@ title: Assignments
 
 ## Problem Sets
 
-### [PS 01]()
+[Problem Set 01 - Due Wednesday, October 08 @ 12:00pm]{.text-center .h .large} 
 
-::: {.callout-tip}
-### Submit to [Canvas](https://canvas.uoregon.edu/courses/274682){target="_blank"} on Date
+::: {.align-center}
+[PS01 Questions](Problem-Sets/PS01/ps01.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
+[Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916923){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
-### PS 02
+---
 
-### PS 03
+[Problem Set 02 - Due Wednesday, October 22 @ 12:00pm]{.text-center .h .large} 
 
-### PS 04
-
-## Quizzes
-
-### Quiz 01
-
-### Quiz 02
-
-### Quiz 03
-
-### Quiz 04
-
-::: {.callout-note}
-### Note
-This is a note.
+::: {.align-center}
+[PS02 Questions](Problem-Sets/PS02/ps02.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916927){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
-::: {.callout-tip}
-### Tip
-This is a tip.
+---
+
+[Problem Set 03 - Due Wednesday, November 12 @ 12:00pm]{.text-center .h .large} 
+
+::: {.align-center}
+[PS03 Questions](Problem-Sets/PS03/ps03.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916928){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
-::: {.callout-important}
-### Important
-This is something important.
+---
+
+[Problem Set 04 - Due Wednesday, November 26 @ 12:00pm]{.text-center .h .large} 
+
+::: {.align-center}
+[PS04 Questions](Problem-Sets/PS04/ps04.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916929){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
-::: {.callout-caution}
-### Caution
-This is a cautionary message.
+---
+
+## Quizzes 
+
+[Due October 01 @ 12:00pm]{.text-center .h .large}
+
+::: {.align-center}
+[Quiz 01](https://canvas.uoregon.edu/courses/274682/quizzes/413316){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
 :::
 
-::: {.callout-warning}
-### Warning
-This is a warning message.
+---
+
+[Due October 15 @ 12:00pm]{.text-center .h .large}
+
+::: {.align-center}
+[Quiz 02](https://canvas.uoregon.edu/courses/274682/quizzes/413321){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
 :::
+
+---
+
+[Due November 05 @ 12:00pm]{.text-center .h .large}
+
+::: {.align-center}
+[Quiz 03](https://canvas.uoregon.edu/courses/274682/quizzes/413322){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
+:::
+
+---
+
+[Due November 19 @ 12:00pm]{.text-center .h .large}
+
+::: {.align-center}
+[Quiz 04](https://canvas.uoregon.edu/courses/274682/quizzes/413323){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
+:::
+
+---
