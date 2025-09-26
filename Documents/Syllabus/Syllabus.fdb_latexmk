@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1758773030.02016 "/Users/joserojas/Documents/Teaching/EC 390 - Development/Documents/Syllabus/Syllabus.tex" "Syllabus.pdf" "Syllabus" 1758773030.49277 0
-  "/Users/joserojas/Documents/Teaching/EC 390 - Development/Documents/Syllabus/Syllabus.tex" 1758772847.75601 14281 864a873348dc826e8e316824d7fbfd7d ""
+["pdflatex"] 1758862286.85342 "/Users/joserojas/Documents/Teaching/EC390 - Development/Documents/Syllabus/Syllabus.tex" "Syllabus.pdf" "Syllabus" 1758862287.32965 0
+  "/Users/joserojas/Documents/Teaching/EC390 - Development/Documents/Syllabus/Syllabus.tex" 1758772847.75601 14281 864a873348dc826e8e316824d7fbfd7d ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1463430686 2679 32dd8ae231bf4a0752b98f62dc097183 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -123,10 +123,10 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1734939011 8221433 bb52dd08fc4036ad0c5bff34b43066ca ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "Class-Information.tex" 1757915592.52958 643 cb84df13f24f16b682b4359810dd7209 ""
-  "Course-Schedule.tex" 1758773029.80935 1433 612c155c4da66b627623929b407b977d ""
+  "Course-Schedule.tex" 1758862286.67391 1439 08db922354848ffcc7b820706c9f2752 ""
   "Grade-Distribution.tex" 1758142437.89179 357 3ec66d9157df302877c60b2f024dd150 ""
-  "Syllabus.aux" 1758773030.42655 515 da64db3a34f1039b1308384df8ed441a "pdflatex"
-  "Syllabus.out" 1758773030.29548 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "Syllabus.aux" 1758862287.26131 515 da64db3a34f1039b1308384df8ed441a "pdflatex"
+  "Syllabus.out" 1758862287.13122 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "Syllabus.tex" 1758772847.75601 14281 864a873348dc826e8e316824d7fbfd7d ""
   (generated)
   "Syllabus.aux"

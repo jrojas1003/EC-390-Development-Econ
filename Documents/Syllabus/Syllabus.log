@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  24 SEP 2025 21:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  25 SEP 2025 21:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/joserojas/Documents/Teaching/EC 390 - Development/Documents/Syllabus/Syllabus.tex"
-(/Users/joserojas/Documents/Teaching/EC 390 - Development/Documents/Syllabus/Syllabus.tex
+**"/Users/joserojas/Documents/Teaching/EC390 - Development/Documents/Syllabus/Syllabus.tex"
+(/Users/joserojas/Documents/Teaching/EC390 - Development/Documents/Syllabus/Syllabus.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -679,14 +679,14 @@ Package rerunfilecheck Info: File `Syllabus.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  13903 strings out of 474116
- 219767 string characters out of 5743681
+ 219764 string characters out of 5743681
  1939187 words of memory out of 5000000
  36042 multiletter control sequences out of 15000+600000
  605348 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,10n,67p,363b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,10n,67p,362b,564s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Syllabus.pdf (5 pages, 188292 bytes).
+Output written on Syllabus.pdf (5 pages, 188287 bytes).
 PDF statistics:
  94 PDF objects out of 1000 (max. 8388607)
  66 compressed objects within 1 object stream
