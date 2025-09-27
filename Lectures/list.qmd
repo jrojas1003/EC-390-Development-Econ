@@ -2,13 +2,14 @@
 title: Lectures
 ---
 
-## Introduction
+## Introduction 
 
+[Expand Slides](00-Introduction/000-compile.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+
+::: {.align-center}
 ```{=html}
   <div class="embed-container">
     <iframe class="slide deck" src="00-Introduction/000-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
   </div>
-  <a class="btn btn-primary btn-lg cv-download" href="00-Introduction/000-compile.qmd" target="_blank">
-    <i class="fa-solid fa-file-arrow-down"></i>Expand
-  </a>
 ```
+:::
