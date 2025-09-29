@@ -24,3 +24,25 @@ title-slide-attributes:
 # Development Economics Overview {.inverse .note}
 
 {{< include 003-dev-overview.qmd >}}
+
+## Game Set-Up
+
+There are [10 countries]{.h} made up of 8 members each
+
+- Each country is tasked with producing as much as they possibly can
+- Each country is given an envelope with resources to produce paper shapes
+- Each shape has its own value and are "sold" in the market for a wealth transfer (This will happen outside of class)
+
+--- 
+
+## Instructions
+
+- No outside materials may be used
+- Each shape must be of [EXACT]{.hp} length/width/height as the instructions indicate
+- Each shape [MUST BE CUT WITH SCISSORS]{.hp}
+
+- Failure to meet quality standards set above will result in the shape being discarded
+
+<br>
+
+> [Note:]{.hp} Shapes with distruted [stickers]{.hp} are worth more!
