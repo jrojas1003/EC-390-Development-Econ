@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -135,6 +164,116 @@ ul.task-list li input[type="checkbox"] {
 <li>High-income countries are <span class="hp">“pulling away”</span></li>
 </ul></li>
 </ul>
+</div>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/divergence-ex.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="relative-vs-absolute-convergence" class="level2">
+<h2 class="anchored" data-anchor-id="relative-vs-absolute-convergence">Relative vs Absolute Convergence</h2>
+<ul>
+<li><span class="hi">Relative Convergence:</span> Are developed countries growing at a faster rate than developed countries?</li>
+</ul>
+<div class="fragment">
+<ul>
+<li>It is easier to grow at lower levels of wealth</li>
+<li>There are higher returns to small increases in productivity, wealth, etc.</li>
+<li>Because of this, the <span class="hi">relative gap</span> between developing and developed countries would shrink</li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>Poorer countries are cathing up, but not necessarily matching richer countries</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="relative-vs-absolute-convergence-1" class="level2">
+<h2 class="anchored" data-anchor-id="relative-vs-absolute-convergence-1">Relative vs Absolute Convergence</h2>
+<ul>
+<li><span class="hi">Absolute Convergence:</span> Is the <span class="h">absolute gap</span> between developing and developed countries shrinking?</li>
+</ul>
+<div class="fragment">
+<ul>
+<li>Even if incomes are growing at a faster rate in poorer countries, <span class="hi">real incomes</span> could be increasing more in developed countries</li>
+<li>Developed countries would remain ahead</li>
+<li><span class="hi">Absolute convergence</span> implies that they will equalize at some point
+<ul>
+<li>Highly unlikely to happen</li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>It is possible to have relative convergence without absolute convergence</li>
+<li>However, if there is absolute convergence, then there will be relative convergence as well</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="calculating-convergence" class="level2">
+<h2 class="anchored" data-anchor-id="calculating-convergence">Calculating Convergence</h2>
+<p>We will use incomes to measure convergence (not perfect but it does the job). Additionally, we will look at growth rates of incomes.</p>
+<div class="fragment">
+<ul>
+<li>Say that we have two countries, A and B.</li>
+</ul>
+<div class="columns">
+<div class="column" style="width:60%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/convergence-ex.png" class="quarto-figure quarto-figure-center figure-img" width="700" height="400"></p>
+</figure>
+</div>
+</div><div class="column" style="width:40%;">
+<div class="fragment small">
+<p><span class="hi align-center">Measure growth as:</span></p>
+<p><span class="math display">\[\begin{align*}
+    \text{Growth Rate} = \dfrac{\text{New} - \text{Old}}{\text{Old}}
+\end{align*}\]</span></p>
+</div>
+<div class="fragment small">
+<p><span class="hi align-center">Country A</span> <span class="math display">\[\begin{align*}
+    \text{Growth Rate} = 41.6\%
+\end{align*}\]</span></p>
+</div>
+<div class="fragment small">
+<p><span class="hi align-center">Country B</span> <span class="math display">\[\begin{align*}
+    \text{Growth Rate} = 11.11\%
+\end{align*}\]</span></p>
+</div>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="graphical-example" class="level2">
+<h2 class="anchored" data-anchor-id="graphical-example">Graphical Example</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/convergence-img.png" class="quarto-figure quarto-figure-center figure-img" height="550"></p>
+</figure>
+</div>
+</div><div class="column" style="width:40%;">
+<div class="incremental tiny vertical-center">
+<ul class="incremental">
+<li>Average incomes in South Asia and China are growing at a <span class="hi">faster rate</span> than those in high-income OECD countries (56% and 196% vs 24%)
+<ul class="incremental">
+<li>There is evidence of <span class="hi-green">relative country convergence</span></li>
+</ul></li>
+<li>The <span class="hi">absolute increase in incomes</span> is lower in South Asia and China than in high-income OECD countries (About $1,000 and $2,500 vs $4,000)
+<ul class="incremental">
+<li>This is evidence <span class="hp">against</span> <span class="hi">absolute country convergence</span></li>
+</ul></li>
+</ul>
+</div>
+</div>
 </div>
 
 

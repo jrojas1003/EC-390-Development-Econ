@@ -63,6 +63,34 @@
     "text": "Are living standards in developing countries converging to developed countries? Or diverging?\n\n\nConvergence: Tendency for per capita income (or output) to grow faster in lower-income countries than in higher-income countries\n\nLow-income countries are “catching up”\n\nDivergence: A tendency of per capita income (or output) to grow faster in higher-income countries than in lower-income countries\n\nHigh-income countries are “pulling away”"
   },
   {
+    "objectID": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#relative-vs-absolute-convergence",
+    "href": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#relative-vs-absolute-convergence",
+    "title": "EC 390 - Development Econ",
+    "section": "Relative vs Absolute Convergence",
+    "text": "Relative vs Absolute Convergence\n\nRelative Convergence: Are developed countries growing at a faster rate than developed countries?\n\n\n\nIt is easier to grow at lower levels of wealth\nThere are higher returns to small increases in productivity, wealth, etc.\nBecause of this, the relative gap between developing and developed countries would shrink\n\n\n\n\nPoorer countries are cathing up, but not necessarily matching richer countries"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#relative-vs-absolute-convergence-1",
+    "href": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#relative-vs-absolute-convergence-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Relative vs Absolute Convergence",
+    "text": "Relative vs Absolute Convergence\n\nAbsolute Convergence: Is the absolute gap between developing and developed countries shrinking?\n\n\n\nEven if incomes are growing at a faster rate in poorer countries, real incomes could be increasing more in developed countries\nDeveloped countries would remain ahead\nAbsolute convergence implies that they will equalize at some point\n\nHighly unlikely to happen\n\n\n\n\n\nIt is possible to have relative convergence without absolute convergence\nHowever, if there is absolute convergence, then there will be relative convergence as well"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#calculating-convergence",
+    "href": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#calculating-convergence",
+    "title": "EC 390 - Development Econ",
+    "section": "Calculating Convergence",
+    "text": "Calculating Convergence\nWe will use incomes to measure convergence (not perfect but it does the job). Additionally, we will look at growth rates of incomes.\n\n\nSay that we have two countries, A and B.\n\n\n\n\n\n\n\n\n\n\nMeasure growth as:\n\\[\\begin{align*}\n    \\text{Growth Rate} = \\dfrac{\\text{New} - \\text{Old}}{\\text{Old}}\n\\end{align*}\\]\n\n\nCountry A \\[\\begin{align*}\n    \\text{Growth Rate} = 41.6\\%\n\\end{align*}\\]\n\n\nCountry B \\[\\begin{align*}\n    \\text{Growth Rate} = 11.11\\%\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#graphical-example",
+    "href": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#graphical-example",
+    "title": "EC 390 - Development Econ",
+    "section": "Graphical Example",
+    "text": "Graphical Example\n\n\n\n\n\n\n\n\n\n\nAverage incomes in South Asia and China are growing at a faster rate than those in high-income OECD countries (56% and 196% vs 24%)\n\nThere is evidence of relative country convergence\n\nThe absolute increase in incomes is lower in South Asia and China than in high-income OECD countries (About $1,000 and $2,500 vs $4,000)\n\nThis is evidence against absolute country convergence"
+  },
+  {
     "objectID": "Lectures/01-Growth-and-Dev/016-hdi.html",
     "href": "Lectures/01-Growth-and-Dev/016-hdi.html",
     "title": "EC 390 - Development Econ",
@@ -182,6 +210,34 @@
     "text": "Latest Shifts"
   },
   {
+    "objectID": "Lectures/01-Growth-and-Dev/012-women.html",
+    "href": "Lectures/01-Growth-and-Dev/012-women.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "There is a disturbing phenomenon that occurs with women in the world\nFemale-headed households are more prevalent yet:\n\n\nYet they are more likely to be poor and malnourished\nAnd Less likely to receive medical care, clean water, sanitation, and other basic needs\nLess likely to attain education\nLess likely to have a job\nAnd all while providing childcare and household management\n\n\n\n\nLet’s add to this income disparity between men and women for the same work"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/012-women.html#women-and-poverty",
+    "href": "Lectures/01-Growth-and-Dev/012-women.html#women-and-poverty",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "There is a disturbing phenomenon that occurs with women in the world\nFemale-headed households are more prevalent yet:\n\n\nYet they are more likely to be poor and malnourished\nAnd Less likely to receive medical care, clean water, sanitation, and other basic needs\nLess likely to attain education\nLess likely to have a job\nAnd all while providing childcare and household management\n\n\n\n\nLet’s add to this income disparity between men and women for the same work"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/012-women.html#women-and-poverty-1",
+    "href": "Lectures/01-Growth-and-Dev/012-women.html#women-and-poverty-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Women and Poverty",
+    "text": "Women and Poverty\nA very naïve thought might be that the “markets are rewarding productivity”\n\n\nThis would largely ignore historical institutions which purposefully limit women’s participation in the market\nSocial norms or legislation often prohibit women from owning property or signing financial contracts without their husband’s signature\nA large proportion of women’s work in the home is not renumerated, so it is incorrectly thought to be as unproductive\n\n\n\n\nImportantly, there has been studies that have found that where women’s share of income within the home is relatively high, there is less discrimination against girls and women are better able to meet their own needs and those of their children"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/012-women.html#women-and-the-informal-sector",
+    "href": "Lectures/01-Growth-and-Dev/012-women.html#women-and-the-informal-sector",
+    "title": "EC 390 - Development Econ",
+    "section": "Women and the Informal Sector",
+    "text": "Women and the Informal Sector\nThey often make up the bulk of the informal-sector labor supply\n\n\nThis form of work comes with:\n\nLow wages\nUnstable jobs\nNo social or employee benefits\nLess than desirable working conditions"
+  },
+  {
     "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#people-live-differently",
     "href": "Lectures/01-Growth-and-Dev/010-compile.html#people-live-differently",
     "title": "Introduction and Overview",
@@ -236,6 +292,27 @@
     "title": "Introduction and Overview",
     "section": "Movement Across Strata",
     "text": "Movement Across Strata\nIt is possible to move across strata, but the probabilities are usually low\n\n\nUsually movements will occur within levels, where individuals gain greater relative wealth\nInterestingly enough, the lower strata are generally aware of what life is within the higher levels.\nThe opposite is not necessarily true"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#women-and-poverty",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#women-and-poverty",
+    "title": "Introduction and Overview",
+    "section": "Women and Poverty",
+    "text": "Women and Poverty\nThere is a disturbing phenomenon that occurs with women in the world\nFemale-headed households are more prevalent yet:\n\n\nYet they are more likely to be poor and malnourished\nAnd Less likely to receive medical care, clean water, sanitation, and other basic needs\nLess likely to attain education\nLess likely to have a job\nAnd all while providing childcare and household management\n\n\n\n\nLet’s add to this income disparity between men and women for the same work"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#women-and-poverty-1",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#women-and-poverty-1",
+    "title": "Introduction and Overview",
+    "section": "Women and Poverty",
+    "text": "Women and Poverty\nA very naïve thought might be that the “markets are rewarding productivity”\n\n\nThis would largely ignore historical institutions which purposefully limit women’s participation in the market\nSocial norms or legislation often prohibit women from owning property or signing financial contracts without their husband’s signature\nA large proportion of women’s work in the home is not renumerated, so it is incorrectly thought to be as unproductive\n\n\n\n\nImportantly, there has been studies that have found that where women’s share of income within the home is relatively high, there is less discrimination against girls and women are better able to meet their own needs and those of their children"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#women-and-the-informal-sector",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#women-and-the-informal-sector",
+    "title": "Introduction and Overview",
+    "section": "Women and the Informal Sector",
+    "text": "Women and the Informal Sector\nThey often make up the bulk of the informal-sector labor supply\n\n\nThis form of work comes with:\n\nLow wages\nUnstable jobs\nNo social or employee benefits\nLess than desirable working conditions"
   },
   {
     "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#sustainable-development-goals",
@@ -481,6 +558,41 @@
     "title": "Introduction and Overview",
     "section": "Convergence and Divergence of Countries",
     "text": "Convergence and Divergence of Countries\nAre living standards in developing countries converging to developed countries? Or diverging?\n\n\nConvergence: Tendency for per capita income (or output) to grow faster in lower-income countries than in higher-income countries\n\nLow-income countries are “catching up”\n\nDivergence: A tendency of per capita income (or output) to grow faster in higher-income countries than in lower-income countries\n\nHigh-income countries are “pulling away”"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#relative-vs-absolute-convergence",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#relative-vs-absolute-convergence",
+    "title": "Introduction and Overview",
+    "section": "Relative vs Absolute Convergence",
+    "text": "Relative vs Absolute Convergence\n\nRelative Convergence: Are developed countries growing at a faster rate than developed countries?\n\n\n\nIt is easier to grow at lower levels of wealth\nThere are higher returns to small increases in productivity, wealth, etc.\nBecause of this, the relative gap between developing and developed countries would shrink\n\n\n\n\nPoorer countries are cathing up, but not necessarily matching richer countries"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#relative-vs-absolute-convergence-1",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#relative-vs-absolute-convergence-1",
+    "title": "Introduction and Overview",
+    "section": "Relative vs Absolute Convergence",
+    "text": "Relative vs Absolute Convergence\n\nAbsolute Convergence: Is the absolute gap between developing and developed countries shrinking?\n\n\n\nEven if incomes are growing at a faster rate in poorer countries, real incomes could be increasing more in developed countries\nDeveloped countries would remain ahead\nAbsolute convergence implies that they will equalize at some point\n\nHighly unlikely to happen\n\n\n\n\n\nIt is possible to have relative convergence without absolute convergence\nHowever, if there is absolute convergence, then there will be relative convergence as well"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#calculating-convergence",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#calculating-convergence",
+    "title": "Introduction and Overview",
+    "section": "Calculating Convergence",
+    "text": "Calculating Convergence\nWe will use incomes to measure convergence (not perfect but it does the job). Additionally, we will look at growth rates of incomes.\n\n\nSay that we have two countries, A and B.\n\n\n\n\n\n\n\n\n\n\nMeasure growth as:\n\\[\\begin{align*}\n    \\text{Growth Rate} = \\dfrac{\\text{New} - \\text{Old}}{\\text{Old}}\n\\end{align*}\\]\n\n\nCountry A \\[\\begin{align*}\n    \\text{Growth Rate} = 41.6\\%\n\\end{align*}\\]\n\n\nCountry B \\[\\begin{align*}\n    \\text{Growth Rate} = 11.11\\%\n\\end{align*}\\]"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#graphical-example",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#graphical-example",
+    "title": "Introduction and Overview",
+    "section": "Graphical Example",
+    "text": "Graphical Example\n\n\n\n\n\n\n\n\n\n\nAverage incomes in South Asia and China are growing at a faster rate than those in high-income OECD countries (56% and 196% vs 24%)\n\nThere is evidence of relative country convergence\n\nThe absolute increase in incomes is lower in South Asia and China than in high-income OECD countries (About $1,000 and $2,500 vs $4,000)\n\nThis is evidence against absolute country convergence"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#causes-of-development",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#causes-of-development",
+    "title": "Introduction and Overview",
+    "section": "Causes of Development",
+    "text": "Causes of Development\nSo far we have focused on the differences between the developing and developed world\n\nWe are also interested in how countries progress through stages of economic development\n\n\n\nUsually starts with geography/climate/natural resources\nWhich leads to institutions forming\nWhich leads to socioeconomic conditions\nWhich leads to development\n\n\n\nIn reality it is very messy, since countries do not exist in isolation are subject to international interactions"
   },
   {
     "objectID": "Lectures/00-Introduction/002-syllabus.html",
@@ -1048,6 +1160,20 @@
     "title": "EC 390 - Development Econ",
     "section": "Developed vs Developing Countries",
     "text": "Developed vs Developing Countries\n\nUnfortunately, developed countries are not always a good template of growth\nHistorically, nations that are ahead got there through a not-so-great reason\nHowever, given globalization and stronger international market participation growth is normalizing in the world"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/019-long-run-causes.html",
+    "href": "Lectures/01-Growth-and-Dev/019-long-run-causes.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "So far we have focused on the differences between the developing and developed world\n\nWe are also interested in how countries progress through stages of economic development\n\n\n\nUsually starts with geography/climate/natural resources\nWhich leads to institutions forming\nWhich leads to socioeconomic conditions\nWhich leads to development\n\n\n\nIn reality it is very messy, since countries do not exist in isolation are subject to international interactions"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/019-long-run-causes.html#causes-of-development",
+    "href": "Lectures/01-Growth-and-Dev/019-long-run-causes.html#causes-of-development",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "So far we have focused on the differences between the developing and developed world\n\nWe are also interested in how countries progress through stages of economic development\n\n\n\nUsually starts with geography/climate/natural resources\nWhich leads to institutions forming\nWhich leads to socioeconomic conditions\nWhich leads to development\n\n\n\nIn reality it is very messy, since countries do not exist in isolation are subject to international interactions"
   },
   {
     "objectID": "Readings/list.html",
