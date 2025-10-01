@@ -1,0 +1,170 @@
+---
+name: purchasing power parity
+---
+
+## A Less Imperfect Way to Compare Countries
+
+[Enter Purchasing Power Parity (PPP)]{.hi}
+
+::: {.fragment}
+- Calculates GNI using a common set of international prices for all goods and services
+    - Main idea: Create a basket of goods needed to live {{< fa arrow-right >}} Calculate price in each country and create an index
+:::
+
+::: {.fragment}
+[What could be a problem with this?]{.hi .align-center}
+:::
+
+::: {.fragment}
+- The goods that make up the basket may be subjective
+:::
+
+---
+
+## How To Think About PPP?
+
+[PPP]{.hi} adjusts the fact that [the same amount of money buys very different baskets]{.hp} of goods in different countries
+
+It helps "equalize" incomes across nations, otherwise we get:
+
+::: {.fragment .small}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Without PPP]{.hi .align-center}
+
+::: {.fragment}
+- [Person A]{.h} earns $10,000 in Costa Rica
+- [Person B]{.hi-teal} earns $20,000 in the US
+
+[You'd say that]{.hi} [Person A]{.h} is poorer than [Person B]{.hi-teal}
+:::
+
+:::
+
+::: {.column width="50%"}
+[With PPP]{.hi .align-center}
+
+::: {.incremental}
+- Say prices are half as high in Costa Rica than in the US
+- Then $10,000 in Costa Rica gives the same [purchasing power]{.hi} as $20,000 in the US
+:::
+
+:::
+
+::::
+
+:::
+
+::: {.fragment}
+> If you ever need to do a quick calculation in a different country, find out how much a Big Mac costs
+:::
+
+---
+
+## PPP Example
+
+Let the basket of goods be: [a toothbrush]{.hi}
+
+- Price of [a toothbrush]{.hi} in the US: 1 USD
+- Price of [a toothbrush]{.hi} in Mexico: 0.80 MXN
+
+::: {.fragment}
+We can find the "Exchange Rate" by:
+
+\begin{align*}
+    PPP_{US,MEX} = \dfrac{Cost_{US}}{Cost_{MEX}} = \dfrac{1}{0.8} = 1.25
+\end{align*}
+:::
+
+::: {.fragment}
+- This means that 1 MEX is worth approx. 1.25 USD
+
+- Now that we know that, we can compare GNIs
+:::
+
+---
+
+## PPP Example
+
+Let Mexico GNI per capita be 40,284 MXN.
+
+We found that $PPP_{US,MEX} = 1.25$
+
+Then we have:
+
+::: {.fragment}
+\begin{align*}
+    GNI_{MEX} \times PPP_{US,MEX} = 40,284 \times 1.25 = 50,355
+\end{align*}
+
+Mexico's GNI per capita is equivalent to 50,355 USD
+:::
+
+::: {.fragment}
+> But this is [conditional on the basket of goods]{.hp} we consider
+:::
+
+---
+
+## PPP Example 2
+
+Now we have two goods, so we create a [price index]{.hi}
+
+::: {.incremental}
+- Consider a basket made up of a toothbrush and toothpaste
+- Price of a toothbrush in the US is 2 USD
+- Price of a toothbrush in Mexico is 2 USD
+:::
+
+::: {.fragment}
+Then the basket of goods in the US would be $1 \, USD + 2 \, USD = 3 \, USD$
+
+A basket of goods in Mexico would be $0.80 \, MXN + 2 \, MXN = 2.8 \, MXN$
+:::
+
+::: {.fragment}
+\begin{align*}
+    PPP_{US,MEX} = \dfrac{Cost_{US}}{Cost_{MEX}} = \dfrac{3}{2.8} \approx 1.07
+\end{align*}
+:::
+
+::: {.fragment}
+So, under this new basket of goods, Mexican GNI would be equal to how many USD? [$43,104]{.fragment .hi}
+:::
+
+---
+
+## Defining Development
+
+So far we have only touched on [one possible way to measure a country's development]{.hi}
+
+We believe that income is typically a good indicator for other signals about well-being, but it is not perfect
+
+We can also consider other [objective measures]{.hi} for development:
+
+::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Infant/child mortality
+- Mother/child health
+- Life expectancy
+- Disease prevalence
+:::
+
+::: {.column width="50%"}
+- Primary school completion rates
+- Literacy rates
+- Gender differences within rates
+:::
+
+::::
+
+:::
+
+::: {.fragment}
+So we can think of a more comprehensive way to measure development
+:::

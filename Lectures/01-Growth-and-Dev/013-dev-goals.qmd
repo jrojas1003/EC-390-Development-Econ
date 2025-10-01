@@ -1,0 +1,46 @@
+---
+name: development goals
+---
+
+## 17 Sustainable Development Goals
+
+In 2015, the UN adopted [17 Development Goals]{.hi} to be achieved by 2030.
+
+::: {.fragment}
+> [We are determined to end poverty and hunger, in all their forms and dimensions, and to ensure that all human beings can fulfil their potential in dignity and equality and in a healthy environment.]{.note}
+:::
+
+::: {.fragment}
+There are three underlying principles that guides them:
+
+::: {.incremental}
+- Universality principle {{< fa arrow-right >}} Apply to every nation
+- Integration principle {{< fa arrow-right >}} There are interrelationships to consider between goals
+- Transformation principle {{< fa arrow-right >}} Not sufficient to half-ass it
+:::
+
+:::
+
+---
+
+## 17 Sustainable Development Goals
+
+![](images/sdg.jpg){fig-align="center"}
+
+---
+
+## Critique of Goals
+
+They are not perfect by any measure.
+
+One of my personal critiques is that it unfortunately relies on humans, but other than that we have:
+
+::: {.fragment}
+- Goals may not be prioritised 
+- Too broad goals and difficult to address them all at once
+- Trade-offs exist and some goals may be contradictory
+    - Economic growth (Goal 8 and 9) may require environmental sacrifices (Goal 13 and 15)
+- Lack of binding agreements
+    - This is a general problem with everything the UN does
+- Different access to resources across the globe
+:::

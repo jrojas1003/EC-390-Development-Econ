@@ -1,0 +1,92 @@
+---
+name: human development index
+---
+
+## Defining Development
+
+Recall we have a large list of factors to possibly consider when measuring development
+
+- What if a country has a [high life expectancy but low literacy]{.hi-green}? How can we compare that country with [high literacy but low life expectancy]{.hp}?
+
+::: {.fragment}
+We can then consider using the [Human Development Index (HDI)]{.hi}
+
+::: {.incremental}
+- This measures the national socioeconomic development by combining education, health, and adjusted real income per capita
+- It goes from 0 (lowest human development) to 1 (highest human development)
+:::
+
+:::
+
+---
+
+## How is HDI Measured?
+
+Since there are [three separate components]{.hi}, we first have to measure those.
+
+Thankfully it is not complicated
+
+::: {.fragment}
+Each component is calculated as a ratio given by the [distance above the minimum to the maximum]{.h} level that a country has achieved
+
+\begin{align*}
+    \text{Dimension Index} = \; \dfrac{\text{Actual Value} - \text{Min Value}}{\text{Max Value} - \text{Min Value}}
+\end{align*}
+:::
+
+::: {.fragment}
+The dimensions used are:
+
+- Health {{< fa arrow-right >}} Life Expectancy 
+- Education {{< fa arrow-right >}} Average Years of Schooling & Expected Years of Schooling
+- Income {{< fa arrow-right >}} PPP adjusted per capita GNI
+:::
+
+---
+
+## How is HDI Measured?
+
+Once we have these values, we calculate the [HDI]{.hi} using a [geometric mean]{.hi}
+
+- This allows for imperfect substitution between the factors when measuring economic development of countries
+
+::: {.fragment}
+- The formula is then:
+
+\begin{align*}
+    HDI = H^{1/3}E^{1/3}I^{1/3} 
+\end{align*}
+
+Where:
+
+[$H =$ Health Index $\;\;\;\;\; E =$ Education Index $\;\;\;\;\; I =$ Income Index]{.align-center}
+:::
+
+---
+
+## HDI - Interpreting the Value
+
+After having obtained all [3 individual indices]{.hi} and calculated the [HDI]{.hi}, we get a number between 0 and 1
+
+The most recent classifications are:
+
+::: {.fragment}
+- Low Human Development (< 0.550)
+- Medium Human Development (0.550 - 0.699)
+- High Human Development (0.700 - 0.799)
+- Very High Human Development ($\geq$ 0.800)
+:::
+
+[UNDP Website](https://hdr.undp.org/data-center/human-development-index#/indicies/HDI){.align-center}
+
+---
+
+## HDI Through Time
+
+![](images/HDI-trends.png){fig-align="center"}
+
+---
+
+## HDI Snapshot
+
+![](images/HDI-global.png){fig-align="center"}

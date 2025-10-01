@@ -1,0 +1,57 @@
+---
+name: women
+---
+
+## Women and Poverty
+
+There is a disturbing phenomenon that occurs with women in the world
+
+Female-headed households are more prevalent yet:
+
+::: {.incremental}
+- Yet they are more likely to be poor and malnourished
+- And Less likely to receive medical care, clean water, sanitation, and other basic needs
+- Less likely to attain education
+- Less likely to have a job 
+- And all while providing childcare and household management
+:::
+
+::: {.fragment}
+- Let's add to this income disparity between men and women for the same work
+:::
+
+---
+
+## Women and Poverty
+
+A very naïve thought might be that the "markets are rewarding productivity"
+
+::: {.fragment}
+- This would largely ignore historical institutions which purposefully limit women's participation in the market
+- Social norms or legislation often prohibit women from owning property or signing financial contracts without their husband's signature
+- A large proportion of women's work in the home is not renumerated, so it is [incorrectly]{.hp} thought to be as unproductive
+:::
+
+::: {.fragment}
+- Importantly, there has been studies that have found that where women's share of income within the home is relatively high, there is less discrimination against girls and women are better able to meet their own needs and those of their children
+:::
+
+---
+
+## Women and the Informal Sector
+
+They often make up the bulk of the informal-sector labor supply
+
+::: {.vertical-center}
+- This form of work comes with:
+    - Low wages
+    - Unstable jobs
+    - No social or employee benefits
+    - Less than desirable working conditions
+:::
+
+---
+
+## 
+
+![](images/gender-gap-1.png){fig-align="center"}

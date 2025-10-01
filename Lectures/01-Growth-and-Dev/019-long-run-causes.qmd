@@ -1,0 +1,24 @@
+---
+name: long run causes
+---
+
+## Causes of Development
+
+So far we have focused on the differences between the developing and developed world
+
+- We are also interested in how countries progress through stages of economic development
+
+::: {.incremental}
+- Usually starts with geography/climate/natural resources
+- Which leads to institutions forming
+- Which leads to socioeconomic conditions
+- Which leads to development
+:::
+
+::: {.fragment}
+In reality it is very messy, since countries do not exist in isolation are subject to international interactions
+:::
+
+---
+
+![](images/Theories-of-Dev.png){fig-align="center"}

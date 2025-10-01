@@ -1,0 +1,118 @@
+---
+name: convergence and divergence
+---
+
+## Convergence and Divergence of Countries
+
+Are living standards in developing countries [converging]{.hi-green} to developed countries?
+Or [diverging]{.hp}?
+
+::: {.incremental}
+- [Convergence:]{.hi-green} Tendency for per capita income (or output) to grow faster in lower-income countries than in higher-income countries
+    - Low-income countries are ["catching up"]{.hi-green}
+- [Divergence:]{.hp} A tendency of per capita income (or output) to grow faster in higher-income countries than in lower-income countries
+    - High-income countries are ["pulling away"]{.hp}
+:::
+
+---
+
+![](images/divergence-ex.png){fig-align="center"}
+
+---
+
+## Relative vs Absolute Convergence
+
+- [Relative Convergence:]{.hi} Are developed countries growing at a faster rate than developed countries?
+
+::: {.fragment}
+- It is easier to grow at lower levels of wealth
+- There are higher returns to small increases in productivity, wealth, etc.
+- Because of this, the [relative gap]{.hi} between developing and developed countries would shrink
+:::
+
+::: {.fragment}
+- Poorer countries are cathing up, but not necessarily matching richer countries
+:::
+
+---
+
+## Relative vs Absolute Convergence
+
+- [Absolute Convergence:]{.hi} Is the [absolute gap]{.h} between developing and developed countries shrinking?
+
+::: {.fragment}
+- Even if incomes are growing at a faster rate in poorer countries, [real incomes]{.hi} could be increasing more in developed countries
+- Developed countries would remain ahead
+- [Absolute convergence]{.hi} implies that they will equalize at some point 
+    - Highly unlikely to happen
+:::
+
+::: {.fragment}
+- It is possible to have relative convergence without absolute convergence
+- However, if there is absolute convergence, then there will be relative convergence as well
+:::
+
+---
+
+## Calculating Convergence
+
+We will use incomes to measure convergence (not perfect but it does the job).
+Additionally, we will look at growth rates of incomes.
+
+::: {.fragment}
+- Say that we have two countries, A and B.
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/convergence-ex.png){fig-align="center" height="400px" width="700px"}
+:::
+
+::: {.column width="40%"}
+::: {.fragment .small}
+[Measure growth as:]{.hi .align-center}
+
+\begin{align*}
+    \text{Growth Rate} = \dfrac{\text{New} - \text{Old}}{\text{Old}}
+\end{align*}
+:::
+
+::: {.fragment .small}
+[Country A]{.hi .align-center}
+\begin{align*}
+    \text{Growth Rate} = 41.6\%
+\end{align*}
+:::
+
+::: {.fragment .small}
+[Country B]{.hi .align-center}
+\begin{align*}
+    \text{Growth Rate} = 11.11\%
+\end{align*}
+:::
+:::
+
+::::
+
+:::
+
+---
+
+## Graphical Example
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](images/convergence-img.png){fig-align="center" height="550px"}
+:::
+
+::: {.column width="40%"}
+::: {.incremental .tiny .vertical-center}
+- Average incomes in South Asia and China are growing at a [faster rate]{.hi} than those in high-income OECD countries (56% and 196% vs 24%)
+    - There is evidence of [relative country convergence]{.hi-green}
+- The [absolute increase in incomes]{.hi} is lower in South Asia and China than in high-income OECD countries (About $1,000 and $2,500 vs $4,000)
+    - This is evidence [against]{.hp} [absolute country convergence]{.hi}
+:::
+:::
+
+::::

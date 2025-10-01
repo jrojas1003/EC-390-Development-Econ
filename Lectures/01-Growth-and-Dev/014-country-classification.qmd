@@ -1,0 +1,124 @@
+---
+name: classifying levels and GNI
+---
+
+## How Can We Classify Nations?
+
+An imperfect way we use is by their [GNI per capita]{.hi} levels
+
+This creates 4 classifications:
+
+::: {.fragment}
+- [_Low-Income Countries (LICs)_]{.hi .note}
+- [_Lower-Middle-Income Countries (LMCs)_]{.hi .note}
+- [_Upper-Middle-Income Countries (UMCs)_]{.hi .note}
+- [_High-Income Countries (HICs)_]{.hi .note}
+:::
+
+---
+
+## How Can We Classify Nations?
+
+An imperfect way we use is by their [GNI per capita]{.hi} levels
+
+This creates 4 classifications:
+
+- [_Low-Income Countries (LICs)_]{.hi .note}
+
+Countries with a [GNI per capita less than $1,135]{.hp} in 2024
+
+- [_Lower-Middle-Income Countries (LMCs)_]{.hi .note}
+- [_Upper-Middle-Income Countries (UMCs)_]{.hi .note}
+- [_High-Income Countries (HICs)_]{.hi .note}
+
+---
+
+## How Can We Classify Nations?
+
+An imperfect way we use is by their [GNI per capita]{.hi} levels
+
+This creates 4 classifications:
+
+- [_Low-Income Countries (LICs)_]{.hi .note}
+- [_Lower-Middle-Income Countries (LMCs)_]{.hi .note}
+
+Countries with a [GNI per capita between $1,136 and $4,495]{.hp} in 2024
+
+- [_Upper-Middle-Income Countries (UMCs)_]{.hi .note}
+- [_High-Income Countries (HICs)_]{.hi .note}
+
+---
+
+## How Can We Classify Nations?
+
+An imperfect way we use is by their [GNI per capita]{.hi} levels
+
+This creates 4 classifications:
+
+- [_Low-Income Countries (LICs)_]{.hi .note}
+- [_Lower-Middle-Income Countries (LMCs)_]{.hi .note}
+- [_Upper-Middle-Income Countries (UMCs)_]{.hi .note}
+
+Countries with a [GNI per capita between $4,496 and $13,935]{.hp} in 2024
+
+- [_High-Income Countries (HICs)_]{.hi .note}
+
+---
+
+## How Can We Classify Nations?
+
+An imperfect way we use is by their [GNI per capita]{.hi} levels
+
+This creates 4 classifications:
+
+- [_Low-Income Countries (LICs)_]{.hi .note}
+- [_Lower-Middle-Income Countries (LMCs)_]{.hi .note}
+- [_Upper-Middle-Income Countries (UMCs)_]{.hi .note}
+- [_High-Income Countries (HICs)_]{.hi .note}
+
+Countries with a [GNI per capita greater than $13,935]{.hp} in 2024
+
+---
+
+## Growth Over Time (1995)
+
+![](images/1995-classifications.png){fig-align="center"}
+
+---
+
+## Growth Over Time (2023)
+
+![](images/2023-classifications.png){fig-align="center"}
+
+---
+
+## Movements Are Clearly Possible
+
+All it takes is a higher [GNI per capita]{.hi} level
+
+::: {.fragment}
+- GNI, as we saw, is simply a measure of income for the country {{< fa arrow-right >}} It can increase or decrease
+- Per Capita means per person {{< fa arrow-right >}} Populations can shift for many reasons
+:::
+
+::: {.fragment .small}
+But achieving a higher income status does not necessarily eliminate the "developing country" tag
+
+::: {.incremental}
+- Say a country achieves a high enough GNI per capita to be classified as a [HIC]{.hi}
+- This country has a history of not being good at managing debt or a weak financial system
+- This country is highly susceptible to dropping in income
+    - Because it's probably happened before
+:::
+
+:::
+
+---
+
+![](images/milei.webp){fig-align="center"}
+
+---
+
+## Latest Shifts
+
+![](images/GNI-movers.png){fig-align="center"}

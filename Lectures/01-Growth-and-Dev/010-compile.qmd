@@ -8,9 +8,43 @@ format:
     revealjs:
         theme: [default, styles.scss]
         slide-number: true
-        footer: "EC390, Lecture 00 | Introduction and Overview"
+        footer: "EC390, Lecture 01 | Growth and Development"
         preview-links: auto
         code-f  old: FALSE
 title-slide-attributes: 
   data-background-position: left
 ---
+
+# Living Standards Across the World {.inverse .note}
+
+{{< include 011-living-standards.qmd >}}
+
+# Central Role of Women {.inverse .note} 
+
+{{< include 012-women.qmd >}}
+
+# Development Goals {.inverse .note} 
+
+{{< include 013-dev-goals.qmd >}}
+
+# Classifying Countries {.inverse .note}
+
+{{< include 014-country-classification.qmd >}}
+
+# Purchasing Power Parity {.inverse .note} 
+
+{{< include 015-ppp.qmd >}}
+
+# Human Development Index {.inverse .note}
+
+{{< include 016-hdi.qmd >}}
+
+# Difference and Similarities {.inverse .note}
+
+{{< include 017-similarities-diff.qmd >}}
+
+{{< include 018-convergence-divergence.qmd >}}
+
+# Long-Run Causes of Comparative Development {.inverse .note}
+
+{{< include 019-long-run-causes.qmd >}}

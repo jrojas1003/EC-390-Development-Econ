@@ -1,0 +1,161 @@
+---
+name: living standards
+---
+
+## People Live Differently {.small}
+
+[Who woulda thunk?]{.hi}
+
+We can make some coarse comparisons across countries by some measures we will detail later
+
+::: {.fragment}
+- One of those is [Gross National Income]{.hi}
+    - It is like GDP plus stuff:
+        - It adds the money that the country's citizens and companies make [outside of the country]{.hi} 
+        - It subtracts what foreigners make [inside the country and send out]{.hi}
+:::
+
+::: {.fragment}
+Take for example the per capita GNI of different countries:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+- Japan {{< fa arrow-right >}} $36,030 
+- Nigeria {{< fa arrow-right >}} $1,250
+- France {{< fa arrow-right >}} $45,180
+:::
+
+::: {.column width="50%"}
+- US {{< fa arrow-right >}} $83,660
+- Brazil {{< fa arrow-right >}} $9,950
+- Australia {{< fa arrow-right >}} $62,550
+:::
+
+::::
+:::
+
+---
+
+## People Live Differently
+
+::: {.fragment}
+We can think about living standards across the globe in four "stylised strata":
+:::
+
+::: {.fragment}
+- Highest
+- 2nd Highest
+- 2nd Lowest
+- Bottom
+:::
+
+::: {.fragment .align-center}
+[Let's dive in and see]{.hi} 
+:::
+
+---
+
+## Bottom
+
+:::: {.columns}
+
+::: {.column width="40%" .small}
+- Almost 700 million people (8.5% of the global population) live in extreme poverty
+    - That is qualified as living on [less than $2.15 per day]{.hp}
+- They will likely have serious concerns about their health, nutrition, education, sanitation, potable water, and housing
+- They grow their own food and make their own shelter.
+- They are essentially in a [subsistence economy]{.hp}
+:::
+
+::: {.column width="60%"}
+
+::: {.fragment}
+![](images/subsistence-farming.jpg){fig-align="center" height="2in"}
+
+![](images/indoor-cooking-fire.avif){fig-align="center" height="3in"}
+:::
+:::
+
+::::
+
+---
+
+## 2nd Lowest
+
+Not [officially]{.hi} extremely poor, but I think we would usually consider them as very poor
+
+::: {.fragment}
+- About 1.7 [B]{.hp}[illion]{.hi} people live on less than $3.65 per day
+:::
+
+::: {.fragment}
+- Employment is most likely informal
+- Likely get around on cheap and barely functioning vehicles
+- Water may only be potable after boiling or adding chlorine 
+- Possibly less hazardous cooking materials used
+:::
+
+::: {.fragment}
+> Still likely suffer from [one or more components of poverty]{.hi}, although not enough to be officially classified as multidimensionally poor
+:::
+
+---
+
+## 2nd Highest 
+
+::: {.fragment}
+- We can think of people in this strata as living on about $15 per day
+    - More than 75% of the world lives at this level $\rightarrow$ we would consider them as middle income by global standards
+:::
+
+::: {.fragment}
+- They will live in more urban areas
+- Employment may still be informal with minimal stability
+- They probably have a TV
+- Have some education
+:::
+
+::: {.fragment}
+> [Children]{.hi} are [likely to survive early childhood]{.hi-green}
+:::
+
+---
+
+## Nuevo Zirosto, Michoacan, Mexico
+
+![](images/mex-road.jpg){fig-align="center"}
+
+---
+
+## Highest
+
+Close to a billion people live at this level
+
+::: {.fragment}
+[We are all here]{.hi .align-center} 
+:::
+
+::: {.fragment .small}
+- Not millionaires but live comfortably
+- Formal jobs, generally with some sort of labor protection
+- TVs, high-speed internet, smartphones, laptops, refrigerators, dishwashers, etc.
+- Food is not necessarily an issue
+- Children will be healthy
+    - Although obesity has rapidly become a problem 
+- High life-expectancy at birth
+- Live will have ups and downs but very unlikely to fall below this stratum
+:::
+
+---
+
+## Movement Across Strata
+
+It is possible to move across strata, but the probabilities are usually low
+
+::: {.fragment .align-center}
+- Usually movements will occur within levels, where individuals gain greater relative wealth
+
+- Interestingly enough, the lower strata are generally aware of what life is within the higher levels.
+- The opposite is not necessarily true
+:::
