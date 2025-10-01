@@ -124,7 +124,22 @@ Not [officially]{.hi} extremely poor, but I think we would usually consider them
 
 ## Nuevo Zirosto, Michoacan, Mexico
 
-![](images/mex-road.jpg){fig-align="center"}
+:::: {.columns}
+
+::: {.column width="65%"}
+![](images/mex-road.jpg){fig-align="center" height="550"}
+:::
+
+::: {.column width="35%" .vertical-center}
+
+::: {.fragment}
+[But also like this](https://www.youtube.com/shorts/PGFlbmgqPbA){target="_blank"}
+
+[And this](https://youtube.com/shorts/4xaWSMvWggg){target="_blank"}
+:::
+:::
+
+::::
 
 ---
 
