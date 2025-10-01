@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lectures – EC 390 - Development Econ</title>
+<title>living-standards – EC 390 - Development Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-edaed47616cff17274c94edd6732b246.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-edaed47616cff17274c94edd6732b246.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 390 - Development Econ</span>
     </a>
   </div>
@@ -89,15 +120,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../Lectures/list.html" aria-current="page"> 
+    <a class="nav-link" href="../../Lectures/list.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Readings/list.html"> 
+    <a class="nav-link" href="../../Readings/list.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/list.html"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
 </ul>
@@ -116,43 +147,183 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Lectures</h1>
+
+
+
+<section id="people-live-differently" class="level2 small">
+<h2 class="small anchored" data-anchor-id="people-live-differently">People Live Differently</h2>
+<p><span class="hi">Who woulda thunk?</span></p>
+<p>We can make some coarse comparisons across countries by some measures we will detail later</p>
+<div class="fragment">
+<ul>
+<li>One of those is <span class="hi">Gross National Income</span>
+<ul>
+<li>It is like GDP plus stuff:
+<ul>
+<li>It adds the money that the country’s citizens and companies make <span class="hi">outside of the country</span></li>
+<li>It subtracts what foreigners make <span class="hi">inside the country and send out</span></li>
+</ul></li>
+</ul></li>
+</ul>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p><a href="00-Introduction/000-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="00-Introduction/000-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<div class="fragment">
+<p>Take for example the per capita GNI of different countries:</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Japan <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> $36,030</li>
+<li>Nigeria <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> $1,250</li>
+<li>France <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> $45,180</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>US <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> $83,660</li>
+<li>Brazil <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> $9,950</li>
+<li>Australia <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> $62,550</li>
+</ul>
 </div>
+</div>
+</div>
+<hr>
 </section>
-<section id="growth-development" class="level2">
-<h2 class="anchored" data-anchor-id="growth-development">Growth &amp; Development</h2>
-<p><a href="01-Growth-and-Dev/010-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="01-Growth-and-Dev/010-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="people-live-differently-1" class="level2">
+<h2 class="anchored" data-anchor-id="people-live-differently-1">People Live Differently</h2>
+<div class="fragment">
+<p>We can think about living standards across the globe in four “stylised strata”:</p>
+</div>
+<div class="fragment">
+<ul>
+<li>Highest</li>
+<li>2nd Highest</li>
+<li>2nd Lowest</li>
+<li>Bottom</li>
+</ul>
+</div>
+<div class="fragment align-center">
+<p><span class="hi">Let’s dive in and see</span></p>
+</div>
+<hr>
+</section>
+<section id="bottom" class="level2">
+<h2 class="anchored" data-anchor-id="bottom">Bottom</h2>
+<div class="columns">
+<div class="column small" style="width:40%;">
+<ul>
+<li>Almost 700 million people (8.5% of the global population) live in extreme poverty
+<ul>
+<li>That is qualified as living on <span class="hp">less than $2.15 per day</span></li>
+</ul></li>
+<li>They will likely have serious concerns about their health, nutrition, education, sanitation, potable water, and housing</li>
+<li>They grow their own food and make their own shelter.</li>
+<li>They are essentially in a <span class="hp">subsistence economy</span></li>
+</ul>
+</div><div class="column" style="width:60%;">
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/subsistence-farming.jpg" class="quarto-figure quarto-figure-center figure-img" style="height:2in"></p>
+</figure>
+</div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/indoor-cooking-fire.avif" class="quarto-figure quarto-figure-center figure-img" style="height:3in"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="nd-lowest" class="level2">
+<h2 class="anchored" data-anchor-id="nd-lowest">2nd Lowest</h2>
+<p>Not <span class="hi">officially</span> extremely poor, but I think we would usually consider them as very poor</p>
+<div class="fragment">
+<ul>
+<li>About 1.7 <span class="hp">B</span><span class="hi">illion</span> people live on less than $3.65 per day</li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>Employment is most likely informal</li>
+<li>Likely get around on cheap and barely functioning vehicles</li>
+<li>Water may only be potable after boiling or adding chlorine</li>
+<li>Possibly less hazardous cooking materials used</li>
+</ul>
+</div>
+<div class="fragment">
+<blockquote class="blockquote">
+<p>Still likely suffer from <span class="hi">one or more components of poverty</span>, although not enough to be officially classified as multidimensionally poor</p>
+</blockquote>
+</div>
+<hr>
+</section>
+<section id="nd-highest" class="level2">
+<h2 class="anchored" data-anchor-id="nd-highest">2nd Highest</h2>
+<div class="fragment">
+<ul>
+<li>We can think of people in this strata as living on about $15 per day
+<ul>
+<li>More than 75% of the world lives at this level <span class="math inline">\(\rightarrow\)</span> we would consider them as middle income by global standards</li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>They will live in more urban areas</li>
+<li>Employment may still be informal with minimal stability</li>
+<li>They probably have a TV</li>
+<li>Have some education</li>
+</ul>
+</div>
+<div class="fragment">
+<blockquote class="blockquote">
+<p><span class="hi">Children</span> are <span class="hi-green">likely to survive early childhood</span></p>
+</blockquote>
+</div>
+<hr>
+</section>
+<section id="nuevo-zirosto-michoacan-mexico" class="level2">
+<h2 class="anchored" data-anchor-id="nuevo-zirosto-michoacan-mexico">Nuevo Zirosto, Michoacan, Mexico</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/mex-road.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="highest" class="level2">
+<h2 class="anchored" data-anchor-id="highest">Highest</h2>
+<p>Close to a billion people live at this level</p>
+<div class="fragment">
+<p><span class="hi align-center">We are all here</span></p>
+</div>
+<div class="fragment small">
+<ul>
+<li>Not millionaires but live comfortably</li>
+<li>Formal jobs, generally with some sort of labor protection</li>
+<li>TVs, high-speed internet, smartphones, laptops, refrigerators, dishwashers, etc.</li>
+<li>Food is not necessarily an issue</li>
+<li>Children will be healthy
+<ul>
+<li>Although obesity has rapidly become a problem</li>
+</ul></li>
+<li>High life-expectancy at birth</li>
+<li>Live will have ups and downs but very unlikely to fall below this stratum</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="movement-across-strata" class="level2">
+<h2 class="anchored" data-anchor-id="movement-across-strata">Movement Across Strata</h2>
+<p>It is possible to move across strata, but the probabilities are usually low</p>
+<div class="fragment align-center">
+<ul>
+<li><p>Usually movements will occur within levels, where individuals gain greater relative wealth</p></li>
+<li><p>Interestingly enough, the lower strata are generally aware of what life is within the higher levels.</p></li>
+<li><p>The opposite is not necessarily true</p></li>
+</ul>
 </div>
 
 

@@ -42,95 +42,543 @@
     "text": "Expand Slides"
   },
   {
-    "objectID": "Lectures/00-Introduction/003-dev-overview.html",
-    "href": "Lectures/00-Introduction/003-dev-overview.html",
+    "objectID": "Lectures/list.html#growth-development",
+    "href": "Lectures/list.html#growth-development",
+    "title": "Lectures",
+    "section": "Growth & Development",
+    "text": "Growth & Development\nExpand Slides"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html",
+    "href": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html",
     "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "My Dev Econ professor made it very easy to understand with the following:\n\n\n\nIn OECD Countries\n\nLabor Economics\nHealth Economics\nPublic Economics\nEnvironmental Economics\nHousehold Economics\nIndustrial Organization\nUrban Economics\nBehavioral Economics\n\n\nIn Developing Countries\n\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics"
+    "text": "Are living standards in developing countries converging to developed countries? Or diverging?\n\n\nConvergence: Tendency for per capita income (or output) to grow faster in lower-income countries than in higher-income countries\n\nLow-income countries are “catching up”\n\nDivergence: A tendency of per capita income (or output) to grow faster in higher-income countries than in lower-income countries\n\nHigh-income countries are “pulling away”"
   },
   {
-    "objectID": "Lectures/00-Introduction/003-dev-overview.html#what-is-development-econ",
-    "href": "Lectures/00-Introduction/003-dev-overview.html#what-is-development-econ",
+    "objectID": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#convergence-and-divergence-of-countries",
+    "href": "Lectures/01-Growth-and-Dev/018-convergence-divergence.html#convergence-and-divergence-of-countries",
     "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "My Dev Econ professor made it very easy to understand with the following:\n\n\n\nIn OECD Countries\n\nLabor Economics\nHealth Economics\nPublic Economics\nEnvironmental Economics\nHousehold Economics\nIndustrial Organization\nUrban Economics\nBehavioral Economics\n\n\nIn Developing Countries\n\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics"
+    "text": "Are living standards in developing countries converging to developed countries? Or diverging?\n\n\nConvergence: Tendency for per capita income (or output) to grow faster in lower-income countries than in higher-income countries\n\nLow-income countries are “catching up”\n\nDivergence: A tendency of per capita income (or output) to grow faster in higher-income countries than in lower-income countries\n\nHigh-income countries are “pulling away”"
   },
   {
-    "objectID": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field",
-    "href": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field",
-    "title": "EC 390 - Development Econ",
-    "section": "Development Economics as a Field",
-    "text": "Development Economics as a Field\nWhat makes Development Different?\n\n\nInternational setting\nVery low socioeconomic status populations\nLots of constraints (financial, behavioral, market, institutional, etc.)\nLittle social protection\nMissing markets (financial, product, land)\nPresence of strong non-market institutions (social networks, informal markets)\nMonopolistic markets (no “perfect competition” assumptions)\nInstitutional setting is widely diverse, varying from country to country"
-  },
-  {
-    "objectID": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-1",
-    "href": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-1",
-    "title": "EC 390 - Development Econ",
-    "section": "Development Economics as a Field",
-    "text": "Development Economics as a Field\nWhat makes Development Similar?\n\n\nPolicy concerns  welfare, environment, institutional quality, etc.\nEconometric tools\nAttention to causal mechanisms"
-  },
-  {
-    "objectID": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-2",
-    "href": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-2",
-    "title": "EC 390 - Development Econ",
-    "section": "Development Economics as a Field",
-    "text": "Development Economics as a Field\nConsequences\n\nPresence of market imperfections and constraints  attention to theory\n\nWhat is the “model” we should think of?\n\nDifferent institutional setting  Nuanced understanding of local context\nLow-income countries  Sparse data availability\nNot US, so who cares?  Target questions with wider appeal than country context"
-  },
-  {
-    "objectID": "Lectures/00-Introduction/003-dev-overview.html#now-lets-play-a-game",
-    "href": "Lectures/00-Introduction/003-dev-overview.html#now-lets-play-a-game",
-    "title": "EC 390 - Development Econ",
-    "section": "Now Let’s Play a Game",
-    "text": "Now Let’s Play a Game"
-  },
-  {
-    "objectID": "Lectures/00-Introduction/003-dev-overview.html#activity-groups",
-    "href": "Lectures/00-Introduction/003-dev-overview.html#activity-groups",
-    "title": "EC 390 - Development Econ",
-    "section": "Activity Groups",
-    "text": "Activity Groups"
-  },
-  {
-    "objectID": "Lectures/00-Introduction/001-welcome.html",
-    "href": "Lectures/00-Introduction/001-welcome.html",
+    "objectID": "Lectures/01-Growth-and-Dev/016-hdi.html",
+    "href": "Lectures/01-Growth-and-Dev/016-hdi.html",
     "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "Welcome to EC 390!\nMy name is Jose Rojas-Fallas, 5th Year PhD Candidate in Economics\nPlease visit my website to learn more about me and my work!\n\nThe traffic would also be great for me \n\n. . .\n\nI am a international trade, development, and microeconomist\n\n. . .\n\nI am originally from Costa Rica\n\n. . .\n\nI am going to make this class fun for us both"
+    "text": "Recall we have a large list of factors to possibly consider when measuring development\n\nWhat if a country has a high life expectancy but low literacy? How can we compare that country with high literacy but low life expectancy?\n\n\nWe can then consider using the Human Development Index (HDI)\n\n\nThis measures the national socioeconomic development by combining education, health, and adjusted real income per capita\nIt goes from 0 (lowest human development) to 1 (highest human development)"
   },
   {
-    "objectID": "Lectures/00-Introduction/001-welcome.html#preamble",
-    "href": "Lectures/00-Introduction/001-welcome.html#preamble",
+    "objectID": "Lectures/01-Growth-and-Dev/016-hdi.html#defining-development",
+    "href": "Lectures/01-Growth-and-Dev/016-hdi.html#defining-development",
     "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "Welcome to EC 390!\nMy name is Jose Rojas-Fallas, 5th Year PhD Candidate in Economics\nPlease visit my website to learn more about me and my work!\n\nThe traffic would also be great for me \n\n. . .\n\nI am a international trade, development, and microeconomist\n\n. . .\n\nI am originally from Costa Rica\n\n. . .\n\nI am going to make this class fun for us both"
+    "text": "Recall we have a large list of factors to possibly consider when measuring development\n\nWhat if a country has a high life expectancy but low literacy? How can we compare that country with high literacy but low life expectancy?\n\n\nWe can then consider using the Human Development Index (HDI)\n\n\nThis measures the national socioeconomic development by combining education, health, and adjusted real income per capita\nIt goes from 0 (lowest human development) to 1 (highest human development)"
   },
   {
-    "objectID": "Lectures/00-Introduction/001-welcome.html#what-are-we-getting-out-of-this-course",
-    "href": "Lectures/00-Introduction/001-welcome.html#what-are-we-getting-out-of-this-course",
+    "objectID": "Lectures/01-Growth-and-Dev/016-hdi.html#how-is-hdi-measured",
+    "href": "Lectures/01-Growth-and-Dev/016-hdi.html#how-is-hdi-measured",
     "title": "EC 390 - Development Econ",
-    "section": "What Are We Getting Out of This Course",
-    "text": "What Are We Getting Out of This Course\n\n\nCredit!\nKnowledge on fundamental theories and concepts in development economics\nAn understanding on what makes countries grow at different rates\nPractical skills on how to do basic research and talk about it\nA different worldview!\n\n\n\n\nNow let’s talk about the course details"
+    "section": "How is HDI Measured?",
+    "text": "How is HDI Measured?\nSince there are three separate components, we first have to measure those.\nThankfully it is not complicated\n\nEach component is calculated as a ratio given by the distance above the minimum to the maximum level that a country has achieved\n\\[\\begin{align*}\n    \\text{Dimension Index} = \\; \\dfrac{\\text{Actual Value} - \\text{Min Value}}{\\text{Max Value} - \\text{Min Value}}\n\\end{align*}\\]\n\n\nThe dimensions used are:\n\nHealth  Life Expectancy\nEducation  Average Years of Schooling & Expected Years of Schooling\nIncome  PPP adjusted per capita GNI"
   },
   {
-    "objectID": "Assignments/list.html",
-    "href": "Assignments/list.html",
-    "title": "Assignments",
+    "objectID": "Lectures/01-Growth-and-Dev/016-hdi.html#how-is-hdi-measured-1",
+    "href": "Lectures/01-Growth-and-Dev/016-hdi.html#how-is-hdi-measured-1",
+    "title": "EC 390 - Development Econ",
+    "section": "How is HDI Measured?",
+    "text": "How is HDI Measured?\nOnce we have these values, we calculate the HDI using a geometric mean\n\nThis allows for imperfect substitution between the factors when measuring economic development of countries\n\n\n\nThe formula is then:\n\n\\[\\begin{align*}\n    HDI = H^{1/3}E^{1/3}I^{1/3}\n\\end{align*}\\]\nWhere:\n\\(H =\\) Health Index \\(\\;\\;\\;\\;\\; E =\\) Education Index \\(\\;\\;\\;\\;\\; I =\\) Income Index"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/016-hdi.html#hdi---interpreting-the-value",
+    "href": "Lectures/01-Growth-and-Dev/016-hdi.html#hdi---interpreting-the-value",
+    "title": "EC 390 - Development Econ",
+    "section": "HDI - Interpreting the Value",
+    "text": "HDI - Interpreting the Value\nAfter having obtained all 3 individual indices and calculated the HDI, we get a number between 0 and 1\nThe most recent classifications are:\n\n\nLow Human Development (&lt; 0.550)\nMedium Human Development (0.550 - 0.699)\nHigh Human Development (0.700 - 0.799)\nVery High Human Development (\\(\\geq\\) 0.800)\n\n\nUNDP Website"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/016-hdi.html#hdi-through-time",
+    "href": "Lectures/01-Growth-and-Dev/016-hdi.html#hdi-through-time",
+    "title": "EC 390 - Development Econ",
+    "section": "HDI Through Time",
+    "text": "HDI Through Time"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/016-hdi.html#hdi-snapshot",
+    "href": "Lectures/01-Growth-and-Dev/016-hdi.html#hdi-snapshot",
+    "title": "EC 390 - Development Econ",
+    "section": "HDI Snapshot",
+    "text": "HDI Snapshot"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html",
+    "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "Problem Set 01 - Due Wednesday, October 08 @ 12:00pm\n\nPS01 Questions Submit on Canvas\n\n\nProblem Set 02 - Due Wednesday, October 22 @ 12:00pm\n\nPS02 Questions Submit on Canvas\n\n\nProblem Set 03 - Due Wednesday, November 12 @ 12:00pm\n\nPS03 Questions Submit on Canvas\n\n\nProblem Set 04 - Due Wednesday, November 26 @ 12:00pm\n\nPS04 Questions Submit on Canvas"
+    "text": "An imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\n\nLow-Income Countries (LICs)\nLower-Middle-Income Countries (LMCs)\nUpper-Middle-Income Countries (UMCs)\nHigh-Income Countries (HICs)"
   },
   {
-    "objectID": "Assignments/list.html#problem-sets",
-    "href": "Assignments/list.html#problem-sets",
-    "title": "Assignments",
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations",
+    "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "Problem Set 01 - Due Wednesday, October 08 @ 12:00pm\n\nPS01 Questions Submit on Canvas\n\n\nProblem Set 02 - Due Wednesday, October 22 @ 12:00pm\n\nPS02 Questions Submit on Canvas\n\n\nProblem Set 03 - Due Wednesday, November 12 @ 12:00pm\n\nPS03 Questions Submit on Canvas\n\n\nProblem Set 04 - Due Wednesday, November 26 @ 12:00pm\n\nPS04 Questions Submit on Canvas"
+    "text": "An imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\n\nLow-Income Countries (LICs)\nLower-Middle-Income Countries (LMCs)\nUpper-Middle-Income Countries (UMCs)\nHigh-Income Countries (HICs)"
   },
   {
-    "objectID": "Assignments/list.html#quizzes",
-    "href": "Assignments/list.html#quizzes",
-    "title": "Assignments",
-    "section": "Quizzes",
-    "text": "Quizzes\nDue October 01 @ 12:00pm\n\nQuiz 01\n\n\nDue October 15 @ 12:00pm\n\nQuiz 02\n\n\nDue November 05 @ 12:00pm\n\nQuiz 03\n\n\nDue November 19 @ 12:00pm\n\nQuiz 04"
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations-1",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations-1",
+    "title": "EC 390 - Development Econ",
+    "section": "How Can We Classify Nations?",
+    "text": "How Can We Classify Nations?\nAn imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\nLow-Income Countries (LICs)\n\nCountries with a GNI per capita less than $1,135 in 2024\n\nLower-Middle-Income Countries (LMCs)\nUpper-Middle-Income Countries (UMCs)\nHigh-Income Countries (HICs)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations-2",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations-2",
+    "title": "EC 390 - Development Econ",
+    "section": "How Can We Classify Nations?",
+    "text": "How Can We Classify Nations?\nAn imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\nLow-Income Countries (LICs)\nLower-Middle-Income Countries (LMCs)\n\nCountries with a GNI per capita between $1,136 and $4,495 in 2024\n\nUpper-Middle-Income Countries (UMCs)\nHigh-Income Countries (HICs)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations-3",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations-3",
+    "title": "EC 390 - Development Econ",
+    "section": "How Can We Classify Nations?",
+    "text": "How Can We Classify Nations?\nAn imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\nLow-Income Countries (LICs)\nLower-Middle-Income Countries (LMCs)\nUpper-Middle-Income Countries (UMCs)\n\nCountries with a GNI per capita between $4,496 and $13,935 in 2024\n\nHigh-Income Countries (HICs)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations-4",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html#how-can-we-classify-nations-4",
+    "title": "EC 390 - Development Econ",
+    "section": "How Can We Classify Nations?",
+    "text": "How Can We Classify Nations?\nAn imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\nLow-Income Countries (LICs)\nLower-Middle-Income Countries (LMCs)\nUpper-Middle-Income Countries (UMCs)\nHigh-Income Countries (HICs)\n\nCountries with a GNI per capita greater than $13,935 in 2024"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html#growth-over-time-1995",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html#growth-over-time-1995",
+    "title": "EC 390 - Development Econ",
+    "section": "Growth Over Time (1995)",
+    "text": "Growth Over Time (1995)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html#growth-over-time-2023",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html#growth-over-time-2023",
+    "title": "EC 390 - Development Econ",
+    "section": "Growth Over Time (2023)",
+    "text": "Growth Over Time (2023)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html#movements-are-clearly-possible",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html#movements-are-clearly-possible",
+    "title": "EC 390 - Development Econ",
+    "section": "Movements Are Clearly Possible",
+    "text": "Movements Are Clearly Possible\nAll it takes is a higher GNI per capita level\n\n\nGNI, as we saw, is simply a measure of income for the country  It can increase or decrease\nPer Capita means per person  Populations can shift for many reasons\n\n\n\nBut achieving a higher income status does not necessarily eliminate the “developing country” tag\n\n\nSay a country achieves a high enough GNI per capita to be classified as a HIC\nThis country has a history of not being good at managing debt or a weak financial system\nThis country is highly susceptible to dropping in income\n\nBecause it’s probably happened before"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/014-country-classification.html#latest-shifts",
+    "href": "Lectures/01-Growth-and-Dev/014-country-classification.html#latest-shifts",
+    "title": "EC 390 - Development Econ",
+    "section": "Latest Shifts",
+    "text": "Latest Shifts"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#people-live-differently",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#people-live-differently",
+    "title": "Introduction and Overview",
+    "section": "People Live Differently",
+    "text": "People Live Differently\nWho woulda thunk?\nWe can make some coarse comparisons across countries by some measures we will detail later\n\n\nOne of those is Gross National Income\n\nIt is like GDP plus stuff:\n\nIt adds the money that the country’s citizens and companies make outside of the country\nIt subtracts what foreigners make inside the country and send out\n\n\n\n\n\nTake for example the per capita GNI of different countries:\n\n\n\nJapan  $36,030\nNigeria  $1,250\nFrance  $45,180\n\n\n\nUS  $83,660\nBrazil  $9,950\nAustralia  $62,550"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#people-live-differently-1",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#people-live-differently-1",
+    "title": "Introduction and Overview",
+    "section": "People Live Differently",
+    "text": "People Live Differently\n\nWe can think about living standards across the globe in four “stylised strata”:\n\n\n\nHighest\n2nd Highest\n2nd Lowest\nBottom\n\n\n\nLet’s dive in and see"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#bottom",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#bottom",
+    "title": "Introduction and Overview",
+    "section": "Bottom",
+    "text": "Bottom\n\n\n\nAlmost 700 million people (8.5% of the global population) live in extreme poverty\n\nThat is qualified as living on less than $2.15 per day\n\nThey will likely have serious concerns about their health, nutrition, education, sanitation, potable water, and housing\nThey grow their own food and make their own shelter.\nThey are essentially in a subsistence economy"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#nd-lowest",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#nd-lowest",
+    "title": "Introduction and Overview",
+    "section": "2nd Lowest",
+    "text": "2nd Lowest\nNot officially extremely poor, but I think we would usually consider them as very poor\n\n\nAbout 1.7 Billion people live on less than $3.65 per day\n\n\n\n\nEmployment is most likely informal\nLikely get around on cheap and barely functioning vehicles\nWater may only be potable after boiling or adding chlorine\nPossibly less hazardous cooking materials used\n\n\n\n\nStill likely suffer from one or more components of poverty, although not enough to be officially classified as multidimensionally poor"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#nd-highest",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#nd-highest",
+    "title": "Introduction and Overview",
+    "section": "2nd Highest",
+    "text": "2nd Highest\n\n\nWe can think of people in this strata as living on about $15 per day\n\nMore than 75% of the world lives at this level \\(\\rightarrow\\) we would consider them as middle income by global standards\n\n\n\n\n\nThey will live in more urban areas\nEmployment may still be informal with minimal stability\nThey probably have a TV\nHave some education\n\n\n\n\nChildren are likely to survive early childhood"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#nuevo-zirosto-michoacan-mexico",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#nuevo-zirosto-michoacan-mexico",
+    "title": "Introduction and Overview",
+    "section": "Nuevo Zirosto, Michoacan, Mexico",
+    "text": "Nuevo Zirosto, Michoacan, Mexico"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#highest",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#highest",
+    "title": "Introduction and Overview",
+    "section": "Highest",
+    "text": "Highest\nClose to a billion people live at this level\n\nWe are all here\n\n\n\nNot millionaires but live comfortably\nFormal jobs, generally with some sort of labor protection\nTVs, high-speed internet, smartphones, laptops, refrigerators, dishwashers, etc.\nFood is not necessarily an issue\nChildren will be healthy\n\nAlthough obesity has rapidly become a problem\n\nHigh life-expectancy at birth\nLive will have ups and downs but very unlikely to fall below this stratum"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#movement-across-strata",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#movement-across-strata",
+    "title": "Introduction and Overview",
+    "section": "Movement Across Strata",
+    "text": "Movement Across Strata\nIt is possible to move across strata, but the probabilities are usually low\n\n\nUsually movements will occur within levels, where individuals gain greater relative wealth\nInterestingly enough, the lower strata are generally aware of what life is within the higher levels.\nThe opposite is not necessarily true"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#sustainable-development-goals",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#sustainable-development-goals",
+    "title": "Introduction and Overview",
+    "section": "17 Sustainable Development Goals",
+    "text": "17 Sustainable Development Goals\nIn 2015, the UN adopted 17 Development Goals to be achieved by 2030.\n\n\nWe are determined to end poverty and hunger, in all their forms and dimensions, and to ensure that all human beings can fulfil their potential in dignity and equality and in a healthy environment.\n\n\n\nThere are three underlying principles that guides them:\n\n\nUniversality principle  Apply to every nation\nIntegration principle  There are interrelationships to consider between goals\nTransformation principle  Not sufficient to half-ass it"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#sustainable-development-goals-1",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#sustainable-development-goals-1",
+    "title": "Introduction and Overview",
+    "section": "17 Sustainable Development Goals",
+    "text": "17 Sustainable Development Goals"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#critique-of-goals",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#critique-of-goals",
+    "title": "Introduction and Overview",
+    "section": "Critique of Goals",
+    "text": "Critique of Goals\nThey are not perfect by any measure.\nOne of my personal critiques is that it unfortunately relies on humans, but other than that we have:\n\n\nGoals may not be prioritised\nToo broad goals and difficult to address them all at once\nTrade-offs exist and some goals may be contradictory\n\nEconomic growth (Goal 8 and 9) may require environmental sacrifices (Goal 13 and 15)\n\nLack of binding agreements\n\nThis is a general problem with everything the UN does\n\nDifferent access to resources across the globe"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations",
+    "title": "Introduction and Overview",
+    "section": "How Can We Classify Nations?",
+    "text": "How Can We Classify Nations?\nAn imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\n\nLow-Income Countries (LICs)\nLower-Middle-Income Countries (LMCs)\nUpper-Middle-Income Countries (UMCs)\nHigh-Income Countries (HICs)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations-1",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations-1",
+    "title": "Introduction and Overview",
+    "section": "How Can We Classify Nations?",
+    "text": "How Can We Classify Nations?\nAn imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\nLow-Income Countries (LICs)\n\nCountries with a GNI per capita less than $1,135 in 2024\n\nLower-Middle-Income Countries (LMCs)\nUpper-Middle-Income Countries (UMCs)\nHigh-Income Countries (HICs)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations-2",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations-2",
+    "title": "Introduction and Overview",
+    "section": "How Can We Classify Nations?",
+    "text": "How Can We Classify Nations?\nAn imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\nLow-Income Countries (LICs)\nLower-Middle-Income Countries (LMCs)\n\nCountries with a GNI per capita between $1,136 and $4,495 in 2024\n\nUpper-Middle-Income Countries (UMCs)\nHigh-Income Countries (HICs)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations-3",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations-3",
+    "title": "Introduction and Overview",
+    "section": "How Can We Classify Nations?",
+    "text": "How Can We Classify Nations?\nAn imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\nLow-Income Countries (LICs)\nLower-Middle-Income Countries (LMCs)\nUpper-Middle-Income Countries (UMCs)\n\nCountries with a GNI per capita between $4,496 and $13,935 in 2024\n\nHigh-Income Countries (HICs)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations-4",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#how-can-we-classify-nations-4",
+    "title": "Introduction and Overview",
+    "section": "How Can We Classify Nations?",
+    "text": "How Can We Classify Nations?\nAn imperfect way we use is by their GNI per capita levels\nThis creates 4 classifications:\n\nLow-Income Countries (LICs)\nLower-Middle-Income Countries (LMCs)\nUpper-Middle-Income Countries (UMCs)\nHigh-Income Countries (HICs)\n\nCountries with a GNI per capita greater than $13,935 in 2024"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#growth-over-time-1995",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#growth-over-time-1995",
+    "title": "Introduction and Overview",
+    "section": "Growth Over Time (1995)",
+    "text": "Growth Over Time (1995)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#growth-over-time-2023",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#growth-over-time-2023",
+    "title": "Introduction and Overview",
+    "section": "Growth Over Time (2023)",
+    "text": "Growth Over Time (2023)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#movements-are-clearly-possible",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#movements-are-clearly-possible",
+    "title": "Introduction and Overview",
+    "section": "Movements Are Clearly Possible",
+    "text": "Movements Are Clearly Possible\nAll it takes is a higher GNI per capita level\n\n\nGNI, as we saw, is simply a measure of income for the country  It can increase or decrease\nPer Capita means per person  Populations can shift for many reasons\n\n\n\nBut achieving a higher income status does not necessarily eliminate the “developing country” tag\n\n\nSay a country achieves a high enough GNI per capita to be classified as a HIC\nThis country has a history of not being good at managing debt or a weak financial system\nThis country is highly susceptible to dropping in income\n\nBecause it’s probably happened before"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#latest-shifts",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#latest-shifts",
+    "title": "Introduction and Overview",
+    "section": "Latest Shifts",
+    "text": "Latest Shifts"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#a-less-imperfect-way-to-compare-countries",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#a-less-imperfect-way-to-compare-countries",
+    "title": "Introduction and Overview",
+    "section": "A Less Imperfect Way to Compare Countries",
+    "text": "A Less Imperfect Way to Compare Countries\nEnter Purchasing Power Parity (PPP)\n\n\nCalculates GNI using a common set of international prices for all goods and services\n\nMain idea: Create a basket of goods needed to live  Calculate price in each country and create an index\n\n\n\n\nWhat could be a problem with this?\n\n\n\nThe goods that make up the basket may be subjective"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#how-to-think-about-ppp",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#how-to-think-about-ppp",
+    "title": "Introduction and Overview",
+    "section": "How To Think About PPP?",
+    "text": "How To Think About PPP?\nPPP adjusts the fact that the same amount of money buys very different baskets of goods in different countries\nIt helps “equalize” incomes across nations, otherwise we get:\n\n\n\nWithout PPP\n\n\nPerson A earns $10,000 in Costa Rica\nPerson B earns $20,000 in the US\n\nYou’d say that Person A is poorer than Person B\n\n\nWith PPP\n\n\nSay prices are half as high in Costa Rica than in the US\nThen $10,000 in Costa Rica gives the same purchasing power as $20,000 in the US\n\n\n\n\n\n\nIf you ever need to do a quick calculation in a different country, find out how much a Big Mac costs"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#ppp-example",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#ppp-example",
+    "title": "Introduction and Overview",
+    "section": "PPP Example",
+    "text": "PPP Example\nLet the basket of goods be: a toothbrush\n\nPrice of a toothbrush in the US: 1 USD\nPrice of a toothbrush in Mexico: 0.80 MXN\n\n\nWe can find the “Exchange Rate” by:\n\\[\\begin{align*}\n    PPP_{US,MEX} = \\dfrac{Cost_{US}}{Cost_{MEX}} = \\dfrac{1}{0.8} = 1.25\n\\end{align*}\\]\n\n\n\nThis means that 1 MEX is worth approx. 1.25 USD\nNow that we know that, we can compare GNIs"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#ppp-example-1",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#ppp-example-1",
+    "title": "Introduction and Overview",
+    "section": "PPP Example",
+    "text": "PPP Example\nLet Mexico GNI per capita be 40,284 MXN.\nWe found that \\(PPP_{US,MEX} = 1.25\\)\nThen we have:\n\n\\[\\begin{align*}\n    GNI_{MEX} \\times PPP_{US,MEX} = 40,284 \\times 1.25 = 50,355\n\\end{align*}\\]\nMexico’s GNI per capita is equivalent to 50,355 USD\n\n\n\nBut this is conditional on the basket of goods we consider"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#ppp-example-2",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#ppp-example-2",
+    "title": "Introduction and Overview",
+    "section": "PPP Example 2",
+    "text": "PPP Example 2\nNow we have two goods, so we create a price index\n\n\nConsider a basket made up of a toothbrush and toothpaste\nPrice of a toothbrush in the US is 2 USD\nPrice of a toothbrush in Mexico is 2 USD\n\n\n\nThen the basket of goods in the US would be \\(1 \\, USD + 2 \\, USD = 3 \\, USD\\)\nA basket of goods in Mexico would be \\(0.80 \\, MXN + 2 \\, MXN = 2.8 \\, MXN\\)\n\n\n\\[\\begin{align*}\n    PPP_{US,MEX} = \\dfrac{Cost_{US}}{Cost_{MEX}} = \\dfrac{3}{2.8} \\approx 1.07\n\\end{align*}\\]\n\n\nSo, under this new basket of goods, Mexican GNI would be equal to how many USD? $43,104"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#defining-development",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#defining-development",
+    "title": "Introduction and Overview",
+    "section": "Defining Development",
+    "text": "Defining Development\nSo far we have only touched on one possible way to measure a country’s development\nWe believe that income is typically a good indicator for other signals about well-being, but it is not perfect\nWe can also consider other objective measures for development:\n\n\n\n\nInfant/child mortality\nMother/child health\nLife expectancy\nDisease prevalence\n\n\n\nPrimary school completion rates\nLiteracy rates\nGender differences within rates\n\n\n\n\nSo we can think of a more comprehensive way to measure development"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#defining-development-1",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#defining-development-1",
+    "title": "Introduction and Overview",
+    "section": "Defining Development",
+    "text": "Defining Development\nRecall we have a large list of factors to possibly consider when measuring development\n\nWhat if a country has a high life expectancy but low literacy? How can we compare that country with high literacy but low life expectancy?\n\n\nWe can then consider using the Human Development Index (HDI)\n\n\nThis measures the national socioeconomic development by combining education, health, and adjusted real income per capita\nIt goes from 0 (lowest human development) to 1 (highest human development)"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#how-is-hdi-measured",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#how-is-hdi-measured",
+    "title": "Introduction and Overview",
+    "section": "How is HDI Measured?",
+    "text": "How is HDI Measured?\nSince there are three separate components, we first have to measure those.\nThankfully it is not complicated\n\nEach component is calculated as a ratio given by the distance above the minimum to the maximum level that a country has achieved\n\\[\\begin{align*}\n    \\text{Dimension Index} = \\; \\dfrac{\\text{Actual Value} - \\text{Min Value}}{\\text{Max Value} - \\text{Min Value}}\n\\end{align*}\\]\n\n\nThe dimensions used are:\n\nHealth  Life Expectancy\nEducation  Average Years of Schooling & Expected Years of Schooling\nIncome  PPP adjusted per capita GNI"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#how-is-hdi-measured-1",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#how-is-hdi-measured-1",
+    "title": "Introduction and Overview",
+    "section": "How is HDI Measured?",
+    "text": "How is HDI Measured?\nOnce we have these values, we calculate the HDI using a geometric mean\n\nThis allows for imperfect substitution between the factors when measuring economic development of countries\n\n\n\nThe formula is then:\n\n\\[\\begin{align*}\n    HDI = H^{1/3}E^{1/3}I^{1/3}\n\\end{align*}\\]\nWhere:\n\\(H =\\) Health Index \\(\\;\\;\\;\\;\\; E =\\) Education Index \\(\\;\\;\\;\\;\\; I =\\) Income Index"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#hdi---interpreting-the-value",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#hdi---interpreting-the-value",
+    "title": "Introduction and Overview",
+    "section": "HDI - Interpreting the Value",
+    "text": "HDI - Interpreting the Value\nAfter having obtained all 3 individual indices and calculated the HDI, we get a number between 0 and 1\nThe most recent classifications are:\n\n\nLow Human Development (&lt; 0.550)\nMedium Human Development (0.550 - 0.699)\nHigh Human Development (0.700 - 0.799)\nVery High Human Development (\\(\\geq\\) 0.800)\n\n\nUNDP Website"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#hdi-through-time",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#hdi-through-time",
+    "title": "Introduction and Overview",
+    "section": "HDI Through Time",
+    "text": "HDI Through Time"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#hdi-snapshot",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#hdi-snapshot",
+    "title": "Introduction and Overview",
+    "section": "HDI Snapshot",
+    "text": "HDI Snapshot"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#to-drive-the-point-home",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#to-drive-the-point-home",
+    "title": "Introduction and Overview",
+    "section": "To Drive the Point Home",
+    "text": "To Drive the Point Home\nThere are 10 features that help us define key similarities and differences among developing countries\n\n\nAn important caveat to remind yourself of is that when we compare nations, we use averages which inherently blur some important information\n\n\nThe textbook has their own 10. I’ll do my own 8:\n\n\n\n\nPhysical and Human Resource Endowment\nPer Capita Incomes and GNI Levels Relative to the Rest of the World\nClimate\nPopulation Size, Distribution, and Growth\n\n\n\nHistorical Role of International Migration\nInternational Trade Benefits\nBasic Scientific and Technology Research & Development Capabilities\nEfficacy of Domestic Institutions"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#physical-and-human-resource-endowment",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#physical-and-human-resource-endowment",
+    "title": "Introduction and Overview",
+    "section": "Physical and Human Resource Endowment",
+    "text": "Physical and Human Resource Endowment\n\n\nCurrent developed countries had plentiful natural resources in early global development\nCurrent developing countries are typically lacking natural resources\n\nIf they do, resource extraction may be inefficient\nOr other developed nations may take advantage\n\nSkilled human resource endowment may be eve more stark\n\nThink about where the “best” universities in the world are concentrated"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#relative-size-of-gni-per-capita",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#relative-size-of-gni-per-capita",
+    "title": "Introduction and Overview",
+    "section": "Relative Size of GNI per Capita",
+    "text": "Relative Size of GNI per Capita\n\n\nMany people in developing countries are\n\nNot everyone but a significant proportion\n\nIndividuals that are in developed countries had more economic freedom in their earlier stages\nDeveloped countries got ahead economically in their early stages\n\nThey leveraged that accumulated wealth to extract resources"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#climate-differences",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#climate-differences",
+    "title": "Introduction and Overview",
+    "section": "Climate Differences",
+    "text": "Climate Differences\n\n\nMost developing countries are in a tropical or sub-tropical climate\nMost developed contries have more temperate climates\nHigh head and humidity degrade soil and other natural goods\nThere is also a higher prevalence of tropical diseases\n\nThe tropics are great for life to take hold at its most basic stages"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#population-size-distribution-and-growth",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#population-size-distribution-and-growth",
+    "title": "Introduction and Overview",
+    "section": "Population Size, Distribution, and Growth",
+    "text": "Population Size, Distribution, and Growth\n\n\nPopulation growth in developed countries was"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#international-migration",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#international-migration",
+    "title": "Introduction and Overview",
+    "section": "International Migration",
+    "text": "International Migration\n\n\nDeveloped countries during development saw benefits from migration of labor\n\nPeople migrate from low-income countries to higher-income countries seeking a higher quality of life\n\nDeveloping countries suffer from Brain Drain\n\n“Skilled” workers leave their home countries and work in developed countries\nIndividuals migrate for a better quality of life for themselves and their family\n\nBrain Drain causes slow growth in developing countries as they lose valuable human capital"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#international-trade",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#international-trade",
+    "title": "Introduction and Overview",
+    "section": "International Trade",
+    "text": "International Trade\n\n\nDeveloped countries benefited from free trade early on\n\nFree Trade: Goods are imported/exported without obstacles like quotas or tariffs\n\nNow we are going through a drastic shift in attitudes toward Free Trade\n\nBrexit\nUS Global Tariffs"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#basic-scientific-and-technology-research-development-capabilities",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#basic-scientific-and-technology-research-development-capabilities",
+    "title": "Introduction and Overview",
+    "section": "Basic Scientific and Technology Research & Development Capabilities",
+    "text": "Basic Scientific and Technology Research & Development Capabilities\n\n\nDeveloped countries got ahead early with their scientific and technological research, primarly due to their ability to invest in them\nDeveloping countries are lagging far behind in R&D\n\nNot necessarily their fault"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#efficacy-of-institutions",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#efficacy-of-institutions",
+    "title": "Introduction and Overview",
+    "section": "Efficacy of Institutions",
+    "text": "Efficacy of Institutions\n\n\nMany developed countries began with and still have strong institutions\n\nWell defined property rights\nWell defined rule of law\nStrong judicial system\n\nColonial powers established institutions that systemically created high inequality and extraction of resources to benefit foreign powers\nAfter countries obtain independence, self-governance is established but often through weak institutions and high possibility of corruption"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#developed-vs-developing-countries",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#developed-vs-developing-countries",
+    "title": "Introduction and Overview",
+    "section": "Developed vs Developing Countries",
+    "text": "Developed vs Developing Countries\n\nUnfortunately, developed countries are not always a good template of growth\nHistorically, nations that are ahead got there through a not-so-great reason\nHowever, given globalization and stronger international market participation growth is normalizing in the world"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/010-compile.html#convergence-and-divergence-of-countries",
+    "href": "Lectures/01-Growth-and-Dev/010-compile.html#convergence-and-divergence-of-countries",
+    "title": "Introduction and Overview",
+    "section": "Convergence and Divergence of Countries",
+    "text": "Convergence and Divergence of Countries\nAre living standards in developing countries converging to developed countries? Or diverging?\n\n\nConvergence: Tendency for per capita income (or output) to grow faster in lower-income countries than in higher-income countries\n\nLow-income countries are “catching up”\n\nDivergence: A tendency of per capita income (or output) to grow faster in higher-income countries than in lower-income countries\n\nHigh-income countries are “pulling away”"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html",
+    "href": "Lectures/00-Introduction/002-syllabus.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Lectures  Monday & Wednesday in Gerlinger 302\nOffice Hours  Tuesdays from 09:00 am to 11:00 am\n\n. . .\nLectures\n\n\nSlides are only one part of the course, not a perfect substitute\nDuring lectures, I will go through example problems, ask you to solve things, ask for your opinions, etc.\n\nIt will be somewhat interactive, keeping you on your toes and allowing you to push back on things I say\n\nBy being in lecture (and paying attention), my goal is to make things clearer beyond what the textbook and bring it into the real world"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#class-information",
+    "href": "Lectures/00-Introduction/002-syllabus.html#class-information",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Lectures  Monday & Wednesday in Gerlinger 302\nOffice Hours  Tuesdays from 09:00 am to 11:00 am\n\n. . .\nLectures\n\n\nSlides are only one part of the course, not a perfect substitute\nDuring lectures, I will go through example problems, ask you to solve things, ask for your opinions, etc.\n\nIt will be somewhat interactive, keeping you on your toes and allowing you to push back on things I say\n\nBy being in lecture (and paying attention), my goal is to make things clearer beyond what the textbook and bring it into the real world"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#logistics",
+    "href": "Lectures/00-Introduction/002-syllabus.html#logistics",
+    "title": "EC 390 - Development Econ",
+    "section": "Logistics",
+    "text": "Logistics\n\nOur textbook is Economic Development by M. Todaro and S. Smith\n\nI recommend you check the Readings to keep on track\n\n\n\n\nCourse Topics\n\n\nGrowth & Development\nTheories of Growth & Development\nPoverty & Inequality\nAgriculture & Rural Development\nPopulation\nUrbanization & Rural-Urban Migration\nEducation & Health\nGovernance & Institutions\nForeign Aid\nTrade & Globalization\n\n\n\nCourse Grades\n\n\n20%  4x Problem Sets\n10%  4x Quizzes\n30%  Midterm Exam\n50%  Final Project"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#canvas-course-set-up",
+    "href": "Lectures/00-Introduction/002-syllabus.html#canvas-course-set-up",
+    "title": "EC 390 - Development Econ",
+    "section": "Canvas & Course Set-Up",
+    "text": "Canvas & Course Set-Up\nCanvas will be a place for you to submit assignments and as a gradebook\nEverything else will be in our course website\n\nCourse Website\n\nThis is a link! It works!"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#assignments",
+    "href": "Lectures/00-Introduction/002-syllabus.html#assignments",
+    "title": "EC 390 - Development Econ",
+    "section": "Assignments",
+    "text": "Assignments\nProblem Sets\n\n\nWill be made available one week before they are due (usually on Wednesday)\nDue at 11:59am (before lecture) but you can submit late up until 11:59pm of that day\nThere will be a late submission penalty which is proportional to how many hours late it was submitted\n\n\n. . .\nSubmissions\n\n\nOnly PDF files are accepted\nIf you write your answers with pen and take pictures/scan them, compile them into a single PDF file\n\nMake sure they are legible\nYou can do this by using any website that merges pdf files (be sure they are in the proper order)  Adobe works just fine"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#assignments-1",
+    "href": "Lectures/00-Introduction/002-syllabus.html#assignments-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Assignments",
+    "text": "Assignments\nQuizzes\n\nThese are intended to test your critical thinking and develop your ability to form coherent and succint arguments\nThey will have a 45min time limit\nSubmissions should be no more than a paragraph or two in length\n\n\nExample from my International Econ class:\n\nIn lecture, we briefly talked about how the median voter model does not work well when considering trade policy. Voters seemingly support protectionist trade policies, even when they may go against their direct interests. Why do you think this happens?"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#midterm-exam",
+    "href": "Lectures/00-Introduction/002-syllabus.html#midterm-exam",
+    "title": "EC 390 - Development Econ",
+    "section": "Midterm Exam",
+    "text": "Midterm Exam\n\n\nThe midterm exam is scheduled for Wednesday of Week 5 (October 29th)\nIt will consist of multiple choice questions, short-answer questions, and multi-part analysis questions\nI’ll do my best to create a practice exam beforehand but no promises"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nYou will come up with a research proposal on any topic related to development economics\n\nYou will NOT be writing a full research paper\n\n\n\nYou will identify a specific question\nYou will motivate why it is an important question\nYou will propose some form of answering it using theory, data, or policy analysis\n\n\n\n\nYou will create a 10min presentation on your work"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-1",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n\n Week 02\n Week 06\n Week 08\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-2",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n  Week 02  Topic Selection:\n\nSubmit a brief (1-2 paragraph) description of your proposed research question, including why you believe it is important to answer and why it is relevant to development economics\n\n Week 06\n Week 08\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-3",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-3",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n\nProvide at least THREE peer-reviewed articles related to your topic, with a breif summary (about 1-2 paragraphs) of how it informs your own question\n\n Week 08\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-4",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-4",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n Week 08  Presentation Outline\n\nSubmit a draft outline/rough draft of your presentation slides in which you summarize your question, motivation, and proposed approach to answer it\n\n Week 10"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-5",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-5",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project",
+    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n Week 08  Presentation Outline\n Week 10  Final Presentation\n\nDeliver a 10-minute presentation of your research project\n\nThis has a caveat"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-caveat",
+    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-caveat",
+    "title": "EC 390 - Development Econ",
+    "section": "Final Project Caveat",
+    "text": "Final Project Caveat\n\nI have allocated the entirety of Week 10 for presentations, but that only allows us 240min which equals only 24 presentations\n\n\n\nBecause of this, I will allow you to submit a recording of your presentation instead\nBy Week 04, I will ask for volunteers to present in-class\n\nThis will be first-come, first-serve\n\nVolunteers will receive Extra Credit for doing so, however there is a second caveat\nIf you do sign up to present, that is a commitment you are making with me  you CANNOT back out of it\n\nIf you fail to present in person, you will be punished in your grade for doing so"
   },
   {
     "objectID": "Lectures/00-Introduction/000-compile.html#preamble",
@@ -294,102 +742,312 @@
     "text": "Instructions\n\nNo outside materials may be used\nEach shape must be of EXACT length/width/height as the instructions indicate\nEach shape MUST BE CUT WITH SCISSORS\nFailure to meet quality standards set above will result in the shape being discarded\n\n\n\nNote: Shapes with distruted stickers are worth more!"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html",
-    "href": "Lectures/00-Introduction/002-syllabus.html",
+    "objectID": "Assignments/list.html",
+    "href": "Assignments/list.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "Problem Set 01 - Due Wednesday, October 08 @ 12:00pm\n\nPS01 Questions Submit on Canvas\n\n\nProblem Set 02 - Due Wednesday, October 22 @ 12:00pm\n\nPS02 Questions Submit on Canvas\n\n\nProblem Set 03 - Due Wednesday, November 12 @ 12:00pm\n\nPS03 Questions Submit on Canvas\n\n\nProblem Set 04 - Due Wednesday, November 26 @ 12:00pm\n\nPS04 Questions Submit on Canvas"
+  },
+  {
+    "objectID": "Assignments/list.html#problem-sets",
+    "href": "Assignments/list.html#problem-sets",
+    "title": "Assignments",
+    "section": "",
+    "text": "Problem Set 01 - Due Wednesday, October 08 @ 12:00pm\n\nPS01 Questions Submit on Canvas\n\n\nProblem Set 02 - Due Wednesday, October 22 @ 12:00pm\n\nPS02 Questions Submit on Canvas\n\n\nProblem Set 03 - Due Wednesday, November 12 @ 12:00pm\n\nPS03 Questions Submit on Canvas\n\n\nProblem Set 04 - Due Wednesday, November 26 @ 12:00pm\n\nPS04 Questions Submit on Canvas"
+  },
+  {
+    "objectID": "Assignments/list.html#quizzes",
+    "href": "Assignments/list.html#quizzes",
+    "title": "Assignments",
+    "section": "Quizzes",
+    "text": "Quizzes\nDue October 01 @ 12:00pm\n\nQuiz 01\n\n\nDue October 15 @ 12:00pm\n\nQuiz 02\n\n\nDue November 05 @ 12:00pm\n\nQuiz 03\n\n\nDue November 19 @ 12:00pm\n\nQuiz 04"
+  },
+  {
+    "objectID": "Lectures/00-Introduction/001-welcome.html",
+    "href": "Lectures/00-Introduction/001-welcome.html",
     "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "Lectures  Monday & Wednesday in Gerlinger 302\nOffice Hours  Tuesdays from 09:00 am to 11:00 am\n\n. . .\nLectures\n\n\nSlides are only one part of the course, not a perfect substitute\nDuring lectures, I will go through example problems, ask you to solve things, ask for your opinions, etc.\n\nIt will be somewhat interactive, keeping you on your toes and allowing you to push back on things I say\n\nBy being in lecture (and paying attention), my goal is to make things clearer beyond what the textbook and bring it into the real world"
+    "text": "Welcome to EC 390!\nMy name is Jose Rojas-Fallas, 5th Year PhD Candidate in Economics\nPlease visit my website to learn more about me and my work!\n\nThe traffic would also be great for me \n\n. . .\n\nI am a international trade, development, and microeconomist\n\n. . .\n\nI am originally from Costa Rica\n\n. . .\n\nI am going to make this class fun for us both"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#class-information",
-    "href": "Lectures/00-Introduction/002-syllabus.html#class-information",
+    "objectID": "Lectures/00-Introduction/001-welcome.html#preamble",
+    "href": "Lectures/00-Introduction/001-welcome.html#preamble",
     "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "Lectures  Monday & Wednesday in Gerlinger 302\nOffice Hours  Tuesdays from 09:00 am to 11:00 am\n\n. . .\nLectures\n\n\nSlides are only one part of the course, not a perfect substitute\nDuring lectures, I will go through example problems, ask you to solve things, ask for your opinions, etc.\n\nIt will be somewhat interactive, keeping you on your toes and allowing you to push back on things I say\n\nBy being in lecture (and paying attention), my goal is to make things clearer beyond what the textbook and bring it into the real world"
+    "text": "Welcome to EC 390!\nMy name is Jose Rojas-Fallas, 5th Year PhD Candidate in Economics\nPlease visit my website to learn more about me and my work!\n\nThe traffic would also be great for me \n\n. . .\n\nI am a international trade, development, and microeconomist\n\n. . .\n\nI am originally from Costa Rica\n\n. . .\n\nI am going to make this class fun for us both"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#logistics",
-    "href": "Lectures/00-Introduction/002-syllabus.html#logistics",
+    "objectID": "Lectures/00-Introduction/001-welcome.html#what-are-we-getting-out-of-this-course",
+    "href": "Lectures/00-Introduction/001-welcome.html#what-are-we-getting-out-of-this-course",
     "title": "EC 390 - Development Econ",
-    "section": "Logistics",
-    "text": "Logistics\n\nOur textbook is Economic Development by M. Todaro and S. Smith\n\nI recommend you check the Readings to keep on track\n\n\n\n\nCourse Topics\n\n\nGrowth & Development\nTheories of Growth & Development\nPoverty & Inequality\nAgriculture & Rural Development\nPopulation\nUrbanization & Rural-Urban Migration\nEducation & Health\nGovernance & Institutions\nForeign Aid\nTrade & Globalization\n\n\n\nCourse Grades\n\n\n20%  4x Problem Sets\n10%  4x Quizzes\n30%  Midterm Exam\n50%  Final Project"
+    "section": "What Are We Getting Out of This Course",
+    "text": "What Are We Getting Out of This Course\n\n\nCredit!\nKnowledge on fundamental theories and concepts in development economics\nAn understanding on what makes countries grow at different rates\nPractical skills on how to do basic research and talk about it\nA different worldview!\n\n\n\n\nNow let’s talk about the course details"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#canvas-course-set-up",
-    "href": "Lectures/00-Introduction/002-syllabus.html#canvas-course-set-up",
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html",
+    "href": "Lectures/00-Introduction/003-dev-overview.html",
     "title": "EC 390 - Development Econ",
-    "section": "Canvas & Course Set-Up",
-    "text": "Canvas & Course Set-Up\nCanvas will be a place for you to submit assignments and as a gradebook\nEverything else will be in our course website\n\nCourse Website\n\nThis is a link! It works!"
+    "section": "",
+    "text": "My Dev Econ professor made it very easy to understand with the following:\n\n\n\nIn OECD Countries\n\nLabor Economics\nHealth Economics\nPublic Economics\nEnvironmental Economics\nHousehold Economics\nIndustrial Organization\nUrban Economics\nBehavioral Economics\n\n\nIn Developing Countries\n\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#assignments",
-    "href": "Lectures/00-Introduction/002-syllabus.html#assignments",
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#what-is-development-econ",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#what-is-development-econ",
     "title": "EC 390 - Development Econ",
-    "section": "Assignments",
-    "text": "Assignments\nProblem Sets\n\n\nWill be made available one week before they are due (usually on Wednesday)\nDue at 11:59am (before lecture) but you can submit late up until 11:59pm of that day\nThere will be a late submission penalty which is proportional to how many hours late it was submitted\n\n\n. . .\nSubmissions\n\n\nOnly PDF files are accepted\nIf you write your answers with pen and take pictures/scan them, compile them into a single PDF file\n\nMake sure they are legible\nYou can do this by using any website that merges pdf files (be sure they are in the proper order)  Adobe works just fine"
+    "section": "",
+    "text": "My Dev Econ professor made it very easy to understand with the following:\n\n\n\nIn OECD Countries\n\nLabor Economics\nHealth Economics\nPublic Economics\nEnvironmental Economics\nHousehold Economics\nIndustrial Organization\nUrban Economics\nBehavioral Economics\n\n\nIn Developing Countries\n\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics\nDevelopment Economics"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#assignments-1",
-    "href": "Lectures/00-Introduction/002-syllabus.html#assignments-1",
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field",
     "title": "EC 390 - Development Econ",
-    "section": "Assignments",
-    "text": "Assignments\nQuizzes\n\nThese are intended to test your critical thinking and develop your ability to form coherent and succint arguments\nThey will have a 45min time limit\nSubmissions should be no more than a paragraph or two in length\n\n\nExample from my International Econ class:\n\nIn lecture, we briefly talked about how the median voter model does not work well when considering trade policy. Voters seemingly support protectionist trade policies, even when they may go against their direct interests. Why do you think this happens?"
+    "section": "Development Economics as a Field",
+    "text": "Development Economics as a Field\nWhat makes Development Different?\n\n\nInternational setting\nVery low socioeconomic status populations\nLots of constraints (financial, behavioral, market, institutional, etc.)\nLittle social protection\nMissing markets (financial, product, land)\nPresence of strong non-market institutions (social networks, informal markets)\nMonopolistic markets (no “perfect competition” assumptions)\nInstitutional setting is widely diverse, varying from country to country"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#midterm-exam",
-    "href": "Lectures/00-Introduction/002-syllabus.html#midterm-exam",
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-1",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-1",
     "title": "EC 390 - Development Econ",
-    "section": "Midterm Exam",
-    "text": "Midterm Exam\n\n\nThe midterm exam is scheduled for Wednesday of Week 5 (October 29th)\nIt will consist of multiple choice questions, short-answer questions, and multi-part analysis questions\nI’ll do my best to create a practice exam beforehand but no promises"
+    "section": "Development Economics as a Field",
+    "text": "Development Economics as a Field\nWhat makes Development Similar?\n\n\nPolicy concerns  welfare, environment, institutional quality, etc.\nEconometric tools\nAttention to causal mechanisms"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project",
-    "href": "Lectures/00-Introduction/002-syllabus.html#final-project",
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-2",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#development-economics-as-a-field-2",
     "title": "EC 390 - Development Econ",
-    "section": "Final Project",
-    "text": "Final Project\nYou will come up with a research proposal on any topic related to development economics\n\nYou will NOT be writing a full research paper\n\n\n\nYou will identify a specific question\nYou will motivate why it is an important question\nYou will propose some form of answering it using theory, data, or policy analysis\n\n\n\n\nYou will create a 10min presentation on your work"
+    "section": "Development Economics as a Field",
+    "text": "Development Economics as a Field\nConsequences\n\nPresence of market imperfections and constraints  attention to theory\n\nWhat is the “model” we should think of?\n\nDifferent institutional setting  Nuanced understanding of local context\nLow-income countries  Sparse data availability\nNot US, so who cares?  Target questions with wider appeal than country context"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-1",
-    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-1",
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#now-lets-play-a-game",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#now-lets-play-a-game",
     "title": "EC 390 - Development Econ",
-    "section": "Final Project",
-    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n\n Week 02\n Week 06\n Week 08\n Week 10"
+    "section": "Now Let’s Play a Game",
+    "text": "Now Let’s Play a Game"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-2",
-    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-2",
+    "objectID": "Lectures/00-Introduction/003-dev-overview.html#activity-groups",
+    "href": "Lectures/00-Introduction/003-dev-overview.html#activity-groups",
     "title": "EC 390 - Development Econ",
-    "section": "Final Project",
-    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n  Week 02  Topic Selection:\n\nSubmit a brief (1-2 paragraph) description of your proposed research question, including why you believe it is important to answer and why it is relevant to development economics\n\n Week 06\n Week 08\n Week 10"
+    "section": "Activity Groups",
+    "text": "Activity Groups"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-3",
-    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-3",
+    "objectID": "Lectures/01-Growth-and-Dev/011-living-standards.html",
+    "href": "Lectures/01-Growth-and-Dev/011-living-standards.html",
     "title": "EC 390 - Development Econ",
-    "section": "Final Project",
-    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n\nProvide at least THREE peer-reviewed articles related to your topic, with a breif summary (about 1-2 paragraphs) of how it informs your own question\n\n Week 08\n Week 10"
+    "section": "",
+    "text": "Who woulda thunk?\nWe can make some coarse comparisons across countries by some measures we will detail later\n\n\nOne of those is Gross National Income\n\nIt is like GDP plus stuff:\n\nIt adds the money that the country’s citizens and companies make outside of the country\nIt subtracts what foreigners make inside the country and send out\n\n\n\n\n\nTake for example the per capita GNI of different countries:\n\n\n\nJapan  $36,030\nNigeria  $1,250\nFrance  $45,180\n\n\n\nUS  $83,660\nBrazil  $9,950\nAustralia  $62,550"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-4",
-    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-4",
+    "objectID": "Lectures/01-Growth-and-Dev/011-living-standards.html#people-live-differently",
+    "href": "Lectures/01-Growth-and-Dev/011-living-standards.html#people-live-differently",
     "title": "EC 390 - Development Econ",
-    "section": "Final Project",
-    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n Week 08  Presentation Outline\n\nSubmit a draft outline/rough draft of your presentation slides in which you summarize your question, motivation, and proposed approach to answer it\n\n Week 10"
+    "section": "",
+    "text": "Who woulda thunk?\nWe can make some coarse comparisons across countries by some measures we will detail later\n\n\nOne of those is Gross National Income\n\nIt is like GDP plus stuff:\n\nIt adds the money that the country’s citizens and companies make outside of the country\nIt subtracts what foreigners make inside the country and send out\n\n\n\n\n\nTake for example the per capita GNI of different countries:\n\n\n\nJapan  $36,030\nNigeria  $1,250\nFrance  $45,180\n\n\n\nUS  $83,660\nBrazil  $9,950\nAustralia  $62,550"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-5",
-    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-5",
+    "objectID": "Lectures/01-Growth-and-Dev/011-living-standards.html#people-live-differently-1",
+    "href": "Lectures/01-Growth-and-Dev/011-living-standards.html#people-live-differently-1",
     "title": "EC 390 - Development Econ",
-    "section": "Final Project",
-    "text": "Final Project\nI will give more details as we move along the term but here is the rough outline:\n Week 02  Topic Selection\n Week 06  Annotated Bibliography\n Week 08  Presentation Outline\n Week 10  Final Presentation\n\nDeliver a 10-minute presentation of your research project\n\nThis has a caveat"
+    "section": "People Live Differently",
+    "text": "People Live Differently\n\nWe can think about living standards across the globe in four “stylised strata”:\n\n\n\nHighest\n2nd Highest\n2nd Lowest\nBottom\n\n\n\nLet’s dive in and see"
   },
   {
-    "objectID": "Lectures/00-Introduction/002-syllabus.html#final-project-caveat",
-    "href": "Lectures/00-Introduction/002-syllabus.html#final-project-caveat",
+    "objectID": "Lectures/01-Growth-and-Dev/011-living-standards.html#bottom",
+    "href": "Lectures/01-Growth-and-Dev/011-living-standards.html#bottom",
     "title": "EC 390 - Development Econ",
-    "section": "Final Project Caveat",
-    "text": "Final Project Caveat\n\nI have allocated the entirety of Week 10 for presentations, but that only allows us 240min which equals only 24 presentations\n\n\n\nBecause of this, I will allow you to submit a recording of your presentation instead\nBy Week 04, I will ask for volunteers to present in-class\n\nThis will be first-come, first-serve\n\nVolunteers will receive Extra Credit for doing so, however there is a second caveat\nIf you do sign up to present, that is a commitment you are making with me  you CANNOT back out of it\n\nIf you fail to present in person, you will be punished in your grade for doing so"
+    "section": "Bottom",
+    "text": "Bottom\n\n\n\nAlmost 700 million people (8.5% of the global population) live in extreme poverty\n\nThat is qualified as living on less than $2.15 per day\n\nThey will likely have serious concerns about their health, nutrition, education, sanitation, potable water, and housing\nThey grow their own food and make their own shelter.\nThey are essentially in a subsistence economy"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/011-living-standards.html#nd-lowest",
+    "href": "Lectures/01-Growth-and-Dev/011-living-standards.html#nd-lowest",
+    "title": "EC 390 - Development Econ",
+    "section": "2nd Lowest",
+    "text": "2nd Lowest\nNot officially extremely poor, but I think we would usually consider them as very poor\n\n\nAbout 1.7 Billion people live on less than $3.65 per day\n\n\n\n\nEmployment is most likely informal\nLikely get around on cheap and barely functioning vehicles\nWater may only be potable after boiling or adding chlorine\nPossibly less hazardous cooking materials used\n\n\n\n\nStill likely suffer from one or more components of poverty, although not enough to be officially classified as multidimensionally poor"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/011-living-standards.html#nd-highest",
+    "href": "Lectures/01-Growth-and-Dev/011-living-standards.html#nd-highest",
+    "title": "EC 390 - Development Econ",
+    "section": "2nd Highest",
+    "text": "2nd Highest\n\n\nWe can think of people in this strata as living on about $15 per day\n\nMore than 75% of the world lives at this level \\(\\rightarrow\\) we would consider them as middle income by global standards\n\n\n\n\n\nThey will live in more urban areas\nEmployment may still be informal with minimal stability\nThey probably have a TV\nHave some education\n\n\n\n\nChildren are likely to survive early childhood"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/011-living-standards.html#nuevo-zirosto-michoacan-mexico",
+    "href": "Lectures/01-Growth-and-Dev/011-living-standards.html#nuevo-zirosto-michoacan-mexico",
+    "title": "EC 390 - Development Econ",
+    "section": "Nuevo Zirosto, Michoacan, Mexico",
+    "text": "Nuevo Zirosto, Michoacan, Mexico"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/011-living-standards.html#highest",
+    "href": "Lectures/01-Growth-and-Dev/011-living-standards.html#highest",
+    "title": "EC 390 - Development Econ",
+    "section": "Highest",
+    "text": "Highest\nClose to a billion people live at this level\n\nWe are all here\n\n\n\nNot millionaires but live comfortably\nFormal jobs, generally with some sort of labor protection\nTVs, high-speed internet, smartphones, laptops, refrigerators, dishwashers, etc.\nFood is not necessarily an issue\nChildren will be healthy\n\nAlthough obesity has rapidly become a problem\n\nHigh life-expectancy at birth\nLive will have ups and downs but very unlikely to fall below this stratum"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/011-living-standards.html#movement-across-strata",
+    "href": "Lectures/01-Growth-and-Dev/011-living-standards.html#movement-across-strata",
+    "title": "EC 390 - Development Econ",
+    "section": "Movement Across Strata",
+    "text": "Movement Across Strata\nIt is possible to move across strata, but the probabilities are usually low\n\n\nUsually movements will occur within levels, where individuals gain greater relative wealth\nInterestingly enough, the lower strata are generally aware of what life is within the higher levels.\nThe opposite is not necessarily true"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/013-dev-goals.html",
+    "href": "Lectures/01-Growth-and-Dev/013-dev-goals.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "In 2015, the UN adopted 17 Development Goals to be achieved by 2030.\n\n\nWe are determined to end poverty and hunger, in all their forms and dimensions, and to ensure that all human beings can fulfil their potential in dignity and equality and in a healthy environment.\n\n\n\nThere are three underlying principles that guides them:\n\n\nUniversality principle  Apply to every nation\nIntegration principle  There are interrelationships to consider between goals\nTransformation principle  Not sufficient to half-ass it"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/013-dev-goals.html#sustainable-development-goals",
+    "href": "Lectures/01-Growth-and-Dev/013-dev-goals.html#sustainable-development-goals",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "In 2015, the UN adopted 17 Development Goals to be achieved by 2030.\n\n\nWe are determined to end poverty and hunger, in all their forms and dimensions, and to ensure that all human beings can fulfil their potential in dignity and equality and in a healthy environment.\n\n\n\nThere are three underlying principles that guides them:\n\n\nUniversality principle  Apply to every nation\nIntegration principle  There are interrelationships to consider between goals\nTransformation principle  Not sufficient to half-ass it"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/013-dev-goals.html#sustainable-development-goals-1",
+    "href": "Lectures/01-Growth-and-Dev/013-dev-goals.html#sustainable-development-goals-1",
+    "title": "EC 390 - Development Econ",
+    "section": "17 Sustainable Development Goals",
+    "text": "17 Sustainable Development Goals"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/013-dev-goals.html#critique-of-goals",
+    "href": "Lectures/01-Growth-and-Dev/013-dev-goals.html#critique-of-goals",
+    "title": "EC 390 - Development Econ",
+    "section": "Critique of Goals",
+    "text": "Critique of Goals\nThey are not perfect by any measure.\nOne of my personal critiques is that it unfortunately relies on humans, but other than that we have:\n\n\nGoals may not be prioritised\nToo broad goals and difficult to address them all at once\nTrade-offs exist and some goals may be contradictory\n\nEconomic growth (Goal 8 and 9) may require environmental sacrifices (Goal 13 and 15)\n\nLack of binding agreements\n\nThis is a general problem with everything the UN does\n\nDifferent access to resources across the globe"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/015-ppp.html",
+    "href": "Lectures/01-Growth-and-Dev/015-ppp.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Enter Purchasing Power Parity (PPP)\n\n\nCalculates GNI using a common set of international prices for all goods and services\n\nMain idea: Create a basket of goods needed to live  Calculate price in each country and create an index\n\n\n\n\nWhat could be a problem with this?\n\n\n\nThe goods that make up the basket may be subjective"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/015-ppp.html#a-less-imperfect-way-to-compare-countries",
+    "href": "Lectures/01-Growth-and-Dev/015-ppp.html#a-less-imperfect-way-to-compare-countries",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Enter Purchasing Power Parity (PPP)\n\n\nCalculates GNI using a common set of international prices for all goods and services\n\nMain idea: Create a basket of goods needed to live  Calculate price in each country and create an index\n\n\n\n\nWhat could be a problem with this?\n\n\n\nThe goods that make up the basket may be subjective"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/015-ppp.html#how-to-think-about-ppp",
+    "href": "Lectures/01-Growth-and-Dev/015-ppp.html#how-to-think-about-ppp",
+    "title": "EC 390 - Development Econ",
+    "section": "How To Think About PPP?",
+    "text": "How To Think About PPP?\nPPP adjusts the fact that the same amount of money buys very different baskets of goods in different countries\nIt helps “equalize” incomes across nations, otherwise we get:\n\n\n\nWithout PPP\n\n\nPerson A earns $10,000 in Costa Rica\nPerson B earns $20,000 in the US\n\nYou’d say that Person A is poorer than Person B\n\n\nWith PPP\n\n\nSay prices are half as high in Costa Rica than in the US\nThen $10,000 in Costa Rica gives the same purchasing power as $20,000 in the US\n\n\n\n\n\n\n\nIf you ever need to do a quick calculation in a different country, find out how much a Big Mac costs"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/015-ppp.html#ppp-example",
+    "href": "Lectures/01-Growth-and-Dev/015-ppp.html#ppp-example",
+    "title": "EC 390 - Development Econ",
+    "section": "PPP Example",
+    "text": "PPP Example\nLet the basket of goods be: a toothbrush\n\nPrice of a toothbrush in the US: 1 USD\nPrice of a toothbrush in Mexico: 0.80 MXN\n\n\nWe can find the “Exchange Rate” by:\n\\[\\begin{align*}\n    PPP_{US,MEX} = \\dfrac{Cost_{US}}{Cost_{MEX}} = \\dfrac{1}{0.8} = 1.25\n\\end{align*}\\]\n\n\n\nThis means that 1 MEX is worth approx. 1.25 USD\nNow that we know that, we can compare GNIs"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/015-ppp.html#ppp-example-1",
+    "href": "Lectures/01-Growth-and-Dev/015-ppp.html#ppp-example-1",
+    "title": "EC 390 - Development Econ",
+    "section": "PPP Example",
+    "text": "PPP Example\nLet Mexico GNI per capita be 40,284 MXN.\nWe found that \\(PPP_{US,MEX} = 1.25\\)\nThen we have:\n\n\\[\\begin{align*}\n    GNI_{MEX} \\times PPP_{US,MEX} = 40,284 \\times 1.25 = 50,355\n\\end{align*}\\]\nMexico’s GNI per capita is equivalent to 50,355 USD\n\n\n\nBut this is conditional on the basket of goods we consider"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/015-ppp.html#ppp-example-2",
+    "href": "Lectures/01-Growth-and-Dev/015-ppp.html#ppp-example-2",
+    "title": "EC 390 - Development Econ",
+    "section": "PPP Example 2",
+    "text": "PPP Example 2\nNow we have two goods, so we create a price index\n\n\nConsider a basket made up of a toothbrush and toothpaste\nPrice of a toothbrush in the US is 2 USD\nPrice of a toothbrush in Mexico is 2 USD\n\n\n\nThen the basket of goods in the US would be \\(1 \\, USD + 2 \\, USD = 3 \\, USD\\)\nA basket of goods in Mexico would be \\(0.80 \\, MXN + 2 \\, MXN = 2.8 \\, MXN\\)\n\n\n\\[\\begin{align*}\n    PPP_{US,MEX} = \\dfrac{Cost_{US}}{Cost_{MEX}} = \\dfrac{3}{2.8} \\approx 1.07\n\\end{align*}\\]\n\n\nSo, under this new basket of goods, Mexican GNI would be equal to how many USD? $43,104"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/015-ppp.html#defining-development",
+    "href": "Lectures/01-Growth-and-Dev/015-ppp.html#defining-development",
+    "title": "EC 390 - Development Econ",
+    "section": "Defining Development",
+    "text": "Defining Development\nSo far we have only touched on one possible way to measure a country’s development\nWe believe that income is typically a good indicator for other signals about well-being, but it is not perfect\nWe can also consider other objective measures for development:\n\n\n\n\nInfant/child mortality\nMother/child health\nLife expectancy\nDisease prevalence\n\n\n\nPrimary school completion rates\nLiteracy rates\nGender differences within rates\n\n\n\n\n\nSo we can think of a more comprehensive way to measure development"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "There are 10 features that help us define key similarities and differences among developing countries\n\n\nAn important caveat to remind yourself of is that when we compare nations, we use averages which inherently blur some important information\n\n\nThe textbook has their own 10. I’ll do my own 8:\n\n\n\n\nPhysical and Human Resource Endowment\nPer Capita Incomes and GNI Levels Relative to the Rest of the World\nClimate\nPopulation Size, Distribution, and Growth\n\n\n\nHistorical Role of International Migration\nInternational Trade Benefits\nBasic Scientific and Technology Research & Development Capabilities\nEfficacy of Domestic Institutions"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#to-drive-the-point-home",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#to-drive-the-point-home",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "There are 10 features that help us define key similarities and differences among developing countries\n\n\nAn important caveat to remind yourself of is that when we compare nations, we use averages which inherently blur some important information\n\n\nThe textbook has their own 10. I’ll do my own 8:\n\n\n\n\nPhysical and Human Resource Endowment\nPer Capita Incomes and GNI Levels Relative to the Rest of the World\nClimate\nPopulation Size, Distribution, and Growth\n\n\n\nHistorical Role of International Migration\nInternational Trade Benefits\nBasic Scientific and Technology Research & Development Capabilities\nEfficacy of Domestic Institutions"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#physical-and-human-resource-endowment",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#physical-and-human-resource-endowment",
+    "title": "EC 390 - Development Econ",
+    "section": "Physical and Human Resource Endowment",
+    "text": "Physical and Human Resource Endowment\n\n\nCurrent developed countries had plentiful natural resources in early global development\nCurrent developing countries are typically lacking natural resources\n\nIf they do, resource extraction may be inefficient\nOr other developed nations may take advantage\n\nSkilled human resource endowment may be eve more stark\n\nThink about where the “best” universities in the world are concentrated"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#relative-size-of-gni-per-capita",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#relative-size-of-gni-per-capita",
+    "title": "EC 390 - Development Econ",
+    "section": "Relative Size of GNI per Capita",
+    "text": "Relative Size of GNI per Capita\n\n\nMany people in developing countries are\n\nNot everyone but a significant proportion\n\nIndividuals that are in developed countries had more economic freedom in their earlier stages\nDeveloped countries got ahead economically in their early stages\n\nThey leveraged that accumulated wealth to extract resources"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#climate-differences",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#climate-differences",
+    "title": "EC 390 - Development Econ",
+    "section": "Climate Differences",
+    "text": "Climate Differences\n\n\nMost developing countries are in a tropical or sub-tropical climate\nMost developed contries have more temperate climates\nHigh head and humidity degrade soil and other natural goods\nThere is also a higher prevalence of tropical diseases\n\nThe tropics are great for life to take hold at its most basic stages"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#population-size-distribution-and-growth",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#population-size-distribution-and-growth",
+    "title": "EC 390 - Development Econ",
+    "section": "Population Size, Distribution, and Growth",
+    "text": "Population Size, Distribution, and Growth\n\n\nPopulation growth in developed countries was"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#international-migration",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#international-migration",
+    "title": "EC 390 - Development Econ",
+    "section": "International Migration",
+    "text": "International Migration\n\n\nDeveloped countries during development saw benefits from migration of labor\n\nPeople migrate from low-income countries to higher-income countries seeking a higher quality of life\n\nDeveloping countries suffer from Brain Drain\n\n“Skilled” workers leave their home countries and work in developed countries\nIndividuals migrate for a better quality of life for themselves and their family\n\nBrain Drain causes slow growth in developing countries as they lose valuable human capital"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#international-trade",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#international-trade",
+    "title": "EC 390 - Development Econ",
+    "section": "International Trade",
+    "text": "International Trade\n\n\nDeveloped countries benefited from free trade early on\n\nFree Trade: Goods are imported/exported without obstacles like quotas or tariffs\n\nNow we are going through a drastic shift in attitudes toward Free Trade\n\nBrexit\nUS Global Tariffs"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#basic-scientific-and-technology-research-development-capabilities",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#basic-scientific-and-technology-research-development-capabilities",
+    "title": "EC 390 - Development Econ",
+    "section": "Basic Scientific and Technology Research & Development Capabilities",
+    "text": "Basic Scientific and Technology Research & Development Capabilities\n\n\nDeveloped countries got ahead early with their scientific and technological research, primarly due to their ability to invest in them\nDeveloping countries are lagging far behind in R&D\n\nNot necessarily their fault"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#efficacy-of-institutions",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#efficacy-of-institutions",
+    "title": "EC 390 - Development Econ",
+    "section": "Efficacy of Institutions",
+    "text": "Efficacy of Institutions\n\n\nMany developed countries began with and still have strong institutions\n\nWell defined property rights\nWell defined rule of law\nStrong judicial system\n\nColonial powers established institutions that systemically created high inequality and extraction of resources to benefit foreign powers\nAfter countries obtain independence, self-governance is established but often through weak institutions and high possibility of corruption"
+  },
+  {
+    "objectID": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#developed-vs-developing-countries",
+    "href": "Lectures/01-Growth-and-Dev/017-similarities-diff.html#developed-vs-developing-countries",
+    "title": "EC 390 - Development Econ",
+    "section": "Developed vs Developing Countries",
+    "text": "Developed vs Developing Countries\n\nUnfortunately, developed countries are not always a good template of growth\nHistorically, nations that are ahead got there through a not-so-great reason\nHowever, given globalization and stronger international market participation growth is normalizing in the world"
   },
   {
     "objectID": "Readings/list.html",

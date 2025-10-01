@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lectures – EC 390 - Development Econ</title>
+<title>ppp – EC 390 - Development Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-edaed47616cff17274c94edd6732b246.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-edaed47616cff17274c94edd6732b246.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 390 - Development Econ</span>
     </a>
   </div>
@@ -89,15 +120,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../Lectures/list.html" aria-current="page"> 
+    <a class="nav-link" href="../../Lectures/list.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Readings/list.html"> 
+    <a class="nav-link" href="../../Readings/list.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/list.html"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
 </ul>
@@ -116,43 +147,153 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Lectures</h1>
+
+
+
+<section id="a-less-imperfect-way-to-compare-countries" class="level2">
+<h2 class="anchored" data-anchor-id="a-less-imperfect-way-to-compare-countries">A Less Imperfect Way to Compare Countries</h2>
+<p><span class="hi">Enter Purchasing Power Parity (PPP)</span></p>
+<div class="fragment">
+<ul>
+<li>Calculates GNI using a common set of international prices for all goods and services
+<ul>
+<li>Main idea: Create a basket of goods needed to live <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> Calculate price in each country and create an index</li>
+</ul></li>
+</ul>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p><a href="00-Introduction/000-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="00-Introduction/000-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<div class="fragment">
+<p><span class="hi align-center">What could be a problem with this?</span></p>
 </div>
+<div class="fragment">
+<ul>
+<li>The goods that make up the basket may be subjective</li>
+</ul>
+</div>
+<hr>
 </section>
-<section id="growth-development" class="level2">
-<h2 class="anchored" data-anchor-id="growth-development">Growth &amp; Development</h2>
-<p><a href="01-Growth-and-Dev/010-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="01-Growth-and-Dev/010-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="how-to-think-about-ppp" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-think-about-ppp">How To Think About PPP?</h2>
+<p><span class="hi">PPP</span> adjusts the fact that <span class="hp">the same amount of money buys very different baskets</span> of goods in different countries</p>
+<p>It helps “equalize” incomes across nations, otherwise we get:</p>
+<div class="fragment small">
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><span class="hi align-center">Without PPP</span></p>
+<div class="fragment">
+<ul>
+<li><span class="h">Person A</span> earns $10,000 in Costa Rica</li>
+<li><span class="hi-teal">Person B</span> earns $20,000 in the US</li>
+</ul>
+<p><span class="hi">You’d say that</span> <span class="h">Person A</span> is poorer than <span class="hi-teal">Person B</span></p>
+</div>
+</div><div class="column" style="width:50%;">
+<p><span class="hi align-center">With PPP</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Say prices are half as high in Costa Rica than in the US</li>
+<li>Then $10,000 in Costa Rica gives the same <span class="hi">purchasing power</span> as $20,000 in the US</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="fragment">
+<blockquote class="blockquote">
+<p>If you ever need to do a quick calculation in a different country, find out how much a Big Mac costs</p>
+</blockquote>
+</div>
+<hr>
+</section>
+<section id="ppp-example" class="level2">
+<h2 class="anchored" data-anchor-id="ppp-example">PPP Example</h2>
+<p>Let the basket of goods be: <span class="hi">a toothbrush</span></p>
+<ul>
+<li>Price of <span class="hi">a toothbrush</span> in the US: 1 USD</li>
+<li>Price of <span class="hi">a toothbrush</span> in Mexico: 0.80 MXN</li>
+</ul>
+<div class="fragment">
+<p>We can find the “Exchange Rate” by:</p>
+<p><span class="math display">\[\begin{align*}
+    PPP_{US,MEX} = \dfrac{Cost_{US}}{Cost_{MEX}} = \dfrac{1}{0.8} = 1.25
+\end{align*}\]</span></p>
+</div>
+<div class="fragment">
+<ul>
+<li><p>This means that 1 MEX is worth approx. 1.25 USD</p></li>
+<li><p>Now that we know that, we can compare GNIs</p></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="ppp-example-1" class="level2">
+<h2 class="anchored" data-anchor-id="ppp-example-1">PPP Example</h2>
+<p>Let Mexico GNI per capita be 40,284 MXN.</p>
+<p>We found that <span class="math inline">\(PPP_{US,MEX} = 1.25\)</span></p>
+<p>Then we have:</p>
+<div class="fragment">
+<p><span class="math display">\[\begin{align*}
+    GNI_{MEX} \times PPP_{US,MEX} = 40,284 \times 1.25 = 50,355
+\end{align*}\]</span></p>
+<p>Mexico’s GNI per capita is equivalent to 50,355 USD</p>
+</div>
+<div class="fragment">
+<blockquote class="blockquote">
+<p>But this is <span class="hp">conditional on the basket of goods</span> we consider</p>
+</blockquote>
+</div>
+<hr>
+</section>
+<section id="ppp-example-2" class="level2">
+<h2 class="anchored" data-anchor-id="ppp-example-2">PPP Example 2</h2>
+<p>Now we have two goods, so we create a <span class="hi">price index</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Consider a basket made up of a toothbrush and toothpaste</li>
+<li>Price of a toothbrush in the US is 2 USD</li>
+<li>Price of a toothbrush in Mexico is 2 USD</li>
+</ul>
+</div>
+<div class="fragment">
+<p>Then the basket of goods in the US would be <span class="math inline">\(1 \, USD + 2 \, USD = 3 \, USD\)</span></p>
+<p>A basket of goods in Mexico would be <span class="math inline">\(0.80 \, MXN + 2 \, MXN = 2.8 \, MXN\)</span></p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[\begin{align*}
+    PPP_{US,MEX} = \dfrac{Cost_{US}}{Cost_{MEX}} = \dfrac{3}{2.8} \approx 1.07
+\end{align*}\]</span></p>
+</div>
+<div class="fragment">
+<p>So, under this new basket of goods, Mexican GNI would be equal to how many USD? <span class="fragment hi">$43,104</span></p>
+</div>
+<hr>
+</section>
+<section id="defining-development" class="level2">
+<h2 class="anchored" data-anchor-id="defining-development">Defining Development</h2>
+<p>So far we have only touched on <span class="hi">one possible way to measure a country’s development</span></p>
+<p>We believe that income is typically a good indicator for other signals about well-being, but it is not perfect</p>
+<p>We can also consider other <span class="hi">objective measures</span> for development:</p>
+<div class="fragment">
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Infant/child mortality</li>
+<li>Mother/child health</li>
+<li>Life expectancy</li>
+<li>Disease prevalence</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Primary school completion rates</li>
+<li>Literacy rates</li>
+<li>Gender differences within rates</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fragment">
+<p>So we can think of a more comprehensive way to measure development</p>
 </div>
 
 

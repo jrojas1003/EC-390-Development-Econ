@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lectures – EC 390 - Development Econ</title>
+<title>hdi – EC 390 - Development Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-edaed47616cff17274c94edd6732b246.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-edaed47616cff17274c94edd6732b246.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 390 - Development Econ</span>
     </a>
   </div>
@@ -89,15 +120,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../Lectures/list.html" aria-current="page"> 
+    <a class="nav-link" href="../../Lectures/list.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Readings/list.html"> 
+    <a class="nav-link" href="../../Readings/list.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/list.html"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
 </ul>
@@ -116,43 +147,96 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Lectures</h1>
+
+
+
+<section id="defining-development" class="level2">
+<h2 class="anchored" data-anchor-id="defining-development">Defining Development</h2>
+<p>Recall we have a large list of factors to possibly consider when measuring development</p>
+<ul>
+<li>What if a country has a <span class="hi-green">high life expectancy but low literacy</span>? How can we compare that country with <span class="hp">high literacy but low life expectancy</span>?</li>
+</ul>
+<div class="fragment">
+<p>We can then consider using the <span class="hi">Human Development Index (HDI)</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>This measures the national socioeconomic development by combining education, health, and adjusted real income per capita</li>
+<li>It goes from 0 (lowest human development) to 1 (highest human development)</li>
+</ul>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p><a href="00-Introduction/000-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="00-Introduction/000-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
 </div>
+<hr>
 </section>
-<section id="growth-development" class="level2">
-<h2 class="anchored" data-anchor-id="growth-development">Growth &amp; Development</h2>
-<p><a href="01-Growth-and-Dev/010-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="01-Growth-and-Dev/010-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="how-is-hdi-measured" class="level2">
+<h2 class="anchored" data-anchor-id="how-is-hdi-measured">How is HDI Measured?</h2>
+<p>Since there are <span class="hi">three separate components</span>, we first have to measure those.</p>
+<p>Thankfully it is not complicated</p>
+<div class="fragment">
+<p>Each component is calculated as a ratio given by the <span class="h">distance above the minimum to the maximum</span> level that a country has achieved</p>
+<p><span class="math display">\[\begin{align*}
+    \text{Dimension Index} = \; \dfrac{\text{Actual Value} - \text{Min Value}}{\text{Max Value} - \text{Min Value}}
+\end{align*}\]</span></p>
+</div>
+<div class="fragment">
+<p>The dimensions used are:</p>
+<ul>
+<li>Health <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> Life Expectancy</li>
+<li>Education <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> Average Years of Schooling &amp; Expected Years of Schooling</li>
+<li>Income <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> PPP adjusted per capita GNI</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="how-is-hdi-measured-1" class="level2">
+<h2 class="anchored" data-anchor-id="how-is-hdi-measured-1">How is HDI Measured?</h2>
+<p>Once we have these values, we calculate the <span class="hi">HDI</span> using a <span class="hi">geometric mean</span></p>
+<ul>
+<li>This allows for imperfect substitution between the factors when measuring economic development of countries</li>
+</ul>
+<div class="fragment">
+<ul>
+<li>The formula is then:</li>
+</ul>
+<p><span class="math display">\[\begin{align*}
+    HDI = H^{1/3}E^{1/3}I^{1/3}
+\end{align*}\]</span></p>
+<p>Where:</p>
+<p><span class="align-center"><span class="math inline">\(H =\)</span> Health Index <span class="math inline">\(\;\;\;\;\; E =\)</span> Education Index <span class="math inline">\(\;\;\;\;\; I =\)</span> Income Index</span></p>
+</div>
+<hr>
+</section>
+<section id="hdi---interpreting-the-value" class="level2">
+<h2 class="anchored" data-anchor-id="hdi---interpreting-the-value">HDI - Interpreting the Value</h2>
+<p>After having obtained all <span class="hi">3 individual indices</span> and calculated the <span class="hi">HDI</span>, we get a number between 0 and 1</p>
+<p>The most recent classifications are:</p>
+<div class="fragment">
+<ul>
+<li>Low Human Development (&lt; 0.550)</li>
+<li>Medium Human Development (0.550 - 0.699)</li>
+<li>High Human Development (0.700 - 0.799)</li>
+<li>Very High Human Development (<span class="math inline">\(\geq\)</span> 0.800)</li>
+</ul>
+</div>
+<p><a href="https://hdr.undp.org/data-center/human-development-index#/indicies/HDI" class="align-center">UNDP Website</a></p>
+<hr>
+</section>
+<section id="hdi-through-time" class="level2">
+<h2 class="anchored" data-anchor-id="hdi-through-time">HDI Through Time</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/HDI-trends.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="hdi-snapshot" class="level2">
+<h2 class="anchored" data-anchor-id="hdi-snapshot">HDI Snapshot</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/HDI-global.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
 </div>
 
 
