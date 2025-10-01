@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  25 SEP 2025 12:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  1 OCT 2025 08:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/joserojas/Documents/Teaching/EC 390 - Development/Assignments/Problem-Sets/PS01/ps01.tex"
-(/Users/joserojas/Documents/Teaching/EC 390 - Development/Assignments/Problem-Sets/PS01/ps01.tex
+**"/Users/joserojas/Documents/Teaching/EC390 - Development/Assignments/Problem-Sets/PS01/ps01.tex"
+(/Users/joserojas/Documents/Teaching/EC390 - Development/Assignments/Problem-Sets/PS01/ps01.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/exam/exam.cls
@@ -166,10 +166,13 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/eurosym/eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box52
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \c@tracingmulticols=\count307
-\mult@box=\box52
+\mult@box=\box53
 \multicol@leftmargin=\dimen152
 \c@unbalance=\count308
 \c@collectmore=\count309
@@ -182,15 +185,14 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \postmulticols=\dimen156
 \multicolsep=\skip75
 \multicolbaselineskip=\skip76
-\partial@page=\box53
-\last@line=\box54
-\mc@boxedresult=\box55
+\partial@page=\box54
+\last@line=\box55
+\mc@boxedresult=\box56
 \maxbalancingoverflow=\dimen157
-\mult@rightbox=\box56
-\mult@grightbox=\box57
-\mult@firstbox=\box58
-\mult@gfirstbox=\box59
-\@tempa=\box60
+\mult@rightbox=\box57
+\mult@grightbox=\box58
+\mult@firstbox=\box59
+\mult@gfirstbox=\box60
 \@tempa=\box61
 \@tempa=\box62
 \@tempa=\box63
@@ -226,14 +228,15 @@ Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
 \@tempa=\box93
 \@tempa=\box94
 \@tempa=\box95
+\@tempa=\box96
 \c@minrows=\count313
 \c@columnbadness=\count314
 \c@finalcolumnbadness=\count315
 \last@try=\dimen158
 \multicolovershoot=\dimen159
 \multicolundershoot=\dimen160
-\mult@nat@firstbox=\box96
-\colbreak@box=\box97
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
 \mc@col@check@num=\count316
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
@@ -499,7 +502,7 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex)) (/usr/local/texlive/2024/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2023/10/27 v2.16 Sectioning titles
-\ttl@box=\box98
+\ttl@box=\box99
 \beforetitleunit=\skip80
 \aftertitleunit=\skip81
 \ttl@plus=\dimen256
@@ -603,37 +606,37 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip82
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 67.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 121.
+Package hyperref Info: Option `colorlinks' set `true' on input line 68.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 122.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count341
-\l__pdf_internal_box=\box99
+\l__pdf_internal_box=\box100
 ) (./ps01.aux)
 \openout1 = `ps01.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for pmboxdraw/pmboxdraw/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for pmboxdraw/pmboxdraw/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 122.
+LaTeX Font Info:    ... okay on input line 122.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -675,7 +678,7 @@ LaTeX Font Info:    ... okay on input line 121.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count342
 \scratchdimen=\dimen265
-\scratchbox=\box100
+\scratchbox=\box101
 \nofMPsegments=\count343
 \nofMParguments=\count344
 \everyMPshowfont=\toks33
@@ -693,22 +696,44 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 121.
+Package hyperref Info: Link coloring ON on input line 122.
  (./ps01.out) (./ps01.out)
 \@outlinefile=\write3
 \openout3 = `ps01.out'.
 
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 123.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 124.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 148.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 149.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 172.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 172.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 172.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 172.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 172.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 172.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 172.
  [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
 
-]
-This exam contains 3 questions with 0 parts, 0 subparts, and 0 subsubparts.
-This exam has a total of 5 points.
+] [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}] [3] [4{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+This exam contains 6 questions with 6 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 50 points.
 This exam has a total of 0 bonus points.
 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -721,18 +746,18 @@ Package rerunfilecheck Info: File `ps01.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14679 strings out of 474116
- 229419 string characters out of 5743681
+ 14894 strings out of 474116
+ 233356 string characters out of 5743681
  1934187 words of memory out of 5000000
- 36861 multiletter control sequences out of 15000+600000
- 582342 words of font info for 47 fonts, out of 8000000 for 9000
+ 37036 multiletter control sequences out of 15000+600000
+ 593484 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,10n,67p,321b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso12.pfb>
-Output written on ps01.pdf (1 page, 96409 bytes).
+ 70i,10n,67p,320b,567s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/eurosym/feymr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
+Output written on ps01.pdf (4 pages, 130727 bytes).
 PDF statistics:
- 43 PDF objects out of 1000 (max. 8388607)
- 31 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

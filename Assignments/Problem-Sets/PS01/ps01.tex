@@ -12,6 +12,7 @@
 \usepackage[utf8]{inputenc}   % Input encoding
 \usepackage[T1]{fontenc}      % Output font encoding
 \usepackage{lmodern}          % Latin Modern fonts (improves output)
+\usepackage[official]{eurosym}
 
 % ---------------------------------------------------
 % Tables and Columns
@@ -79,7 +80,7 @@
 % This is the name of the assignment (center header)
 \newcommand{\examnum}{\fontfamily{lmss} \textbf{PS 01}} 
 % This is the due date (right header)
-\newcommand{\examdate}{\fontfamily{lmss} \textbf{January 15 at 01:59pm}} 
+\newcommand{\examdate}{\fontfamily{lmss} \textbf{October 08 at 11:59am}} 
 
 % ---------------------------------------------------
 % Points Options
@@ -144,7 +145,7 @@ You will not be given full credit if your answers cannot be easily understood.
 
 \begin{questions}
     
-\question 
+\question[7] 
 What does it mean if someone is living in \emph{absolute poverty}? 
 What is the World Bank's definition of absolute povery?
 Does it make sense to define poverty in terms of income? 
@@ -157,20 +158,92 @@ Why or why not?
 
 \vspace*{\stretch{1}}       % Standardizes distance between questions in page
 
-\question[5] 
-The \textbf{Purchasing Power Parity (PPP)} is defined to be: 
+\question[3] 
+The \textbf{Purchasing Power Parity (PPP)} is defined to be (in your own words): 
 
 \vspace*{\stretch{1}} 
 
-\question
+\question[10]
+Use the following information to determine whether there is evidence of \textbf{relative convergence, absolute convergence, or both}:
 
-\begin{choices}
-    \choice option 01
-    \CorrectChoice option 02
-    \choice option 03
-    \choice option 04
-\end{choices}
+\begin{table}[ht]
+  \centering
+  \label{tab:convergence}
+  \begin{tabular}{lcc}
+    \toprule
+    Country & GNI per Capita (2010) & GNI per Capita (2019) \\
+    \midrule
+    Megaton & \$545 & \$890.21 \\
+    New Vegas & \$350 & \$458.61 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
 \vspace*{\stretch{1}}
+
+\newpage
+
+\question
+The prices of goods in Maynooth and Eugene are given below. 
+Note that the prices from Maynooth are measured in \euro $\,$ and prices in Eugene are measured in \$.
+
+\begin{table}[ht]
+  \centering
+  \label{tab:prices}
+  \begin{tabular}{lcc}
+    \toprule
+     & Maynooth & Eugene \\
+    \midrule
+    Shoes & \euro 45 & \$ 55 \\
+    Sweaters & \euro 35 & \$ 20 \\
+    Hat & \euro 20 & \$ 15 \\
+    \bottomrule
+  \end{tabular}
+\end{table}
+
+\begin{parts}
+  \part[4] 
+  Suppose that we define a basket of goods as \textbf{two pairs of shoes} and \textbf{one sweater}.
+  What is the \textbf{purchasing power parity} between Maynooth and Eugene $(P_{May, Eug})$?
+  \vspace*{\stretch{1}}
+  \part[3] 
+  Suppose that the GNI per capita of Maynooth is \euro $\,$ 1,500. 
+  Using part (a), what is the \textbf{PPP-adjusted} value of Maynooth's GNI per capita (in \$)?
+  \vspace*{\stretch{1}}
+  \part[3]
+  Suppose that the GNI per capita of Eugene is \$ 2,500.
+  Using part (a), what is the \textbf{PPP-adjusted} value of Eugene's GNI per capita (in \euro)? 
+  \vspace*{\stretch{1}}
+\end{parts}
+
+\newpage 
+
+\question 
+Consider the city of Hamilton, New York. 
+Let Hamilton follow the Harrod-Domar model of growth.
+
+\begin{parts}
+  \part[3] 
+  Hamilton's ratio of capital-output is 5.5 and has a savings rate of 22\%.
+  At what rate do you expect Hamilton's output to grow?
+  \vspace*{\stretch{1}}
+  \part[3] 
+  Hamilton wants to increase the city's growth rate to 7.7\%.
+  If Hamilton's capital-output ratio remains at 5.5, what savings rate should Hamilton target if it wants to achieve this growth rate?
+  \vspace*{\stretch{1}}
+  \part[4]
+  \textbf{True or False?}
+  Developing countris can change their savings rate easily. 
+  Explain. 
+  (Be brief, no more than 1 paragraph)
+  \vspace*{\stretch{1}}
+\end{parts}
+
+\newpage
+
+\question[10]
+Consider the Solow model discussed in class.
+Consider a population growth rate increase from $n$ to $n'$.
+Show graphically what happens to \textbf{capital per worker $(k)$} and \textbf{output per worker $(y)$}.
 
 \end{questions}
 
