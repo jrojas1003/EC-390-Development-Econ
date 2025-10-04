@@ -1,5 +1,5 @@
 ---
-title: "Introduction and Overview"
+title: "Growth and Developmoent"
 subtitle: "EC 390 - Development Economics"
 author: Jose Rojas-Fallas
 date: last-modified
