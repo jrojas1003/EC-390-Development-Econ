@@ -16,7 +16,9 @@ website:
         text: Readings
       - href: Assignments/list.qmd
         text: Homework
-
+      - href: Assignments/final-project.qmd
+        text: Final Project
+        
   announcement: 
     icon: clipboard2-check-fill
     dismissable: true
