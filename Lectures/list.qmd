@@ -25,3 +25,15 @@ title: Lectures
   </div>
 ```
 :::
+
+## Theories of Growth and Development
+
+[Expand Slides](02-Theories-of-Growth/020-compile.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+
+::: {.align-center}
+```{=html}
+  <div class="embed-container">
+    <iframe class="slide deck" src="02-Theories-of-Growth/020-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+```
+:::
