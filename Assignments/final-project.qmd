@@ -1,0 +1,23 @@
+---
+title: Final Project
+---
+
+## 
+
+[Topic Selection - Due Wednesday, October 08 @ 11:59pm]{.text-center .h .large} 
+
+::: {.align-center}
+[Instructions](Final-Project/01-Topic-Selection/topic-selection.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
+[Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916912){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
+
+
+## Annotated Bibliography (Week 06)
+
+
+
+## Presentation Outline (Week 08)
+
+
+
+## Final Presentation (Week 10)
