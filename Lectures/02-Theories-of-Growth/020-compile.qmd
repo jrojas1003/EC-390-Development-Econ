@@ -15,4 +15,22 @@ title-slide-attributes:
   data-background-position: left
 ---
 
-# Living Standards Across the World {.inverse .note}
+## Goals
+
+::: {.vertical-center}
+- Look at economic [theories/models]{.hi} to see what they can say about:
+
+  - What can be done to improve a country's economic growth
+  - What changes to expect as a country develops
+
+::: {.fragment}
+- We will begin with [growth models]{.h} {{< fa arrow-right >}} Factors that influence [economic growth]{.hi}
+
+- Then cover [contemporary models of development]{.h} and underdevelopment (coordination failure)
+:::
+
+:::
+
+# Harrod-Domar Growth Model {.inverse .note}
+
+{{< include 021-harrod-domar.qmd >}}

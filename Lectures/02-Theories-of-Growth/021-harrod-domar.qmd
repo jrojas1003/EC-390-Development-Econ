@@ -1,0 +1,325 @@
+---
+name: Harrod-Domar Growth Model
+---
+
+## Model 01 - Harrod-Domar
+
+[Savings drive growth]{.hp .align-center}
+
+::: {.vertical-center}
+
+::: {.incremental}
+- The [more a country saves]{.hp}, the more it can [invest in capital]{.hp}
+
+- To produce output, the only thing we need is [capital]{.hi}
+
+    - We ignore labor
+:::
+
+<br>
+
+::: {.fragment}
+- Let's start with the [model assumptions]{.hi}
+:::
+
+:::
+
+---
+
+## Harrod-Domar Assumptions
+
+::: {.vertical-center}
+[_1._]{.note .hp} [Net savings $(S)$]{.hi} is a fixed proportion of [national income $(Y)$]{.hi}
+
+[_2._]{.note .hp} A fixed amount of [Capital $(K)$]{.hi} is need to produce output
+
+[_3._]{.note .hp} All new [Investments $(I)$]{.hi} is used to increase the [Capital Stock $(K)$]{.hi}
+
+[_4._]{.note .hp} The [savings-investment]{.hi} market [clears]{.hp}
+:::
+
+---
+
+## Harrod-Domar Assumptions
+
+::: {.vertical-center}
+[_1._]{.note .hp} [Net savings $(S)$]{.hi} is a fixed proportion of [national income $(Y)$]{.hi}
+
+\begin{align*}
+    S = sY \\
+    0 \leq s \leq 1
+\end{align*}
+
+::: {.faded}
+[_2._]{.note .hp} A fixed amount of [Capital $(K)$]{.hi} is need to produce output
+
+[_3._]{.note .hp} All new [Investments $(I)$]{.hi} is used to increase the [Capital Stock $(K)$]{.hi}
+
+[_4._]{.note .hp} The [savings-investment]{.hi} market [clears]{.hp}
+:::
+
+:::
+
+---
+
+## Harrod-Domar Assumptions
+
+::: {.vertical-center .small}
+
+::: {.faded}
+[_1._]{.note .hp} [Net savings $(S)$]{.hi} is a fixed proportion of [national income $(Y)$]{.hi}
+:::
+
+[_2._]{.note .hp} A fixed amount of [Capital $(K)$]{.hi} is need to produce output
+
+- [Capital]{.hi} is a fixed proportion of output where [$c$]{.h} is a [capital-output ratio]{.h}
+
+::: {.fragment}
+
+$$K = cY$$ [$$\Rightarrow c = \dfrac{K}{Y}$$]{.fragment} [$$\Rightarrow \Delta K = c \Delta Y$$]{.fragment}
+
+:::
+
+::: {.faded}
+[_3._]{.note .hp} All new [Investments $(I)$]{.hi} is used to increase the [Capital Stock $(K)$]{.hi}
+
+[_4._]{.note .hp} The [savings-investment]{.hi} market [clears]{.hp}
+:::
+
+:::
+
+---
+
+## Harrod-Domar Assumptions
+
+::: {.vertical-center}
+
+::: {.faded}
+[_1._]{.note .hp} [Net savings $(S)$]{.hi} is a fixed proportion of [national income $(Y)$]{.hi}
+
+[_2._]{.note .hp} A fixed amount of [Capital $(K)$]{.hi} is need to produce output
+:::
+
+[_3._]{.note .hp} All new [Investments $(I)$]{.hi} is used to increase the [Capital Stock $(K)$]{.hi}
+
+$$
+    I = \Delta K
+$$
+
+::: {.faded}
+[_4._]{.note .hp} The [savings-investment]{.hi} market [clears]{.hp}
+:::
+
+:::
+
+---
+
+## Harrod-Domar Assumptions
+
+::: {.vertical-center}
+
+::: {.faded}
+[_1._]{.note .hp} [Net savings $(S)$]{.hi} is a fixed proportion of [national income $(Y)$]{.hi}
+
+[_2._]{.note .hp} A fixed amount of [Capital $(K)$]{.hi} is need to produce output
+
+[_3._]{.note .hp} All new [Investments $(I)$]{.hi} is used to increase the [Capital Stock $(K)$]{.hi}
+:::
+
+[_4._]{.note .hp} The [savings-investment]{.hi} market [clears]{.hp}
+
+- All savings are used as investment
+
+$$
+    S = I
+$$
+:::
+
+---
+
+## Harrod-Domar Growth Model
+
+::: {.align-center}
+We are after the [Growth Rate of Income (or production)]{.hi}
+:::
+
+$$
+    \dfrac{\Delta Y}{Y}
+$$
+
+::: {.incremental}
+- There are only [4 equations]{.hp}
+- [Algebra]{.hi} is easy once you know how and where you are going
+:::
+
+---
+
+## Harrod-Domar Growth Model
+
+[Our 4 equations]{.hi .align-center}
+
+:::: {.columns}
+
+::: {.column width="50%" .align-center}
+[_1._]{.note .hp} $S = sY$
+
+[_2._]{.note .hp} $S = I$
+:::
+
+::: {.column width="50%" .align-center}
+[_3._]{.note .hp} $I = \Delta K$
+
+[_4._]{.note .hp} $\Delta K = c \Delta Y$
+:::
+
+::::
+
+![](images/line-break.png)
+
+::: {.fragment}
+[Show that]{.hi} [$\; sY = c \Delta Y$]{.hp .align-center}
+::: 
+
+::: {.align-center}
+[$sY = S \Rightarrow$]{.fragment} [$sY = I \Rightarrow$]{.fragment} [$sY = \Delta K \Rightarrow$]{.fragment} [$sY = c \Delta Y$]{.fragment .hp} 
+:::
+
+## Harrod-Domar: Growth Rate of Output
+
+Recall we want to find the [Growth Rate of Income]{.hi} $\dfrac{\Delta Y}{Y}$
+
+::: {.fragment}
+We can rearrange $sY = c \Delta Y$ to get it
+:::
+
+::: {.fragment}
+$$
+    \dfrac{\Delta Y}{Y} = \dfrac{s}{c}
+$$
+:::
+
+::: {.incremental}
+- This states that the [Rate of Growth of GDP]{.hi} is determined by the [net national savings ratio $(s)$]{.hp} and the [national capital-output ratio $(c)$]{.hp}, at the same time
+
+    - [Positively]{.hi-green} related to the savings ratio
+    - [Negatively]{.hi-red} related to the economy's capital-output ratio
+:::
+
+---
+
+## Harrod-Domar: Growth Rate of Output
+
+$$
+    \dfrac{\Delta Y}{Y} = \dfrac{s}{c}
+$$
+
+Let's break it down a bit
+
+::: {.fragment .align-center}
+$\dfrac{1}{c}$ measures the [efficiency of capital use]{.hi}
+:::
+
+::: {.incremental}
+- The lower the value of $c$ (the more efficient) that an economy runs at, the greater the output that can be gained from additional investment
+    - A higher $c$ means less output of $Y$
+    - If $c$ increases, then the [growth rate decreases]{.hi}
+:::
+
+---
+
+## Harrod-Domar: Growth Rate of Output
+
+$$
+    \dfrac{\Delta Y}{Y} = \dfrac{s}{c}
+$$
+
+::: {.fragment .align-center}
+$s$ is the economy's [saving rate]{.hi}, which influences the level of investment
+:::
+
+::: {.incremental}
+- A higher $s$ implies a higher investment level
+- If $s$ increases, then the [growth rate increases]{.hi}
+:::
+
+---
+
+## Harrod-Domar Lessons
+
+In other words, the [Rate of Growth]{.hi} depends as much on the [efficiency of capital investments]{.hi-green} as the [amount of capital invested]{.hi-teal}
+
+<br><br>
+
+::: {.fragment}
+In its simplest form, a country that wants to [speed up development]{.h}:
+
+<br>
+
+[_1._]{.note .hp} [Save more]{.hi}
+
+[_2._]{.note .hp}  Build more [efficient capital]{.hi}
+:::
+
+---
+
+## Harrod-Domar Lessons
+
+In other words, the [Rate of Growth]{.hi} depends as much on the [efficiency of capital investments]{.hi-green} as the [amount of capital invested]{.hi-teal}
+
+<br><br>
+
+In its simplest form, a country that wants to [speed up development]{.h}:
+
+<br>
+
+[_1._]{.note .hp} [Save more]{.hi}
+
+- Difficult for individuals in [developing countries]{.hi} {{< fa arrow-right >}} Why?
+
+- Can be helped by [Foreign Aid/Investment]{.hi}
+
+::: {.faded}
+[_2._]{.note .hp}  Build more [efficient capital]{.hi}
+:::
+
+---
+
+## Harrod-Domar Lessons
+
+In other words, the [Rate of Growth]{.hi} depends as much on the [efficiency of capital investments]{.hi-green} as the [amount of capital invested]{.hi-teal}
+
+<br><br>
+
+In its simplest form, a country that wants to [speed up development]{.h}:
+
+<br>
+
+::: {.faded}
+[_1._]{.note .hp} [Save more]{.hi}
+:::
+
+[_2._]{.note .hp}  Build more [efficient capital]{.hi}
+
+- [Technology]{.hi} helps with efficient capital
+
+---
+
+## Harrod-Domar Simple Example
+
+- In 2011, Indonesia had a [capital-output]{.hi} ratio of 4
+
+$$
+    \dfrac{K}{Y} = c = 4
+$$
+
+If we want a [growth rate of 6%]{.hp}, [Harrod-Domar]{.hi} tells us that Indonesia needs a [savings rate]{.hi} of?
+
+<br>
+
+::: {.align-center}
+[$\dfrac{\Delta Y}{Y} = \dfrac{s}{c}$]{.fragment} [$\Rightarrow 6 = \dfrac{s}{4}$]{.fragment} [$\Rightarrow 24 = s$]{.fragment .hp}
+:::
+
+---
+
+## 
