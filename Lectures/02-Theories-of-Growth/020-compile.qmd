@@ -34,3 +34,7 @@ title-slide-attributes:
 # Harrod-Domar Growth Model {.inverse .note}
 
 {{< include 021-harrod-domar.qmd >}}
+
+# Solow Growth Model {.inverse .note}
+
+{{< include 022-solow.qmd >}}

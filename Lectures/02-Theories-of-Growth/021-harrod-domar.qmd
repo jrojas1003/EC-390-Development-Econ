@@ -300,7 +300,7 @@ In its simplest form, a country that wants to [speed up development]{.h}:
 
 [_2._]{.note .hp}  Build more [efficient capital]{.hi}
 
-- [Technology]{.hi} helps with efficient capital
+- [Technology]{.hi} helps with making capital more efficient
 
 ---
 
@@ -322,4 +322,39 @@ If we want a [growth rate of 6%]{.hp}, [Harrod-Domar]{.hi} tells us that Indones
 
 ---
 
-## 
+## Harrod-Domar Growth Model
+
+With theoretical models, you should always ask yourself: 
+
+[What? Why? Huh?]{.hp .align-center}
+
+::: {.incremental .small}
+- [Why]{.hp} this model? 
+    - After World War II, much of Europe was destroyed
+    - There was a lack of [capital $(K)$]{.hi}
+    - The [Marshall Plan]{.hi} was a large [foreign aid package]{.hi} from the US to Western Europe
+    - The aid package greatly sped up recovery of Europe and boosted economic growth
+- [What]{.hp} does it do?
+    - Explains how savings, capital, and output are potentially linked together
+- [Huh?]{.hp} [That's not realistic]{.hi}
+:::
+
+---
+
+## Criticisms of Harrod-Domar
+
+[No model is perfect]{.hi .align-center}
+
+[But good models help explain a small part of life]{.hi .align-center}
+
+[But these are not without proper criticism:]{.hi .align-center}
+
+::: {.fragment}
+- Overly simplified
+- No [population growth]{.hi}
+- No [technology change]{.hi}
+- The $K = cY$ assumption is concerning
+    - Assumes that turning capital into output is easy
+    - Assumes [constant returns to capital]{.hi}
+- Policy enacted based on the model did not increase economic growth significantly
+:::

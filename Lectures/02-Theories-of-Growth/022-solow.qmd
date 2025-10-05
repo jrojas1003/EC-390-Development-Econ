@@ -1,0 +1,340 @@
+---
+name: solow growth model
+---
+
+## Model 02 - Solow Growth Model
+
+Now we can add some [important features]{.hp}
+
+::: {.fragment .vertical-center}
+- Population growth
+- Technological change
+- Emphasizes looking at outcomes in [per worker]{.hi} terms
+::: 
+
+---
+
+## Solow Growth Model Assumptions
+
+::: {.vertical-center}
+[_1._]{.hp} [Output per worker $y$]{.hi} depends only on the amount of [capital per worker $k$]{.hi}
+
+[_2._]{.hp} Every worker [saves a proportion]{.hi} $s$ of their income
+
+[_3._]{.hp} [Population grows]{.hi} at rate $n$
+
+[_4._]{.hp} [Capital depreciates]{.hi} at rate $\delta$
+
+[_5._]{.hp} [Capital stock]{.hi} depends on new [investment]{.hi}
+::: 
+
+---
+
+## Solow Growth Model Assumptions
+
+[_1._]{.hp} [Output per worker $y$]{.hi} depends only on the amount of [capital per worker $k$]{.hi}
+
+$$ y = f(k)$$
+
+- $f()$ is [increasing]{.hi} (more capital leads to more output)
+- $f()$ is [concave]{.hi} (decreasing returns to capital)
+
+::: {.faded}
+[_2._]{.hp} Every worker [saves a proportion]{.hi} $s$ of their income
+
+[_3._]{.hp} [Population grows]{.hi} at rate $n$
+
+[_4._]{.hp} [Capital depreciates]{.hi} at rate $\delta$
+
+[_5._]{.hp} [Capital stock]{.hi} depends on new [investment]{.hi}
+:::
+
+---
+
+## Solow Growth Model Assumptions
+
+::: {.faded}
+[_1._]{.hp} [Output per worker $y$]{.hi} depends only on the amount of [capital per worker $k$]{.hi}
+:::
+
+[_2._]{.hp} Every worker [saves a proportion]{.hi} $s$ of their income
+
+$$0 \leq s \leq 1$$
+
+::: {.faded}
+[_3._]{.hp} [Population grows]{.hi} at rate $n$
+
+[_4._]{.hp} [Capital depreciates]{.hi} at rate $\delta$
+
+[_5._]{.hp} [Capital stock]{.hi} depends on new [investment]{.hi}
+:::
+
+---
+
+## Solow Growth Model Assumptions
+
+::: {.faded}
+[_1._]{.hp} [Output per worker $y$]{.hi} depends only on the amount of [capital per worker $k$]{.hi}
+
+[_2._]{.hp} Every worker [saves a proportion]{.hi} $s$ of their income
+:::
+
+[_3._]{.hp} [Population grows]{.hi} at rate $n$
+
+[_4._]{.hp} [Capital depreciates]{.hi} at rate $\delta$
+
+::: {.faded}
+[_5._]{.hp} [Capital stock]{.hi} depends on new [investment]{.hi}
+:::
+
+---
+
+## Solow Growth Model Assumptions
+
+::: {.faded}
+[_1._]{.hp} [Output per worker $y$]{.hi} depends only on the amount of [capital per worker $k$]{.hi}
+
+[_2._]{.hp} Every worker [saves a proportion]{.hi} $s$ of their income
+
+[_3._]{.hp} [Population grows]{.hi} at rate $n$
+
+[_4._]{.hp} [Capital depreciates]{.hi} at rate $\delta$
+:::
+
+[_5._]{.hp} [Capital stock]{.hi} depends on new [investment]{.hi}
+
+- Every time period workers save some of their income $sf(k)$
+- [However]{.hp}, capital [depreciates]{.hi} so we lose $\delta k$
+- The [populations grows]{.hi} at rate $n$ so the [capital per worker]{.hi} gets smaller by $nk$
+
+---
+
+## Solow - Change in Capital per Worker
+
+::: {.align-center}
+$\Delta k$ $=$ $sf(k)$ $-$ $nk$ $-$ $\delta k$
+:::
+
+::: {.vertical-center}
+- $\Delta k$: Growth of capital per worker 
+
+- $sf(k)$: Savings  
+
+- $nk$: Net new workers 
+
+- $\delta k$: Capital depreciation 
+:::
+
+---
+
+## Solow - Change in Capital per Worker
+
+::: {.align-center}
+[$\Delta k$]{.hp} [$=$ $sf(k)$ $-$ $nk$ $-$ $\delta k$]{.faded}
+:::
+
+- [$\Delta k$: Growth of capital per worker]{.hp} 
+
+    - The more capital a worker has to work with, the more output that they can produce
+
+    - The change in [capital per worker]{.hi} depends on the other components
+
+::: {.faded}
+- $sf(k)$: Savings  
+
+- $nk$: Net new workers 
+
+- $\delta k$: Capital depreciation 
+:::
+
+---
+
+## Solow - Change in Capital per Worker
+
+::: {.align-center}
+[$\Delta k$]{.faded} [$=$]{.faded} [$sf(k)$]{.hp} [$-$ $nk$ $-$ $\delta k$]{.faded}
+:::
+
+::: {.faded}
+- $\Delta k$: Growth of capital per worker 
+:::
+
+- [$sf(k)$: Savings]{.hp} {{< fa arrow-right >}} [(Positive)]{.hi-green}
+
+    - Each worker saves a proportion of their income and is reinvested into ["capital in the future"]{.hi}
+
+::: {.faded}
+- $nk$: Net new workers 
+
+- $\delta k$: Capital depreciation 
+:::
+
+---
+
+## Solow - Change in Capital per Worker
+
+::: {.align-center}
+[$\Delta k$ $=$ $sf(k)$]{.faded} [$-$ $nk$]{.hp} [$-$ $\delta k$]{.faded}
+:::
+
+::: {.faded}
+- $\Delta k$: Growth of capital per worker 
+
+- $sf(k)$: Savings 
+:::
+
+- [$nk$: Net new workers]{.hp} {{< fa arrow-right >}} [(Negative)]{.hi-red}
+
+    - Population (workers) grow at a [rate $n \geq 0$]{.hi} (usually very small) 
+
+    - As there are more people, there is [less]{.hp} [capital per worker]{.hi} determined by [$nk$]{.hi}
+
+::: {.faded}
+- $\delta k$: Capital depreciation 
+:::
+
+---
+
+## Solow - Change in Capital per Worker
+
+::: {.align-center}
+[$\Delta k$ $=$ $sf(k)$ $-$ $nk$]{.faded} [$-$ $\delta k$]{.hp}
+:::
+
+::: {.faded}
+- $\Delta k$: Growth of capital per worker 
+
+- $sf(k)$: Savings 
+
+- $nk$: Net new workers
+:::
+
+- [$\delta k$: Capital depreciation]{.hp} {{< fa arrow-right >}} [(Negative)]{.hi-red}
+
+    - Capital requires service (repairs) {{< fa arrow-right >}} We lose $\delta k$ every period
+    - $0 < \delta < 1$
+
+---
+
+## Solow Growth Model - Steady State
+
+The [Solow Model]{.h} allows us to consider a [steady state]{.hi} level of capital
+
+::: {.fragment}
+- [Steady State:]{.hi} When the economy has fully adjusted and there is no change in some variable
+    - The economy is in an [equilibrium]{.hi} that is [stable]{.hi}
+    - [Output]{.hi} and [capital per worker]{.hi} are no longer changing
+:::
+
+::: {.fragment}
+We want $k$ to be in [steady state]{.hi}
+:::
+
+::: {.incremental}
+- This means that $\Delta k = 0$ {{< fa arrow-right >}} Because $k$ is no longer changing
+
+- We call this level of [capital]{.hi} $k^{*}$
+:::
+
+---
+
+## Solow Growth Model - Steady State
+
+When the economy is in [steady state $k^{*}$]{.hi} we have:
+
+::: {.fragment}
+$$
+    \Delta k = 0 = sf(k^{*}) - (n + \delta)k^{*} \\
+    sf(k^{*}) = (n + \delta)k^{*}
+$$
+:::
+
+<br><br>
+
+::: {.fragment}
+More than the math, I want you to understand this intuitively
+
+- Graphs are great to be able to talk about this
+:::
+
+---
+
+## Steady State
+
+![](images/solow-steady-state.png){fig-align="center"}
+
+---
+
+## Out of Steady State
+
+![](images/less-capital.png){fig-align="center"}
+
+---
+
+## Out of Steady State
+
+![](images/more-capital.png){fig-align="center"}
+
+---
+
+## Increase in Savings Rate
+
+![](images/solow-increase-savings.png){fig-align="center"}
+
+---
+
+## Solow Growth Model Dynamics
+
+Be aware of all the possible moving pieces in this model
+
+It allows us to [explore the effects of changes in]{.hi}:
+
+::: {.vertical-center}
+- [$s$:]{.hp} Savings Rates
+- [$\delta$:]{.hp} Depreciation Rate
+- [$n$:]{.hp} Population Growth Rate
+:::
+
+---
+
+## Solow Growth Model
+
+[What? Why? Huh?]{.hp .align-center}
+
+::: {.fragment}
+- [Why]{.hp} this model?
+
+    - It is a simple and intuitive way of understanding how [savings, population growth,]{.hp} and technology change impacts [long-run economic growth]{.hi}
+:::
+
+::: {.fragment}
+- [What]{.hp} does it do? {{< fa arrow-right >}} Decomposes growth into [two key forces]{.hi}
+
+[_1._]{.hp} [Capital accumulation]{.h} through savings and investment
+
+[_2._]{.hp} [Population growth]{.h} as the labor force expands
+:::
+
+::: {.fragment}
+- [Huh?]{.hp} [Again with this fantasy stuff?]{.hi}
+
+
+:::
+
+---
+
+## Criticisms of Solow
+
+::: {.vertical-center}
+- There is a constant savings rate that is [exogenously given]{.hi}
+
+- Ignores [human capital]{.hi} 
+
+- Predicts too much convergence
+
+    - Economies with the same rates $(s,n,\delta)$ [should]{.hi} reach the same [output per person]{.hi}
+
+- No role for institutions or policy
+
+- Treats [labor]{.hi} as [homogeneous]{.hi} where all workers are the same
+:::
