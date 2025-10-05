@@ -1,1 +1,120 @@
-test
+\documentclass[11pt]{article}
+
+% ---------------------------------------------------
+% Page Layout
+% ---------------------------------------------------
+\usepackage{geometry}   % Flexible page dimensions
+\geometry{margin=1in, centering}
+
+% ---------------------------------------------------
+% Encoding and Fonts
+% ---------------------------------------------------
+\usepackage[utf8]{inputenc}   % Input encoding
+\usepackage[T1]{fontenc}      % Output font encoding
+\usepackage{lmodern}          % Latin Modern fonts (improves output)
+
+% ---------------------------------------------------
+% Tables and Columns
+% ---------------------------------------------------
+\usepackage{multicol}   % Multiple column environments
+\usepackage{multirow}   % Multi-row cells in tables
+\usepackage{booktabs}   % Better looking tables
+
+% ---------------------------------------------------
+% Graphics and Figures
+% ---------------------------------------------------
+\usepackage{graphicx}   % Include graphics
+\usepackage{caption}    % Customization of captions
+
+% ---------------------------------------------------
+% Text Styling
+% ---------------------------------------------------
+\usepackage{color}      % Color support
+\usepackage{soul}       % Highlighting, underlining, strikethrough, etc.
+\usepackage{parskip}    % Skips line in paragraph instead of indent
+% ---------------------------------------------------
+% Headers, Footers, and Symbols
+% ---------------------------------------------------
+\usepackage{fancyhdr}   % Custom headers/footers
+\usepackage{lastpage}   % Reference last page in document
+\usepackage{bbding}     % Special symbols (checkmarks, etc.)
+\usepackage{pmboxdraw}  % Box drawing characters
+\usepackage{fontawesome} % Allows customization of icons 
+
+% ---------------------------------------------------
+% Section Formatting
+% ---------------------------------------------------
+\usepackage{titlesec}   % Customize section titles
+
+% ---------------------------------------------------
+% Hyperlinks and URLs
+% ---------------------------------------------------
+\usepackage{url}        % Simple URL typesetting
+\usepackage{hyperref}   % Clickable hyperlinks
+
+% ---------------------------------------------------
+% FancyHDR Options
+% ---------------------------------------------------
+\fancyhead[L]{\fontfamily{lmss}\selectfont EC 390}
+\fancyhead[R]{\fontfamily{lmss}\selectfont Final Project Part I}
+\setlength{\headheight}{13.59999pt}
+
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+  
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    citecolor=blue,
+}
+
+\pagenumbering{arabic}
+
+\begin{document}
+
+\thispagestyle{fancy}
+\fontfamily{lmss}\selectfont
+
+\begin{center}
+\textbf{\huge EC 390: Final Project Topic Selection}\\  
+\end{center}
+
+\section*{Overview}
+The first step of your final project asks you to submit a short description of your \textbf{proposed research question}.
+The goal is to help you begin thinking critically about a topic in \emph{\textbf{Development Economics}} that interests you and frame it as a researchable question.
+
+\textbf{This submission is worth 5\% of the Final Project grade}
+
+\subsection*{Instructions}
+Submit a brief (\textbf{1-2 paragraphs}) description that includes:
+
+\begin{itemize}
+    \item[\faCheckSquareO] Your proposed research question
+        \begin{itemize}
+            \item[\faFolderOpenO] \textbf{Clearly} state the main question you aim to answer 
+            \item[\faFolderOpenO] Make sure the question is specific, measurable (in principle), and focused on a topic within \emph{\textbf{Development Economics}}
+        \end{itemize}
+    \item[\faCheckSquareO] A short justification of relevance
+        \begin{itemize}
+            \item[\faFolderOpenO] Explain why your question matters in development context
+            \item[\faFolderOpenO] You can mention connections to theory, policy debates, or real-world challenges to properly motivate your question
+            \item[\faFolderOpenO] If helpful, also mention the country or region you have in mind 
+        \end{itemize}
+\end{itemize}
+
+\subsection*{Formatting and Submission}
+
+\begin{itemize}
+    \item[\faFileO] \textbf{Length:} 1-2 paragraphs (Approximately 200-300 words)
+    \item[\faFileO] \textbf{File Format:} PDF
+    \item[\faFileO] \textbf{Submission:} On Canvas (\href{https://canvas.uoregon.edu/courses/274682/assignments/1916912}{Submit Here})
+    \item[\faFileO] \textbf{Due Date:} Wednesday, October 08 at 11:59pm
+\end{itemize}
+
+\end{document}
