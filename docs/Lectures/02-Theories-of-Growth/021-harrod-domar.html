@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>syllabus – EC 390 - Development Econ</title>
+<title>harrod-domar – EC 390 - Development Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -127,223 +156,299 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="class-information" class="level2">
-<h2 class="anchored" data-anchor-id="class-information">Class Information</h2>
-<ul>
-<li><p><span class="hp">Lectures</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> Monday &amp; Wednesday in Gerlinger 302</p></li>
-<li><p><span class="hp">Office Hours</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> Tuesdays from 09:00 am to 11:00 am</p></li>
+<section id="model-01---harrod-domar" class="level2">
+<h2 class="anchored" data-anchor-id="model-01---harrod-domar">Model 01 - Harrod-Domar</h2>
+<p><span class="hp align-center">Savings drive growth</span></p>
+<div class="vertical-center">
+<div class="incremental">
+<ul class="incremental">
+<li><p>The <span class="hp">more a country saves</span>, the more it can <span class="hp">invest in capital</span></p></li>
+<li><p>To produce output, the only thing we need is <span class="hi">capital</span></p>
+<ul class="incremental">
+<li>We ignore labor</li>
+</ul></li>
 </ul>
-<p>. . .</p>
-<p><span class="hi">Lectures</span></p>
+</div>
+<p><br></p>
 <div class="fragment">
 <ul>
-<li>Slides are only one part of the course, not a perfect substitute</li>
-<li>During lectures, I will go through example problems, ask you to solve things, ask for your opinions, etc.
+<li>Let’s start with the <span class="hi">model assumptions</span></li>
+</ul>
+</div>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-assumptions" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-assumptions">Harrod-Domar Assumptions</h2>
+<div class="vertical-center">
+<p><span class="note hp"><em>1.</em></span> <span class="hi">Net savings <span class="math inline">\((S)\)</span></span> is a fixed proportion of <span class="hi">national income <span class="math inline">\((Y)\)</span></span></p>
+<p><span class="note hp"><em>2.</em></span> A fixed amount of <span class="hi">Capital <span class="math inline">\((K)\)</span></span> is need to produce output</p>
+<p><span class="note hp"><em>3.</em></span> All new <span class="hi">Investments <span class="math inline">\((I)\)</span></span> is used to increase the <span class="hi">Capital Stock <span class="math inline">\((K)\)</span></span></p>
+<p><span class="note hp"><em>4.</em></span> The <span class="hi">savings-investment</span> market <span class="hp">clears</span></p>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-assumptions-1" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-assumptions-1">Harrod-Domar Assumptions</h2>
+<div class="vertical-center">
+<p><span class="note hp"><em>1.</em></span> <span class="hi">Net savings <span class="math inline">\((S)\)</span></span> is a fixed proportion of <span class="hi">national income <span class="math inline">\((Y)\)</span></span></p>
+<p><span class="math display">\[\begin{align*}
+    S = sY \\
+    0 \leq s \leq 1
+\end{align*}\]</span></p>
+<div class="faded">
+<p><span class="note hp"><em>2.</em></span> A fixed amount of <span class="hi">Capital <span class="math inline">\((K)\)</span></span> is need to produce output</p>
+<p><span class="note hp"><em>3.</em></span> All new <span class="hi">Investments <span class="math inline">\((I)\)</span></span> is used to increase the <span class="hi">Capital Stock <span class="math inline">\((K)\)</span></span></p>
+<p><span class="note hp"><em>4.</em></span> The <span class="hi">savings-investment</span> market <span class="hp">clears</span></p>
+</div>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-assumptions-2" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-assumptions-2">Harrod-Domar Assumptions</h2>
+<div class="vertical-center small">
+<div class="faded">
+<p><span class="note hp"><em>1.</em></span> <span class="hi">Net savings <span class="math inline">\((S)\)</span></span> is a fixed proportion of <span class="hi">national income <span class="math inline">\((Y)\)</span></span></p>
+</div>
+<p><span class="note hp"><em>2.</em></span> A fixed amount of <span class="hi">Capital <span class="math inline">\((K)\)</span></span> is need to produce output</p>
 <ul>
-<li>It will be somewhat interactive, keeping you on your toes and allowing you to push back on things I say</li>
-</ul></li>
-<li>By being in lecture (and paying attention), my goal is to make things clearer beyond what the textbook and bring it into the real world</li>
+<li><span class="hi">Capital</span> is a fixed proportion of output where <span class="h"><span class="math inline">\(c\)</span></span> is a <span class="h">capital-output ratio</span></li>
+</ul>
+<div class="fragment">
+<p><span class="math display">\[K = cY\]</span> <span class="fragment"><span class="math display">\[\Rightarrow c = \dfrac{K}{Y}\]</span></span> <span class="fragment"><span class="math display">\[\Rightarrow \Delta K = c \Delta Y\]</span></span></p>
+</div>
+<div class="faded">
+<p><span class="note hp"><em>3.</em></span> All new <span class="hi">Investments <span class="math inline">\((I)\)</span></span> is used to increase the <span class="hi">Capital Stock <span class="math inline">\((K)\)</span></span></p>
+<p><span class="note hp"><em>4.</em></span> The <span class="hi">savings-investment</span> market <span class="hp">clears</span></p>
+</div>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-assumptions-3" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-assumptions-3">Harrod-Domar Assumptions</h2>
+<div class="vertical-center">
+<div class="faded">
+<p><span class="note hp"><em>1.</em></span> <span class="hi">Net savings <span class="math inline">\((S)\)</span></span> is a fixed proportion of <span class="hi">national income <span class="math inline">\((Y)\)</span></span></p>
+<p><span class="note hp"><em>2.</em></span> A fixed amount of <span class="hi">Capital <span class="math inline">\((K)\)</span></span> is need to produce output</p>
+</div>
+<p><span class="note hp"><em>3.</em></span> All new <span class="hi">Investments <span class="math inline">\((I)\)</span></span> is used to increase the <span class="hi">Capital Stock <span class="math inline">\((K)\)</span></span></p>
+<p><span class="math display">\[
+    I = \Delta K
+\]</span></p>
+<div class="faded">
+<p><span class="note hp"><em>4.</em></span> The <span class="hi">savings-investment</span> market <span class="hp">clears</span></p>
+</div>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-assumptions-4" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-assumptions-4">Harrod-Domar Assumptions</h2>
+<div class="vertical-center">
+<div class="faded">
+<p><span class="note hp"><em>1.</em></span> <span class="hi">Net savings <span class="math inline">\((S)\)</span></span> is a fixed proportion of <span class="hi">national income <span class="math inline">\((Y)\)</span></span></p>
+<p><span class="note hp"><em>2.</em></span> A fixed amount of <span class="hi">Capital <span class="math inline">\((K)\)</span></span> is need to produce output</p>
+<p><span class="note hp"><em>3.</em></span> All new <span class="hi">Investments <span class="math inline">\((I)\)</span></span> is used to increase the <span class="hi">Capital Stock <span class="math inline">\((K)\)</span></span></p>
+</div>
+<p><span class="note hp"><em>4.</em></span> The <span class="hi">savings-investment</span> market <span class="hp">clears</span></p>
+<ul>
+<li>All savings are used as investment</li>
+</ul>
+<p><span class="math display">\[
+    S = I
+\]</span></p>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-growth-model" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-growth-model">Harrod-Domar Growth Model</h2>
+<div class="align-center">
+<p>We are after the <span class="hi">Growth Rate of Income (or production)</span></p>
+</div>
+<p><span class="math display">\[
+    \dfrac{\Delta Y}{Y}
+\]</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>There are only <span class="hp">4 equations</span></li>
+<li><span class="hi">Algebra</span> is easy once you know how and where you are going</li>
 </ul>
 </div>
 <hr>
 </section>
-<section id="logistics" class="level2">
-<h2 class="anchored" data-anchor-id="logistics">Logistics</h2>
-<ul>
-<li><p>Our <span class="hi">textbook</span> is <span class="hi"><em>Economic Development</em></span> by M. Todaro and S. Smith</p>
-<ul>
-<li>I recommend you check the <a href="../../Readings/list.html" target="_blank"><strong><em>Readings</em></strong></a> to keep on track</li>
-</ul></li>
-</ul>
+<section id="harrod-domar-growth-model-1" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-growth-model-1">Harrod-Domar Growth Model</h2>
+<p><span class="hi align-center">Our 4 equations</span></p>
 <div class="columns">
-<div class="column" style="width:50%;">
-<p><span class="h align-center">Course Topics</span></p>
-<div class="fragment tiny">
-<ul>
-<li>Growth &amp; Development</li>
-<li>Theories of Growth &amp; Development</li>
-<li>Poverty &amp; Inequality</li>
-<li>Agriculture &amp; Rural Development</li>
-<li>Population</li>
-<li>Urbanization &amp; Rural-Urban Migration</li>
-<li>Education &amp; Health</li>
-<li>Governance &amp; Institutions</li>
-<li>Foreign Aid</li>
-<li>Trade &amp; Globalization</li>
-</ul>
+<div class="column align-center" style="width:50%;">
+<p><span class="note hp"><em>1.</em></span> <span class="math inline">\(S = sY\)</span></p>
+<p><span class="note hp"><em>2.</em></span> <span class="math inline">\(S = I\)</span></p>
+</div><div class="column align-center" style="width:50%;">
+<p><span class="note hp"><em>3.</em></span> <span class="math inline">\(I = \Delta K\)</span></p>
+<p><span class="note hp"><em>4.</em></span> <span class="math inline">\(\Delta K = c \Delta Y\)</span></p>
 </div>
-</div><div class="column" style="width:50%;">
-<p><span class="h align-center">Course Grades</span></p>
+</div>
+<p><img src="images/line-break.png" class="img-fluid"></p>
+<div class="fragment">
+<p><span class="hi">Show that</span> <span class="hp align-center"><span class="math inline">\(\; sY = c \Delta Y\)</span></span></p>
+</div>
+<div class="align-center">
+<p><span class="fragment"><span class="math inline">\(sY = S \Rightarrow\)</span></span> <span class="fragment"><span class="math inline">\(sY = I \Rightarrow\)</span></span> <span class="fragment"><span class="math inline">\(sY = \Delta K \Rightarrow\)</span></span> <span class="fragment hp"><span class="math inline">\(sY = c \Delta Y\)</span></span></p>
+</div>
+</section>
+<section id="harrod-domar-growth-rate-of-output" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-growth-rate-of-output">Harrod-Domar: Growth Rate of Output</h2>
+<p>Recall we want to find the <span class="hi">Growth Rate of Income</span> <span class="math inline">\(\dfrac{\Delta Y}{Y}\)</span></p>
+<div class="fragment">
+<p>We can rearrange <span class="math inline">\(sY = c \Delta Y\)</span> to get it</p>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+    \dfrac{\Delta Y}{Y} = \dfrac{s}{c}
+\]</span></p>
+</div>
 <div class="incremental">
 <ul class="incremental">
-<li>20% <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> 4x Problem Sets</li>
-<li>10% <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> 4x Quizzes</li>
-<li>30% <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> Midterm Exam</li>
-<li>50% <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> Final Project</li>
-</ul>
-</div>
-</div>
-</div>
-<hr>
-</section>
-<section id="canvas-course-set-up" class="level2">
-<h2 class="anchored" data-anchor-id="canvas-course-set-up">Canvas &amp; Course Set-Up</h2>
-<p>Canvas will be a place for you to submit assignments and as a gradebook</p>
-<p>Everything else will be in our course website</p>
-<p><br><br><br></p>
-<p><a href="https://jrojas1003.github.io/EC-390-Development-Econ/" class="hp Large align-center" target="_blank"><strong>Course Website</strong></a></p>
-<p><span class="align-center"><i class="fa-solid fa-arrow-up" aria-label="arrow-up"></i></span></p>
-<p><span class="hii align-center">This is a link! It works!</span></p>
-<hr>
-</section>
-<section id="assignments" class="level2">
-<h2 class="anchored" data-anchor-id="assignments">Assignments</h2>
-<p><span class="h align-center">Problem Sets</span></p>
-<div class="fragment tiny">
-<ul>
-<li>Will be made available <span class="hp">one week</span> before they are due (usually on Wednesday)</li>
-<li>Due at 11:59am (before lecture) but you can submit late up until 11:59pm of that day</li>
-<li>There will be a <span class="hp">late submission penalty</span> which is proportional to how many hours late it was submitted</li>
-</ul>
-</div>
-<p>. . .</p>
-<p><span class="h align-center">Submissions</span></p>
-<div class="tiny">
-<ul>
-<li>Only <span class="hp">PDF</span> files are accepted</li>
-<li>If you write your answers with pen and take pictures/scan them, compile them into <span class="hp">a single PDF file</span>
-<ul>
-<li>Make sure they are legible</li>
-<li>You can do this by using any website that merges pdf files (be sure they are in the proper order) <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <a href="https://www.adobe.com/acrobat/online/merge-pdf.html" target="_blank">Adobe</a> works just fine</li>
+<li><p>This states that the <span class="hi">Rate of Growth of GDP</span> is determined by the <span class="hp">net national savings ratio <span class="math inline">\((s)\)</span></span> and the <span class="hp">national capital-output ratio <span class="math inline">\((c)\)</span></span>, at the same time</p>
+<ul class="incremental">
+<li><span class="hi-green">Positively</span> related to the savings ratio</li>
+<li><span class="hi-red">Negatively</span> related to the economy’s capital-output ratio</li>
 </ul></li>
 </ul>
 </div>
 <hr>
 </section>
-<section id="assignments-1" class="level2">
-<h2 class="anchored" data-anchor-id="assignments-1">Assignments</h2>
-<p><span class="h align-center">Quizzes</span></p>
-<ul>
-<li><p>These are intended to test your critical thinking and develop your ability to form coherent and succint arguments</p></li>
-<li><p>They will have a 45min time limit</p></li>
-<li><p>Submissions should be no more than a paragraph or two in length</p></li>
-</ul>
-<div class="fragment">
-<p><span class="hi">Example from my International Econ class:</span></p>
-<blockquote class="blockquote">
-<p><span class="note tiny">In lecture, we briefly talked about how the median voter model does not work well when considering trade policy. Voters seemingly support protectionist trade policies, even when they may go against their direct interests. Why do you think this happens?</span></p>
-</blockquote>
+<section id="harrod-domar-growth-rate-of-output-1" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-growth-rate-of-output-1">Harrod-Domar: Growth Rate of Output</h2>
+<p><span class="math display">\[
+    \dfrac{\Delta Y}{Y} = \dfrac{s}{c}
+\]</span></p>
+<p>Let’s break it down a bit</p>
+<div class="fragment align-center">
+<p><span class="math inline">\(\dfrac{1}{c}\)</span> measures the <span class="hi">efficiency of capital use</span></p>
 </div>
-<hr>
-</section>
-<section id="midterm-exam" class="level2">
-<h2 class="anchored" data-anchor-id="midterm-exam">Midterm Exam</h2>
-<div class="vertical-center">
-<ul>
-<li>The midterm exam is scheduled for Wednesday of Week 5 (October 29th)</li>
-<li>It will consist of multiple choice questions, short-answer questions, and multi-part analysis questions</li>
-<li>I’ll do my best to create a practice exam beforehand but no promises</li>
-</ul>
-</div>
-<hr>
-</section>
-<section id="final-project" class="level2">
-<h2 class="anchored" data-anchor-id="final-project">Final Project</h2>
-<p>You will come up with a research proposal on any topic related to development economics</p>
-<ul>
-<li><span class="h">You will</span> <span class="hp">NOT</span> <span class="h">be writing a full research paper</span></li>
-</ul>
-<div class="fragment">
-<ul>
-<li><span class="hp"><em>You will</em></span> identify a specific question</li>
-<li><span class="hp"><em>You will</em></span> motivate why it is an important question</li>
-<li><span class="hp"><em>You will</em></span> propose some form of answering it using theory, data, or policy analysis</li>
-</ul>
-</div>
-<div class="fragment">
-<ul>
-<li><span class="hp"><em>You will</em></span> create a 10min presentation on your work <i class="fa-solid fa-skull" aria-label="skull"></i></li>
-</ul>
-</div>
-<hr>
-</section>
-<section id="final-project-1" class="level2">
-<h2 class="anchored" data-anchor-id="final-project-1">Final Project</h2>
-<p>I will give more details as we move along the term but here is the rough outline:</p>
-<div class="vertical-center">
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 02</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 06</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 08</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 10</span></p>
-</div>
-<hr>
-</section>
-<section id="final-project-2" class="level2">
-<h2 class="anchored" data-anchor-id="final-project-2">Final Project</h2>
-<p>I will give more details as we move along the term but here is the rough outline:</p>
-<p><br> <i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 02</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Topic Selection</span>:</p>
-<ul>
-<li>Submit a brief (1-2 paragraph) description of your proposed research question, including why you believe it is important to answer and why it is relevant to development economics</li>
-</ul>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 06</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 08</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 10</span></p>
-<hr>
-</section>
-<section id="final-project-3" class="level2">
-<h2 class="anchored" data-anchor-id="final-project-3">Final Project</h2>
-<p>I will give more details as we move along the term but here is the rough outline:</p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 02</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Topic Selection</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 06</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Annotated Bibliography</span></p>
-<ul>
-<li>Provide <span class="h">at least THREE peer-reviewed articles</span> related to your topic, with a breif summary (about 1-2 paragraphs) of how it informs your own question</li>
-</ul>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 08</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 10</span></p>
-<hr>
-</section>
-<section id="final-project-4" class="level2">
-<h2 class="anchored" data-anchor-id="final-project-4">Final Project</h2>
-<p>I will give more details as we move along the term but here is the rough outline:</p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 02</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Topic Selection</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 06</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Annotated Bibliography</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 08</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Presentation Outline</span></p>
-<ul>
-<li>Submit a draft outline/rough draft of your presentation slides in which you summarize your question, motivation, and proposed approach to answer it</li>
-</ul>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 10</span></p>
-<hr>
-</section>
-<section id="final-project-5" class="level2">
-<h2 class="anchored" data-anchor-id="final-project-5">Final Project</h2>
-<p>I will give more details as we move along the term but here is the rough outline:</p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 02</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Topic Selection</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 06</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Annotated Bibliography</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 08</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Presentation Outline</span></p>
-<p><i class="fa-regular fa-clock" aria-label="clock"></i> <span class="hp">Week 10</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="hi">Final Presentation</span></p>
-<ul>
-<li>Deliver a 10-minute presentation of your research project</li>
-</ul>
-<p><span class="hp">This has a caveat</span></p>
-<hr>
-</section>
-<section id="final-project-caveat" class="level2">
-<h2 class="anchored" data-anchor-id="final-project-caveat">Final Project Caveat</h2>
-<ul>
-<li>I have allocated the entirety of Week 10 for presentations, but that only allows us 240min which equals only 24 presentations</li>
-</ul>
 <div class="incremental">
 <ul class="incremental">
-<li><p>Because of this, I will allow you to submit a recording of your presentation instead</p></li>
-<li><p>By <span class="hi">Week 04</span>, I will ask for volunteers to present in-class</p>
+<li>The lower the value of <span class="math inline">\(c\)</span> (the more efficient) that an economy runs at, the greater the output that can be gained from additional investment
 <ul class="incremental">
-<li>This will be first-come, first-serve</li>
+<li>A higher <span class="math inline">\(c\)</span> means less output of <span class="math inline">\(Y\)</span></li>
+<li>If <span class="math inline">\(c\)</span> increases, then the <span class="hi">growth rate decreases</span></li>
 </ul></li>
-<li><p>Volunteers will receive Extra Credit for doing so, however there is a <span class="hp">second caveat</span></p></li>
-<li><p>If you do sign up to present, that is a commitment you are making with me <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> you <span class="hp">CANNOT</span> back out of it</p>
+</ul>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-growth-rate-of-output-2" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-growth-rate-of-output-2">Harrod-Domar: Growth Rate of Output</h2>
+<p><span class="math display">\[
+    \dfrac{\Delta Y}{Y} = \dfrac{s}{c}
+\]</span></p>
+<div class="fragment align-center">
+<p><span class="math inline">\(s\)</span> is the economy’s <span class="hi">saving rate</span>, which influences the level of investment</p>
+</div>
+<div class="incremental">
 <ul class="incremental">
-<li>If you fail to present in person, you will be punished in your grade for doing so</li>
+<li>A higher <span class="math inline">\(s\)</span> implies a higher investment level</li>
+<li>If <span class="math inline">\(s\)</span> increases, then the <span class="hi">growth rate increases</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-lessons" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-lessons">Harrod-Domar Lessons</h2>
+<p>In other words, the <span class="hi">Rate of Growth</span> depends as much on the <span class="hi-green">efficiency of capital investments</span> as the <span class="hi-teal">amount of capital invested</span></p>
+<p><br><br></p>
+<div class="fragment">
+<p>In its simplest form, a country that wants to <span class="h">speed up development</span>:</p>
+<p><br></p>
+<p><span class="note hp"><em>1.</em></span> <span class="hi">Save more</span></p>
+<p><span class="note hp"><em>2.</em></span> Build more <span class="hi">efficient capital</span></p>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-lessons-1" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-lessons-1">Harrod-Domar Lessons</h2>
+<p>In other words, the <span class="hi">Rate of Growth</span> depends as much on the <span class="hi-green">efficiency of capital investments</span> as the <span class="hi-teal">amount of capital invested</span></p>
+<p><br><br></p>
+<p>In its simplest form, a country that wants to <span class="h">speed up development</span>:</p>
+<p><br></p>
+<p><span class="note hp"><em>1.</em></span> <span class="hi">Save more</span></p>
+<ul>
+<li><p>Difficult for individuals in <span class="hi">developing countries</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> Why?</p></li>
+<li><p>Can be helped by <span class="hi">Foreign Aid/Investment</span></p></li>
+</ul>
+<div class="faded">
+<p><span class="note hp"><em>2.</em></span> Build more <span class="hi">efficient capital</span></p>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-lessons-2" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-lessons-2">Harrod-Domar Lessons</h2>
+<p>In other words, the <span class="hi">Rate of Growth</span> depends as much on the <span class="hi-green">efficiency of capital investments</span> as the <span class="hi-teal">amount of capital invested</span></p>
+<p><br><br></p>
+<p>In its simplest form, a country that wants to <span class="h">speed up development</span>:</p>
+<p><br></p>
+<div class="faded">
+<p><span class="note hp"><em>1.</em></span> <span class="hi">Save more</span></p>
+</div>
+<p><span class="note hp"><em>2.</em></span> Build more <span class="hi">efficient capital</span></p>
+<ul>
+<li><span class="hi">Technology</span> helps with making capital more efficient</li>
+</ul>
+<hr>
+</section>
+<section id="harrod-domar-simple-example" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-simple-example">Harrod-Domar Simple Example</h2>
+<ul>
+<li>In 2011, Indonesia had a <span class="hi">capital-output</span> ratio of 4</li>
+</ul>
+<p><span class="math display">\[
+    \dfrac{K}{Y} = c = 4
+\]</span></p>
+<p>If we want a <span class="hp">growth rate of 6%</span>, <span class="hi">Harrod-Domar</span> tells us that Indonesia needs a <span class="hi">savings rate</span> of?</p>
+<p><br></p>
+<div class="align-center">
+<p><span class="fragment"><span class="math inline">\(\dfrac{\Delta Y}{Y} = \dfrac{s}{c}\)</span></span> <span class="fragment"><span class="math inline">\(\Rightarrow 6 = \dfrac{s}{4}\)</span></span> <span class="fragment hp"><span class="math inline">\(\Rightarrow 24 = s\)</span></span></p>
+</div>
+<hr>
+</section>
+<section id="harrod-domar-growth-model-2" class="level2">
+<h2 class="anchored" data-anchor-id="harrod-domar-growth-model-2">Harrod-Domar Growth Model</h2>
+<p>With theoretical models, you should always ask yourself:</p>
+<p><span class="hp align-center">What? Why? Huh?</span></p>
+<div class="incremental small">
+<ul class="incremental">
+<li><span class="hp">Why</span> this model?
+<ul class="incremental">
+<li>After World War II, much of Europe was destroyed</li>
+<li>There was a lack of <span class="hi">capital <span class="math inline">\((K)\)</span></span></li>
+<li>The <span class="hi">Marshall Plan</span> was a large <span class="hi">foreign aid package</span> from the US to Western Europe</li>
+<li>The aid package greatly sped up recovery of Europe and boosted economic growth</li>
 </ul></li>
+<li><span class="hp">What</span> does it do?
+<ul class="incremental">
+<li>Explains how savings, capital, and output are potentially linked together</li>
+</ul></li>
+<li><span class="hp">Huh?</span> <span class="hi">That’s not realistic</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="criticisms-of-harrod-domar" class="level2">
+<h2 class="anchored" data-anchor-id="criticisms-of-harrod-domar">Criticisms of Harrod-Domar</h2>
+<p><span class="hi align-center">No model is perfect</span></p>
+<p><span class="hi align-center">But good models help explain a small part of life</span></p>
+<p><span class="hi align-center">But these are not without proper criticism:</span></p>
+<div class="fragment">
+<ul>
+<li>Overly simplified</li>
+<li>No <span class="hi">population growth</span></li>
+<li>No <span class="hi">technology change</span></li>
+<li>The <span class="math inline">\(K = cY\)</span> assumption is concerning
+<ul>
+<li>Assumes that turning capital into output is easy</li>
+<li>Assumes <span class="hi">constant returns to capital</span></li>
+</ul></li>
+<li>Policy enacted based on the model did not increase economic growth significantly</li>
 </ul>
 </div>
 
