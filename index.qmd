@@ -3,17 +3,22 @@ title: "Home"
 ---
 
 ::: {.callout-warning}
-## Announcement Box
-Welcome to EC 390! 
+## Week 02 Update!
+[10% of the way there!]{.hi}
 
-This is where **everything** in our course lives. 
-Please explore the site (and let me know if something is broken).
+Hi all, this week will feel more like the term has started as we dive more into course content. 
 
-This space (literally this box) is where I will post timely announcements. 
-I will also make them on Canvas so that you receive an actual notification, but you should be checking this website often. 
+I wanted to give some reminders about the course assignments:
 
-We will use Canvas as a glorified assignment submission space and gradebook. 
-In short, you'll submit assignments there and see your grades there. 
+&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; [Problem Set 01](Assignments/Problem-Sets/PS01/ps01.pdf){.hi-orange target=_blank} is due [Wednesday before lecture (11:59am)]{.hi} on [Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916923){target=_blank}
+
+&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; Your [Topic Selection](Assignments/Final-Project/01-Topic-Selection/topic-selection.pdf){.hi-orange target=_blank} of the [Final Project]{.hii target=_blank} is due [Wednesday before lecture (11:59am)]{.hi} on [Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916912){target=_blank}
+
+This week's schedule is:
+
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Finish [Lecture 01 - Growth & Development](Lectures/01-Growth-and-Dev/010-compile.html){.hi-green target=_blank}
+
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 02 - Theories of Growth](Lectures/02-Theories-of-Growth/020-compile.html){.hi-green target=_blank}
 :::
 
 ## Syllabus
