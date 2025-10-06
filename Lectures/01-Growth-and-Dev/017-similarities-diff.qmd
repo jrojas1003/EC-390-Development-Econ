@@ -80,7 +80,15 @@ There are 10 features that help us define key similarities and differences among
 ## Population Size, Distribution, and Growth
 
 ::: {.vertical-center}
-- Population growth in developed countries was 
+- Size
+    - About 80% of world population (dominated by Asia and Africa) in [developing world]{.hi}
+    - Smaller populations but often with [higher per capita resources]{.hi}
+- Rapid population growth
+    - Developing: High birth rates, and falling death rates {{< fa arrow-right >}} [rapid growth]{.hi}
+    - Developed: Low birth rates and death rates {{< fa arrow-right >}} [slow or negative growth]{.hi}
+- Distribution
+    - Developing: Mostly [rural]{.h} but [urbanization rising fast]{.hi}
+    - Developed: [Highly urbanized]{.hi} and densely networked cities
 :::
 
 ---
