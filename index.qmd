@@ -12,7 +12,7 @@ I wanted to give some reminders about the course assignments:
 
 &nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; [Problem Set 01](Assignments/Problem-Sets/PS01/ps01.pdf){.hi-orange target=_blank} is due [Wednesday before lecture (11:59am)]{.hi} on [Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916923){target=_blank}
 
-&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; Your [Topic Selection](Assignments/Final-Project/01-Topic-Selection/topic-selection.pdf){.hi-orange target=_blank} of the [Final Project]{.hii target=_blank} is due [Wednesday before lecture (11:59am)]{.hi} on [Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916912){target=_blank}
+&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; Your [Topic Selection](Assignments/Final-Project/01-Topic-Selection/topic-selection.pdf){.hi-orange target=_blank} of the [Final Project]{.hii target=_blank} is due [Wednesday at midnight (11:59pm)]{.hi} on [Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916912){target=_blank}
 
 This week's schedule is:
 
