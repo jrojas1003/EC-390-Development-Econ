@@ -3,6 +3,7 @@ title: "Home"
 ---
 
 ::: {.callout-warning}
+
 ## Week 02 Update!
 [10% of the way there!]{.hi}
 
@@ -19,6 +20,7 @@ This week's schedule is:
 &nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Finish [Lecture 01 - Growth & Development](Lectures/01-Growth-and-Dev/010-compile.html){.hi-green target=_blank}
 
 &nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 02 - Theories of Growth](Lectures/02-Theories-of-Growth/020-compile.html){.hi-green target=_blank}
+
 :::
 
 ## Syllabus
