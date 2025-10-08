@@ -20,9 +20,11 @@ name: Course Readings
 [Chapter 03 - Classic Theories of Economic Growth and Development](Chapters/Economic-Development-13E/Econ-Dev-Ch3.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
-<!--
+::: {.align-center}
 [Chapter 04 - Contemporary Models of Development and Underdevelopment](Chapters/Economic-Development-13E/Econ-Dev-Ch4.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
 
+<!--
 [Chapter 05 - Poverty, Inequality, and Development](Chapters/Economic-Development-13E/Econ-Dev-Ch5.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 [Chapter 06 - Comparative Economic Development](Chapters/Economic-Development-13E/Econ-Dev-Ch2.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
