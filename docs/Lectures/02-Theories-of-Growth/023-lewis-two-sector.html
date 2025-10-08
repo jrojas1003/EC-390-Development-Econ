@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>list – EC 390 - Development Econ</title>
+<title>lewis-two-sector – EC 390 - Development Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-047acea2f07c4c3e58575a36bff9b595.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-047acea2f07c4c3e58575a36bff9b595.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 390 - Development Econ</span>
     </a>
   </div>
@@ -89,19 +118,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../Lectures/list.html"> 
+    <a class="nav-link" href="../../Lectures/list.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../Readings/list.html" aria-current="page"> 
+    <a class="nav-link" href="../../Readings/list.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/list.html"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/final-project.html"> 
+    <a class="nav-link" href="../../Assignments/final-project.html"> 
 <span class="menu-text">Final Project</span></a>
   </li>  
 </ul>
@@ -125,56 +154,260 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="readings" class="level2">
-<h2 class="anchored" data-anchor-id="readings">READINGS</h2>
-<section id="economic-development---m.-todaro-s.-smith" class="level3">
-<h3 class="anchored" data-anchor-id="economic-development---m.-todaro-s.-smith">Economic Development - M. Todaro &amp; S. Smith</h3>
-<hr>
-<div class="align-center">
-<p><a href="Chapters/Economic-Development-13E/Econ-Dev-Ch1.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">Chapter 01 - Introducing Economic Development: A Global Perspective</a></p>
+<section id="lewis-two-sector-model" class="level2">
+<h2 class="anchored" data-anchor-id="lewis-two-sector-model">Lewis Two-Sector Model</h2>
+<p>Was the general theory of the development process in <span class="hi">surplus-labor developing nations</span> in the 60s and 70s</p>
+<div class="vertical-center">
+<ul>
+<li><p>Focuses on <span class="hp">structural transformation</span> of a primarily <span class="hi">subsistence economy</span></p>
+<ul>
+<li><span class="hp"><em>Definition:</em></span> A major alteration in the industrial composition of any economy</li>
+<li>Usually we talk about moving from subsistence agricultural sector to manufacturing sector</li>
+</ul></li>
+</ul>
 </div>
-<div class="align-center">
-<p><a href="Chapters/Economic-Development-13E/Econ-Dev-Ch2.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">Chapter 02 - Comparative Economic Development</a></p>
-</div>
-<div class="align-center">
-<p><a href="Chapters/Economic-Development-13E/Econ-Dev-Ch3.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">Chapter 03 - Classic Theories of Economic Growth and Development</a></p>
-</div>
-<div class="align-center">
-<p><a href="Chapters/Economic-Development-13E/Econ-Dev-Ch4.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">Chapter 04 - Contemporary Models of Development and Underdevelopment</a></p>
-</div>
-<!--
-[Chapter 05 - Poverty, Inequality, and Development](Chapters/Economic-Development-13E/Econ-Dev-Ch5.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-
-[Chapter 06 - Comparative Economic Development](Chapters/Economic-Development-13E/Econ-Dev-Ch2.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-
-[Chapter 07 - Urbanisation and Rural–Urban Migration: Theory and Policy](Chapters/Economic-Development-13E/Econ-Dev-Ch7.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-
-[Chapter 08 - Human Capital: Education and Health in Economic Development](Chapters/Economic-Development-13E/Econ-Dev-Ch8.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-
-[Chapter 09 - Agricultural Transformation and Rural Development](Chapters/Economic-Development-13E/Econ-Dev-Ch9.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-
-[Chapter 11 - Development Policymaking and the Roles of Market, State, and Civil Society ](Chapters/Economic-Development-13E/Econ-Dev-Ch11.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-
-[Chapter 12 - International Trade Theory and Development Strategy](Chapters/Economic-Development-13E/Econ-Dev-Ch12.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-
-[Chapter 14 - Foreign Finance, Investment, Aid, and Conflict: Controversies and Opportunities](Chapters/Economic-Development-13E/Econ-Dev-Ch14.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
--->
 <hr>
 </section>
-<section id="development-microeconomics---p.-bardhan-c.-udry" class="level3">
-<h3 class="anchored" data-anchor-id="development-microeconomics---p.-bardhan-c.-udry">Development Microeconomics - P. Bardhan &amp; C. Udry</h3>
+<section id="model-set-up" class="level2">
+<h2 class="anchored" data-anchor-id="model-set-up">Model Set Up</h2>
+<p>There is an <span class="hi">underdeveloped economy</span> with:</p>
+<div class="fragment">
+<ul>
+<li><p>Two Sectors</p>
+<p><span class="hp"><em>1.</em></span> A traditional, overpopulated, rural subsistence sector</p>
+<p><span class="hp"><em>2.</em></span> A high-productivity, modern, urban industrial sector</p></li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>Primary Focus
+<ul>
+<li>Process of labor transfer/movement between sectors</li>
+<li>Growth of output and employment in the <span class="h">industrial</span> sector</li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment">
+<blockquote class="blockquote">
+<p>The transfer of labor between sectors and employment growth in the <span class="h">industrial</span> sector is due to <span class="hi">expansion in the industrial sector</span></p>
+</blockquote>
+</div>
 <hr>
 </section>
-<section id="poor-economics-a-radical-rethinking-of-the-way-to-fight-global-poverty---a.-banarjee-e.-duflo" class="level3">
-<h3 class="anchored" data-anchor-id="poor-economics-a-radical-rethinking-of-the-way-to-fight-global-poverty---a.-banarjee-e.-duflo">Poor Economics : A Radical Rethinking of the Way to Fight Global Poverty - A. Banarjee &amp; E. Duflo</h3>
+<section id="industrial-sector-expansion" class="level2">
+<h2 class="anchored" data-anchor-id="industrial-sector-expansion">Industrial Sector Expansion</h2>
+<p>The speed at which the <span class="hi">industrial sector</span> grows is determiend by <span class="hi">investment and capital accumulation</span> in that sector</p>
+<div class="incremental">
+<ul class="incremental">
+<li>Capitalists make profits in the <span class="hi">industrial sector</span> above paid <span class="hi">wages</span></li>
+<li>Assume that they invest it <span class="hp">all</span> back into the sector (more capital enters)</li>
+<li><span class="hi">Capital stock</span> increases and they hire more labor</li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="hi">Some questions/doubts arise</span></p>
+<p><span class="hp"><em>1.</em></span> Where is all the labor coming from? I thought the other side was a <span class="hi">subsistence agricultural sector</span>?</p>
+<p><span class="hp"><em>2.</em></span> I thought economists didn’t believe in positive profits</p>
+<p><span class="hp"><em>3.</em></span> <span class="hi">Capital</span> only increases in the industrial sector?</p>
+</div>
 <hr>
 </section>
-<section id="the-elusive-quest-for-growth---w.-easterly" class="level3">
-<h3 class="anchored" data-anchor-id="the-elusive-quest-for-growth---w.-easterly">The Elusive Quest for Growth - W. Easterly</h3>
+<section id="subsistence-agricutural-sector" class="level2">
+<h2 class="anchored" data-anchor-id="subsistence-agricutural-sector">Subsistence Agricutural Sector</h2>
+<p>There are two primary assumptions to consider</p>
+<div class="vertical-center">
+<p><span class="hp"><em>1.</em></span> There is a <span class="hi">surplus of labor</span></p>
+<div class="fragment">
+<ul>
+<li>Marginal productivity of labor <span class="math inline">\((MP_{LA})\)</span> is zero</li>
+</ul>
+</div>
+<p><span class="hp"><em>2.</em></span> All <span class="hi">rural workers</span> share their output equally</p>
+<div class="fragment">
+<ul>
+<li>Rural wages are determined by the average product of labor</li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>There are <span class="math inline">\(L_{A}\)</span> agricultural workers that produce <span class="math inline">\(TP_{A}\)</span> food</li>
+<li>They share food equally as <span class="math inline">\(W_{A}\)</span> per person</li>
+</ul>
+</div>
+</div>
 <hr>
+</section>
+<section id="subsistence-agricultural-sector-production" class="level2">
+<h2 class="anchored" data-anchor-id="subsistence-agricultural-sector-production">Subsistence Agricultural Sector (Production)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-ag-prod.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="subsistence-agricultural-sector-labor-demand" class="level2">
+<h2 class="anchored" data-anchor-id="subsistence-agricultural-sector-labor-demand">Subsistence Agricultural Sector (Labor Demand)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-ag-labor-demand.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="subsistence-agricultural-sector-both" class="level2">
+<h2 class="anchored" data-anchor-id="subsistence-agricultural-sector-both">Subsistence Agricultural Sector (Both)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-ag-both.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="industrial-sector-production" class="level2">
+<h2 class="anchored" data-anchor-id="industrial-sector-production">Industrial Sector (Production)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-ind-prod.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="industrial-sector-labor-demand" class="level2">
+<h2 class="anchored" data-anchor-id="industrial-sector-labor-demand">Industrial Sector (Labor Demand)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-ind-labor-demand.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="industrial-sector-both" class="level2">
+<h2 class="anchored" data-anchor-id="industrial-sector-both">Industrial Sector (Both)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-ind-both.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="wage-differences" class="level2">
+<h2 class="anchored" data-anchor-id="wage-differences">Wage Differences</h2>
+<p><span class="hi">Agricultural wages</span> are lower than <span class="hi">wages in the industrial sector</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Supply of agricultural labor is assumed to be <span class="hi">perfectly elastic/unlimited</span>
+<ul class="incremental">
+<li>This means that at industrial wages <span class="math inline">\((W_{M})\)</span> above agricultural wages <span class="math inline">\((W_{A})\)</span>, the industrial sector can hire <span class="hp">as many surplus workers as they want without fear of raising wages</span></li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>We assume labor to have diminishing returns (1 more labor <span class="math inline">\(\neq\)</span> 1 more output)</li>
+<li>The profit-maximizing industrial sector hires labor until their <span class="hi">marginal product</span> is equal to <span class="hi">the real wage</span></li>
+</ul>
+</div>
+<div class="notes">
+<ul>
+<li>Important to see that quantity of labor between sectors is on different scale: ag is in millions, ind is in thousands</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="industrial-sector-output" class="level2">
+<h2 class="anchored" data-anchor-id="industrial-sector-output">Industrial Sector Output</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-output.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="industrial-sector-wages" class="level2">
+<h2 class="anchored" data-anchor-id="industrial-sector-wages">Industrial Sector Wages</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-wages.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="industrial-sector-profits" class="level2">
+<h2 class="anchored" data-anchor-id="industrial-sector-profits">Industrial Sector Profits</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-profits.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="all-together" class="level2">
+<h2 class="anchored" data-anchor-id="all-together">All Together</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="images/lewis-output.png" class="fragment quarto-figure quarto-figure-left figure-img" height="450"></p>
+</figure>
+</div>
+</div><div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-wages.png" class="fragment quarto-figure quarto-figure-center figure-img" height="450"></p>
+</figure>
+</div>
+</div><div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><img src="images/lewis-profits.png" class="fragment quarto-figure quarto-figure-right figure-img" height="450"></p>
+</figure>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="investments" class="level2">
+<h2 class="anchored" data-anchor-id="investments">Investments</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="images/lewis-investment-01.png" class="fragment quarto-figure quarto-figure-left figure-img" height="450"></p>
+</figure>
+</div>
+</div><div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lewis-investment-02.png" class="fragment quarto-figure quarto-figure-center figure-img" height="450"></p>
+</figure>
+</div>
+</div><div class="column" style="width:30%;">
+<div class="quarto-figure quarto-figure-right">
+<figure class="figure">
+<p><img src="images/lewis-investment-03.png" class="fragment quarto-figure quarto-figure-right figure-img" height="450"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="investments-1" class="level2">
+<h2 class="anchored" data-anchor-id="investments-1">Investments</h2>
+<p>Because the industrial sector owners make a <span class="hi-green">positive profit</span> and they fully reinvest those back into <span class="hi">capital</span></p>
+<p><span class="hi align-center">We get self-sustaining growth</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li><p>This will happen until all <span class="hi">surplus rural labor</span> is absorbed into the industrial sector</p></li>
+<li><p>The <span class="h">industrial sector</span> can extract additional workers <span class="hp">at a higher cost</span> since it would now imply a loss of food production</p></li>
+<li><p>This is the <span class="hp">Lewis Turning Point</span></p>
+<ul class="incremental">
+<li><span class="small">The labor supply curve becomes <span class="hi">positively sloped</span> in the industrial sector and wages increase in the economy</span></li>
+<li><span class="small">Eventually the market goes through a <span class="hi">structural transformation</span> where it shifted from a traditional rural agricultural to a modern urban industrial setting</span></li>
+</ul></li>
+</ul>
+</div>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
