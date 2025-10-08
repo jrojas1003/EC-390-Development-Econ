@@ -38,3 +38,11 @@ title-slide-attributes:
 # Solow Growth Model {.inverse .note}
 
 {{< include 022-solow.qmd >}}
+
+# Structural Change Models {.inverse .note}
+
+{{< include 023-lewis-two-sector.qmd >}}
+
+# Neoclassical Dependence Revolution {.inverse .note}
+
+{{< include 024-international-dependence.qmd >}}

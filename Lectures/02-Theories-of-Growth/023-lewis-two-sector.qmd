@@ -1,0 +1,230 @@
+---
+name: lewis two sector
+---
+
+## Lewis Two-Sector Model
+
+Was the general theory of the development process in [surplus-labor developing nations]{.hi} in the 60s and 70s
+
+::: {.vertical-center}
+- Focuses on [structural transformation]{.hp} of a primarily [subsistence economy]{.hi}
+
+    - [_Definition:_]{.hp} A major alteration in the industrial composition of any economy
+    - Usually we talk about moving from subsistence agricultural sector to manufacturing sector 
+:::
+
+---
+
+## Model Set Up 
+
+There is an [underdeveloped economy]{.hi} with:
+
+::: {.fragment}
+- Two Sectors
+
+    [_1._]{.hp} A traditional, overpopulated, rural subsistence sector
+
+    [_2._]{.hp} A high-productivity, modern, urban industrial sector
+:::
+
+::: {.fragment}
+- Primary Focus
+    - Process of labor transfer/movement between sectors 
+    - Growth of output and employment in the [industrial]{.h} sector
+:::
+    
+::: {.fragment}
+> The transfer of labor between sectors and employment growth in the [industrial]{.h} sector is due to [expansion in the industrial sector]{.hi}
+:::
+
+---
+
+## Industrial Sector Expansion
+
+The speed at which the [industrial sector]{.hi} grows is determiend by [investment and capital accumulation]{.hi} in that sector 
+
+::: {.incremental}
+- Capitalists make profits in the [industrial sector]{.hi} above paid [wages]{.hi}
+- Assume that they invest it [all]{.hp} back into the sector (more capital enters)
+- [Capital stock]{.hi} increases and they hire more labor
+:::
+
+::: {.fragment}
+[Some questions/doubts arise]{.hi}
+
+[_1._]{.hp} Where is all the labor coming from? I thought the other side was a [subsistence agricultural sector]{.hi}?
+
+[_2._]{.hp} I thought economists didn't believe in positive profits
+
+[_3._]{.hp} [Capital]{.hi} only increases in the industrial sector?
+:::
+
+---
+
+## Subsistence Agricutural Sector 
+
+There are two primary assumptions to consider
+
+::: {.vertical-center}
+
+[_1._]{.hp} There is a [surplus of labor]{.hi} 
+
+::: {.fragment}
+- Marginal productivity of labor $(MP_{LA})$ is zero
+:::
+
+[_2._]{.hp} All [rural workers]{.hi} share their output equally 
+
+::: {.fragment}
+- Rural wages are determined by the average product of labor
+:::
+
+::: {.fragment}
+- There are $L_{A}$ agricultural workers that produce $TP_{A}$ food
+- They share food equally as $W_{A}$ per person 
+:::
+
+:::
+
+---
+
+## Subsistence Agricultural Sector (Production)
+
+![](images/lewis-ag-prod.png){fig-align="center"}
+
+---
+
+## Subsistence Agricultural Sector (Labor Demand)
+
+![](images/lewis-ag-labor-demand.png){fig-align="center"}
+
+---
+
+## Subsistence Agricultural Sector (Both)
+
+![](images/lewis-ag-both.png){fig-align="center"}
+
+---
+
+## Industrial Sector (Production)
+
+![](images/lewis-ind-prod.png){fig-align="center"}
+
+---
+
+## Industrial Sector (Labor Demand)
+
+![](images/lewis-ind-labor-demand.png){fig-align="center"}
+
+---
+
+## Industrial Sector (Both)
+
+![](images/lewis-ind-both.png){fig-align="center"}
+
+---
+
+## Wage Differences
+
+[Agricultural wages]{.hi} are lower than [wages in the industrial sector]{.hi}
+
+::: {.incremental}
+- Supply of agricultural labor is assumed to be [perfectly elastic/unlimited]{.hi}
+    - This means that at industrial wages $(W_{M})$ above agricultural wages $(W_{A})$, the industrial sector can hire [as many surplus workers as they want without fear of raising wages]{.hp}
+:::
+
+::: {.fragment}
+- We assume labor to have diminishing returns (1 more labor $\neq$ 1 more output)
+- The profit-maximizing industrial sector hires labor until their [marginal product]{.hi} is equal to [the real wage]{.hi}
+:::
+
+:::{.notes}
+- Important to see that quantity of labor between sectors is on different scale: ag is in millions, ind is in thousands
+:::
+
+---
+
+## Industrial Sector Output 
+
+![](images/lewis-output.png){fig-align="center"}
+
+---
+
+## Industrial Sector Wages
+
+![](images/lewis-wages.png){fig-align="center"}
+
+---
+
+## Industrial Sector Profits
+
+![](images/lewis-profits.png){fig-align="center"}
+
+---
+
+## All Together
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+![](images/lewis-output.png){fig-align="left" height="450" .fragment}
+
+:::
+
+::: {.column width="30%"}
+
+![](images/lewis-wages.png){fig-align="center" height="450" .fragment}
+
+:::
+
+::: {.column width="30%"}
+
+![](images/lewis-profits.png){fig-align="right" height="450" .fragment}
+
+:::
+
+::::
+
+---
+
+## Investments
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+![](images/lewis-investment-01.png){fig-align="left" height="450" .fragment}
+
+:::
+
+::: {.column width="30%"}
+
+![](images/lewis-investment-02.png){fig-align="center" height="450" .fragment}
+
+:::
+
+::: {.column width="30%"}
+
+![](images/lewis-investment-03.png){fig-align="right" height="450" .fragment}
+
+:::
+
+::::
+
+## Investments
+
+Because the industrial sector owners make a [positive profit]{.hi-green} and they fully reinvest those back into [capital]{.hi}
+
+[We get self-sustaining growth]{.hi .align-center}
+
+::: {.incremental}
+- This will happen until all [surplus rural labor]{.hi} is absorbed into the industrial sector
+
+- The [industrial sector]{.h} can extract additional workers [at a higher cost]{.hp} since it would now imply a loss of food production
+
+- This is the [Lewis Turning Point]{.hp}
+
+    - [The labor supply curve becomes [positively sloped]{.hi} in the industrial sector and wages increase in the economy]{.small}
+    - [Eventually the market goes through a [structural transformation]{.hi} where it shifted from a traditional rural agricultural to a modern urban industrial setting]{.small}
+:::
