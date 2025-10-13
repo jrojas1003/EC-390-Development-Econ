@@ -78,6 +78,137 @@ Components of the [S-Diagram]{.hi}
 
 [_Stable Equilibria_]{.hp}
 
-
+- An [equilibrium is]{.hi} [stable]{.hi-green} if it is the case that if we were to move away from it, then agents will eventually end back at that equilibrium
 
 [_Unstable Equilibria_]{.hp}
+
+- An [equilibrium is]{.hi} [unstable]{.hi-red} if it is the case that if we were to move away from it, then agents will take actions that make it move further away from it
+
+::: {.fragment}
+[How can we tell if an equilibrium is stable/unstable?]{.hi}
+:::
+
+::: {.incremental}
+- If the [S-Curve]{.hi} is [flatter]{.hi-green} than the [45-Degree line]{.h} than it is [stable]{.hi-green}
+
+- If the [S-Curve]{.hi} is [steeper]{.hi-red} than the [45-Degree line]{.h} than it is [unstable]{.hi-red}
+:::
+
+---
+
+![](images/multiple-eq-ex.png){fig-align="center"}
+
+::: {.fragment}
+In this previous example, $D_{1}$ and $D_{3}$ are [stable]{.hi-green}
+
+And $D_{2}$ is [unstable]{.hi-red}
+:::
+
+---
+
+## Big Push
+
+This model helps us understand something like perpetual poverty or the middle income trap
+
+::: {.fragment}
+Take for example a nation with a [low average investment]{.hi}
+:::
+
+::: {.incremental}
+- If nothing is done, investment will simply return to $D_{1}$ and there will be less and less economic activity
+    - Recall what our previous models infer about low investments [{{< fa arrow-right >}} low output]{.hi}
+
+- If investment could be increased beyond the intermediate point $D_{2}$, then these models predict that investment would eventually end up at $D_{3}$ 
+:::
+
+---
+
+## Examples of a Big Push
+
+[Intestinal works are prevalent among children in the poorest of developing countries]{.hi .align-center}
+
+::: {.incremental}
+- Worms lead to sickness 
+- Sickness means missed school or missed work
+- Worms spread from children to children in several ways
+- [Coordination Failure:]{.hp} If no one treats their child (or if they are unable to), why should I treat mine?
+- Studies have shown that deworming medicine leads to a large increase in school attendance in Kenya, even among untreated children
+:::
+
+---
+
+## Multiple Equilibria Problems
+
+There are several other problems with multiple equilibria to consider
+
+[_1._]{.hp} [Firm Incumbency]{.hi}
+
+[_2._]{.hp} [Behaviour and Norms]{.hi}
+
+[_3._]{.hp} [Linkages]{.hi}
+
+---
+
+## Multiple Equilibria Problems
+
+[_1._]{.hp} [Firm Incumbency]{.hi}
+
+::: {.incremental .small}
+- Existing firms have an advantage over new firms
+- This may be true even if they have relatively worse technology
+- Take the entry of a modern firm, with better technology 
+- Even if the new firm has better tech, they run up against an economies of scale problem
+- The local firm produces more output, so their per-unit cost is lower
+- A new firm cannot just match production yet, even though they may produce output more efficiently
+- Older firms can adjust and obtain the more efficient tech, [but can they?]{.hi .fragment}
+- If capital markets are poor, then they cannot invest properly and the economy is stuck with the inefficient production 
+:::
+
+::: {.faded}
+[_2._]{.hp} [Behaviour and Norms]{.hi}
+
+[_3._]{.hp} [Linkages]{.hi}
+:::
+
+---
+
+## Multiple Equilibria
+
+::: {.faded}
+[_1._]{.hp} [Firm Incumbency]{.hi}
+:::
+
+[_2._]{.hp} [Behaviour and Norms]{.hi}
+
+::: {.incremental}
+- Movement to a better equilibrium can be especially difficult when there are many agents to consider
+
+- Some agents may have different and selfish incentives that make them act in corrupt ways
+
+- Imagine how difficult it is to change someones mind from say corruption to a cooperative nature where working together benefits all
+:::
+
+::: {.faded}
+[_3._]{.hp} [Inequality]{.hi}
+:::
+
+---
+
+## Multiple Equilibria Problems
+
+::: {.faded}
+[_1._]{.hp} [Firm Incumbency]{.hi}
+
+[_2._]{.hp} [Behaviour and Norms]{.hi}
+:::
+
+[_3._]{.hp} [Linkages]{.hi}
+
+- A traditional view has been that [some inequality]{.hi} may enhance growth because [the savings of the rich are higher than those of the poor]{.hi}
+
+::: {.fragment .small}
+- But in reality the poor save more than we think, or at the very least they do when we consider savings as investments in things like health, children's education, and home improvements
+
+- Even more importantly, in high inequality settings, the poor may not be able to get loans due to their lack of wealth
+    - With lack of access to credit, they may not be able to get loans that finance productivity increasing investments (efficient capital, educational investment, etc.)
+:::

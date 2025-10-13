@@ -2,3 +2,55 @@
 name: O-Ring Theory
 ---
 
+## Introduction
+
+This model leans in on [complementarities in production]{.hi} in a strong way
+
+::: {.fragment}
+- The notion is that modern production (comparative to tradiotional crafts production) requires [many activities be done well together]{.hi} in order for any of them to amount to a high value 
+:::
+
+::: {.fragment}
+The name comes from the unfortunate 1986 [Challenger disaster]{.hi} where one small and inexpensive part (the O-Ring) failed and caused the space shuttle to explode
+:::
+
+---
+
+## Key Feature - Complementarities Among Inputs
+
+Start by thinking of the model as describing what goes on inside a firm, but we can extend this to an industry or sector of the economy
+
+::: {.incremental}
+- Suppose that production is broken down into $n$ tasks
+- For simplicity, we say that these tasks are ordered by the required level of skill to complete them, $q$, where $0 \leq q \leq 1$
+    - The higher the skill, the higher the probability of it being ["successfully completed"]{.hi}
+- The production function is a simple one:
+    - Output is given by multiplying the $q$ values of each $n$ tasks togehter, and this is then multiplied by a term $B$ that is just a production scalar
+:::
+
+---
+
+## O-Ring Production
+
+$$
+    BF(q_{i},q_{j}) = q_{i}q_{j}
+$$
+
+::: {.fragment}
+Let's make a simplifying assumption that $B = 1$ so then we just have $$F(q_{i},q_{j}) = q_{i}q_{j}$$
+:::
+
+::: {.fragment}
+Now let's introduce other assumptions
+
+::: {.incremental}
+- Firms are risk-neutral
+- Labor markets are competitive
+- Workers supply labor inelastically
+:::
+
+:::
+
+::: {.notes}
+risk neutral: Firms behae as if it maximizes expected profit ignoring variance or uncertainty
+:::
