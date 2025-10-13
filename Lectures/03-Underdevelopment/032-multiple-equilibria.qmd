@@ -1,0 +1,83 @@
+---
+name: multiple equilibria
+---
+
+## How Can There Be More Than One?
+
+Basically, reflects a more (but not entirely) realistic possibility of outcomes
+
+We will be matching [expectations]{.hi} to [reality]{.hi}
+
+::: {.incremental}
+- Recall that [expectations]{.hi} are not necessarily reality but they do inform it 
+
+- [Multiple Equilibria]{.hp} is the condition where [more than one equilibria exists]{.hi}
+
+- These equilibria may sometimes be [ranked]{.hi}, in the sense that one is preferred to another
+
+- The standard diagram takes an S-shape around a 45 degree line
+:::
+
+---
+
+![](images/multiple-eq-ex.png){fig-align="center"}
+
+---
+
+## Multiple Equilibria 
+
+Components of the [S-Diagram]{.hi}
+
+::: {.vertical-center}
+
+[Wavy Line]{.hi} {{< fa arrow-right >}} [Private Decision Function]{.hi}
+
+::: {.fragment}
+- Tells us the best decision an individual can make [given decisions of all other agents]{.hi}
+:::
+
+[45 Degree Line]{.hi}
+
+::: {.fragment}
+- Shows all points where an [individual's decision is exactly the same as the expected decision]{.hi} of all other agents
+:::
+
+:::
+
+---
+
+## Multiple Equilibria
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+<br>
+
+![](images/multiple-eq-ex.png){fig-align="left" height="500"}
+
+:::
+
+::: {.column width="60%"}
+[Finding the Equilibria]{.hi .align-center}
+
+::: {.incremental}
+- We identify where the [private decision function]{.hi} is the same as the [45 degree line]{.hi}
+    - These points are where it is privately optimal to do what other agents are doing
+    - No agent has an incentive to deviate
+- But there is [stability]{.hp} to consider as well
+:::
+
+:::
+
+::::
+
+---
+
+## Stable vs Unstable Equilibria
+
+[_Stable Equilibria_]{.hp}
+
+
+
+[_Unstable Equilibria_]{.hp}

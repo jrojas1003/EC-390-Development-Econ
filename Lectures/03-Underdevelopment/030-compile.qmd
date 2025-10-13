@@ -1,0 +1,103 @@
+---
+title: "Contemporary Models and Underdevelopment"
+subtitle: "EC 390 - Development Economics"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC390, Lecture 03 | Contemporary Models and Underdevelopment"
+        preview-links: auto
+        code-f  old: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+## Contemporary Models
+
+So far we have seen that development is [possible but difficult to achieve]{.hi}
+
+The theory models we have seen use very [strict assupmtions]{.hi}
+
+::: {.fragment}
+- This is done to simplify the model and bring it down to a handful of variables that can change
+- However the world is not simple
+:::
+
+::: {.fragment}
+[Newer theories relax some of these assumptions]{.hi}
+
+- Perfect information 
+- Insignificance of externatilities
+- Uniqueness/optimality of equilibria
+:::
+
+---
+
+## Contemporary Models
+
+These models attempt to incorporate more realistic observations of the developing world
+
+A major theme is the inclusion of:
+
+[_1._]{.hp} [Binding Constraints]{.hi}
+
+[_2._]{.hp} Coordination of [Economic Agents]{.hi}
+
+---
+
+## Contemporary Models
+
+These models attempt to incorporate more realistic observations of the developing world
+
+A major theme is the inclusion of:
+
+[_1._]{.hp} [Binding Constraints]{.hi}
+
+- The [main thing holding you back]{.hp} from growth
+
+- If this limitation was to be relaxed, we would see accelerated growth (or an increased amount in whatever target we have)
+
+::: {.faded}
+[_2._]{.hp} Coordination of [Economic Agents]{.hi}
+:::
+
+---
+
+## Contemporary Models
+
+These models attempt to incorporate more realistic observations of the developing world
+
+A major theme is the inclusion of:
+
+::: {.faded}
+[_1._]{.hp} [Binding Constraints]{.hi}
+
+- The [main thing holding you back]{.hp} from growth
+
+- If this limitation was to be relaxed, we would see accelerated growth (or an increased amount in whatever target we have)
+:::
+
+[_2._]{.hp} Coordination of [Economic Agents]{.hi}
+
+- A participant that chooses an action to maximize an objective
+
+  - Firms, Workers, Consumers, Government Officials, etc.
+
+# Coordination Failure {.inverse .note}
+
+{{< include 031-coordination-failure.qmd >}}
+
+# Multiple Equilibria {.inverse .note}
+
+{{< include 032-multiple-equilibria.qmd >}}
+
+# O-Ring Theory {.inverse .note}
+
+{{< include 033-o-ring-theory.qmd >}}
+
+# HRV {.inverse .note}
+
+{{< include 034-hrv-growth-diagnostic.qmd >}}

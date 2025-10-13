@@ -1,0 +1,128 @@
+---
+name: coordination failure
+---
+
+## Important Terms
+
+[Complementarity:]{.hi}
+
+::: {.fragment}
+- An action taken by an agent, that increases the incentives for other agents to take similar actions
+:::
+
+[Coordination Failure]{.hi}
+
+::: {.fragment}
+- A situation where the [inability]{.h} of agents to coordinate their [behavior]{.h} leads to an [outcome]{.h} that leaves everyone worse off than in an alternative situation that is also an [equilibrium]{.h}
+:::
+
+::: {.fragment .align-center}
+[Coordination Failure]{.hi} is essentially where agents do not work optimally together to reach the [best possible]{.hi} outcome
+:::
+
+---
+
+## Expectations
+
+Let's quickly introduce the important economic concept of [Expectations]{.hp}
+
+::: {.incremental .vertical-center}
+- [Agents]{.h} hold [beliefs]{.hp} of what [they think will happen]{.hi}
+
+    - You [expect]{.hi} that studying hard will improve your grades
+    - You [expect]{.hi} the empty restaurant will not be good
+
+- These [beliefs]{.hp} then [shape your behavior]{.hi}
+
+    - You [study more]{.hi}
+    - You [go eat somewhere else]{.hi}
+:::
+
+---
+
+## Complementarities
+
+[Expectations]{.hi} are an important component of [complementarities]{.hi}
+
+::: {.fragment}
+> [Complementarities]{.hi} will often involve investments where returns depend on [other investments being made]{.hi}
+:::
+
+::: {.incremental}
+- An important example is the presence of firms using special skills by agents and those agents acquiring those skills
+
+- Later we will see a model that directly deals with worker skills complementing each other in production
+:::
+
+::: {.notes}
+Firms will not enter a market or locate somewhere if workers do not possess the skills the firms need, but workers will not acquire those skills if there are no firms to employ them
+:::
+
+## Coordination Between Agents
+
+[Coordination]{.hi} gets more difficult/unlikely as the number of agents increases
+
+There can also be added [limitations to coordinating behavior]{.hi}
+
+::: {.incremental .vertical-center}
+- Agents may [not be able to coordinate at all]{.hi} [{{< fa arrow-right >}} Where-to-Meet Dilemma]{.h .fragment .small}
+
+- Even if agents can coordinate, it may be difficult to convince them to 
+:::
+
+---
+
+## Price of Fish Example
+
+[Reading on Site]{.hi}
+
+::: {.fragment}
+- Central Issue: Fishermen in India were not sure what the local prices were
+    - A good catch might not fetch a lot of money if a fisher man chooses a [saturated market]{.hi}
+    - This led to surpluses and shortages
+    - [Coordination Failure]{.hp}
+::: 
+
+---
+
+## Price of Fish Example
+
+> [Central Issue: Fishermen in India were not sure what the local prices were]{.small}
+
+::: {.incremental}
+- The most basic supply and demand curves [require full information for all agents]{.hi}
+- Without information, volatility and uncertainty enter the market
+- The fishermen have no information on the local prices, and they were not sure where to sell
+- This leads to volatile prices in the market
+- With cell phones, information became accesible 
+- Cell phones also allowed them to [coordinate]{.hp}
+- ["Law of One Price"]{.hi} emerged
+:::
+
+---
+
+## Price of Fish Example
+
+> [How did cellphones allow agents to overcome the coordination failure?]{.hi}
+
+::: {.fragment}
+- They allowed fishermen to [communicate with buyers and other sellers]{.hi}
+- They could call a number of markets and find out where the price was highest
+- Generally aware of where buyers had high [Willingness to Pay]{.hi}
+- Sellers were able to spread out across the different markets in an optimal way
+- Eliminated inefficiencies like guessing
+:::
+
+---
+
+## 
+
+![](images/fishermen-example.png){fig-align="center"}
+
+::: {.notes}
+Cellphones made markets more efficient
+
+Everyone benefited: Profits rose by 8% and prices fell by 4%
+
+There was economic growth stemming from coordination
+:::
