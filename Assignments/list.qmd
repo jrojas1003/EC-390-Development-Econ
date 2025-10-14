@@ -6,6 +6,8 @@ title: Assignments
 
 [Problem Set 01 - Due Wednesday, October 08 @ 12:00pm]{.text-center .h .large} 
 
+[Answer Key](Problem-Sets/PS01/Answer-Key-PS01.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+
 ::: {.align-center}
 [PS01 Questions](Problem-Sets/PS01/ps01.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
 [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916923){target=_blank .btn .btn-primary .btn-lg .cv-download}
