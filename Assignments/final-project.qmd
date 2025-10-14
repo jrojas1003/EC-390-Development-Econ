@@ -11,10 +11,12 @@ title: Final Project
 [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916912){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
+[Annotated Bibliography - Due Wednesday, November 05 @ 11:59pm]{.text-center .h .large}
 
-## Annotated Bibliography (Week 06)
-
-
+::: {.align-center}
+[Instructions](Final-Project/02-Annotated-Bib/annotated-bib.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
+[Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916913){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
 
 ## Presentation Outline (Week 08)
 
