@@ -1,0 +1,138 @@
+\documentclass[11pt]{article}
+
+% ---------------------------------------------------
+% Page Layout
+% ---------------------------------------------------
+\usepackage{geometry}   % Flexible page dimensions
+\geometry{margin=1in, centering}
+
+% ---------------------------------------------------
+% Encoding and Fonts
+% ---------------------------------------------------
+\usepackage[utf8]{inputenc}   % Input encoding
+\usepackage[T1]{fontenc}      % Output font encoding
+\usepackage{lmodern}          % Latin Modern fonts (improves output)
+
+% ---------------------------------------------------
+% Tables and Columns
+% ---------------------------------------------------
+\usepackage{multicol}   % Multiple column environments
+\usepackage{multirow}   % Multi-row cells in tables
+\usepackage{booktabs}   % Better looking tables
+
+% ---------------------------------------------------
+% Graphics and Figures
+% ---------------------------------------------------
+\usepackage{graphicx}   % Include graphics
+\usepackage{caption}    % Customization of captions
+
+% ---------------------------------------------------
+% Text Styling
+% ---------------------------------------------------
+\usepackage{color}      % Color support
+\usepackage{soul}       % Highlighting, underlining, strikethrough, etc.
+\usepackage{parskip}    % Skips line in paragraph instead of indent
+% ---------------------------------------------------
+% Headers, Footers, and Symbols
+% ---------------------------------------------------
+\usepackage{fancyhdr}   % Custom headers/footers
+\usepackage{lastpage}   % Reference last page in document
+\usepackage{bbding}     % Special symbols (checkmarks, etc.)
+\usepackage{pmboxdraw}  % Box drawing characters
+\usepackage{fontawesome} % Allows customization of icons 
+
+% ---------------------------------------------------
+% Section Formatting
+% ---------------------------------------------------
+\usepackage{titlesec}   % Customize section titles
+
+% ---------------------------------------------------
+% Hyperlinks and URLs
+% ---------------------------------------------------
+\usepackage{url}        % Simple URL typesetting
+\usepackage{hyperref}   % Clickable hyperlinks
+
+
+\begin{document}
+\title{Population density persistence from the Sui Canal: Effects across space and time}
+\author{Dante Yasui}
+\date{March 11, 2021}
+\maketitle
+
+\begin{center}
+\footnotesize{Paper proposal submitted in economics 255: technology, institutions, and economic growth. \\ Lewis and Clark College, Portland, Oregon, U.S.A.}
+\end{center}
+
+\strut
+\textbf{Keywords:} persistence, population growth, infrastructure, canals
+
+\textbf{JEL codes:} 01, 018, R1, R4
+
+\section{Introduction/Topic Proposal}
+
+Did the construction of the Grand Canal by the Sui dynasty in the seventh century have a lasting impact on the spatial distribution of population density that persists into the modern era? My research will test the hypothesis that the Sui canal’s construction led to higher population growth in the counties closest to it which are still present until today and that these effects are robust to questions of endogeneity and spatial autocorrelation.
+This question is motivated by findings from the recent persistence literature related to historical infrastructure networks. The case of the Sui Canal is especially interesting because it is one of the largest man-made transportation routes since the fall of the Roman Empire and before the Industrial Revolution. It is also somewhat unique in that artificial waterways are rarely discussed in the context of economic development and also broadens the perspective of economic history away from the Western perspective. To give context to my question and the findings of related works, I will provide a short historical overview of the canal’s construction and its status from the seventh century until today. 
+
+Similar questions have been asked about the effects of Roman roads on modern European settlements (Dalgaard et al. 2018), colonial railway location on Kenyan towns and cities (Jedwab et al. 2015) and the growth of cities connected by Prussian railroad construction in the nineteenth century (Hornung 2014). The results of such papers often claim significant effects of historical investments on modern outcomes. While on one hand it can seem natural to accept that infrastructure is an important factor for economic development, it is important to be careful when we claim causation on geographically distributed economic variables. For example, to address the ever-present endogeneity problems we must ask to what extent infrastructure routes like canals are constructed to cater to growing incomes and populations rather than directly guiding future growth. Additionally, Kelley (2019) has brought attention to other “standard errors of persistence” such as spatial autocorrelation. He finds that many significance values of persistence literature results can be replicated when using random spatial noise in place of the explanatory variables they claim to test for. He recommends that when reporting such spatial regressions, economists should report Moran statistics as well as create spatial noise tests for the robustness of their claims. I will construct a literature review of studies on other infrastructure’s persistence effects and measurement problems these studies try to account for.
+
+With the methodological challenges of analysing spatial infrastructure effects in mind, I will attempt to replicate the empirical results of Fluckiger and Ludwig’s recently published paper on the Sui canal (2019). My focus will mainly be on their modern measurements of population and GDP. This paper will expand on their measurement methods through using modern county borders rather than grid cells and by using a distance measure instead of a dummy variable on canal intersection. I will also use the insights from Kelly to expand on their estimation methods and to determine whether Fluckiger and Ludwig’s results are robust to tests for spatial autocorrelation. Specifically I will apply Moran tests for the spatial regressions of modern population and GDP and simulate autocorrelated random population and GDP distributions to perform additional placebo tests.
+
+
+\pagebreak
+
+\section*{References: Annotated}
+
+\hangindent=.5in
+\textbf{Banerjee, Abhijit, Esther Duflo and Nancy Qian. “On the road: Access to transportation infrastructure and economic growth in China.” Journal of Development Economics, Volume 145, 2020, 102442.}
+\begin{itemize}
+    \item [~]
+    The authors examine the effects of historical infrastructure routes on county level economic outcomes in China during the period of explosive growth from 1986 to 2003. Their approach takes advantage of the fact that rail lines were built in the nineteenth century to connect existing major Chinese cities to treaty ports. The authors construct straight lines connecting these cities as proxies for rail location and test the causal effect of proximity to these lines with county level GDP per capita, household income and number of firms. They find that counties farther from the infrastructure lines have lower GDP, household incomes and gini coefficients than closer counties and that more distant counties have fewer firms with lower profits even when accounting for the possible ‘crowding-in’ effect where more efficient firms might relocate to be closer to newly constructed infrastructure. 
+    
+    While the time frame is comparatively more recent, this article still fits in with the persistence literature in which a ‘quasi-random’ initial placement of infrastructure can lead to a stable equilibrium pattern in which affected areas have have better economic outcomes which lead to more infrastructure construction and additional benefits as time goes on. This is also more geographically connected than other persistence studies to my proposed research because the regions of China connected to the Sui canal were later connected to treaty ports by rail in the nineteenth century. The results of this study will provide context for why shifting patterns of GDP and incomes but not population led to a shift away from the importance of the Sui canal and towards coastal cities as the hubs of trade into the present. 
+
+\end{itemize}
+
+\hangindent=.5in
+\textbf{Bleakley, Hoyt and Jeffrey Lin. “Portage and Path Dependence.” The Quarterly Journal of Economics, Volume 127, Issue 2, May 2012, Pages 587–644.}
+\begin{itemize}
+    \item [~]
+    Bleakley and Lin look at portage sites in the United States where overland travel was necessary to move in between water transportation routes like rivers and canals. Even when they control for geographic factors, portage sites are still likely to have higher population densities all else equal. Even after changes in trade technologies eliminated the importance of portage sites these existing population centers continued to grow. This fits within the path dependence literature in which modern population and income distributions are affected locations of obsolete advantages which set the treated regions on paths of permanently higher outcomes. I will relate the importance of water transportation and portage for pre-modern American trade and development to my own focus on the importance of canal infrastructure and river routes for Chinese development from the Sui dynasty onwards. Both cases are related to inland waterway trade but it will be interesting to examine the differences in which GDP spatial distribution is fundamentally changing in China towards coastal cities but not so much away from portage cities in the United States. 
+
+\end{itemize}
+
+\hangindent=.5in
+\textbf{Dalgaard, Carl-Johan Nicolai Kaarsen, Ola Olsson and Pablo Selaya. 2018. "Roman Roads to Prosperity: Persistence and Non-Persistence of Public Goods Provision," CEPR Discussion Papers 12745, C.E.P.R. Discussion Papers.}
+\begin{itemize}
+    \item [~]
+    The authors find that Roman roads constructed during the height of the empire in 117 CE affected where later settlements occurred during 500 CE which persist in modern outcomes. Roman road placement predicts modern road infrastructure and economic development when proxied by nighttime light intensity. The authors argue that because modern outcomes in areas which stopped using wheeled transport after the collapse of the Roman empire cannot be predicted by Roman roads, there is evidence for the causal claim that historical infrastructure placement persists in modern infrastructure placement. While there are many emerging persistence articles, this one is relevant to my research as its historical scale and also it focuses on transportation infrastructure effects. The areas in which Roman roads were either continually used and maintained or abandoned parallels the different sections of the Sui canal which were either maintained until today or abandoned due to the Yuan dynasty invasion.
+\end{itemize}
+
+\hangindent=.5in
+\textbf{Flückiger, Matthias and Markus Ludwig. "Transport infrastructure, growth and persistence: The rise and demise of the Sui Canal." Canadian Journal of Economics, Canadian Economics Association, vol. 52(2), 2019, 624-666, May.}
+\begin{itemize}
+    \item[~] 
+    The authors analyze the effects of the Sui canal on both historical and modern population distribution in the Northern Plains and Lower Yangtze regions of China which the canal connected. They find that population density was higher in 2 degree latitude by 2 degree longitude grid cells connected to the historical canal than in cells not connected. The results fit with those of the expanding persistence literature in which historical events have lasting effects on populations even up to the modern era. Specifically, they estimate a significant positive effect of access to the canal on population density in the years 742, 1102, and 2010. However they find a significant negative coefficient of canal access on modern GDP per capita distribution which they conjecture is a result of shifting economic trade benefits to coastal areas in the industrial and modern eras. 
+    
+    This article most closely aligns with my own research interest and I will attempt to replicate their results while applying some additional insights of persistence controls. Some key parts of their estimation strategy are inclusion of geographic controls in an ordinary least squares regression and using connection to a straight line between canal destination nodes as an instrument to estimate canal connection in the second stage of a two-stage least squares model. 
+\end{itemize}
+
+\hangindent=.5in
+\textbf{Kelly, Morgan. “The standard errors of persistence.” 2019. CEPR discussion paper 13783.}
+\begin{itemize}
+    \item[~]
+    Kelly makes the observation that many articles within the persistence effects literature do not take into account spatial autocorrelation: the idea that geographic neighboring locations will be related to each other automatically. He simulates spatial noise data with various ranges of correlation decay over distance. He finds generally that regression $t$ statistics inflate rapidly at higher spatial correlation ranges. He uses specific examples of common geographic data to show that regressing using geographic locations or boundaries will result in higher estimates of $p$ values than the data actually reflect. As a solution to this problem, Kelly suggests a two step process where researchers of spatial relationships should first report Moran’s I statistics for regression residuals. Second, the researcher should generate artificial noise to match the correlation patterns of the data and enter them into the main regression in place of both the dependent variable and explanatory variable. If the original regression does not outperform this placebo regression then there is evidence that autocorrelation is mostly responsible for supposedly explained effects. Kelly uses this framework to examine preliminary regressions from 27 previously published persistence studies. He found in  many cases that the persistence variable in the study was less predictive than spatial noise. 
+    
+    Because my own research takes the form of a persistence question, it is important to take Kelly’s observations and recommendations seriously. It is possible that the persistence effect of the Grand Canal on modern populations in Flueckiger and Ludwig’s results are due mostly to spatial autocorrelation. It will be interesting to compare their OLS and 2SLS models to placebos using randomly simulated population spatial distributions. If these results hold up to Kelly’s tests, then there will be additional evidence for the surprising theory that historical events can have effects on population distribution which are consistent across centuries. 
+
+\end{itemize}
+
+\hangindent=.5in
+\textbf{Liu, Guanglin William. “Song China’s Water Transport Revisited: A study of the 1077 commercial tax data.” Pacific Economic Review, 17: 1, 2012, pp. 57–85.}
+\begin{itemize}
+    \item[~]
+    Liu analyses the surviving tax records taken by over two-thousand Song dynasty tax stations in the year 1077. According to historical records, inland water networks were important to both inter and intra-regional trade and more than half of the recorded tax income came from cities on these inland waterways. Liu argues that water transportation became central to building long-distance trade during this era and led to ‘the most successful canal-building regime in Chinese history’. This article links historical theories of the role of canal construction on growth and economic activity during this period with evidence from historical tax income data. The descriptions of relationships between major rivers other than the Yellow and Yangtze rivers and canals other than the main Sui canal route will fill out some context missing from Flueckiger and Ludwig’s narrower focus to give a more complicated picture of water transportation networks. The understanding of Song dynasty canal constructions will also fill in the details between Sui construction and the present day in my literature review. 
+
+\end{itemize}
+
+
+\end{document}
