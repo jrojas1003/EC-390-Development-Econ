@@ -4,7 +4,7 @@ title: "Home"
 
 ::: {.callout-warning}
 
-## Week 02 Update!
+## Week 03 Update!
 [25% of the way there!]{.hi}
 
 One quarter of the way done already. Insane.
@@ -88,12 +88,12 @@ For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf){target="_
 |:--------:|:------------:|:------------------------------------:|:-------------------------------:|
 |    W01   |  Ch. 1 & 2   |         Growth & Development         |              Quiz 01            |
 |    W02   |  Ch. 3 & 4   |     Theories of Growth & Development |    PS 01 & Final Project Topic  |
-|    W03   |    Ch. 05    |         Poverty & Inequity           |              Quiz 02            |
-|    W04   |    Ch. 09    |     Agriculture & Rural Development  |          Problem Set 02         |
-|    W05   |    Ch. 06    |             Population               |         **Midterm Exam**        |
-|    W06   |    Ch. 07    | Urbanization & Rural-Urban Migration |         Annotated Biblio.       |
-|    W07   |    Ch. 08    |       Educatoin & Health             |          Problem Set 03         |
-|    W08   |    Ch. 11    |      Governance & Institutions       |         Quiz 03 & Outline       |
+|    W03   |    Ch. 05    |Underdevelopment + Poverty & Inequity |              Quiz 02            |
+|    W04   |    Ch. 08    |       Education & Health             |          Problem Set 02         |
+|    W05   |    Ch. 09    |     Agriculture & Rural Development  |          **Midterm Exam**       |
+|    W06   |    Ch. 06    |             Population               |  Quiz 03 & Annotated Biblio.    |
+|    W07   |    Ch. 07    | Urbanization & Rural-Urban Migration |          Problem Set 03         |
+|    W08   |    Ch. 11    |      Governance & Institutions       |         Quiz 04 & Outline       |
 |    W09   |  Ch. 12 & 14 |  Foreign Aid, Trade, & Globalization |          Problem Set 04         | 
 |    W10   |      --      |      Final Project Presentations     |         **Presentations**       |
 
