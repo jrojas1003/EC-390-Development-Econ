@@ -5,21 +5,30 @@ title: "Home"
 ::: {.callout-warning}
 
 ## Week 02 Update!
-[10% of the way there!]{.hi}
+[25% of the way there!]{.hi}
 
-Hi all, this week will feel more like the term has started as we dive more into course content. 
+One quarter of the way done already. Insane.
 
-I wanted to give some reminders about the course assignments:
+I am finishing up comments on your final project topic selection. Will definitely be up by this afternoon. 
 
-&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; [Problem Set 01](Assignments/Problem-Sets/PS01/ps01.pdf){.hi-orange target=_blank} is due [Wednesday before lecture (11:59am)]{.hi} on [Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916923){target=_blank}
-
-&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; Your [Topic Selection](Assignments/Final-Project/01-Topic-Selection/topic-selection.pdf){.hi-orange target=_blank} of the [Final Project]{.hii target=_blank} is due [Wednesday at midnight (11:59pm)]{.hi} on [Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916912){target=_blank}
+Grades for PS01 have been posted, as well as the [Answer Key](Assignments/Problem-Sets/PS01/Answer-Key-PS01.pdf/){.hi-orange target=_blank} 
 
 This week's schedule looks like:
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Finish [Lecture 01 - Growth & Development](Lectures/01-Growth-and-Dev/010-compile.html){.hi-green target=_blank}
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 03 - Underdevelopment](Lectures/03-Underdevelopment/030-compile.html){.hi-green target=_blank}
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 02 - Theories of Growth](Lectures/02-Theories-of-Growth/020-compile.html){.hi-green target=_blank}
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Start (and hopefully finish) Lecture 04 - Poverty & Inequality
+
+I have also written up instructions in order to set expectations of the [Annotated Bibliography](https://canvas.uoregon.edu/courses/274682/assignments/1916913){.hi-orange target=_blank} which is due until [Week 06 (11/05)]{.hi-orange}. 
+You can find them [here](Assignments/Final-Project/02-Annotated-Bib/annotated-bib.pdf){.hi-orange target=_blank} or in the [Final Project Tab](Assignments/final-project.qmd){.hi-orange target=_blank}
+
+Do not forget that you have to complete:
+
+&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; [Quiz 02](https://canvas.uoregon.edu/courses/274682/quizzes/413321){.hi-orange target=_blank} is due [Wednesday before lecture (11:59am)]{.hi}
+
+Available on Wednesday:
+
+&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; [Problem Set 02](Assignments/Problem-Sets/PS02/ps02.pdf){.hi-green target=_blank} which is due next week on [Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916927){.hi-orange target=_blank}
 
 :::
 
