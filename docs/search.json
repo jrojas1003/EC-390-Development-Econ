@@ -242,7 +242,35 @@
     "href": "Lectures/04-Poverty-and-Inequity/041-inequality.html#total-poverty-gap",
     "title": "EC 390 - Development Econ",
     "section": "Total Poverty Gap",
-    "text": "Total Poverty Gap\nWe can instead look at the Total Poverty Gap (TPG)\n\n\nThis measures the total amount of money needed to get everyone up to the absolute poverty line\n\n\\[\n    TPG = \\sum_{i=1}^{H} (Y_{p} - Y_{i})\n\\]\n\nWhere \\(H\\) is the total number of people below the poverty line\n\\(Y_{p}\\) is the poverty line (eg. $2 per day)\n\\(Y_{i}\\) is the income of the \\(i^{th}\\) person under the poverty line\n\n\nOn Slide 40"
+    "text": "Total Poverty Gap\nWe can instead look at the Total Poverty Gap (TPG)\n\n\nThis measures the total amount of money needed to get everyone up to the absolute poverty line\n\n\\[\n    TPG = \\sum_{i=1}^{H} (Y_{p} - Y_{i})\n\\]\n\nWhere \\(H\\) is the total number of people below the poverty line\n\\(Y_{p}\\) is the poverty line (eg. $2 per day)\n\\(Y_{i}\\) is the income of the \\(i^{th}\\) person under the poverty line"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/041-inequality.html#other-measures-of-poverty-gaps",
+    "href": "Lectures/04-Poverty-and-Inequity/041-inequality.html#other-measures-of-poverty-gaps",
+    "title": "EC 390 - Development Econ",
+    "section": "Other Measures of Poverty Gaps",
+    "text": "Other Measures of Poverty Gaps\nWe can also have the Average Porvery Gap\n\\[\n    APG = \\dfrac{TPG}{\\text{Country Population}}\n\\]\n\nThis measures the amount each person would need to be given to everyone them out of poverty\n\n\nAnd Average Income Shortfall\n\\[\n    AIS = \\dfrac{TPG}{\\text{# of Poor}}\n\\]\n\nMeasures the average amount poor people are below the poverty line"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/041-inequality.html#other-measures-of-poverty-gaps-1",
+    "href": "Lectures/04-Poverty-and-Inequity/041-inequality.html#other-measures-of-poverty-gaps-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Other Measures of Poverty Gaps",
+    "text": "Other Measures of Poverty Gaps\nNormalized Income Shortfall\n\\[\n    NIS = \\dfrac{AIS}{\\text{Poverty Line}}\n\\]\n\nMeasures the Average Income Shortfall as a percentage of the poverty line\n\n\nLet’s look at some examples"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/041-inequality.html#poverty-measure-examples",
+    "href": "Lectures/04-Poverty-and-Inequity/041-inequality.html#poverty-measure-examples",
+    "title": "EC 390 - Development Econ",
+    "section": "Poverty Measure Examples",
+    "text": "Poverty Measure Examples\nLet’s return to our tiny country of 10 people\n\n\nThe poverty line is $1,000 per year\nThere are three people living at or below the poverty line\n\nPerson A makes $500\nPerson B makes $800\nPerson C makes $950\n\n\n\n\n\nFind all of TPG, APG, AIS, NIS\n\n\\[\n    TPG = \\sum_{i=1}^{H} (Y_{p} - Y_{i}) \\;\\; ; \\;\\; APG = \\dfrac{TPG}{\\text{Country Population}} \\\\ AIS = \\dfrac{TPG}{\\text{# of Poor}} \\;\\; ; \\;\\; NIS = \\dfrac{AIS}{\\text{Poverty Line}}\n\\]"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/041-inequality.html#poverty-measure-examples-1",
+    "href": "Lectures/04-Poverty-and-Inequity/041-inequality.html#poverty-measure-examples-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Poverty Measure Examples",
+    "text": "Poverty Measure Examples\nTotal Poverty Gap\n\n\\[\\begin{align*}\n    TPG &= (100 - 500) + (1000 - 800) + (1000 - 950) \\\\\n        &= 500 + 200 + 50 = 750\n\\end{align*}\\]\n\nAverage Poverty Gap\n\n\\[\n    APG = \\dfrac{TPG}{10} = \\dfrac{750}{10} = 75\n\\]\n\nAverage Income Shortfall\n\n\\[\n    AIS = \\dfrac{TPG}{\\text{# of Poor}} = \\dfrac{750}{3} = 250\n\\]\n\nNormalized Income Shortfall\n\n\\[\n    NIS = \\dfrac{AIS}{\\text{Poverty Line}} = \\dfrac{250}{1000} = 25\\%\n\\]"
   },
   {
     "objectID": "Lectures/03-Underdevelopment/034-hrv-growth-diagnostic.html",
@@ -2909,7 +2937,112 @@
     "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#total-poverty-gap",
     "title": "Poverty and Inequity",
     "section": "Total Poverty Gap",
-    "text": "Total Poverty Gap\nWe can instead look at the Total Poverty Gap (TPG)\n\n\nThis measures the total amount of money needed to get everyone up to the absolute poverty line\n\n\\[\n    TPG = \\sum_{i=1}^{H} (Y_{p} - Y_{i})\n\\]\n\nWhere \\(H\\) is the total number of people below the poverty line\n\\(Y_{p}\\) is the poverty line (eg. $2 per day)\n\\(Y_{i}\\) is the income of the \\(i^{th}\\) person under the poverty line\n\n\nOn Slide 40"
+    "text": "Total Poverty Gap\nWe can instead look at the Total Poverty Gap (TPG)\n\n\nThis measures the total amount of money needed to get everyone up to the absolute poverty line\n\n\\[\n    TPG = \\sum_{i=1}^{H} (Y_{p} - Y_{i})\n\\]\n\nWhere \\(H\\) is the total number of people below the poverty line\n\\(Y_{p}\\) is the poverty line (eg. $2 per day)\n\\(Y_{i}\\) is the income of the \\(i^{th}\\) person under the poverty line"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/040-compile.html#other-measures-of-poverty-gaps",
+    "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#other-measures-of-poverty-gaps",
+    "title": "Poverty and Inequity",
+    "section": "Other Measures of Poverty Gaps",
+    "text": "Other Measures of Poverty Gaps\nWe can also have the Average Porvery Gap\n\\[\n    APG = \\dfrac{TPG}{\\text{Country Population}}\n\\]\n\nThis measures the amount each person would need to be given to everyone them out of poverty\n\n\nAnd Average Income Shortfall\n\\[\n    AIS = \\dfrac{TPG}{\\text{# of Poor}}\n\\]\n\nMeasures the average amount poor people are below the poverty line"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/040-compile.html#other-measures-of-poverty-gaps-1",
+    "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#other-measures-of-poverty-gaps-1",
+    "title": "Poverty and Inequity",
+    "section": "Other Measures of Poverty Gaps",
+    "text": "Other Measures of Poverty Gaps\nNormalized Income Shortfall\n\\[\n    NIS = \\dfrac{AIS}{\\text{Poverty Line}}\n\\]\n\nMeasures the Average Income Shortfall as a percentage of the poverty line\n\n\nLet’s look at some examples"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/040-compile.html#poverty-measure-examples",
+    "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#poverty-measure-examples",
+    "title": "Poverty and Inequity",
+    "section": "Poverty Measure Examples",
+    "text": "Poverty Measure Examples\nLet’s return to our tiny country of 10 people\n\n\nThe poverty line is $1,000 per year\nThere are three people living at or below the poverty line\n\nPerson A makes $500\nPerson B makes $800\nPerson C makes $950\n\n\n\n\n\nFind all of TPG, APG, AIS, NIS\n\n\\[\n    TPG = \\sum_{i=1}^{H} (Y_{p} - Y_{i}) \\;\\; ; \\;\\; APG = \\dfrac{TPG}{\\text{Country Population}} \\\\ AIS = \\dfrac{TPG}{\\text{# of Poor}} \\;\\; ; \\;\\; NIS = \\dfrac{AIS}{\\text{Poverty Line}}\n\\]"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/040-compile.html#poverty-measure-examples-1",
+    "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#poverty-measure-examples-1",
+    "title": "Poverty and Inequity",
+    "section": "Poverty Measure Examples",
+    "text": "Poverty Measure Examples\nTotal Poverty Gap\n\n\\[\\begin{align*}\n    TPG &= (100 - 500) + (1000 - 800) + (1000 - 950) \\\\\n        &= 500 + 200 + 50 = 750\n\\end{align*}\\]\n\nAverage Poverty Gap\n\n\\[\n    APG = \\dfrac{TPG}{10} = \\dfrac{750}{10} = 75\n\\]\n\nAverage Income Shortfall\n\n\\[\n    AIS = \\dfrac{TPG}{\\text{# of Poor}} = \\dfrac{750}{3} = 250\n\\]\n\nNormalized Income Shortfall\n\n\\[\n    NIS = \\dfrac{AIS}{\\text{Poverty Line}} = \\dfrac{250}{1000} = 25\\%\n\\]"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-do-inequality-and-poverty-matter",
+    "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-do-inequality-and-poverty-matter",
+    "title": "Poverty and Inequity",
+    "section": "Why Do Inequality and Poverty Matter?",
+    "text": "Why Do Inequality and Poverty Matter?\nWe have explored the relationship between poverty/inequality\n\nIt’s clear that societies are worse off when more people are living in absolute poverty\n\n\n\nIt is less clear exactly why inequality is bad for a country"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-does-inequality-matter-1",
+    "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-does-inequality-matter-1",
+    "title": "Poverty and Inequity",
+    "section": "Why Does Inequality Matter?",
+    "text": "Why Does Inequality Matter?\nThere are three main proposals for why extreme inequality is bad\n\n1. High inequality leads to Inefficiencies\n2. High inequality leads to Unequal Distribution of Power\n3. Ethically/Philosophically Unfair"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-extreme-inequality-is-bad",
+    "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-extreme-inequality-is-bad",
+    "title": "Poverty and Inequity",
+    "section": "Why Extreme Inequality is Bad",
+    "text": "Why Extreme Inequality is Bad\n1. High inequality leads to Inefficiencies\n\n\nLess people can qualify for a loan, and therefore are limited in their ability to invest in education, business, etc.\nOverall sayings rare is low because the poor usually do not save as much\nInefficient allocation of assets\nOveremphasis on higher education instead of universal primary education\nUnequal distribution of farm land (most efficient is medium-size farm)"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-extreme-inequality-is-bad-1",
+    "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-extreme-inequality-is-bad-1",
+    "title": "Poverty and Inequity",
+    "section": "Why Extreme Inequality is Bad",
+    "text": "Why Extreme Inequality is Bad\n2. High inequality leads to Unequal Distribution of Power\n\n\nIncreased political power of the rich\nPolicies sway in favor of the rich, at the expense of the poor\nOften leads to rent-seeking behavior, which reduces resources that could improve overall growth of the country\nRich are less likely to improve institutions because they would not like to relinquish power\nPoor are more likely to support populist policies that can be self-defeating\nOften leads to higher crime\nWith high inequality, the focus of politics often tends to be on supporting or resisting the redistribution of the existing economic pie rather than on policies that increase its size"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-extreme-inequality-is-bad-2",
+    "href": "Lectures/04-Poverty-and-Inequity/040-compile.html#why-extreme-inequality-is-bad-2",
+    "title": "Poverty and Inequity",
+    "section": "Why Extreme Inequality is Bad",
+    "text": "Why Extreme Inequality is Bad\n3. Ethically/Philosophically Unfair\n\n\nIt is equally possible that you were born severely impoverished or exceptionally wealthy\nGiven that people have no control over where they are born, it is only fair that people should have similar opportunities\nIf these differences were based on difference in ability, work ethic, innovation, skills, etc, we might think differently\nGenerally people would like less inequality rather than more, with the understanding that some inequality involves factors beyond our control\nPsychology studies have found many people have “inequality aversion”: they tend to prefer more equal allocations"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/042-importance.html",
+    "href": "Lectures/04-Poverty-and-Inequity/042-importance.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "We have explored the relationship between poverty/inequality\n\nIt’s clear that societies are worse off when more people are living in absolute poverty\n\n\n\nIt is less clear exactly why inequality is bad for a country"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-do-inequality-and-poverty-matter",
+    "href": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-do-inequality-and-poverty-matter",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "We have explored the relationship between poverty/inequality\n\nIt’s clear that societies are worse off when more people are living in absolute poverty\n\n\n\nIt is less clear exactly why inequality is bad for a country"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-does-inequality-matter",
+    "href": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-does-inequality-matter",
+    "title": "EC 390 - Development Econ",
+    "section": "Why Does Inequality Matter?",
+    "text": "Why Does Inequality Matter?\nThere are three main proposals for why extreme inequality is bad\n\n1. High inequality leads to Inefficiencies\n2. High inequality leads to Unequal Distribution of Power\n3. Ethically/Philosophically Unfair"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-extreme-inequality-is-bad",
+    "href": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-extreme-inequality-is-bad",
+    "title": "EC 390 - Development Econ",
+    "section": "Why Extreme Inequality is Bad",
+    "text": "Why Extreme Inequality is Bad\n1. High inequality leads to Inefficiencies\n\n\nLess people can qualify for a loan, and therefore are limited in their ability to invest in education, business, etc.\nOverall sayings rare is low because the poor usually do not save as much\nInefficient allocation of assets\nOveremphasis on higher education instead of universal primary education\nUnequal distribution of farm land (most efficient is medium-size farm)"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-extreme-inequality-is-bad-1",
+    "href": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-extreme-inequality-is-bad-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Why Extreme Inequality is Bad",
+    "text": "Why Extreme Inequality is Bad\n2. High inequality leads to Unequal Distribution of Power\n\n\nIncreased political power of the rich\nPolicies sway in favor of the rich, at the expense of the poor\nOften leads to rent-seeking behavior, which reduces resources that could improve overall growth of the country\nRich are less likely to improve institutions because they would not like to relinquish power\nPoor are more likely to support populist policies that can be self-defeating\nOften leads to higher crime\nWith high inequality, the focus of politics often tends to be on supporting or resisting the redistribution of the existing economic pie rather than on policies that increase its size"
+  },
+  {
+    "objectID": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-extreme-inequality-is-bad-2",
+    "href": "Lectures/04-Poverty-and-Inequity/042-importance.html#why-extreme-inequality-is-bad-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Why Extreme Inequality is Bad",
+    "text": "Why Extreme Inequality is Bad\n3. Ethically/Philosophically Unfair\n\n\nIt is equally possible that you were born severely impoverished or exceptionally wealthy\nGiven that people have no control over where they are born, it is only fair that people should have similar opportunities\nIf these differences were based on difference in ability, work ethic, innovation, skills, etc, we might think differently\nGenerally people would like less inequality rather than more, with the understanding that some inequality involves factors beyond our control\nPsychology studies have found many people have “inequality aversion”: they tend to prefer more equal allocations"
   },
   {
     "objectID": "Readings/list.html",

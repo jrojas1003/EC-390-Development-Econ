@@ -453,13 +453,13 @@ window.Quarto = {
 <div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/lorenz-failure-a.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="images/lorenz-failure-a.jpg" class="quarto-figure quarto-figure-center figure-img" height="400"></p>
 </figure>
 </div>
 </div><div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/lorenz-failure-b.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="images/lorenz-failure-b.jpg" class="quarto-figure quarto-figure-center figure-img" height="400"></p>
 </figure>
 </div>
 </div>
@@ -519,7 +519,93 @@ window.Quarto = {
 <li><span class="math inline">\(Y_{i}\)</span> is the income of the <span class="math inline">\(i^{th}\)</span> person under the poverty line</li>
 </ul>
 </div>
-<p>On Slide 40</p>
+<hr>
+</section>
+<section id="other-measures-of-poverty-gaps" class="level2">
+<h2 class="anchored" data-anchor-id="other-measures-of-poverty-gaps">Other Measures of Poverty Gaps</h2>
+<p>We can also have the <span class="hi">Average Porvery Gap</span></p>
+<p><span class="math display">\[
+    APG = \dfrac{TPG}{\text{Country Population}}
+\]</span></p>
+<ul>
+<li>This measures the amount <span class="hi">each person</span> would need to be given to <span class="hi">everyone</span> them out of poverty</li>
+</ul>
+<div class="fragment">
+<p>And <span class="hi">Average Income Shortfall</span></p>
+<p><span class="math display">\[
+    AIS = \dfrac{TPG}{\text{# of Poor}}
+\]</span></p>
+<ul>
+<li>Measures the average amount <span class="hi">poor people</span> are below the poverty line</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="other-measures-of-poverty-gaps-1" class="level2">
+<h2 class="anchored" data-anchor-id="other-measures-of-poverty-gaps-1">Other Measures of Poverty Gaps</h2>
+<p><span class="hi">Normalized Income Shortfall</span></p>
+<p><span class="math display">\[
+    NIS = \dfrac{AIS}{\text{Poverty Line}}
+\]</span></p>
+<ul>
+<li>Measures the <span class="h">Average Income Shortfall</span> as a <span class="hi">percentage of the poverty line</span></li>
+</ul>
+<div class="fragment">
+<p>Let’s look at some examples</p>
+</div>
+<hr>
+</section>
+<section id="poverty-measure-examples" class="level2">
+<h2 class="anchored" data-anchor-id="poverty-measure-examples">Poverty Measure Examples</h2>
+<p>Let’s return to our tiny country of <span class="hi">10 people</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>The <span class="hp">poverty line</span> is $1,000 per year</li>
+<li>There are three people <span class="h">living at or below the poverty line</span>
+<ul class="incremental">
+<li>Person A makes $500</li>
+<li>Person B makes $800</li>
+<li>Person C makes $950</li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment tiny">
+<div class="align-center">
+<p>Find all of <span class="hi">TPG, APG, AIS, NIS</span></p>
+</div>
+<p><span class="math display">\[
+    TPG = \sum_{i=1}^{H} (Y_{p} - Y_{i}) \;\; ; \;\; APG = \dfrac{TPG}{\text{Country Population}} \\ AIS = \dfrac{TPG}{\text{# of Poor}} \;\; ; \;\; NIS = \dfrac{AIS}{\text{Poverty Line}}
+\]</span></p>
+</div>
+<hr>
+</section>
+<section id="poverty-measure-examples-1" class="level2 small">
+<h2 class="small anchored" data-anchor-id="poverty-measure-examples-1">Poverty Measure Examples</h2>
+<p><span class="hi">Total Poverty Gap</span></p>
+<div class="fragment small">
+<p><span class="math display">\[\begin{align*}
+    TPG &amp;= (100 - 500) + (1000 - 800) + (1000 - 950) \\
+        &amp;= 500 + 200 + 50 = 750
+\end{align*}\]</span></p>
+</div>
+<p><span class="hi">Average Poverty Gap</span></p>
+<div class="fragment small">
+<p><span class="math display">\[
+    APG = \dfrac{TPG}{10} = \dfrac{750}{10} = 75
+\]</span></p>
+</div>
+<p><span class="hi">Average Income Shortfall</span></p>
+<div class="fragment small">
+<p><span class="math display">\[
+    AIS = \dfrac{TPG}{\text{# of Poor}} = \dfrac{750}{3} = 250
+\]</span></p>
+</div>
+<p><span class="hi">Normalized Income Shortfall</span></p>
+<div class="fragment small">
+<p><span class="math display">\[
+    NIS = \dfrac{AIS}{\text{Poverty Line}} = \dfrac{250}{1000} = 25\%
+\]</span></p>
+</div>
 
 
 </section>

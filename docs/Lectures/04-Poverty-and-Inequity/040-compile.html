@@ -407,13 +407,13 @@ Jose Rojas-Fallas
 <div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="images/lorenz-failure-a.jpg" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="images/lorenz-failure-a.jpg" class="quarto-figure quarto-figure-center" height="400"></p>
 </figure>
 </div>
 </div><div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="images/lorenz-failure-b.jpg" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="images/lorenz-failure-b.jpg" class="quarto-figure quarto-figure-center" height="400"></p>
 </figure>
 </div>
 </div></div>
@@ -479,13 +479,157 @@ Jose Rojas-Fallas
 <li><span class="math inline">\(Y_{i}\)</span> is the income of the <span class="math inline">\(i^{th}\)</span> person under the poverty line</li>
 </ul>
 </div>
-<p>On Slide 40</p>
+</section>
+<section id="other-measures-of-poverty-gaps" class="slide level2">
+<h2>Other Measures of Poverty Gaps</h2>
+<p>We can also have the <span class="hi">Average Porvery Gap</span></p>
+<p><span class="math display">\[
+    APG = \dfrac{TPG}{\text{Country Population}}
+\]</span></p>
+<ul>
+<li>This measures the amount <span class="hi">each person</span> would need to be given to <span class="hi">everyone</span> them out of poverty</li>
+</ul>
+<div class="fragment">
+<p>And <span class="hi">Average Income Shortfall</span></p>
+<p><span class="math display">\[
+    AIS = \dfrac{TPG}{\text{# of Poor}}
+\]</span></p>
+<ul>
+<li>Measures the average amount <span class="hi">poor people</span> are below the poverty line</li>
+</ul>
+</div>
+</section>
+<section id="other-measures-of-poverty-gaps-1" class="slide level2">
+<h2>Other Measures of Poverty Gaps</h2>
+<p><span class="hi">Normalized Income Shortfall</span></p>
+<p><span class="math display">\[
+    NIS = \dfrac{AIS}{\text{Poverty Line}}
+\]</span></p>
+<ul>
+<li>Measures the <span class="h">Average Income Shortfall</span> as a <span class="hi">percentage of the poverty line</span></li>
+</ul>
+<div class="fragment">
+<p>Let’s look at some examples</p>
+</div>
+</section>
+<section id="poverty-measure-examples" class="slide level2">
+<h2>Poverty Measure Examples</h2>
+<p>Let’s return to our tiny country of <span class="hi">10 people</span></p>
+<div>
+<ul>
+<li class="fragment">The <span class="hp">poverty line</span> is $1,000 per year</li>
+<li class="fragment">There are three people <span class="h">living at or below the poverty line</span>
+<ul>
+<li class="fragment">Person A makes $500</li>
+<li class="fragment">Person B makes $800</li>
+<li class="fragment">Person C makes $950</li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment tiny">
+<div class="align-center">
+<p>Find all of <span class="hi">TPG, APG, AIS, NIS</span></p>
+</div>
+<p><span class="math display">\[
+    TPG = \sum_{i=1}^{H} (Y_{p} - Y_{i}) \;\; ; \;\; APG = \dfrac{TPG}{\text{Country Population}} \\ AIS = \dfrac{TPG}{\text{# of Poor}} \;\; ; \;\; NIS = \dfrac{AIS}{\text{Poverty Line}}
+\]</span></p>
+</div>
+</section>
+<section id="poverty-measure-examples-1" class="slide level2 small">
+<h2>Poverty Measure Examples</h2>
+<p><span class="hi">Total Poverty Gap</span></p>
+<div class="fragment small">
+<p><span class="math display">\[\begin{align*}
+    TPG &amp;= (100 - 500) + (1000 - 800) + (1000 - 950) \\
+        &amp;= 500 + 200 + 50 = 750
+\end{align*}\]</span></p>
+</div>
+<p><span class="hi">Average Poverty Gap</span></p>
+<div class="fragment small">
+<p><span class="math display">\[
+    APG = \dfrac{TPG}{10} = \dfrac{750}{10} = 75
+\]</span></p>
+</div>
+<p><span class="hi">Average Income Shortfall</span></p>
+<div class="fragment small">
+<p><span class="math display">\[
+    AIS = \dfrac{TPG}{\text{# of Poor}} = \dfrac{750}{3} = 250
+\]</span></p>
+</div>
+<p><span class="hi">Normalized Income Shortfall</span></p>
+<div class="fragment small">
+<p><span class="math display">\[
+    NIS = \dfrac{AIS}{\text{Poverty Line}} = \dfrac{250}{1000} = 25\%
+\]</span></p>
+</div>
 </section></section>
+<section>
 <section id="why-does-inequality-matter" class="title-slide slide level1 inverse note center">
 <h1>Why Does Inequality Matter?</h1>
 
 </section>
-
+<section id="why-do-inequality-and-poverty-matter" class="slide level2">
+<h2>Why Do Inequality and Poverty Matter?</h2>
+<p>We have explored the relationship between poverty/inequality</p>
+<ul>
+<li>It’s clear that societies are worse off when more people are living in <span class="h">absolute poverty</span></li>
+</ul>
+<div class="fragment">
+<ul>
+<li>It is less clear exactly why <span class="hi">inequality is bad</span> for a country</li>
+</ul>
+</div>
+</section>
+<section id="why-does-inequality-matter-1" class="slide level2">
+<h2>Why Does Inequality Matter?</h2>
+<p>There are <span class="hi">three main proposals</span> for why <span class="hp">extreme</span> inequality is bad</p>
+<div class="vertical-center">
+<p><span class="hp"><em>1.</em></span> <span class="hi">High inequality leads to Inefficiencies</span></p>
+<p><span class="hp"><em>2.</em></span> <span class="hi">High inequality leads to Unequal Distribution of Power</span></p>
+<p><span class="hp"><em>3.</em></span> <span class="hi">Ethically/Philosophically Unfair</span></p>
+</div>
+</section>
+<section id="why-extreme-inequality-is-bad" class="slide level2">
+<h2>Why Extreme Inequality is Bad</h2>
+<p><span class="hp"><em>1.</em></span> <span class="hi">High inequality leads to Inefficiencies</span></p>
+<div>
+<ul>
+<li class="fragment">Less people can qualify for a loan, and therefore are limited in their ability to invest in education, business, etc.</li>
+<li class="fragment">Overall sayings rare is low because the poor usually do not save as much</li>
+<li class="fragment">Inefficient allocation of assets</li>
+<li class="fragment">Overemphasis on higher education instead of universal primary education</li>
+<li class="fragment">Unequal distribution of farm land (most efficient is medium-size farm)</li>
+</ul>
+</div>
+</section>
+<section id="why-extreme-inequality-is-bad-1" class="slide level2">
+<h2>Why Extreme Inequality is Bad</h2>
+<p><span class="hp"><em>2.</em></span> <span class="hi">High inequality leads to Unequal Distribution of Power</span></p>
+<div class="small">
+<ul>
+<li class="fragment">Increased political power of the rich</li>
+<li class="fragment">Policies sway in favor of the rich, at the expense of the poor</li>
+<li class="fragment">Often leads to rent-seeking behavior, which reduces resources that could improve overall growth of the country</li>
+<li class="fragment">Rich are less likely to improve institutions because they would not like to relinquish power</li>
+<li class="fragment">Poor are more likely to support populist policies that can be self-defeating</li>
+<li class="fragment">Often leads to higher crime</li>
+<li class="fragment">With high inequality, the focus of politics often tends to be on supporting or resisting the redistribution of the existing economic pie rather than on policies that increase its size</li>
+</ul>
+</div>
+</section>
+<section id="why-extreme-inequality-is-bad-2" class="slide level2">
+<h2>Why Extreme Inequality is Bad</h2>
+<p><span class="hp"><em>3.</em></span> <span class="hi">Ethically/Philosophically Unfair</span></p>
+<div>
+<ul>
+<li class="fragment">It is equally possible that you were born severely impoverished or exceptionally wealthy</li>
+<li class="fragment">Given that people have no control over where they are born, it is only fair that people should have similar opportunities</li>
+<li class="fragment">If these differences were based on difference in ability, work ethic, innovation, skills, etc, we might think differently</li>
+<li class="fragment">Generally people would like less inequality rather than more, with the understanding that some inequality involves factors beyond our control</li>
+<li class="fragment">Psychology studies have found many people have “inequality aversion”: they tend to prefer more equal allocations</li>
+</ul>
+</div>
+</section></section>
 <section id="how-do-we-fix-it" class="title-slide slide level1 inverse note center">
 <h1>How Do We Fix It?</h1>
 
