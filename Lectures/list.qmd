@@ -52,3 +52,16 @@ title: Lectures
   </div>
 ```
 :::
+
+## Poverty and Inequality
+
+[Expand Slides](04-Poverty-and-Inequity/040-compile.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PDF Version]
+
+::: {.align-center}
+```{=html}
+  <div class="embed-container">
+    <iframe class="slide deck" src="04-Poverty-and-Inequity/040-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+```
+:::
