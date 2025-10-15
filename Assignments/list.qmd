@@ -13,7 +13,7 @@ title: Assignments
 ::: {.align-center}
 [PS01 Questions](Problem-Sets/PS01/ps01.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
 [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916923){target=_blank .btn .btn-primary .btn-lg .cv-download}
-:::
+::: 
 
 ---
 
