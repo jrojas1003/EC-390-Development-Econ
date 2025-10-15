@@ -306,7 +306,7 @@ $$
 
 ---
 
-## Gini Coefficient
+## Gini Coefficient 
 
 It is a good metric, but does not provide all information about the distribution of wealth
 
@@ -315,11 +315,11 @@ Take for example these two diffferent countries:
 :::: {.columns}
 
 ::: {.column width="50%"}
-![](images/lorenz-failure-a.jpg){fig-align="center"}
+![](images/lorenz-failure-a.jpg){fig-align="center" height="400"}
 :::
 
 ::: {.column width="50%"}
-![](images/lorenz-failure-b.jpg){fig-align="center"}
+![](images/lorenz-failure-b.jpg){fig-align="center" height="400"}
 :::
 
 ::::
@@ -377,4 +377,102 @@ $$
 - $Y_{i}$ is the income of the $i^{th}$ person under the poverty line
 :::
 
-On Slide 40
+---
+
+## Other Measures of Poverty Gaps
+
+We can also have the [Average Porvery Gap]{.hi}
+
+$$
+    APG = \dfrac{TPG}{\text{Country Population}}
+$$
+
+- This measures the amount [each person]{.hi} would need to be given to [everyone]{.hi} them out of poverty
+
+::: {.fragment}
+And [Average Income Shortfall]{.hi}
+
+$$
+    AIS = \dfrac{TPG}{\text{# of Poor}}
+$$
+
+- Measures the average amount [poor people]{.hi} are below the poverty line
+:::
+
+---
+
+## Other Measures of Poverty Gaps
+
+[Normalized Income Shortfall]{.hi}
+
+$$
+    NIS = \dfrac{AIS}{\text{Poverty Line}}
+$$
+
+- Measures the [Average Income Shortfall]{.h} as a [percentage of the poverty line]{.hi}
+
+::: {.fragment}
+Let's look at some examples
+:::
+
+---
+
+## Poverty Measure Examples
+
+Let's return to our tiny country of [10 people]{.hi}
+
+::: {.incremental}
+- The [poverty line]{.hp} is $1,000 per year
+- There are three people [living at or below the poverty line]{.h}
+    - Person A makes $500
+    - Person B makes $800
+    - Person C makes $950
+:::
+
+::: {.fragment .tiny}
+
+::: {.align-center}
+Find all of [TPG, APG, AIS, NIS]{.hi}
+:::
+
+$$
+    TPG = \sum_{i=1}^{H} (Y_{p} - Y_{i}) \;\; ; \;\; APG = \dfrac{TPG}{\text{Country Population}} \\ AIS = \dfrac{TPG}{\text{# of Poor}} \;\; ; \;\; NIS = \dfrac{AIS}{\text{Poverty Line}}
+$$
+:::
+
+---
+
+## Poverty Measure Examples {.small}
+
+[Total Poverty Gap]{.hi}
+
+::: {.fragment .small}
+\begin{align*}
+    TPG &= (100 - 500) + (1000 - 800) + (1000 - 950) \\ 
+        &= 500 + 200 + 50 = 750
+\end{align*}
+:::
+
+[Average Poverty Gap]{.hi}
+
+::: {.fragment .small}
+$$
+    APG = \dfrac{TPG}{10} = \dfrac{750}{10} = 75
+$$
+:::
+
+[Average Income Shortfall]{.hi}
+
+::: {.fragment .small} 
+$$
+    AIS = \dfrac{TPG}{\text{# of Poor}} = \dfrac{750}{3} = 250
+$$
+:::
+
+[Normalized Income Shortfall]{.hi}
+
+::: {.fragment .small}
+$$
+    NIS = \dfrac{AIS}{\text{Poverty Line}} = \dfrac{250}{1000} = 25\%
+$$
+:::

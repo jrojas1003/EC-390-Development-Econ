@@ -2,3 +2,70 @@
 name: importance
 ---
 
+## Why Do Inequality and Poverty Matter?
+
+We have explored the relationship between poverty/inequality 
+
+- It's clear that societies are worse off when more people are living in [absolute poverty]{.h}
+
+::: {.fragment}
+- It is less clear exactly why [inequality is bad]{.hi} for a country
+:::
+
+---
+
+## Why Does Inequality Matter?
+
+There are [three main proposals]{.hi} for why [extreme]{.hp} inequality is bad
+
+::: {.vertical-center}
+[_1._]{.hp} [High inequality leads to Inefficiencies]{.hi}
+
+[_2._]{.hp} [High inequality leads to Unequal Distribution of Power]{.hi}
+
+[_3._]{.hp} [Ethically/Philosophically Unfair]{.hi}
+:::
+
+---
+
+## Why Extreme Inequality is Bad
+
+[_1._]{.hp} [High inequality leads to Inefficiencies]{.hi}
+
+::: {.incremental}
+- Less people can qualify for a loan, and therefore are limited in their ability to invest in education, business, etc.
+- Overall sayings rare is low because the poor usually do not save as much
+- Inefficient allocation of assets
+- Overemphasis on higher education instead of universal primary education
+- Unequal distribution of farm land (most efficient is medium-size farm)
+:::
+
+---
+
+## Why Extreme Inequality is Bad
+
+[_2._]{.hp} [High inequality leads to Unequal Distribution of Power]{.hi}
+
+::: {.incremental .small}
+- Increased political power of the rich
+- Policies sway in favor of the rich, at the expense of the poor
+- Often leads to rent-seeking behavior, which reduces resources that could improve overall growth of the country
+- Rich are less likely to improve institutions because they would not like to relinquish power
+- Poor are more likely to support populist policies that can be self-defeating
+- Often leads to higher crime
+- With high inequality, the focus of politics often tends to be on supporting or resisting the redistribution of the existing economic pie rather than on policies that increase its size
+:::
+
+---
+
+## Why Extreme Inequality is Bad
+
+[_3._]{.hp} [Ethically/Philosophically Unfair]{.hi}
+
+::: {.incremental}
+- It is equally possible that you were born severely impoverished or exceptionally wealthy
+- Given that people have no control over where they are born, it is only fair that people should have similar opportunities
+- If these differences were based on difference in ability, work ethic, innovation, skills, etc, we might think differently
+- Generally people would like less inequality rather than more, with the understanding that some inequality involves factors beyond our control
+- Psychology studies have found many people have "inequality aversion": they tend to prefer more equal allocations
+:::
