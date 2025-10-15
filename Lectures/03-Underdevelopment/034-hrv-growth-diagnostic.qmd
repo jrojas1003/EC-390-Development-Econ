@@ -1,3 +1,56 @@
 ---
 name: HRV
 ---
+
+## HRV Growth
+
+Hausmann-Rodrik-Velasco (HRV) attempt to identify the greatest hindrance to growth for each developing nation
+
+::: {.incremental}
+- Broadly speaking, low growth is caused by low return on investment or a high-cost of borrowing
+    - Low returns on investment are the result of poor productive capability or low returns due to institutional failure
+- HRV propose a decision tree framework to focus on a country's most binding constraints on economic growth
+- By targeting the [most binding constraint]{.hi} produces advangates over other approaches to policy selection
+:::
+
+---
+
+![](images/hrv-ex.png){fig-align="center" .vertical-center}
+
+---
+
+## HRV - Four Principles of Differntial Diagnosis
+
+::: {.vertical-center}
+[_1._]{.hp} The [Shadow Price]{.hi} of the Constraint is High
+
+[_2._]{.hp} Movements in the constraint produce significant movement in the objective
+
+[_3._]{.hp} People attempt to overcome or bypass the constraint
+
+[_4._]{.hp} Agents less intensive in a [binding constraint]{.hi} are more likely to thrive
+:::
+
+---
+
+## HRV - Four Principles
+
+[_1._]{.hp} The [Shadow Price]{.hi} of the Constraint is High
+
+---
+
+## HRV - Four Principles
+
+[_2._]{.hp} Movements in the constraint produce significant movement in the objective
+
+---
+
+## HRV - Four Principles
+
+[_3._]{.hp} People attempt to overcome or bypass the constraint
+
+---
+
+## HRV - Four Principles
+
+[_4._]{.hp} Agents less intensive in a [binding constraint]{.hi} are more likely to thrive

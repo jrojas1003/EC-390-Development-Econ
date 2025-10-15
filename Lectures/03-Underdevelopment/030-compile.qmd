@@ -98,6 +98,6 @@ A major theme is the inclusion of:
 
 {{< include 033-o-ring-theory.qmd >}}
 
-# HRV {.inverse .note}
+# Hausmann-Rodrik-Velasco Growth Diagnostics Framework {.inverse .note}
 
 {{< include 034-hrv-growth-diagnostic.qmd >}}

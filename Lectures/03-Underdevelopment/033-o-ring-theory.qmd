@@ -54,3 +54,215 @@ Now let's introduce other assumptions
 ::: {.notes}
 risk neutral: Firms behae as if it maximizes expected profit ignoring variance or uncertainty
 :::
+
+---
+
+## O-Ring Production
+
+One of the most prominent features of this type of [production function]{.hi} is something called
+
+[Positive Assortative Matching]{.hi-green .align-center}
+
+::: {.incremental}
+- This means that workers with high skills will work together and workers with low skills will work together
+
+- Extending this thought to the comparison of economies, it predicts that [high-value products]{.hi} will be concentrated in countries with [high-value skills]{.hi}
+
+- But how do firms attract more productive workers?
+:::
+
+---
+
+## Positive Assortive Matching
+
+[How do firms attract higher skill workers?]{.hi .align-center}
+
+::: {.fragment}
+In [competitive markets]{.h}, worker pay is determined by how productive you are
+:::
+
+::: {.incremental .small}
+- A firm with a higher-productivity worker can afford the higher wage (why?) and is willing to bid higher to attract more high-skill talent
+    - The value of the output will be higher with two productive workers than if they would to "mix" skill levels
+- By making higher value outputs, they have higher returns which in turn become higher wages
+- This leads to concentration of high-skill workers in high-value firms
+:::
+
+::: {.fragment}
+[This result indicates that firms and workers can fall into a trap of low skill and low productivity while some are able to "escape" into higher productivity]{.hp .align-center}
+:::
+
+---
+
+## Positive Assortive Matching Example
+
+Let's look at a numerical exmaple to show this behavior. 
+
+::: {.fragment}
+- Suppose there are six total workers: three have skill level equal to 0.4 while the other three have skill level equal to 0.8. 
+
+- Following O-Ring theory, workers will be grouped up together in equilibrium
+
+- Now suppose that one of the low-skill workers increases their skill level to 0.5 (likely through training) and at the same time, a high-skill worker increases their skill level to 1.0
+
+    - In both cases there is a 25% increase in quality of one worker in both firms
+
+- What does this mean for productivity growth in both firms?
+:::
+
+---
+
+## Positive Assortive Matching Example
+
+[Calculate the growth in productivity of both firms]{.hi .align-center}
+
+::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%" .small}
+[Lower-Skill Firm]{.hi-red .align-center}
+
+::: {.fragment .tiny}
+- First Production Level
+
+$$ (0.4)(0.4)(0.4) = 0.064 $$
+
+::: {.fragment .tiny}
+- Second Production Level
+
+$$ (0.4)(0.4)(0.5) = 0.080 $$
+::: 
+
+::: {.fragment .tiny}
+- Change in Production
+
+$$ 0.080 - 0.064 = 0.016 $$
+
+$$ 0.016/0.064 = 0.25 $$ 
+
+:::
+
+:::
+
+:::
+
+::: {.column width="50%"}
+[Higher-Skill Firm]{.hi-green .align-center}
+
+::: {.fragment .tiny}
+- First Production Level
+
+$$ (0.8)(0.8)(0.8) = 0.512 $$
+
+::: 
+
+::: {.fragment .tiny}
+- Second Production Level
+
+$$ (0.8)(0.8)(1.0) = 0.640 $$
+::: 
+
+::: {.fragment .tiny}
+- Change in Production
+
+$$ 0.640 - 0.512 = 0.128 $$
+
+$$ 0.128/0.512 = 0.25 $$ 
+
+:::
+
+:::
+
+::::
+
+:::
+
+---
+
+## Positive Assortive Matching Example
+
+So both firms increase their productivity by 25%. 
+
+However, the [higher-skill firm]{.hi-green} saw a point value increase of [8 times as much]{.hi} as the [lower-skill firm]{.hi-red}
+
+::: {.fragment .vertical-center}
+With higher productivity come stronger incentive to draw in higher-skill talent and pay more to get other high-skill individuals
+
+Or equally, upgrade skills among existing high skill workers
+::: 
+
+---
+
+## O-Ring Model Strong Assumptions
+
+This model relies on some rather [strong assumptions]{.hi}
+
+::: {.fragment .vertical-center}
+[_1._]{.hp} Workers must be [sufficiently imperfect substitutes]{.hi} for each other
+
+[_2._]{.hp} There must be [sufficient complementarity of tasks]{.hi}
+:::
+
+---
+
+## O-Ring Model Strong Assumptions
+
+::: {.vertical-center}
+[_1._]{.hp} Workers must be [sufficiently imperfect substitutes]{.hi} for each other
+
+Suppose that there are two skill levels $q_{L}$ and $q_{H}$ and that we can say $q_{H} = 2q_{L}$
+
+::: {.incremental}
+- Each $q_{H}$ earns twice as much as each $q_{L}$
+
+- But we can [perfectly replace]{.hi} every $q_{H}$ worker with two $q_{L}$ workers with no other change necessary
+
+- We can make no predictions about what combination of workers a firm or economy will use which implies we cannot learn anything about [low-skill level equilibrium traps]{.hi}
+:::
+
+::: {.faded}
+[_2._]{.hp} There must be [sufficient complementarity of tasks]{.hi}
+:::
+
+:::
+
+---
+
+## O-Ring Model Strong Assumptions
+
+This model relies on some rather [strong assumptions]{.hi}
+
+::: {.faded}
+[_1._]{.hp} Workers must be [sufficiently imperfect substitutes]{.hi} for each other
+:::
+
+::: {.small}
+[_2._]{.hp} There must be [sufficient complementarity of tasks]{.hi}
+
+Suppose that there are two tasks needed to complete an output and they are indexed by $g$ and $h$ but there is no complementary between them
+
+Let a $q_{H}$ worker be hired to complete $g$ task and $q_{L}$ worker completes $h$ task, so we get
+
+$$ F(q_{H},q_{L}) = g(q_{H}) + h(q_{L})$$
+
+::: {.incremental}
+- Because a firm can only higher one type of worker for each task, there is no possible substitution
+
+- However, because there is no complementarity, firms cannot optimize on skill so there is no strategic sorting
+:::
+
+:::
+
+---
+
+## Implications of the O-Ring Theory
+
+::: {.incremental}
+- Firms tend to employ workers with similar skills for their various tasks
+- Workers performing the same task earn higher wages in a high-skill firm than in a low-skill firm
+- Because wages incres in skill $q$ at an increasing rate, wages will be more than proportionally higher in developed countries
+- There are complementarities in investing in own skills
+    - If others around you have higher average skills, you have a greater [incentive]{.hi} to acquire more skills
+- An economy can get caught in economy-wide, low-production-quality traps
+:::
