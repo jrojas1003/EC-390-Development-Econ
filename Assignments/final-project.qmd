@@ -22,7 +22,7 @@ title: Final Project
 [Example from Dante Yasui](Final-Project/02-Annotated-Bib/Dante-Example/EconHistory_annotatedbib.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
-## Presentation Outline (Week 08)
+## Presentation Outline (Week 08) 
 
 
 
