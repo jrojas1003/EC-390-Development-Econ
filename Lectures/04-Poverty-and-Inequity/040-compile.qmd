@@ -1,0 +1,26 @@
+---
+title: "Poverty and Inequity"
+subtitle: "EC 390 - Development Economics"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC390, Lecture 04 | Poverty and Inequity"
+        preview-links: auto
+        code-f  old: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+##
+
+<iframe src="https://ourworldindata.org/grapher/gini-coefficient-wid-vs-pip?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
+---
+
+##
+
+<iframe src="https://ourworldindata.org/grapher/economic-inequality-gini-index?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
