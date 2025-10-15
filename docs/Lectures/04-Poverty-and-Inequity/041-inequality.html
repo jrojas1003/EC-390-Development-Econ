@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>hrv-growth-diagnostic – EC 390 - Development Econ</title>
+<title>inequality – EC 390 - Development Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -40,6 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-047acea2f07c4c3e58575a36bff9b595.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -125,55 +156,370 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="hrv-growth" class="level2">
-<h2 class="anchored" data-anchor-id="hrv-growth">HRV Growth</h2>
-<p>Hausmann-Rodrik-Velasco (HRV) attempt to identify the greatest hindrance to growth for each developing nation</p>
+<section id="what-is-poverty-and-inequality" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-poverty-and-inequality">What is Poverty and Inequality</h2>
+<p>We have previously talked about <span class="hi">Absolute Poverty</span> previously</p>
+<p>We can define it again as:</p>
+<ul>
+<li>Not being able to meet basic daily needs for food, shelter, clothing, etc.</li>
+</ul>
+<div class="fragment align-center">
+<p>Aside from <span class="h">poverty</span>, we are interested in how <span class="hi">income is distributed</span> across individuals</p>
+</div>
+<hr>
+</section>
+<section id="income-inequality" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality">Income Inequality</h2>
+<p>When thinking of comparing nations, we have measured incomes on national averages which has its own flaws</p>
+<p><span class="hi align-center">But how do we measure how income is distributed across individuals?</span></p>
+<div class="fragment">
+<p><span class="h">Income Inequality</span> happens when income is unequal across households</p>
+<ul>
+<li>This creates an income distribution which we can later see where <span class="hi">wealth is concentrated</span></li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="hi-green">Perfect wealth equality</span> would be where everyone has an equal share of wealth</p>
+</div>
+<hr>
+</section>
+<section id="income-inequality-1" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality-1">Income Inequality</h2>
+<p><span class="hi">Is income inequality necessarily bad?</span></p>
 <div class="incremental">
 <ul class="incremental">
-<li>Broadly speaking, low growth is caused by low return on investment or a high-cost of borrowing
+<li>It depends</li>
+<li>Think of the theoretical outcomes that produce inequalities in societies
 <ul class="incremental">
-<li>Low returns on investment are the result of poor productive capability or low returns due to institutional failure</li>
+<li>Economists believe that some level of inequality will naturally exist</li>
+<li>Different skills will affect how productive someone may be</li>
+<li>In the most strict sense of economics, individual productions affect how much someone is paid</li>
+<li>Some inequality may be beneficial, <span class="hi-green">it incetivizes individuals to increase their productivity/skill</span></li>
+<li>However, if <span class="h">inequality</span> interferes with individual’s ability to perform basic functions, <span class="hp">then we have a problem</span></li>
 </ul></li>
-<li>HRV propose a decision tree framework to focus on a country’s most binding constraints on economic growth</li>
-<li>By targeting the <span class="hi">most binding constraint</span> produces advangates over other approaches to policy selection</li>
 </ul>
 </div>
 <hr>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/hrv-ex.png" class="vertical-center img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<p><img src="images/income-inequality-trend.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
 </figure>
 </div>
 <hr>
 </section>
-<section id="hrv---four-principles-of-differntial-diagnosis" class="level2">
-<h2 class="anchored" data-anchor-id="hrv---four-principles-of-differntial-diagnosis">HRV - Four Principles of Differntial Diagnosis</h2>
+<section id="income-inequality-2" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality-2">Income Inequality</h2>
+<p>How should we <span class="hi">measure inequality?</span> <span class="hi"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> Not easy to answer</span></p>
+<p><span class="hi fragment">There are 4 criteria to consider</span></p>
 <div class="vertical-center">
-<p><span class="hp"><em>1.</em></span> The <span class="hi">Shadow Price</span> of the Constraint is High</p>
-<p><span class="hp"><em>2.</em></span> Movements in the constraint produce significant movement in the objective</p>
-<p><span class="hp"><em>3.</em></span> People attempt to overcome or bypass the constraint</p>
-<p><span class="hp"><em>4.</em></span> Agents less intensive in a <span class="hi">binding constraint</span> are more likely to thrive</p>
+<p><span class="hp"><em>Anonymity Priniciple:</em></span></p>
+<p><span class="hp"><em>Scale Independence Principle:</em></span></p>
+<p><span class="hp"><em>Population Indipendence Principle:</em></span></p>
+<p><span class="hp"><em>Transfer Principle:</em></span></p>
 </div>
 <hr>
 </section>
-<section id="hrv---four-principles" class="level2">
-<h2 class="anchored" data-anchor-id="hrv---four-principles">HRV - Four Principles</h2>
-<p><span class="hp"><em>1.</em></span> The <span class="hi">Shadow Price</span> of the Constraint is High</p>
+<section id="income-inequality-3" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality-3">Income Inequality</h2>
+<p><span class="hi">There are 4 criteria to consider</span></p>
+<div class="vertical-center">
+<p><span class="hp"><em>Anonymity Priniciple:</em></span>: Measure of inequality should not depend on who has the higher income</p>
+<div class="faded">
+<p><span class="hp"><em>Scale Independence Principle:</em></span></p>
+<p><span class="hp"><em>Population Indipendence Principle:</em></span></p>
+<p><span class="hp"><em>Transfer Principle:</em></span></p>
+</div>
+</div>
 <hr>
 </section>
-<section id="hrv---four-principles-1" class="level2">
-<h2 class="anchored" data-anchor-id="hrv---four-principles-1">HRV - Four Principles</h2>
-<p><span class="hp"><em>2.</em></span> Movements in the constraint produce significant movement in the objective</p>
+<section id="income-inequality-4" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality-4">Income Inequality</h2>
+<p><span class="hi">There are 4 criteria to consider</span></p>
+<div class="vertical-center">
+<p><span class="hp faded"><em>Anonymity Priniciple:</em></span></p>
+<p><span class="hp"><em>Scale Independence Principle:</em></span> Measure of inequality should not depend on the size of the economy</p>
+<div class="faded">
+<p><span class="hp"><em>Population Indipendence Principle:</em></span></p>
+<p><span class="hp"><em>Transfer Principle:</em></span></p>
+</div>
+</div>
 <hr>
 </section>
-<section id="hrv---four-principles-2" class="level2">
-<h2 class="anchored" data-anchor-id="hrv---four-principles-2">HRV - Four Principles</h2>
-<p><span class="hp"><em>3.</em></span> People attempt to overcome or bypass the constraint</p>
+<section id="income-inequality-5" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality-5">Income Inequality</h2>
+<p><span class="hi">There are 4 criteria to consider</span></p>
+<div class="vertical-center">
+<div class="faded">
+<p><span class="hp"><em>Anonymity Priniciple:</em></span></p>
+<p><span class="hp"><em>Scale Independence Principle:</em></span></p>
+</div>
+<p><span class="hp"><em>Population Indipendence Principle:</em></span> Measure of inequality should not be based on the number of income recipients</p>
+<p><span class="hp faded"><em>Transfer Principle:</em></span></p>
+</div>
 <hr>
 </section>
-<section id="hrv---four-principles-3" class="level2">
-<h2 class="anchored" data-anchor-id="hrv---four-principles-3">HRV - Four Principles</h2>
-<p><span class="hp"><em>4.</em></span> Agents less intensive in a <span class="hi">binding constraint</span> are more likely to thrive</p>
+<section id="income-inequality-6" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality-6">Income Inequality</h2>
+<p><span class="hi">There are 4 criteria to consider</span></p>
+<div class="vertical-center">
+<div class="faded">
+<p><span class="hp"><em>Anonymity Priniciple:</em></span></p>
+<p><span class="hp"><em>Scale Independence Principle:</em></span></p>
+<p><span class="hp"><em>Population Indipendence Principle:</em></span></p>
+</div>
+<p><span class="hp"><em>Transfer Principle:</em></span> Holding all other incomes constant, if we transfer income from rich individuals to poor individuals, we should have more equal income distribution</p>
+</div>
+<hr>
+</section>
+<section id="income-inequality-visualized" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality-visualized">Income Inequality Visualized</h2>
+<p>Let there be an economy with <span class="hi">10 people</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Incomes are: 10, 10, 10, 10, 10, 10, 10, 10, 10, 10</li>
+<li>Average Income: 10</li>
+<li>What percent of total income does the <span class="hi">first person hold?</span>
+<ul class="incremental">
+<li><span class="math inline">\(10\%\)</span></li>
+</ul></li>
+<li>What percent of total income do the <span class="hi">first 5 people hold?</span>
+<ul class="incremental">
+<li><span class="math inline">\(50\%\)</span></li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="perfect-income-equality" class="level2">
+<h2 class="anchored" data-anchor-id="perfect-income-equality">Perfect Income Equality</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/perfect-equality.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="income-inequality-visualized-1" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality-visualized-1">Income Inequality Visualized</h2>
+<p>Let’s change it up. There are still 10 people in the economy</p>
+<div class="incremental">
+<ul class="incremental">
+<li>Incomes are: 5, 5, 5, 10, 10, 10, 10, 10, 10, 25</li>
+<li>Average Income: 10</li>
+<li>What percent of total income does the <span class="hi">first person hold?</span>
+<ul class="incremental">
+<li><span class="math inline">\(5/100 \Rightarrow 5\%\)</span></li>
+</ul></li>
+<li>What percent of total income do the <span class="hi">first 5 people hold?</span>
+<ul class="incremental">
+<li><span class="math inline">\(\dfrac{5 + 5 + 5 + 10 + 10}{100} \Rightarrow 35\%\)</span></li>
+</ul></li>
+<li>What percent of total income does the <span class="hi">wealthiest person hold?</span>
+<ul class="incremental">
+<li><span class="math inline">\(25\%\)</span></li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="income-inequality-7" class="level2">
+<h2 class="anchored" data-anchor-id="income-inequality-7">Income Inequality</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/unequal.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="lorenz-curves" class="level2">
+<h2 class="anchored" data-anchor-id="lorenz-curves">Lorenz Curves</h2>
+<p><span class="hi">Lorenz Curves</span> are functions that show <span class="hi">what percentage of wealth the bottom x% control</span></p>
+<div class="incremental vertical-center">
+<ul class="incremental">
+<li><span class="h">Perfect equality</span> is represented by a <span class="h">45 degree line</span>
+<ul class="incremental">
+<li>The Bottom 10% have 10% of the wealth</li>
+<li>The Bottom 20% have 20% of the wealth</li>
+<li>And so on</li>
+<li>Everyone has the same amount of wealth</li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="lorenz-curves---perfect-equality" class="level2">
+<h2 class="anchored" data-anchor-id="lorenz-curves---perfect-equality">Lorenz Curves - Perfect Equality</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lorenz-equality.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="lorenz-curves-1" class="level2">
+<h2 class="anchored" data-anchor-id="lorenz-curves-1">Lorenz Curves</h2>
+<p>On the other extreme, consider <span class="hp">perfect inequality</span></p>
+<div class="incremental vertical-center">
+<ul class="incremental">
+<li>The Bottom 10% have 0% of the wealth</li>
+<li>The Bottom 20% have 0% of the wealth</li>
+<li>And so on</li>
+<li>Until we get to <span class="hp">the last person, who has all of the nation’s wealth</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="lorenz-curves---perfect-inequality" class="level2">
+<h2 class="anchored" data-anchor-id="lorenz-curves---perfect-inequality">Lorenz Curves - Perfect Inequality</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lorenz-inequality.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="lorenz-curves-2" class="level2">
+<h2 class="anchored" data-anchor-id="lorenz-curves-2">Lorenz Curves</h2>
+<div class="vertical-center">
+<p>In reality, <span class="hi">countries fall somewhere between the two extremes</span></p>
+<ul>
+<li>The extent of inequality can be (somewhat) represented by the area between the <span class="hi">Lorenz Curve</span> and the <span class="hi">45 degree line</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="lorenz-curve---realistic-example" class="level2">
+<h2 class="anchored" data-anchor-id="lorenz-curve---realistic-example">Lorenz Curve - Realistic Example</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lorenz-example.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="gini-coefficient" class="level2">
+<h2 class="anchored" data-anchor-id="gini-coefficient">Gini Coefficient</h2>
+<p>Graphs are a good visual representation of the wealth distribution</p>
+<ul>
+<li><span class="h">Quantifying</span> this would be very useful</li>
+</ul>
+<p>The <span class="hi">Gini Coefficient</span> measures how far away a country is from perfect equality</p>
+<div class="fragment">
+<p>We define it as:</p>
+<p><span class="math display">\[
+    \text{GINI} = \dfrac{A}{A + B}
+\]</span></p>
+</div>
+<div class="incremental">
+<ul class="incremental">
+<li>The <span class="hi">Gini Coefficient</span> can range from 0 to 1
+<ul class="incremental">
+<li>A <span class="hi-green">coefficient of 0</span> indicates <span class="hi-green">perfect equality</span></li>
+<li>A <span class="hi-red">coefficient of 1</span> indicates <span class="hi-red">perfect inequality</span></li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="gini-coefficient-graph" class="level2">
+<h2 class="anchored" data-anchor-id="gini-coefficient-graph">Gini Coefficient Graph</h2>
+<div class="columns">
+<div class="column" style="width:70%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/gini-graph.jpg" class="quarto-figure quarto-figure-center figure-img" height="500"></p>
+</figure>
+</div>
+</div><div class="column vertical-center" style="width:30%;">
+<p><br><br></p>
+<p><span class="math display">\[
+    \text{GINI} = \dfrac{A}{A + B}
+\]</span></p>
+</div>
+</div>
+<hr>
+<iframe src="https://ourworldindata.org/grapher/gini-coefficient-wid-vs-pip?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write">
+</iframe>
+<hr>
+<iframe src="https://ourworldindata.org/grapher/economic-inequality-gini-index?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write">
+</iframe>
+<hr>
+</section>
+<section id="gini-coefficient-1" class="level2">
+<h2 class="anchored" data-anchor-id="gini-coefficient-1">Gini Coefficient</h2>
+<p>It is a good metric, but does not provide all information about the distribution of wealth</p>
+<p>Take for example these two diffferent countries:</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lorenz-failure-a.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/lorenz-failure-b.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="notes">
+<p>Gini is approximately the same for both graphs</p>
+<p>However income inequality affects two different segments of the population</p>
+<p>First graph: Income inquality is prevalent for low income individuals</p>
+<p>Second graph: middle income is carved out</p>
+</div>
+<hr>
+</section>
+<section id="measuring-absolute-poverty" class="level2">
+<h2 class="anchored" data-anchor-id="measuring-absolute-poverty">Measuring Absolute Poverty</h2>
+<p>It is difficult to measure the (exact) Gini Coefficient <span class="hi"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> we need to know incomes for everyone in a country</span></p>
+<div class="incremental vertical-center">
+<ul class="incremental">
+<li>The data, isn’t usually available for developing countries, so we need to use some coarser measure</li>
+<li>How can we get a <span class="hi">good idea of the intensity of poverty in a particular region?</span>
+<ul class="incremental">
+<li>We can use the <span class="h">Headcount Ratio Index</span>, which is the percentage of people living below the poverty line</li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="headcount-ratio-index" class="level2">
+<h2 class="anchored" data-anchor-id="headcount-ratio-index">Headcount Ratio Index</h2>
+<p>Say that the <span class="hi">absolute poverty line is $2</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Country A has 3 Million out of 10 Million at or below this <span class="hi">poverty line</span>
+<ul class="incremental">
+<li>The <span class="h">Headcount Ratio is <span class="math inline">\(H = 3/10 = 30\%\)</span></span></li>
+</ul></li>
+<li>But the <span class="h">Headcount Ratio Index</span> tells us nothing about how the poor are distrubted beneath the <span class="hi">poverty line</span>
+<ul class="incremental">
+<li>Everyone living at $1.50 per day is much different than everyone living at $0.10 per day</li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="total-poverty-gap" class="level2">
+<h2 class="anchored" data-anchor-id="total-poverty-gap">Total Poverty Gap</h2>
+<p>We can instead look at the <span class="hi">Total Poverty Gap (TPG)</span></p>
+<div class="fragment">
+<ul>
+<li>This measures the total amount of money needed to get everyone up to the <span class="hi">absolute poverty line</span></li>
+</ul>
+<p><span class="math display">\[
+    TPG = \sum_{i=1}^{H} (Y_{p} - Y_{i})
+\]</span></p>
+<ul>
+<li>Where <span class="math inline">\(H\)</span> is the total number of people below the poverty line</li>
+<li><span class="math inline">\(Y_{p}\)</span> is the poverty line (eg. $2 per day)</li>
+<li><span class="math inline">\(Y_{i}\)</span> is the income of the <span class="math inline">\(i^{th}\)</span> person under the poverty line</li>
+</ul>
+</div>
+<p>On Slide 40</p>
 
 
 </section>
