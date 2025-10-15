@@ -18,6 +18,10 @@ title: Final Project
 [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916913){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
+::: {.align-center}
+[Example from Dante Yasui](Final-Project/02-Annotated-Bib/Dante-Example/EconHistory_annotatedbib.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
+
 ## Presentation Outline (Week 08)
 
 
