@@ -206,10 +206,15 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
+INPUT ./images/atc-curve.png
+INPUT ./images/atc-curve.png
+INPUT ./images/atc-curve.png
+INPUT ./images/atc-curve.png
+INPUT ./images/atc-curve.png
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
-INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
 INPUT ./images/scurve.pdf
 INPUT ./images/scurve.pdf
 INPUT ./images/scurve.pdf
@@ -231,5 +236,6 @@ INPUT ./ps02.out
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb
+INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
