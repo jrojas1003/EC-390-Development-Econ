@@ -1,0 +1,380 @@
+---
+name: inequality
+---
+
+## What is Poverty and Inequality
+
+We have previously talked about [Absolute Poverty]{.hi} previously
+
+We can define it again as:
+
+- Not being able to meet basic daily needs for food, shelter, clothing, etc.
+
+::: {.fragment .align-center}
+Aside from [poverty]{.h}, we are interested in how [income is distributed]{.hi} across individuals
+:::
+
+---
+
+## Income Inequality
+
+When thinking of comparing nations, we have measured incomes on national averages which has its own flaws
+
+[But how do we measure how income is distributed across individuals?]{.hi .align-center}
+
+::: {.fragment}
+[Income Inequality]{.h} happens when income is unequal across households
+
+- This creates an income distribution which we can later see where [wealth is concentrated]{.hi}
+:::
+
+::: {.fragment}
+[Perfect wealth equality]{.hi-green} would be where everyone has an equal share of wealth
+:::
+
+---
+
+## Income Inequality
+
+[Is income inequality necessarily bad?]{.hi}
+
+::: {.incremental}
+- It depends
+- Think of the theoretical outcomes that produce inequalities in societies
+    - Economists believe that some level of inequality will naturally exist
+    - Different skills will affect how productive someone may be
+    - In the most strict sense of economics, individual productions affect how much someone is paid
+    - Some inequality may be beneficial, [it incetivizes individuals to increase their productivity/skill]{.hi-green}
+    - However, if [inequality]{.h} interferes with individual's ability to perform basic functions, [then we have a problem]{.hp}
+:::
+
+---
+
+![](images/income-inequality-trend.png){fig-align="center"}
+
+---
+
+## Income Inequality
+
+How should we [measure inequality?]{.hi} [{{< fa arrow-right >}} Not easy to answer]{.hi}
+
+[There are 4 criteria to consider]{.hi .fragment}
+
+::: {.vertical-center}
+[_Anonymity Priniciple:_]{.hp}
+
+[_Scale Independence Principle:_]{.hp}
+
+[_Population Indipendence Principle:_]{.hp}
+
+[_Transfer Principle:_]{.hp}
+:::
+
+---
+
+## Income Inequality
+
+[There are 4 criteria to consider]{.hi}
+
+::: {.vertical-center}
+[_Anonymity Priniciple:_]{.hp}: Measure of inequality should not depend on who has the higher income 
+
+::: {.faded}
+[_Scale Independence Principle:_]{.hp}
+
+[_Population Indipendence Principle:_]{.hp}
+
+[_Transfer Principle:_]{.hp}
+:::
+
+:::
+
+---
+
+## Income Inequality
+
+[There are 4 criteria to consider]{.hi}
+
+::: {.vertical-center}
+[_Anonymity Priniciple:_]{.hp .faded}
+
+[_Scale Independence Principle:_]{.hp} Measure of inequality should not depend on the size of the economy
+
+::: {.faded}
+[_Population Indipendence Principle:_]{.hp}
+
+[_Transfer Principle:_]{.hp}
+:::
+
+:::
+
+---
+
+## Income Inequality
+
+[There are 4 criteria to consider]{.hi}
+
+::: {.vertical-center}
+
+::: {.faded}
+[_Anonymity Priniciple:_]{.hp}
+
+[_Scale Independence Principle:_]{.hp}
+:::
+
+[_Population Indipendence Principle:_]{.hp} Measure of inequality should not be based on the number of income recipients
+
+[_Transfer Principle:_]{.hp .faded}
+
+:::
+
+---
+
+## Income Inequality
+
+[There are 4 criteria to consider]{.hi}
+
+::: {.vertical-center}
+
+::: {.faded}
+[_Anonymity Priniciple:_]{.hp}
+
+[_Scale Independence Principle:_]{.hp}
+
+[_Population Indipendence Principle:_]{.hp}
+:::
+
+[_Transfer Principle:_]{.hp} Holding all other incomes constant, if we transfer income from rich individuals to poor individuals, we should have more equal income distribution
+
+:::
+
+---
+
+## Income Inequality Visualized
+
+Let there be an economy with [10 people]{.hi}
+
+::: {.incremental}
+- Incomes are: 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 
+- Average Income: 10
+- What percent of total income does the [first person hold?]{.hi}
+    - $10\%$
+- What percent of total income do the [first 5 people hold?]{.hi}
+    - $50\%$
+:::
+
+---
+
+## Perfect Income Equality
+
+![](images/perfect-equality.png){fig-align="center"}
+
+---
+
+## Income Inequality Visualized
+
+Let's change it up. There are still 10 people in the economy
+
+::: {.incremental}
+- Incomes are: 5, 5, 5, 10, 10, 10, 10, 10, 10, 25
+- Average Income: 10
+- What percent of total income does the [first person hold?]{.hi}
+    - $5/100 \Rightarrow 5\%$
+- What percent of total income do the [first 5 people hold?]{.hi}
+    - $\dfrac{5 + 5 + 5 + 10 + 10}{100} \Rightarrow 35\%$
+- What percent of total income does the [wealthiest person hold?]{.hi}
+    - $25\%$
+:::
+
+---
+
+## Income Inequality
+
+![](images/unequal.png){fig-align="center"}
+
+---
+
+## Lorenz Curves
+
+[Lorenz Curves]{.hi} are functions that show [what percentage of wealth the bottom x% control]{.hi}
+
+::: {.incremental .vertical-center}
+- [Perfect equality]{.h} is represented by a [45 degree line]{.h}
+    - The Bottom 10% have 10% of the wealth
+    - The Bottom 20% have 20% of the wealth
+    - And so on
+    - Everyone has the same amount of wealth
+:::
+
+---
+
+## Lorenz Curves - Perfect Equality
+
+![](images/lorenz-equality.jpg){fig-align="center"}
+
+---
+
+## Lorenz Curves
+
+On the other extreme, consider [perfect inequality]{.hp}
+
+::: {.incremental .vertical-center}
+- The Bottom 10% have 0% of the wealth
+- The Bottom 20% have 0% of the wealth
+- And so on
+- Until we get to [the last person, who has all of the nation's wealth]{.hp}
+:::
+
+---
+
+## Lorenz Curves - Perfect Inequality
+
+![](images/lorenz-inequality.jpg){fig-align="center"}
+
+---
+
+## Lorenz Curves
+
+::: {.vertical-center}
+In reality, [countries fall somewhere between the two extremes]{.hi}
+
+- The extent of inequality can be (somewhat) represented by the area between the [Lorenz Curve]{.hi} and the [45 degree line]{.hi}
+:::
+
+---
+
+## Lorenz Curve - Realistic Example
+
+![](images/lorenz-example.jpg){fig-align="center"}
+
+---
+
+## Gini Coefficient
+
+Graphs are a good visual representation of the wealth distribution 
+
+- [Quantifying]{.h} this would be very useful
+
+The [Gini Coefficient]{.hi} measures how far away a country is from perfect equality
+
+::: {.fragment}
+We define it as:
+
+$$ 
+    \text{GINI} = \dfrac{A}{A + B}
+$$
+
+:::
+
+::: {.incremental}
+- The [Gini Coefficient]{.hi} can range from 0 to 1
+    - A [coefficient of 0]{.hi-green} indicates [perfect equality]{.hi-green}
+    - A [coefficient of 1]{.hi-red} indicates [perfect inequality]{.hi-red}
+:::
+
+---
+
+## Gini Coefficient Graph
+
+:::: {.columns}
+
+::: {.column width=70%}
+
+![](images/gini-graph.jpg){fig-align="center" height="500"}
+
+:::
+
+::: {.column width="30%" .vertical-center}
+
+<br><br>
+
+$$ 
+    \text{GINI} = \dfrac{A}{A + B}
+$$
+
+:::
+
+::::
+
+---
+
+<iframe src="https://ourworldindata.org/grapher/gini-coefficient-wid-vs-pip?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
+---
+
+<iframe src="https://ourworldindata.org/grapher/economic-inequality-gini-index?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
+---
+
+## Gini Coefficient
+
+It is a good metric, but does not provide all information about the distribution of wealth
+
+Take for example these two diffferent countries:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/lorenz-failure-a.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](images/lorenz-failure-b.jpg){fig-align="center"}
+:::
+
+::::
+
+::: {.notes}
+Gini is approximately the same for both graphs
+
+However income inequality affects two different segments of the population
+
+First graph: Income inquality is prevalent for low income individuals
+
+Second graph: middle income is carved out
+:::
+
+---
+
+## Measuring Absolute Poverty
+
+It is difficult to measure the (exact) Gini Coefficient [{{< fa arrow-right >}} we need to know incomes for everyone in a country]{.hi}
+
+::: {.incremental .vertical-center}
+- The data, isn't usually available for developing countries, so we need to use some coarser measure
+- How can we get a [good idea of the intensity of poverty in a particular region?]{.hi}
+    - We can use the [Headcount Ratio Index]{.h}, which is the percentage of people living below the poverty line
+:::
+
+---
+
+## Headcount Ratio Index
+
+Say that the [absolute poverty line is $2]{.hi}
+
+::: {.incremental}
+- Country A has 3 Million out of 10 Million at or below this [poverty line]{.hi}
+    - The [Headcount Ratio is $H = 3/10 = 30\%$]{.h}
+- But the [Headcount Ratio Index]{.h} tells us nothing about how the poor are distrubted beneath the [poverty line]{.hi}
+    - Everyone living at $1.50 per day is much different than everyone living at $0.10 per day
+:::
+
+---
+
+## Total Poverty Gap
+
+We can instead look at the [Total Poverty Gap (TPG)]{.hi}
+
+::: {.fragment}
+- This measures the total amount of money needed to get everyone up to the [absolute poverty line]{.hi}
+
+$$
+    TPG = \sum_{i=1}^{H} (Y_{p} - Y_{i})
+$$
+
+- Where $H$ is the total number of people below the poverty line
+- $Y_{p}$ is the poverty line (eg. $2 per day)
+- $Y_{i}$ is the income of the $i^{th}$ person under the poverty line
+:::
+
+On Slide 40

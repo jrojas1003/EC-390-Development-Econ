@@ -15,12 +15,19 @@ title-slide-attributes:
   data-background-position: left
 ---
 
-##
+# Measuring Inequality {.inverse .note}
 
-<iframe src="https://ourworldindata.org/grapher/gini-coefficient-wid-vs-pip?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+{{< include 041-inequality.qmd >}}
 
----
+# Why Does Inequality Matter? {.inverse .note}
 
-##
+{{< include 042-importance.qmd >}}
 
-<iframe src="https://ourworldindata.org/grapher/economic-inequality-gini-index?tab=map" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+# How Do We Fix It? {.inverse .note}
+
+{{< include 043-fixes.qmd >}}
+
+# Poor Economics {.inverse .note}
+
+{{< include 044-poor-economics.qmd >}}
+
