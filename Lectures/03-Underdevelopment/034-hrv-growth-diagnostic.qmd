@@ -37,11 +37,48 @@ Hausmann-Rodrik-Velasco (HRV) attempt to identify the greatest hindrance to grow
 
 [_1._]{.hp} The [Shadow Price]{.hi} of the Constraint is High
 
+::: {.align-center .small}
+> A [Binding Constraint]{.hp} on growth is one where [relaxing it would yield large benefits]{.hp}. 
+Meaning its [shadow price]{.h} (the implicit value of easing the constraint) is [high]{.hi}
+:::
+
+::: {.incremental .small}
+- If something is [scarce because of low supply rather than low demand]{.hi}, it is likely a [true contraint]{.hp}
+    - Ex: If credit is limited and interest rates are high, even though many agents want to borrow, [financial access is binding]{.hp}
+    - If little borrowing occurs because agents do not see high returns, then [fincance is not a binding issue]{.hi}
+- Clues come from high observed returns, rationing, congestion, or other indicators that an input is in short supply
+:::
+
+::: {.notes}
+[If we could ease this bottleneck, would growth respond strongly?]{.hi}
+
+If yes, then it is probably a key constraint
+:::
+
 ---
 
 ## HRV - Four Principles
 
 [_2._]{.hp} Movements in the constraint produce significant movement in the objective
+
+::: {.align-center .small}
+> If something is truly binding, then [changes in it should move the economy's main outcomes]{.hp}. 
+:::
+
+::: {.incremental .small}
+- If we suspect that [limited access to credit constrains investment]{.hi}, then lowering real interest rates or improving access to loans [should incrase investment]{.hi}
+- The relationship should be clear and consistent
+    - When the [constraints bites harder, outcomes worsen]{.hi-red}
+    - When it [eases,outcomes should improve]{.hi-green}
+:::
+
+::: {.fragment .align-center}
+This principle checks the sensitivity of the constraint. 
+:::
+
+::: {.notes}
+If chaniging the variable does not affect performance much, it is probably not the real bottleneck
+:::
 
 ---
 
@@ -49,8 +86,44 @@ Hausmann-Rodrik-Velasco (HRV) attempt to identify the greatest hindrance to grow
 
 [_3._]{.hp} People attempt to overcome or bypass the constraint
 
+::: {.align-center .small}
+> Economic actors do not passively accept constraints, [they adapt or find workarounds]{.hp}. 
+:::
+
+::: {.incremental}
+- When things fail, agents might invest or find in alternatives
+    - The power grid fails often, so agents invest in generators to overcome unreliable electricity
+    - If crime is high, agents might invest in private security
+    - If taxes are too much or unreasonable, business might shift toward cash only 
+- By observing [coping mechanisms]{.hi}, we can better identify what the economy's main problems are
+:::
+
+::: {.notes}
+If agents spend a lot of effort or resources getting around certiain limitations, that limitation is likely binding
+:::
+
 ---
 
 ## HRV - Four Principles
 
 [_4._]{.hp} Agents less intensive in a [binding constraint]{.hi} are more likely to thrive
+
+::: {.align-center .small}
+> If a constraint is binding, [agents that participate less or are less exposed to it will perform better]{.hp}. 
+:::
+
+::: {.incremental}
+- If a contraint does not directly (or it is less prevalent) affect your action, then the agent is not as limited 
+    - Ex: If infrastructure is the issue, exporting firms near a port may grow faster than inland producers
+    - Ex: If political corruption is the main concern, then agents that are politically connected will succeed while others stagnate
+:::
+
+::: {.align-center .fragment}
+This principle checks the [variation within the economy]{.hi}, which [agents grow and which do not?]{.hi}
+:::
+
+::: {.notes}
+The presence (or absence) of thriving sectors reveals a lot about what is holding back the rest of the economy. 
+
+Why are the successes succeeding, and the failures failing. 
+:::
