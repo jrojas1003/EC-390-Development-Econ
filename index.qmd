@@ -4,32 +4,24 @@ title: "Home"
 
 ::: {.callout-warning}
 
-## Week 03 Update!
-[25% of the way there!]{.hi}
+## Week 04 Update!
+[30% of the way there!]{.hi}
 
-One quarter of the way done already. Insane.
+As we continue to march forward through the term, do not forget to at least tangentially be working on your [Final Project](Assignments/final-project.qmd){target=_blank .hi-orange}. 
+If you need any help, [please ask]{.hi} I am happy to help in whatever way I can. 
 
-I am finishing up comments on your final project topic selection. Will definitely be up by this afternoon. 
+Reminder that the [Problem Set 02](Assignments/Problem-Sets/PS02/ps02.pdf){target=_blank .hi-green} is due [Wednesday at 11:59am]{.hi}
 
-Grades for PS01 have been posted, as well as the [Answer Key](Assignments/Problem-Sets/PS01/Answer-Key-PS01.pdf/){.hi-orange target=_blank} 
-
-This week's schedule looks like:
+This week's schedule involves:
 
 &nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 03 - Underdevelopment](Lectures/03-Underdevelopment/030-compile.html){.hi-green target=_blank}
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Start (and hopefully finish) Lecture 04 - Poverty & Inequality
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 04 - Poverty & Inequality](Lectures/04-Poverty-and-Inequity/040-compile.html)
+
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Start Lecture 05 - Human Capital
 
 I have also written up instructions in order to set expectations of the [Annotated Bibliography](https://canvas.uoregon.edu/courses/274682/assignments/1916913){.hi-orange target=_blank} which is due until [Week 06 (11/05)]{.hi-orange}. 
 You can find them [here](Assignments/Final-Project/02-Annotated-Bib/annotated-bib.pdf){.hi-orange target=_blank} or in the [Final Project Tab](Assignments/final-project.qmd){.hi-orange target=_blank}
-
-Do not forget that you have to complete:
-
-&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; [Quiz 02](https://canvas.uoregon.edu/courses/274682/quizzes/413321){.hi-orange target=_blank} is due [Wednesday before lecture (11:59am)]{.hi}
-
-Available on Wednesday:
-
-&nbsp;&nbsp; {{< fa pen-to-square size=lg >}} &nbsp; [Problem Set 02](Assignments/Problem-Sets/PS02/ps02.pdf){.hi-green target=_blank} which is due next week on [Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916927){.hi-orange target=_blank}
-
 :::
 
 ## Syllabus
