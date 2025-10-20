@@ -1,3 +1,68 @@
 ---
 name: poor economics
 ---
+
+## Poor Economics
+
+An experiment at the University of Pennsylvania illustrates well how [easily we can feel overwhelmed by the magnitude of the problem]{.hp}
+
+::: {.fragment .small}
+- Researchers gave students $5 to fill out a short survey
+- They were then shown a flyer and asked to [make a donation to Save the Children]{.h}
+- Passages were:
+:::
+
+::: {.fragment .align-center}
+[Passage 1]{.hp}
+
+Food shortages in Malawi are affecting more than 3 million children.
+In Zambia, severe rainfall decifits have resulted in 42% drop in maize production from 2000. 
+As a result, an estimated 3 million Zambians face hunger. 
+Four million Angolans (one third of the population) have been forced to flee their homes.
+More than 11 million people in Ethiopia need immediate food assistance. 
+:::
+
+---
+
+## Poor Economics
+
+An experiment at the University of Pennsylvania illustrates well how [easily we can feel overwhelmed by the magnitude of the problem]{.hp}
+
+::: {.small}
+- Researchers gave students $5 to fill out a short survey
+- They were then shown a flyer and asked to [make a donation to Save the Children]{.h}
+- Passages were:
+:::
+
+::: {.align-center}
+
+[Passage 2]{.hp}
+
+Rokia, a 7 year-old girl from Mali, Africa is desperately poor and faces a threat of severe hunger or even starvation. 
+Her life will be changed for the btter as a result of your financial gift. 
+With your support, and the support of other caring sponsors, Save the Children will work with Rokia's family and other members of the community to help feed her, provide her with education, as well as basic medical care and hygiene education. 
+:::
+
+---
+
+## Poor Economics
+
+- The [first flyer]{.hi} raised an average of [$1.16]{.h} from each student
+
+::: {.incremental}
+- The [second flyer]{.hi}, the one where the [plight of millions became the plight of one]{.hi}, raised [$2.83]{.h}
+
+- Students, it seems, were willing to take some responsibility for helping Rokia, but when faced with the scale of the global problem, [felt discouraged]{.hp}
+:::
+
+---
+
+## Poor Economics
+
+- Some other students, chosen at random, were shown the same two passages after being told that people are more likely to donate money to an identifiable victim than when presented with general information
+
+::: {.incremental}
+- Those shown the [first passage]{.hp}, gave more or less what it had raised [without the additional information]{.hi} $1.26
+- Those shown the [second passage]{.hp}, gave only $1.36, [less than half of what their peers had committed without the additional information]{.hi}
+- Encouraging students to think again prompted them to [be less generous to Rokia]{.hi}, but not more generous to everyone else
+:::

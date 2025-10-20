@@ -1,3 +1,88 @@
 ---
 name: fixes
 ---
+
+## What Is The Solution?
+
+[If I knew, I wouldn't be here]{.hi .align-center}
+
+::: {.fragment}
+- At best, we have some limited evidence and theory to go off of
+- Development is a process that takes a lot of time
+- We can identify [Four (4)]{.hp} broad areas where policy might work
+:::
+
+::: {.fragment}
+[_1._]{.hp} [Alter the relative price of labor compared to capital]{.hi}
+
+[_2._]{.hp} [Increase the assets of the poor]{.hi}
+
+[_3._]{.hp} [Progressive income and wealth taxes]{.hi}
+
+[_4._]{.hp} [Transfer payments and public provision of goods and services]{.hi}
+:::
+
+---
+
+## Alter the relative price of labor compared to capital
+
+[If you decrease the price of labor relative to capital, then companies will substitute more labor for capital]{.hi .align-center}
+
+::: {.incremental}
+- This means more people are hired, which increases their overall incomes
+- This can be done by eliminating policies that keep wages high (minimum wage laws)
+- Alternatively, a policy could remove subsidies and tax breaks that make capital artificially cheap
+:::
+
+::: {.notes}
+The true impact depends on the degree to which firms and farms switch to more labor-intensive production methods
+:::
+
+---
+
+## Increase the assets of the poor
+
+[Assets can include land, physical capital, human capital, and financial resources]{.hi .align-center}
+
+::: {.incremental}
+- Policies could focus on reducing large concentrations of resources (called redistribution policies)
+- ["Land Reform"]{.h} was such a policy, where land ownership is divided between tenant cultivators
+- Human capital related policies could include increasing education opportunities
+    - Or increasing access to healthcare
+:::
+
+---
+
+## Progressive income and wealth taxes
+
+[Direct way to redistribute wealth]{.hi .align-center}
+
+::: {.incremental}
+- Progressive taxes means have higher tax rates for high income earners
+- These tax revenues are then used to finance development programs that benefit the most poor
+- This requires strong institutions
+:::
+
+---
+
+## Transfer payments and public provision of goods and services
+
+[Providing basic needs services and goods to the general population]{.hi .align-center}
+
+::: {.incremental}
+- Services are things like public health programs, school lunch programs, provision of clear water
+- Transfers of money to the poor (credits/subsidies) by the government to incentivize business owners to grow their companies and hire more workers
+- ["Workfare Programs"]{.h} {{< fa arrow-right >}} Programs where laborers work in exchange for benefits (like food-for-work programs)
+:::
+
+---
+
+## How To Fix It
+
+It sounds like a cop-out but you need [effective policies]{.hi} to be implemented
+
+::: {.fragment}
+- Effective policy should account for the multidimensional nature of poverty
+- Key policies include: education, nutrition, health, and infrastructure
+- Previous lectures explain economic growth (in broad strokes) but this chapter highlights how we can make economic growth accessible for all incomes
+:::
