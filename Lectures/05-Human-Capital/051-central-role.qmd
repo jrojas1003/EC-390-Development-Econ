@@ -1,0 +1,75 @@
+---
+name: central role of education and health
+---
+
+## Education and Health
+
+::: {.align-center}
+Education and Health are basic [objectives of development]{.hp}
+:::
+
+::: {.incremental}
+- A [healthy and educated]{.hi} is desirable for growth 
+- Modern economies tend to produce healthy and educated inviduals
+:::
+
+::: {.incremental}
+- Further, we can think of [education and health]{.hi} as [investments]{.hp}
+- You [invest]{.hp} in a university degree because it will [pay off eventually]{.h}
+- You [invest]{.hp} in eating healthy beacuse it will [pay off eventually]{.h}
+- In developing countries, these investments can have [large pay-offs]{.h}
+- But these pay-offs happen [in the future]{.hi}
+:::
+
+::: {.notes}
+The rate of return to schooling equates the value of lifetime earnings of the individual to the net
+present value of costs of education
+:::
+
+---
+
+## Education and Health
+
+![](images/venezuela-returns.png){fig-align="center"}
+
+---
+
+## Education and Health
+
+[Greater incomes]{.hi} are associated with [higher education levels]{.hi}
+
+- More factors at play for low-income countries
+
+::: {.fragment}
+![](images/income-education.png){fig-align="center"}
+:::
+
+---
+
+## Education and Health
+
+[Greater incomes]{.hi} are associated with [higher education levels]{.hi}
+
+- More factors at play for low-income countries
+
+::: {.fragment}
+![](images/private-returns-to-schooling-2016.png){fig-align="center"}
+:::
+
+---
+
+## Education and Health - Regions
+
+![](images/returns-by-region.png){fig-align="center"}
+
+---
+
+## Education Interacting with Technology
+
+![](images/edu-vs-tech-01.png){fig-align="center"}
+
+---
+
+## Education Interacting with Technology
+
+![](images/edu-vs-tech-02.png){fig-align="center"}

@@ -1,0 +1,313 @@
+---
+name: human capital approach
+---
+
+## Human Capital
+
+[Definition:]{.h} Catch-all term we use in economics to refer to education, health, skills, and other human capacities that can raise productivity 
+
+::: {.fragment}
+Human capital can be acquired [through investment]{.hi .fragment}
+:::
+
+::: {.incremental}
+- Education
+- Health care
+- Training, therapy, etc.
+
+- They affect [productivity, income, happiness, and lifespan]{.hi}
+
+- We may not directly talk about education or health, but rather the [human capital]{.hi} it creates
+:::
+
+---
+
+## Complementarities
+
+[Health and Education]{.hi} investments have large [complementarities]{.h}
+
+::: {.incremental}
+- If children are [malnourished or have high mortality]{.hp}, [education investment]{.hi} will not be as effective
+    - Poor health in children leads to:
+        - Low school attendance
+        - Less attention in class
+        - Lower lifetime earnings and returns to investment
+- To effectively [increase human capital]{.hi}, we need [investments in both health and education]{.hi} simultaneously
+:::
+
+::: {.fragment}
+[Unfortunately, invetsments take considerable time to pay off]{.hi .align-center}
+:::
+
+---
+
+## Invest Now, Returns Later
+
+![](images/future-spongebob.gif){fig-align="center"}
+
+---
+
+## Invest Now, Returns Later
+
+Investing in education means that we [expect higher earnings in the future]{.hi} than we would have obtained otherwise
+
+::: {.fragment}
+- These [future income gains]{.hi} must be compared with the [total costs incurred]{.hp} to understand it as an investment
+:::
+
+::: {.incremental}
+- Education costs include direct costs:
+    - tuition costs
+    - books and uniforms
+- And indirect costs:
+    - [foregone income]{.hp}
+:::
+
+---
+
+## Let's Model It
+
+Formally, we can write the [Discounted Value of Education]{.hi} where [$E$ is income with extra education]{.hi-green}, [$N$ is income without extra education]{.hi-red}, $t$ is year, $i$ is the [discount rate]{.hi} and this is summed over expected years of working life:
+
+$$
+    \text{DVE} = \dfrac{E_{t} - N_{t}}{(1 + i)^{{t}}}
+$$
+
+::: {.fragment}
+We do this because these decisions are not equivalent across individuals
+
+- People with [higher discount rates]{.hi} will be [less likely to invest in education]{.hi}
+
+    [They value the increase in the future income less than current income]{.hp .fragment .align-center}
+:::
+
+---
+
+## Discounted Value Example
+
+Let's find out if being here is worth it 
+
+::: {.incremental}
+- Suppose that your earnings with a degree will be 100 [$(E = 100)$]{.fragment .h}
+- Without a degree, your earnings will be 20 [$(N = 20)$]{.fragment .h}
+- Suppose your discount rate is 20%, you value the future 20% less than the present [$(i = 0.2)$]{.fragment .h}
+- Lastly, suppose you will earn your degree in 4 years [$(t = 4)$]{.h .fragment}
+:::
+
+::: {.fragment}
+We put it all together in the $DVE$ equation:
+:::
+
+::: {.align-center}
+[$DVE = \dfrac{E_{t} - N_{t}}{(1 + i)^{{t}}}$]{.fragment}  [$= \dfrac{100 - 20}{(1.2)^{4}}$]{.fragment} [$= 38.6$]{.fragment}
+:::
+
+::: {.fragment .align-center}
+[The additional 80 dollars "future you"]{.hi-red} would earn with extra education is only worth [38.6 to "present you"]{.hi-green}
+:::
+
+---
+
+## Discounted Value Example (v2)
+
+We can adapt this equality to model other things as well [, we just need a start and end value]{.hi .fragment}
+
+[And we can solve for any of the components if we have the other information]{.hi .align-center .fragment}
+
+::: {.fragment}
+Let us find the discount rate such that we are [indifferent]{.h} the future value of 2 extra dollars in 5 years from now 
+
+$$
+    DVEM = \dfrac{2}{(1 + i)^{5}} = 1
+$$ 
+:::
+
+---
+
+## Discounted Value Example (v2)
+
+$$
+    DVEM = \dfrac{2}{(1 + i)^{5}} = 1
+$$ 
+
+::: {.fragment} 
+\begin{align*}
+    2 &= (1 + i)^{5} \\ 
+    \sqrt[5]{2} &= 1 + i \\
+    \sqrt[5]{2} - 1 &= i \\
+    i &\approx 0.149
+\end{align*}
+:::
+
+::: {.fragment}
+[To be indifferent between 2 dollars in 5 years and 1 dollar today, we would need to have a discount rate of]{.hi .align-center}
+
+$$
+    \sim 14.9\%
+$$
+:::
+
+---
+
+## Discounted Value of Education
+
+[Why do we care about discount rates when thinking about economic development?]{.hi}
+
+::: {.incremental}
+- Why might someone with a lower income have a higher discount rate?
+    - If you are very worried about your current situation, the value you place on something in the distant future is very small
+- Consider a subsistence farmer:
+    - Do they send their children to school, which will pay off later in their lives (and allow them to take care of their parents)?
+    - Or do they keep them at home to help farm the land, which will pay off tomorrow?
+- Clearly, income and discount rates are [negatively correlated]{.hp}
+:::
+
+---
+
+## Investing in Education
+
+Hopefully you can see why [saving and investing]{.hi} is a difficult decision to make
+
+::: {.incremental .vertical-center}
+- There might be more pressing matters that require resources
+- Solely based on expected return value, it [might not be worth it]{.hp}
+- If we do [invest]{.h}, what's truly to say things will pay-off as we expect?
+:::
+
+::: {.fragment .align-center}
+But thankfully, when possible, progress has been made
+:::
+
+---
+
+## Improvements in Education
+
+![](images/education-spending.png){fig-align="center"}
+
+---
+
+## Improvements in Education
+
+![](images/education-assistance.png){fig-align="center"}
+
+---
+
+## Improvements in Education
+
+![](images/primary-completion.png){fig-align="center"}
+
+---
+
+## Social Versus Private Benefits and Costs
+
+[Education plays a key role in the ability of a developing country to absorb modern tech and develop the capacity for self-sustaining growth and development]{.hi .align-center}
+
+[And like much of everything else, there are cost, benefits, and spillovers to consider]{.hi .align-center}
+
+::: {.fragment}
+- We try to alter the [incentives]{.hi} of individuals to get them to pursue more education
+- However, the [optimal education decision]{.hi} for an individual does not necessarily correspond to the [socially optimal level of education]{.h}
+:::
+
+---
+
+## Social Versus Private Benefits and Costs
+
+[Private (individual)]{.hi} returns grow faster than [social returns]{.h}
+
+::: {.fragment}
+- Individuals benefit from education by earning more money and gaining higher quality skills
+- Society only benefits from part of the individual's increased income and education
+:::
+
+::: {.fragment}
+
+[Social costs]{.hi} grow more quickly than private costs
+
+::: {.incremental}
+- [Higher cost of capital]{.hp} and recurrent costs of higher education (post-primary) is very costly
+- Subsidization of higher education reduces costs for individuals and increases costs for society
+:::
+
+:::
+
+---
+
+## Private and Social Benefits
+
+![](images/social-private-edu.png){fig-align="center"}
+
+---
+
+## Private and Social Benefits
+
+- Optimal education choice happens when:
+
+[slope of returns and slope of costs are the same]{.hi .align-center}
+
+[marginal benefit = marginal cost]{.hi .align-center .fragment}
+
+::: {.fragment}
+Given our setup, this means that the [socially optimal level of education]{.h} is less than [individually optimal level of education]{.hi}
+
+- This is why the Millenium Development Goal focuses on [Primary Education]{.hi}, not university education
+:::
+
+---
+
+## Education Has Increased
+
+- In 1990, halve of the world's countries had achieved universal primary education, up from 28% in 1960
+
+- Median primary enrollment increased from 80% to 99% in 1990
+
+- Median secondary enrollment rates have increased from 13% in 1960 to 45% in 1990
+
+- In 1960, 29 countries had no college students and by 1990 only 3 had no college students
+
+---
+
+## Has Education Failed?
+
+Despite these advances in availability of education, the growth effects have been dissapointing
+
+::: {.fragment}
+- At the very least, they have been less than expected
+- Studies have concluded that although education is important, there is a weak association with growth
+:::
+
+---
+
+## What's the lesson here?
+
+::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.incremental}
+- [We are good at controlling specific outcomes]{.hi}
+    - We know how to increase test scores
+    - We know how to increase enrollment rates
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.incremental}
+- [But we are not very good at generating growth through education]{.hi}
+    - It could be that educaton has strong complementarities with other institutions/services 
+        - Health, Safety, Environment, etc.
+:::
+
+:::
+
+::::
+
+:::
+
+::: {.fragment .align-center}
+But [maybe we shouldn't only worry about growth]{.hi}, education improves well-being nonetheless
+:::

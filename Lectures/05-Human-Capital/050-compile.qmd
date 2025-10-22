@@ -8,10 +8,29 @@ format:
     revealjs:
         theme: [default, styles.scss]
         slide-number: true
-        footer: "EC390, Lecture 04 | Human Capital"
+        footer: "EC390, Lecture 05 | Human Capital"
         preview-links: auto
         code-f  old: FALSE
 title-slide-attributes: 
   data-background-position: left
 ---
 
+# Central Role of Education and Health {.inverse .note}
+
+{{< include 051-central-role.qmd >}}
+
+# Human Capital Approach {.inverse .note}
+
+{{< include 052-human-capital-approach.qmd >}}
+
+# Child Labor {.inverse .note}
+
+{{< include 053-child-labor.qmd >}}
+
+# Gender Gap {.inverse .note}
+
+{{< include 054-gender-gap.qmd >}}
+
+# Health {.inverse .note}
+
+{{< include 055-health.qmd >}}
