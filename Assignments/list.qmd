@@ -2,6 +2,11 @@
 title: Assignments
 ---
 
+## Practice Midterm
+
+[Practice Midterm](Practice-Midterm/practice-midterm.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[Answer Key](){target=_blank .btn .btn-primary .btn-lg .cv-download}
+
 ## Problem Sets
 
 [Problem Set 01 - Due Wednesday, October 08 @ 12:00pm]{.text-center .h .large} 
