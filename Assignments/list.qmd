@@ -4,8 +4,10 @@ title: Assignments
 
 ## Practice Midterm
 
+::: {.align-center}
 [Practice Midterm](Practice-Midterm/practice-midterm.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 [Answer Key](){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
 
 ## Problem Sets
 
@@ -25,9 +27,12 @@ title: Assignments
 [Problem Set 02 - Due Wednesday, October 22 @ 12:00pm]{.text-center .h .large} 
 
 ::: {.align-center}
-[PS02 Questions](Problem-Sets/PS02/ps02.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916927){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[Answer Key](Problem-Sets/PS02/Answer-Key-PS02.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
+::: {.align-center}
+[PS02 Questions](Problem-Sets/PS02/ps02.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916927){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
 ---
 
 [Problem Set 03 - Due Wednesday, November 12 @ 12:00pm]{.text-center .h .large} 
