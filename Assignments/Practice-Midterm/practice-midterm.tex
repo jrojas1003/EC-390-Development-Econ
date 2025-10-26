@@ -1,0 +1,264 @@
+\documentclass[12pt]{exam}
+
+% ---------------------------------------------------
+% Page Layout
+% ---------------------------------------------------
+\usepackage{geometry}   % Flexible page dimensions
+\geometry{margin=1in, centering}
+
+% ---------------------------------------------------
+% Encoding and Fonts
+% ---------------------------------------------------
+\usepackage[utf8]{inputenc}   % Input encoding
+\usepackage[T1]{fontenc}      % Output font encoding
+\usepackage{lmodern}          % Latin Modern fonts (improves output)
+
+% ---------------------------------------------------
+% Tables and Columns
+% ---------------------------------------------------
+\usepackage{multicol}   % Multiple column environments
+\usepackage{multirow}   % Multi-row cells in tables
+\usepackage{booktabs}   % Better looking tables
+
+% ---------------------------------------------------
+% Graphics and Figures
+% ---------------------------------------------------
+\usepackage{graphicx}   % Include graphics
+\usepackage{caption}    % Customization of captions
+
+% ---------------------------------------------------
+% Text Styling
+% ---------------------------------------------------
+\usepackage{color}      % Color support
+\usepackage{soul}       % Highlighting, underlining, strikethrough, etc.
+
+% ---------------------------------------------------
+% Headers, Footers, and Symbols
+% ---------------------------------------------------
+\usepackage{lastpage}   % Reference last page in document
+\usepackage{bbding}     % Special symbols (checkmarks, etc.)
+\usepackage{pmboxdraw}  % Box drawing characters
+\usepackage{fontawesome} % Allows customization of icons 
+
+% ---------------------------------------------------
+% Section Formatting
+% ---------------------------------------------------
+\usepackage{titlesec}   % Customize section titles
+
+% ---------------------------------------------------
+% Hyperlinks and URLs
+% ---------------------------------------------------
+\usepackage{url}        % Simple URL typesetting
+\usepackage{hyperref}   % Clickable hyperlinks
+
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+  
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    citecolor=blue,
+}
+
+% ---------------------------------------------------
+% Multiple Choice Options 
+% ---------------------------------------------------
+\CorrectChoiceEmphasis{\color{red}\bfseries\itshape}
+%\printanswers
+% ---------------------------------------------------
+% Defines Header & Footer Content
+% ---------------------------------------------------
+% This is the name of the course (left header)
+\newcommand{\class}{\fontfamily{lmss} \textbf{EC 390}} 
+% This is the name of the assignment (center header)
+\newcommand{\examnum}{\fontfamily{lmss} \textbf{Practice Midterm}} 
+% This is the due date (right header)
+\newcommand{\examdate}{\fontfamily{lmss} \textbf{}} 
+
+% ---------------------------------------------------
+% Points Options
+% ---------------------------------------------------
+\addpoints              % Allows to add points up to include table at end of document
+\bracketedpoints        % Puts points per question inside brackets instead of parenthesis 
+
+% ---------------------------------------------------
+% Header & Footer Options
+% ---------------------------------------------------
+\pagestyle{headandfoot}         % Fancy equivalent for exam documentclass
+\firstpageheadrule              % Horizontal bar in first page
+\runningheadrule                % Horizontal bar in rest of pages
+
+% 1st page header content
+\firstpageheader{\class}{\examnum}{\fontfamily{lmss} \examdate} 
+% Rest of pages header content
+\runningheader{\class}{\examnum}{\fontfamily{lmss} \examdate} 
+
+% 1st page footer content
+\firstpagefooter{\fontfamily{lmss} Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} 
+% Rest of pages footer content
+\runningfooter{\fontfamily{lmss} Points earned: \makebox[1in]{\hrulefill} / \pointsonpage{\thepage} points}{}{\thepage\ of \numpages} 
+
+% ---------------------------------------------------
+% Section Formatting & Options
+% ---------------------------------------------------
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+
+\title{Midterm Exam}
+\author{EC 390 - Development Economics}
+\date{Fall 2025} 
+
+% ---------------------------------------------------
+% Body Begins
+% ---------------------------------------------------
+\begin{document}
+
+\begin{coverpages}
+
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+Give every question your best attempt. \\
+Best of luck. \\
+You got this!
+}}}\end{center}
+\vspace{2cm}
+\makebox[0.6\textwidth]{Name:\enspace\hrulefill}
+\makebox[0.35\textwidth]{95\#:\enspace\hrulefill}
+
+\vspace{1cm}
+\noindent
+The maximum amount of points on this exam is 75 points. 
+You have a total of 1h 20min (80 minutes) to complete the exam, unless otherwise noted. 
+The only items allowed on your desk at any time are a pen and/or pencil, scratch paper, a 3x5 note card, and a calculator. 
+Everything else must be stored in your bag underneath your desk. 
+Any form of cheating will result on a zero on the exam.\\
+
+\noindent There are three sections to be completed:
+
+\begin{itemize}
+    \item \textbf{Multiple Choice:} 5 Questions
+    \item \textbf{Short Answer Questions:} 2 Questions
+    \item \textbf{Multi-Part Analysis Questions:} 1 Question (6 parts)
+\end{itemize}
+
+\noindent Point totals and question specific instructions are listed for each section.
+Please ask for clarification if a question is not clear to you.\\
+
+\noindent The exam is a total of \numpages $\,$ pages. 
+There are 5 pages of questions + 2 pages for scratch paper.
+
+\noindent \textbf{Please verify you have all \numpages $\,$ in your exam. If you do not, let me know immediately.}
+
+\end{coverpages}
+
+% ---------------------------------------------------
+% Multiple Choice
+% ---------------------------------------------------
+\section*{Multiple Choice - 25 Points}
+Circle or "X" the answer you think most correctly answers the following questions. 
+If you mark a choice and would like to change it, \textbf{clearly indicate which one is your correct answer}. 
+
+\begin{questions}
+\question
+Consider the following statistics:
+Country A has a GNI of 5,500. 
+Income earned by residents abroad is equal to 800.
+Income earned by non-residents domestically is 300.
+
+What is the GDP of Country A?
+
+\begin{choices}
+    \choice 4,700
+    \CorrectChoice 5,000
+    \choice 5,300
+    \choice 5,800
+\end{choices}
+
+\question
+In the \textbf{Lewis two-sector model}, the turning point occurs when:
+
+\begin{choices}
+    \choice The industrial/modern sector stops reinvesting profits
+    \choice The marginal product of labor in agriculture becomes positive
+    \CorrectChoice Surplus labor in the subsistence/traditional sector is fully absorbed
+    \choice The savings rate in the industrial/modern sector falls below the population growth rate
+\end{choices}
+
+\question 
+In growth models that explain economic expansion primarily through capital accumulation (such as the Harrod–Domar and Solow models), which key assumption links savings behavior to the growth of output?
+
+\begin{choices}
+    \CorrectChoice All savings become investments
+    \choice All savings are held in cash
+    \choice Investment depends on government spending
+    \choice Savings and investments are determined independently
+\end{choices}
+
+\question 
+Suppose there are two firms in a developing economy. 
+In order to become profitable, a \textbf{large initial investment is required}, but it requires both firms to operate simultaneously (ex. a car factory and a steel mill).
+
+Which concept best describes this situation?
+
+\begin{choices}
+    \choice Capital deepening
+    \choice Comparative advantage
+    \choice Crowding out
+    \CorrectChoice Coordination Failure
+\end{choices}
+
+% ---------------------------------------------------
+% Short Answer
+% ---------------------------------------------------
+\newpage
+\section*{Short Answer - X points}
+Answer the following questions to the best of your ability.
+For full credit, show all of your work and clearly indicate your final solution for each party by circling the answer.
+
+\question 
+What is a \textbf{Big Push}? 
+Explain intuitively and illustrate the concept by \textbf{drawing an S-curve diagram with the proper dynamics}. 
+
+% ---------------------------------------------------
+% Multi-part Analysis
+% ---------------------------------------------------
+\newpage
+\section*{Multi-Part Analysis - X points}
+Answer the following questions to the best of your ability.
+For full credit, show all of your work and clearly indicate your final solution for each party by circling the answer.
+
+\question 
+An economy can evolve under different growth scenarios. 
+As a consultant, you are tasked with helping describe possible shifts/movements/growth/pitfalls \textbf{graphically}.
+
+\begin{parts}
+    \part 
+    Draw a \textbf{Solow diagram} showing the steady-state level of capital per worker. 
+    Label the savings curve and capital growth line. 
+    Then, show what happens to $k^{*}$ and $y^{*}$ if production falls. 
+    \vspace*{\stretch{1}}
+    \part 
+    Consider the \textbf{Lewis two-stage model diagram}.
+    There is a traditional sector and a modern sector. 
+    Show how an increase in \textbf{agricultural productivity} affects 
+    (1) The wage in the traditional sector
+    \vspace*{\stretch{1}}
+    \part 
+    How would this increase in \textbf{agricultural productivity} affect the \textbf{pace of labor migration to the modern sector}.
+    \vspace*{\stretch{1}}
+\end{parts}
+
+\end{questions}
+
+\end{document}
