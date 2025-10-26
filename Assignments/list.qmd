@@ -6,7 +6,7 @@ title: Assignments
 
 ::: {.align-center}
 [Practice Midterm](Practice-Midterm/practice-midterm.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-[Answer Key](){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[Answer Key](Practice-Midterm/Practice-Midterm-Answer-Key.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
 ## Problem Sets
