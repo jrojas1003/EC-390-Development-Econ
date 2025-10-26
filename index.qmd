@@ -4,24 +4,18 @@ title: "Home"
 
 ::: {.callout-warning}
 
-## Week 04 Update!
-[30% of the way there!]{.hi}
+## Week 05 Update!
+[40% Done!]{.hi}
 
-As we continue to march forward through the term, do not forget to at least tangentially be working on your [Final Project](Assignments/final-project.qmd){target=_blank .hi-orange}. 
-If you need any help, [please ask]{.hi} I am happy to help in whatever way I can. 
-
-Reminder that the [Problem Set 02](Assignments/Problem-Sets/PS02/ps02.pdf){target=_blank .hi-green} is due [Wednesday at 11:59am]{.hi}
+Quick reminder that the midterm is this week, on [Wednesday, October 29]{.hi}. 
 
 This week's schedule involves:
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 03 - Underdevelopment](Lectures/03-Underdevelopment/030-compile.html){.hi-green target=_blank}
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 05 - Human Capital](Lectures/05-Human-Capital/050-compile.html){.hi-orange target=_blank}
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 04 - Poverty & Inequality](Lectures/04-Poverty-and-Inequity/040-compile.html)
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Midterm Q&A on [Monday]{.hi-green}
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Start Lecture 05 - Human Capital
-
-I have also written up instructions in order to set expectations of the [Annotated Bibliography](https://canvas.uoregon.edu/courses/274682/assignments/1916913){.hi-orange target=_blank} which is due until [Week 06 (11/05)]{.hi-orange}. 
-You can find them [here](Assignments/Final-Project/02-Annotated-Bib/annotated-bib.pdf){.hi-orange target=_blank} or in the [Final Project Tab](Assignments/final-project.qmd){.hi-orange target=_blank}
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; [Midterm Exam on Wednesday]{.hi-red} 
 :::
 
 ## Syllabus
@@ -81,9 +75,9 @@ For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf){target="_
 |    W01   |  Ch. 1 & 2   |         Growth & Development         |              Quiz 01            |
 |    W02   |  Ch. 3 & 4   |     Theories of Growth & Development |    PS 01 & Final Project Topic  |
 |    W03   |    Ch. 05    |Underdevelopment + Poverty & Inequity |              Quiz 02            |
-|    W04   |    Ch. 08    |       Education & Health             |          Problem Set 02         |
-|    W05   |    Ch. 09    |     Agriculture & Rural Development  |          **Midterm Exam**       |
-|    W06   |    Ch. 06    |             Population               |  Quiz 03 & Annotated Biblio.    |
+|    W04   |    Ch. 08    |         Education & Health           |          Problem Set 02         |
+|    W05   |    Ch. 08    |         Education & Health           |          **Midterm Exam**       |
+|    W06   | Ch. 09 and Ch. 06 | Agricultural & Rural Development and Population |  Quiz 03 & Annotated Biblio. |
 |    W07   |    Ch. 07    | Urbanization & Rural-Urban Migration |          Problem Set 03         |
 |    W08   |    Ch. 11    |      Governance & Institutions       |         Quiz 04 & Outline       |
 |    W09   |  Ch. 12 & 14 |  Foreign Aid, Trade, & Globalization |          Problem Set 04         | 
