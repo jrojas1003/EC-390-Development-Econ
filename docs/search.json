@@ -77,6 +77,69 @@
     "text": "Human Capital\nExpand Slides PDF Version"
   },
   {
+    "objectID": "Lectures/05-Human-Capital/054-health.html",
+    "href": "Lectures/05-Human-Capital/054-health.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "A key set of questions are:\nDoes bad health explain low incomes in developing nations?\nor\nDoes low income explain bad health in developing nations?\n\n\n\nBoth are true and a lot of effort has been given to untangling them"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/054-health.html#health-and-development",
+    "href": "Lectures/05-Human-Capital/054-health.html#health-and-development",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "A key set of questions are:\nDoes bad health explain low incomes in developing nations?\nor\nDoes low income explain bad health in developing nations?\n\n\n\nBoth are true and a lot of effort has been given to untangling them"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/054-health.html#scale-of-health",
+    "href": "Lectures/05-Human-Capital/054-health.html#scale-of-health",
+    "title": "EC 390 - Development Econ",
+    "section": "Scale of Health",
+    "text": "Scale of Health\nSome problems seem very large (e.g. Malaria, HIV/AIDS), there are also many fairly easy and effective solutions\n\nMany health problems can be prevented or solved with simple solutions like:\n\n\n\nClean water, Bleach, Condoms, Bed Nets, etc.\n\n\n\nWhy are they underutilized?\n\n\n\n\n\nInformation and Misperceptions\nBehavioral Biases\nLiquidity Constraints and Small Costs\n\n\n\n\n\nSocial and Cultural Norms\nPublic Good and Externalities Problems\nWeak Institutions and Delivery"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges",
+    "href": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges",
+    "title": "EC 390 - Development Econ",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n1. Information and Misperceptions\n\n\nMany people are not fully aware of the health benefits or proper use of interventions\nMisconceptions, such as chlorine being harmful or mosquitos only bite during the day, reduce adoption\nBenefits are often invisible\n\n\n\n\nInvisible: preventing diarrhea or malaria does not provide immediate feedback"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-1",
+    "href": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n2. Behavioral Biases\n\n\nThings like present bias exist. People heavily discount future benefits and with reason.\nFighting against inertia and habits\nLow salience: Health prevention efforts do not feel urgent until someone falls sick\n\n\n\n\npresent bias: even if clean water prevents disease later, the effort or cost is now"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-2",
+    "href": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n3. Constraints and Small Costs\n\n\nEven if interventions are affordable, the upfront cost can be a binding constraint for households with tight income flows\nThe existence of seasonal or uncertain income streams means households may not have funds at the right time\nTie in restricted capital markets and it may never be possible to purchase interventions"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-3",
+    "href": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-3",
+    "title": "EC 390 - Development Econ",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n4. Social and Cultural Norms\n\n\nThings like condom use or menstrual products may face stigma in the household or society\nTraditional beliefs or social hierarchies may discourage the use of “foreign” or modern health products"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-4",
+    "href": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-4",
+    "title": "EC 390 - Development Econ",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n5. Public Good and Externalities Problems\n\n\nMany preventive goods, such as bed nets or water chlorination, have positive externalities\n\nIf others use them, you benefit too\n\nThis leads to free-riding and private underinvestment"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-5",
+    "href": "Lectures/05-Human-Capital/054-health.html#health-solutions-take-up-challenges-5",
+    "title": "EC 390 - Development Econ",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n6. Weak Institutions and Delivery\n\n\nHealth products may not reach remote areas reliably\nWeak institutions lead to things like corruption and weak supply chains which limit beneficial campaigns\n\n\n\n\nThe poorest of the poor go without necessary aid"
+  },
+  {
     "objectID": "Lectures/05-Human-Capital/052-human-capital-approach.html",
     "href": "Lectures/05-Human-Capital/052-human-capital-approach.html",
     "title": "EC 390 - Development Econ",
@@ -417,7 +480,175 @@
     "href": "Lectures/05-Human-Capital/050-compile.html#the-children-do-not-yearn-for-the-mines",
     "title": "Human Capital - Health and Education",
     "section": "The Children DO NOT Yearn for the Mines",
-    "text": "The Children DO NOT Yearn for the Mines"
+    "text": "The Children DO NOT Yearn for the Mines\nThis is an unfortunately widespread problem in developing countries\nWhen children under the age of 15 work:\n\n\nTime working disrupts time in school and in some cases prevents them from going altogether\nThe health of child workers are significantly worse\n\nThis can cause physical stunting which is very common\n\nThey are subject to cruel and exploitative working conditions"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#child-labor-1",
+    "href": "Lectures/05-Human-Capital/050-compile.html#child-labor-1",
+    "title": "Human Capital - Health and Education",
+    "section": "Child Labor",
+    "text": "Child Labor\nDefinition: Either under the minimum age for work (usually 15 years old) or up to 17 years of age, and engaged in work that poses a threat to their health, safety, or morals, or are subject to conditions of forced labor\n\nAccording to the International Labor Organization (ILO), as of 2015 there are:\n\n152 million children classified as “child laborers”\n48% are reportedly just 11 years or younger\n73 million were found to be doing some hazardous work that directly endangers their health, saftey, and moral development"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#child-labor-2",
+    "href": "Lectures/05-Human-Capital/050-compile.html#child-labor-2",
+    "title": "Human Capital - Health and Education",
+    "section": "Child Labor",
+    "text": "Child Labor\nGeographical concentration\n\n\nAfrica and the Asia and Pacific region account for about 90% of all child labor\n71% work in agriculture, 12% in industry, 17% in services\n\n\n\nWorking Conditions\n\n\n\nMore than 50% of child laborers work in some form of child labor endanger their health or well-being:\n\nHazard materials\nSexual exploitation\nTrafficking\nDebt bondage\n\nEvery year, about 22,000 children die as a result of work-related accidents"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#child-work-vs-leisure-time",
+    "href": "Lectures/05-Human-Capital/050-compile.html#child-work-vs-leisure-time",
+    "title": "Human Capital - Health and Education",
+    "section": "Child Work vs Leisure Time",
+    "text": "Child Work vs Leisure Time\nIn some cases, work time comes from the child’s leisure time instead of school time\n\nRecall not many child workers attend school\n\n\n\nEven if they do go to school, child labor will:\n\nReduce time for homework\nCause the child to be tired at school, resulting in losing the benefit of being in school being less\nLikely cause them to drop out sooner than otherwise"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#ban-on-child-labor",
+    "href": "Lectures/05-Human-Capital/050-compile.html#ban-on-child-labor",
+    "title": "Human Capital - Health and Education",
+    "section": "Ban on Child Labor",
+    "text": "Ban on Child Labor\nIt is not obvious that an immediate ban would be in the best interest for the child\n\n\nWithout the ability to work, a child may lose valuable income, which may cause them to be severely malnourished\n\nWith work (wages), school fees may become accessible\nBasic nutrition is more likely\nHealth care may become available to them\n\n\n\n\nBut there is a set of circumstances under which both the child and the family benefit unambiguously from a ban:\nMultiple Equilibria"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#ban-on-child-labor---multiple-equilibria",
+    "href": "Lectures/05-Human-Capital/050-compile.html#ban-on-child-labor---multiple-equilibria",
+    "title": "Human Capital - Health and Education",
+    "section": "Ban on Child Labor - Multiple Equilibria",
+    "text": "Ban on Child Labor - Multiple Equilibria\nLet’s model child labor\nWe first make two assumptions:\n\n1. A household with a sufficiently high icnome would not send its children to work\n\nAs expected, there is strong evidence that this is true\n\n\n\n2. A child’s and adult labor are substitutes\n\nIn reality, children are not as productive as adults and adults can do any work that children can do\n\n\n\n\nA frequent rationalisation for child labor often said is that children have special productive abilities, such as small fingers Video\n\n\n\nAs a result of this substitution of labor observation, we can consider the supply of adult and child labor together"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#ban-on-child-labor---multiple-equilibria-1",
+    "href": "Lectures/05-Human-Capital/050-compile.html#ban-on-child-labor---multiple-equilibria-1",
+    "title": "Human Capital - Health and Education",
+    "section": "Ban on Child Labor - Multiple Equilibria",
+    "text": "Ban on Child Labor - Multiple Equilibria\n\n\nx-axis: supply of labor"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#health-and-development",
+    "href": "Lectures/05-Human-Capital/050-compile.html#health-and-development",
+    "title": "Human Capital - Health and Education",
+    "section": "Health and Development",
+    "text": "Health and Development\nA key set of questions are:\nDoes bad health explain low incomes in developing nations?\nor\nDoes low income explain bad health in developing nations?\n\n\n\nBoth are true and a lot of effort has been given to untangling them"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#scale-of-health",
+    "href": "Lectures/05-Human-Capital/050-compile.html#scale-of-health",
+    "title": "Human Capital - Health and Education",
+    "section": "Scale of Health",
+    "text": "Scale of Health\nSome problems seem very large (e.g. Malaria, HIV/AIDS), there are also many fairly easy and effective solutions\n\nMany health problems can be prevented or solved with simple solutions like:\n\n\n\nClean water, Bleach, Condoms, Bed Nets, etc.\n\n\n\nWhy are they underutilized?\n\n\n\n\n\nInformation and Misperceptions\nBehavioral Biases\nLiquidity Constraints and Small Costs\n\n\n\n\n\nSocial and Cultural Norms\nPublic Good and Externalities Problems\nWeak Institutions and Delivery"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges",
+    "href": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges",
+    "title": "Human Capital - Health and Education",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n1. Information and Misperceptions\n\n\nMany people are not fully aware of the health benefits or proper use of interventions\nMisconceptions, such as chlorine being harmful or mosquitos only bite during the day, reduce adoption\nBenefits are often invisible\n\n\n\n\nInvisible: preventing diarrhea or malaria does not provide immediate feedback"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-1",
+    "href": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-1",
+    "title": "Human Capital - Health and Education",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n2. Behavioral Biases\n\n\nThings like present bias exist. People heavily discount future benefits and with reason.\nFighting against inertia and habits\nLow salience: Health prevention efforts do not feel urgent until someone falls sick\n\n\n\n\npresent bias: even if clean water prevents disease later, the effort or cost is now"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-2",
+    "href": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-2",
+    "title": "Human Capital - Health and Education",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n3. Constraints and Small Costs\n\n\nEven if interventions are affordable, the upfront cost can be a binding constraint for households with tight income flows\nThe existence of seasonal or uncertain income streams means households may not have funds at the right time\nTie in restricted capital markets and it may never be possible to purchase interventions"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-3",
+    "href": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-3",
+    "title": "Human Capital - Health and Education",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n4. Social and Cultural Norms\n\n\nThings like condom use or menstrual products may face stigma in the household or society\nTraditional beliefs or social hierarchies may discourage the use of “foreign” or modern health products"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-4",
+    "href": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-4",
+    "title": "Human Capital - Health and Education",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n5. Public Good and Externalities Problems\n\n\nMany preventive goods, such as bed nets or water chlorination, have positive externalities\n\nIf others use them, you benefit too\n\nThis leads to free-riding and private underinvestment"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-5",
+    "href": "Lectures/05-Human-Capital/050-compile.html#health-solutions-take-up-challenges-5",
+    "title": "Human Capital - Health and Education",
+    "section": "Health “Solutions” Take-Up Challenges",
+    "text": "Health “Solutions” Take-Up Challenges\n\n6. Weak Institutions and Delivery\n\n\nHealth products may not reach remote areas reliably\nWeak institutions lead to things like corruption and weak supply chains which limit beneficial campaigns\n\n\n\n\nThe poorest of the poor go without necessary aid"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#education",
+    "href": "Lectures/05-Human-Capital/050-compile.html#education",
+    "title": "Human Capital - Health and Education",
+    "section": "Education",
+    "text": "Education\nYoung females receive less education than young males in most low-income countries\n\n\nLarge majorities of illiterate people and those unable to attend school are female\nThis educational gender gap is greater in the least-developed countries in Africa and in South Asia\n\nDefinition: Male-female differences in school access and completion\n\n\n\n\n\nIn higher-income countries, there is a trend of a significantly higher and growing share of female than male enrollment in university education\nThis has begun extending to many upper-middle-income countries across the world"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#educational-gender-gap",
+    "href": "Lectures/05-Human-Capital/050-compile.html#educational-gender-gap",
+    "title": "Human Capital - Health and Education",
+    "section": "Educational Gender Gap",
+    "text": "Educational Gender Gap\nUnsurprisingly, educational discrimination against women is an obstacle for economic development\nIt also reinforces social inequality\n\n\n\n\n\n\n\n\nInequality in literacy is largely concentrated in poorer regions of South Asia and Africa"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#expanding-educational-opportunities-for-women",
+    "href": "Lectures/05-Human-Capital/050-compile.html#expanding-educational-opportunities-for-women",
+    "title": "Human Capital - Health and Education",
+    "section": "Expanding Educational Opportunities for Women",
+    "text": "Expanding Educational Opportunities for Women\nLogically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:\n1. Rate of return on women’s education is higher than men’s in most developing nations\n2. Increasing women’s education has significant externalitites\n3. Significant aid toward breaking out of vicious circles of poverty"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#expanding-educational-opportunities-for-women-1",
+    "href": "Lectures/05-Human-Capital/050-compile.html#expanding-educational-opportunities-for-women-1",
+    "title": "Human Capital - Health and Education",
+    "section": "Expanding Educational Opportunities for Women",
+    "text": "Expanding Educational Opportunities for Women\nLogically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:\n1. Rate of return on women’s education is higher than men’s in most developing nations\n\nGiven that few women are enrolled in educational institutions, the next (marginal) girl to enroll is likely to be more talented (on average) than the marginal boy\n\n\n2. Increasing women’s education has significant externalitites\n3. Significant aid toward breaking out of vicious circles of poverty"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#expanding-educational-opportunities-for-women-2",
+    "href": "Lectures/05-Human-Capital/050-compile.html#expanding-educational-opportunities-for-women-2",
+    "title": "Human Capital - Health and Education",
+    "section": "Expanding Educational Opportunities for Women",
+    "text": "Expanding Educational Opportunities for Women\nLogically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:\n\n1. Rate of return on women’s education is higher than men’s in most developing nations\n\n2. Increasing women’s education has significant externalitites\n\nIncreases in education leads to more than just increases in productivity\nIt also leads to greater labor force participation, later marriage, lower fertility, greatly improved child health and nutrition\nAll of this benefits the next generation too\n\n\n3. Significant aid toward breaking out of vicious circles of poverty"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#expanding-educational-opportunities-for-women-3",
+    "href": "Lectures/05-Human-Capital/050-compile.html#expanding-educational-opportunities-for-women-3",
+    "title": "Human Capital - Health and Education",
+    "section": "Expanding Educational Opportunities for Women",
+    "text": "Expanding Educational Opportunities for Women\nLogically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:\n\n1. Rate of return on women’s education is higher than men’s in most developing nations\n2. Increasing women’s education has significant externalitites\n\n3. Significant aid toward breaking out of vicious circles of poverty\n\nWomen carry a disproportionate burden of poverty, we can think of education as a binding constraint\nIf we can ease access to education, we can expect to see greater development\n\n\nBurden of poverty: Set of eocnomic, physical, and psycohlogical constraints caused by living with scarcity"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#health-and-gender",
+    "href": "Lectures/05-Human-Capital/050-compile.html#health-and-gender",
+    "title": "Human Capital - Health and Education",
+    "section": "Health and Gender",
+    "text": "Health and Gender\nHealthcare, generally worldwide, is male-centered\n\n\nMedical research and treatment standars often based on male physiology  misdiagnosis for women\nHealth funding favors male-dominant conditions and women’s health is reduced to reproduction\nLimited access and agency, like cultural/societal norms, restrict women’s mobility and decision-making\nThere are data gaps as there is little sex-disaggregated health data which masks disparities"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#missing-women-mystery",
+    "href": "Lectures/05-Human-Capital/050-compile.html#missing-women-mystery",
+    "title": "Human Capital - Health and Education",
+    "section": "“Missing Women” Mystery",
+    "text": "“Missing Women” Mystery\nThere is a general bias toward boys in most cultures, which creates this phenomenon\n\n\nThe number of women is far lower than what would be expected given natural birth and survival rates\n\n\n\nAmartya Sen (1990) coined the term and estimated that tens of millions of women are “missing” due to excess female mortality"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#missing-women-mystery-1",
+    "href": "Lectures/05-Human-Capital/050-compile.html#missing-women-mystery-1",
+    "title": "Human Capital - Health and Education",
+    "section": "“Missing Women” Mystery",
+    "text": "“Missing Women” Mystery\n\n\nNatural Ratio: Normally, there are slightly more women than men in a population because women tend to live longer\nObserved Pattern: In countries like India and China, the ratio is skewed toward men\nMain Causes:\n\nSex-selective abortion\nGirl’s health neglect\nDiscrimination in access to healthcare\n\nEconomic Implications: Fewer women can distort labor markets ,marriage markets ,long-term demographics\n\n\n\nLabor markets: Fewer women mean smaller female labor force, reducing overall productivity and slowing economic growth. Can also distort wage gaps\nMarriage markets: (assuming heteronormative) With men greatly outnumbering women, it creates “marriage squeezes” where many men cannot find partners, increasing social tensions, trafficking, and forced marriages\nLong-term Demos: Persistent gender imbalance can lead to aging populations and reduced fertility rates, destabilizing population growth and dependency ratios over time"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/050-compile.html#missing-women-mystery-2",
+    "href": "Lectures/05-Human-Capital/050-compile.html#missing-women-mystery-2",
+    "title": "Human Capital - Health and Education",
+    "section": "“Missing Women” Mystery",
+    "text": "“Missing Women” Mystery\n\n\nEstimated percentage of females missing in five asian countries and average for sub-saharan africa"
   },
   {
     "objectID": "Lectures/04-Poverty-and-Inequity/043-fixes.html",
@@ -3610,6 +3841,139 @@
     "title": "EC 390 - Development Econ",
     "section": "Education Interacting with Technology",
     "text": "Education Interacting with Technology"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/053-child-labor.html",
+    "href": "Lectures/05-Human-Capital/053-child-labor.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "This is an unfortunately widespread problem in developing countries\nWhen children under the age of 15 work:\n\n\nTime working disrupts time in school and in some cases prevents them from going altogether\nThe health of child workers are significantly worse\n\nThis can cause physical stunting which is very common\n\nThey are subject to cruel and exploitative working conditions"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/053-child-labor.html#the-children-do-not-yearn-for-the-mines",
+    "href": "Lectures/05-Human-Capital/053-child-labor.html#the-children-do-not-yearn-for-the-mines",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "This is an unfortunately widespread problem in developing countries\nWhen children under the age of 15 work:\n\n\nTime working disrupts time in school and in some cases prevents them from going altogether\nThe health of child workers are significantly worse\n\nThis can cause physical stunting which is very common\n\nThey are subject to cruel and exploitative working conditions"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/053-child-labor.html#child-labor",
+    "href": "Lectures/05-Human-Capital/053-child-labor.html#child-labor",
+    "title": "EC 390 - Development Econ",
+    "section": "Child Labor",
+    "text": "Child Labor\nDefinition: Either under the minimum age for work (usually 15 years old) or up to 17 years of age, and engaged in work that poses a threat to their health, safety, or morals, or are subject to conditions of forced labor\n\nAccording to the International Labor Organization (ILO), as of 2015 there are:\n\n152 million children classified as “child laborers”\n48% are reportedly just 11 years or younger\n73 million were found to be doing some hazardous work that directly endangers their health, saftey, and moral development"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/053-child-labor.html#child-labor-1",
+    "href": "Lectures/05-Human-Capital/053-child-labor.html#child-labor-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Child Labor",
+    "text": "Child Labor\nGeographical concentration\n\n\nAfrica and the Asia and Pacific region account for about 90% of all child labor\n71% work in agriculture, 12% in industry, 17% in services\n\n\n\nWorking Conditions\n\n\n\nMore than 50% of child laborers work in some form of child labor endanger their health or well-being:\n\nHazard materials\nSexual exploitation\nTrafficking\nDebt bondage\n\nEvery year, about 22,000 children die as a result of work-related accidents"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/053-child-labor.html#child-work-vs-leisure-time",
+    "href": "Lectures/05-Human-Capital/053-child-labor.html#child-work-vs-leisure-time",
+    "title": "EC 390 - Development Econ",
+    "section": "Child Work vs Leisure Time",
+    "text": "Child Work vs Leisure Time\nIn some cases, work time comes from the child’s leisure time instead of school time\n\nRecall not many child workers attend school\n\n\n\nEven if they do go to school, child labor will:\n\nReduce time for homework\nCause the child to be tired at school, resulting in losing the benefit of being in school being less\nLikely cause them to drop out sooner than otherwise"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/053-child-labor.html#ban-on-child-labor",
+    "href": "Lectures/05-Human-Capital/053-child-labor.html#ban-on-child-labor",
+    "title": "EC 390 - Development Econ",
+    "section": "Ban on Child Labor",
+    "text": "Ban on Child Labor\nIt is not obvious that an immediate ban would be in the best interest for the child\n\n\nWithout the ability to work, a child may lose valuable income, which may cause them to be severely malnourished\n\nWith work (wages), school fees may become accessible\nBasic nutrition is more likely\nHealth care may become available to them\n\n\n\n\nBut there is a set of circumstances under which both the child and the family benefit unambiguously from a ban:\nMultiple Equilibria"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/053-child-labor.html#ban-on-child-labor---multiple-equilibria",
+    "href": "Lectures/05-Human-Capital/053-child-labor.html#ban-on-child-labor---multiple-equilibria",
+    "title": "EC 390 - Development Econ",
+    "section": "Ban on Child Labor - Multiple Equilibria",
+    "text": "Ban on Child Labor - Multiple Equilibria\nLet’s model child labor\nWe first make two assumptions:\n\n1. A household with a sufficiently high icnome would not send its children to work\n\nAs expected, there is strong evidence that this is true\n\n\n\n2. A child’s and adult labor are substitutes\n\nIn reality, children are not as productive as adults and adults can do any work that children can do\n\n\n\n\nA frequent rationalisation for child labor often said is that children have special productive abilities, such as small fingers Video\n\n\n\nAs a result of this substitution of labor observation, we can consider the supply of adult and child labor together"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/053-child-labor.html#ban-on-child-labor---multiple-equilibria-1",
+    "href": "Lectures/05-Human-Capital/053-child-labor.html#ban-on-child-labor---multiple-equilibria-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Ban on Child Labor - Multiple Equilibria",
+    "text": "Ban on Child Labor - Multiple Equilibria\n\n\n\n\n\n\nx-axis: supply of labor"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Young females receive less education than young males in most low-income countries\n\n\nLarge majorities of illiterate people and those unable to attend school are female\nThis educational gender gap is greater in the least-developed countries in Africa and in South Asia\n\nDefinition: Male-female differences in school access and completion\n\n\n\n\n\nIn higher-income countries, there is a trend of a significantly higher and growing share of female than male enrollment in university education\nThis has begun extending to many upper-middle-income countries across the world"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#education",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#education",
+    "title": "EC 390 - Development Econ",
+    "section": "",
+    "text": "Young females receive less education than young males in most low-income countries\n\n\nLarge majorities of illiterate people and those unable to attend school are female\nThis educational gender gap is greater in the least-developed countries in Africa and in South Asia\n\nDefinition: Male-female differences in school access and completion\n\n\n\n\n\nIn higher-income countries, there is a trend of a significantly higher and growing share of female than male enrollment in university education\nThis has begun extending to many upper-middle-income countries across the world"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#educational-gender-gap",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#educational-gender-gap",
+    "title": "EC 390 - Development Econ",
+    "section": "Educational Gender Gap",
+    "text": "Educational Gender Gap\nUnsurprisingly, educational discrimination against women is an obstacle for economic development\nIt also reinforces social inequality\n\n\n\n\n\n\n\n\nInequality in literacy is largely concentrated in poorer regions of South Asia and Africa"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#expanding-educational-opportunities-for-women",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#expanding-educational-opportunities-for-women",
+    "title": "EC 390 - Development Econ",
+    "section": "Expanding Educational Opportunities for Women",
+    "text": "Expanding Educational Opportunities for Women\nLogically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:\n1. Rate of return on women’s education is higher than men’s in most developing nations\n2. Increasing women’s education has significant externalitites\n3. Significant aid toward breaking out of vicious circles of poverty"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#expanding-educational-opportunities-for-women-1",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#expanding-educational-opportunities-for-women-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Expanding Educational Opportunities for Women",
+    "text": "Expanding Educational Opportunities for Women\nLogically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:\n1. Rate of return on women’s education is higher than men’s in most developing nations\n\nGiven that few women are enrolled in educational institutions, the next (marginal) girl to enroll is likely to be more talented (on average) than the marginal boy\n\n\n2. Increasing women’s education has significant externalitites\n3. Significant aid toward breaking out of vicious circles of poverty"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#expanding-educational-opportunities-for-women-2",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#expanding-educational-opportunities-for-women-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Expanding Educational Opportunities for Women",
+    "text": "Expanding Educational Opportunities for Women\nLogically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:\n\n1. Rate of return on women’s education is higher than men’s in most developing nations\n\n2. Increasing women’s education has significant externalitites\n\nIncreases in education leads to more than just increases in productivity\nIt also leads to greater labor force participation, later marriage, lower fertility, greatly improved child health and nutrition\nAll of this benefits the next generation too\n\n\n3. Significant aid toward breaking out of vicious circles of poverty"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#expanding-educational-opportunities-for-women-3",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#expanding-educational-opportunities-for-women-3",
+    "title": "EC 390 - Development Econ",
+    "section": "Expanding Educational Opportunities for Women",
+    "text": "Expanding Educational Opportunities for Women\nLogically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:\n\n1. Rate of return on women’s education is higher than men’s in most developing nations\n2. Increasing women’s education has significant externalitites\n\n3. Significant aid toward breaking out of vicious circles of poverty\n\nWomen carry a disproportionate burden of poverty, we can think of education as a binding constraint\nIf we can ease access to education, we can expect to see greater development\n\n\nBurden of poverty: Set of eocnomic, physical, and psycohlogical constraints caused by living with scarcity"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#health-and-gender",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#health-and-gender",
+    "title": "EC 390 - Development Econ",
+    "section": "Health and Gender",
+    "text": "Health and Gender\nHealthcare, generally worldwide, is male-centered\n\n\nMedical research and treatment standars often based on male physiology  misdiagnosis for women\nHealth funding favors male-dominant conditions and women’s health is reduced to reproduction\nLimited access and agency, like cultural/societal norms, restrict women’s mobility and decision-making\nThere are data gaps as there is little sex-disaggregated health data which masks disparities"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#missing-women-mystery",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#missing-women-mystery",
+    "title": "EC 390 - Development Econ",
+    "section": "“Missing Women” Mystery",
+    "text": "“Missing Women” Mystery\nThere is a general bias toward boys in most cultures, which creates this phenomenon\n\n\nThe number of women is far lower than what would be expected given natural birth and survival rates\n\n\n\nAmartya Sen (1990) coined the term and estimated that tens of millions of women are “missing” due to excess female mortality"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#missing-women-mystery-1",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#missing-women-mystery-1",
+    "title": "EC 390 - Development Econ",
+    "section": "“Missing Women” Mystery",
+    "text": "“Missing Women” Mystery\n\n\nNatural Ratio: Normally, there are slightly more women than men in a population because women tend to live longer\nObserved Pattern: In countries like India and China, the ratio is skewed toward men\nMain Causes:\n\nSex-selective abortion\nGirl’s health neglect\nDiscrimination in access to healthcare\n\nEconomic Implications: Fewer women can distort labor markets ,marriage markets ,long-term demographics\n\n\n\nLabor markets: Fewer women mean smaller female labor force, reducing overall productivity and slowing economic growth. Can also distort wage gaps\nMarriage markets: (assuming heteronormative) With men greatly outnumbering women, it creates “marriage squeezes” where many men cannot find partners, increasing social tensions, trafficking, and forced marriages\nLong-term Demos: Persistent gender imbalance can lead to aging populations and reduced fertility rates, destabilizing population growth and dependency ratios over time"
+  },
+  {
+    "objectID": "Lectures/05-Human-Capital/055-gender-gap.html#missing-women-mystery-2",
+    "href": "Lectures/05-Human-Capital/055-gender-gap.html#missing-women-mystery-2",
+    "title": "EC 390 - Development Econ",
+    "section": "“Missing Women” Mystery",
+    "text": "“Missing Women” Mystery\n\n\n\n\n\n\nEstimated percentage of females missing in five asian countries and average for sub-saharan africa"
   },
   {
     "objectID": "Readings/list.html",

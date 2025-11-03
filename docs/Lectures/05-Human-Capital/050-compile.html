@@ -7,7 +7,9 @@
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.39">
 
   <meta name="author" content="Jose Rojas-Fallas">
@@ -509,22 +511,531 @@ Jose Rojas-Fallas
 </section>
 <section id="the-children-do-not-yearn-for-the-mines" class="slide level2">
 <h2>The Children DO NOT Yearn for the Mines</h2>
-</section></section>
-<section>
-<section id="gender-gap" class="title-slide slide level1 inverse note center">
-<h1>Gender Gap</h1>
-
+<p>This is an <span class="hi">unfortunately</span> widespread problem in developing countries</p>
+<p>When children under the <span class="h">age of 15 work</span>:</p>
+<div>
+<ul>
+<li class="fragment">Time working disrupts time in school <span class="hi fragment">and in some cases prevents them from going altogether</span></li>
+<li class="fragment">The health of child workers are significantly worse
+<ul>
+<li class="fragment">This can cause <span class="hi">physical stunting</span> which is very common</li>
+</ul></li>
+<li class="fragment">They are subject to cruel and exploitative working conditions</li>
+</ul>
+</div>
 </section>
-<section id="section" class="slide level2">
-<h2></h2>
+<section id="child-labor-1" class="slide level2">
+<h2>Child Labor</h2>
+<p><span class="hp align-center">Definition: Either under the minimum age for work (usually 15 years old) or up to 17 years of age, and engaged in work that poses a threat to their health, safety, or morals, or are subject to conditions of forced labor</span></p>
+<div class="fragment">
+<p>According to the <span class="hi">International Labor Organization (ILO)</span>, as of 2015 there are:</p>
+<ul>
+<li><span class="hp">152 million</span> children classified as <span class="hp">“child laborers”</span></li>
+<li>48% are reportedly just 11 years or younger</li>
+<li>73 million were found to be doing some hazardous work that directly endangers their <span class="hi">health, saftey, and moral development</span></li>
+</ul>
+</div>
+</section>
+<section id="child-labor-2" class="slide level2">
+<h2>Child Labor</h2>
+<p><span class="hi">Geographical concentration</span></p>
+<div class="fragment">
+<ul>
+<li>Africa and the Asia and Pacific region account for about 90% of all child labor</li>
+<li>71% work in agriculture, 12% in industry, 17% in services</li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="hi">Working Conditions</span></p>
+</div>
+<div class="small">
+<ul>
+<li class="fragment">More than 50% of child laborers work in some form of child labor endanger their health or well-being:
+<ul>
+<li class="fragment">Hazard materials</li>
+<li class="fragment">Sexual exploitation</li>
+<li class="fragment">Trafficking</li>
+<li class="fragment">Debt bondage</li>
+</ul></li>
+<li class="fragment">Every year, about 22,000 children die as a result of work-related accidents</li>
+</ul>
+</div>
+</section>
+<section id="child-work-vs-leisure-time" class="slide level2">
+<h2>Child Work vs Leisure Time</h2>
+<p>In some cases, work time comes from the child’s <span class="hi">leisure time</span> instead of school time</p>
+<ul>
+<li>Recall not many child workers attend school</li>
+</ul>
+<div>
+<ul>
+<li class="fragment">Even if they do go to school, child labor will:
+<ul>
+<li class="fragment">Reduce time for homework</li>
+<li class="fragment">Cause the child to be tired at school, resulting in losing the benefit of being in school being less</li>
+<li class="fragment">Likely cause them to drop out sooner than otherwise</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="ban-on-child-labor" class="slide level2">
+<h2>Ban on Child Labor</h2>
+<p>It is not obvious that an <span class="hi">immediate ban</span> would be in the best interest for the child</p>
+<div class="fragment">
+<ul>
+<li>Without the ability to work, a child may lose valuable income, which may cause them to be severely malnourished
+<ul>
+<li>With work (wages), school fees may become accessible</li>
+<li>Basic nutrition is more likely</li>
+<li>Health care may become available to them</li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment">
+<p>But there is a set of circumstances under which both the child and the family <span class="hi">benefit unambiguously</span> from a ban:</p>
+<p><span class="hp align-center">Multiple Equilibria</span></p>
+</div>
+</section>
+<section id="ban-on-child-labor---multiple-equilibria" class="slide level2">
+<h2>Ban on Child Labor - Multiple Equilibria</h2>
+<p>Let’s model child labor</p>
+<p>We first make two assumptions:</p>
+<div class="fragment">
+<p><span class="hp"><em>1.</em></span> A household with a sufficiently high icnome <span class="hi">would not</span> send its children to work</p>
+<ul>
+<li>As expected, there is strong evidence that this is true</li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="hp"><em>2.</em></span> A child’s and adult labor are <span class="hi">substitutes</span></p>
+<ul>
+<li>In reality, children are not as productive as adults and adults can do any work that children can do</li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>A frequent rationalisation for child labor often said is that children have special productive abilities, such as small fingers <a href="https://www.youtube.com/shorts/yTcpE4uP7Mw" class="hi" target="_blank">Video</a></li>
+</ul>
+</div>
+<aside class="notes">
+<p>As a result of this substitution of labor observation, we can consider the supply of adult and child labor together</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="ban-on-child-labor---multiple-equilibria-1" class="slide level2">
+<h2>Ban on Child Labor - Multiple Equilibria</h2>
+
+<img data-src="images/child-labor-model.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+<p>x-axis: supply of labor</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
 </section></section>
 <section>
 <section id="health" class="title-slide slide level1 inverse note center">
 <h1>Health</h1>
 
 </section>
-<section id="section-1" class="slide level2">
-<h2></h2>
+<section id="health-and-development" class="slide level2">
+<h2>Health and Development</h2>
+<p>A key set of questions are:</p>
+<p><span class="hp align-center">Does bad health explain low incomes in developing nations?</span></p>
+<p><span class="hi align-center">or</span></p>
+<p><span class="hp align-center">Does low income explain bad health in developing nations?</span></p>
+<p><br><br></p>
+<div class="fragment">
+<ul>
+<li>Both are true and a lot of effort has been given to untangling them</li>
+</ul>
+</div>
+</section>
+<section id="scale-of-health" class="slide level2">
+<h2>Scale of Health</h2>
+<p>Some problems seem <span class="hi">very large (e.g.&nbsp;Malaria, HIV/AIDS)</span>, there are also many fairly easy and effective solutions</p>
+<ul>
+<li>Many health problems can be prevented or solved with simple solutions like:</li>
+</ul>
+<div class="fragment">
+<ul>
+<li>Clean water, Bleach, Condoms, Bed Nets, etc.</li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="hi align-center">Why are they underutilized?</span></p>
+</div>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div>
+<ul>
+<li class="fragment">Information and Misperceptions</li>
+<li class="fragment">Behavioral Biases</li>
+<li class="fragment">Liquidity Constraints and Small Costs</li>
+</ul>
+</div>
+</div><div class="column" style="width:50%;">
+<div>
+<ul>
+<li class="fragment">Social and Cultural Norms</li>
+<li class="fragment">Public Good and Externalities Problems</li>
+<li class="fragment">Weak Institutions and Delivery</li>
+</ul>
+</div>
+</div></div>
+</section>
+<section id="health-solutions-take-up-challenges" class="slide level2">
+<h2>Health “Solutions” Take-Up Challenges</h2>
+<div class="vertical-center">
+<p><span class="hp"><em>1.</em></span> <span class="hp">Information and Misperceptions</span></p>
+<div>
+<ul>
+<li class="fragment">Many people are <span class="h">not fully aware</span> of the health benefits or proper use of interventions</li>
+<li class="fragment">Misconceptions, such as chlorine being harmful or mosquitos only bite during the day, <span class="hi">reduce adoption</span></li>
+<li class="fragment">Benefits are often <span class="hi">invisible</span></li>
+</ul>
+</div>
+</div>
+<aside class="notes">
+<p>Invisible: preventing diarrhea or malaria does not provide immediate feedback</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="health-solutions-take-up-challenges-1" class="slide level2">
+<h2>Health “Solutions” Take-Up Challenges</h2>
+<div class="vertical-center">
+<p><span class="hp"><em>2.</em></span> <span class="hp">Behavioral Biases</span></p>
+<div>
+<ul>
+<li class="fragment">Things like <span class="h">present bias</span> exist. People heavily discount future benefits and with reason.</li>
+<li class="fragment">Fighting against <span class="h">inertia and habits</span></li>
+<li class="fragment"><span class="h">Low salience</span>: Health prevention efforts do not feel urgent until someone falls sick</li>
+</ul>
+</div>
+</div>
+<aside class="notes">
+<p>present bias: even if clean water prevents disease later, the effort or cost is now</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="health-solutions-take-up-challenges-2" class="slide level2">
+<h2>Health “Solutions” Take-Up Challenges</h2>
+<div class="vertical-center">
+<p><span class="hp"><em>3.</em></span> <span class="hp">Constraints and Small Costs</span></p>
+<div>
+<ul>
+<li class="fragment">Even if <span class="hi">interventions are affordable</span>, the <span class="hi">upfront cost</span> can be a binding constraint for households with tight income flows</li>
+<li class="fragment">The existence of <span class="hi">seasonal or uncertain income streams</span> means households may not have funds at the right time</li>
+<li class="fragment">Tie in restricted capital markets and it may never be possible to purchase interventions</li>
+</ul>
+</div>
+</div>
+<aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="health-solutions-take-up-challenges-3" class="slide level2">
+<h2>Health “Solutions” Take-Up Challenges</h2>
+<div class="vertical-center">
+<p><span class="hp"><em>4.</em></span> <span class="hp">Social and Cultural Norms</span></p>
+<div>
+<ul>
+<li class="fragment">Things like condom use or menstrual products may face <span class="hp">stigma</span> in the household or society</li>
+<li class="fragment">Traditional beliefs or social hierarchies may discourage the use of <span class="hi">“foreign”</span> or modern health products</li>
+</ul>
+</div>
+</div>
+<aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="health-solutions-take-up-challenges-4" class="slide level2">
+<h2>Health “Solutions” Take-Up Challenges</h2>
+<div class="vertical-center">
+<p><span class="hp"><em>5.</em></span> <span class="hp">Public Good and Externalities Problems</span></p>
+<div>
+<ul>
+<li class="fragment">Many preventive goods, such as bed nets or water chlorination, have <span class="hi-green">positive externalities</span>
+<ul>
+<li class="fragment">If others use them, you benefit too</li>
+</ul></li>
+<li class="fragment">This leads to <span class="hi">free-riding</span> and <span class="hi">private underinvestment</span></li>
+</ul>
+</div>
+</div>
+<aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="health-solutions-take-up-challenges-5" class="slide level2">
+<h2>Health “Solutions” Take-Up Challenges</h2>
+<div class="vertical-center">
+<p><span class="hp"><em>6.</em></span> <span class="hp">Weak Institutions and Delivery</span></p>
+<div>
+<ul>
+<li class="fragment">Health products may not reach remote areas reliably</li>
+<li class="fragment">Weak institutions lead to things like <span class="hi">corruption and weak supply chains</span> which limit beneficial campaigns</li>
+</ul>
+</div>
+</div>
+<aside class="notes">
+<p>The poorest of the poor go without necessary aid</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section></section>
+<section>
+<section id="gender-gap" class="title-slide slide level1 inverse note center">
+<h1>Gender Gap</h1>
+
+</section>
+<section id="education" class="slide level2">
+<h2>Education</h2>
+<p>Young females receive less education than young males in most low-income countries</p>
+<div class="fragment">
+<ul>
+<li>Large majorities of illiterate people and those unable to attend school are female</li>
+<li>This <span class="hi">educational gender gap</span> is greater in the least-developed countries in Africa and in South Asia
+<ul>
+<li><span class="hi">Definition:</span> Male-female differences in school access and completion</li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment small">
+<ul>
+<li>In higher-income countries, there is a trend of a significantly higher and growing share of female than male enrollment in university education</li>
+<li>This has begun extending to many upper-middle-income countries across the world</li>
+</ul>
+</div>
+</section>
+<section id="educational-gender-gap" class="slide level2">
+<h2>Educational Gender Gap</h2>
+<p>Unsurprisingly, <span class="hp">educational discrimination against women</span> is an obstacle for <span class="hi">economic development</span></p>
+<p>It also reinforces <span class="hi">social inequality</span></p>
+<div class="fragment">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/youth-literacy-2016.png" class="quarto-figure quarto-figure-center" height="450"></p>
+</figure>
+</div>
+</div>
+<aside class="notes">
+<p>Inequality in literacy is largely concentrated in poorer regions of South Asia and Africa</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="expanding-educational-opportunities-for-women" class="slide level2">
+<h2>Expanding Educational Opportunities for Women</h2>
+<p>Logically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:</p>
+<p><span class="hp note"><em>1.</em></span> <span class="hi">Rate of return on women’s education is higher than men’s in most developing nations</span></p>
+<p><span class="hp note"><em>2.</em></span> <span class="hi">Increasing women’s education has significant externalitites</span></p>
+<p><span class="hp note"><em>3.</em></span> <span class="hi">Significant aid toward breaking out of vicious circles of poverty</span></p>
+</section>
+<section id="expanding-educational-opportunities-for-women-1" class="slide level2">
+<h2>Expanding Educational Opportunities for Women</h2>
+<p>Logically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:</p>
+<p><span class="hp note"><em>1.</em></span> <span class="hi">Rate of return on women’s education is higher than men’s in most developing nations</span></p>
+<ul>
+<li>Given that few women are enrolled in educational institutions, the next (marginal) girl to enroll is likely to be more talented (on average) than the marginal boy</li>
+</ul>
+<div class="faded">
+<p><span class="hp note"><em>2.</em></span> <span class="hi">Increasing women’s education has significant externalitites</span></p>
+<p><span class="hp note"><em>3.</em></span> <span class="hi">Significant aid toward breaking out of vicious circles of poverty</span></p>
+</div>
+</section>
+<section id="expanding-educational-opportunities-for-women-2" class="slide level2">
+<h2>Expanding Educational Opportunities for Women</h2>
+<p>Logically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:</p>
+<div class="faded small">
+<p><span class="hp note"><em>1.</em></span> <span class="hi">Rate of return on women’s education is higher than men’s in most developing nations</span></p>
+</div>
+<p><span class="hp note"><em>2.</em></span> <span class="hi">Increasing women’s education has significant externalitites</span></p>
+<ul>
+<li>Increases in education leads to more than just increases in productivity</li>
+<li>It also leads to greater labor force participation, later marriage, lower fertility, greatly improved child health and nutrition</li>
+<li>All of this benefits <span class="hi">the next generation too</span></li>
+</ul>
+<div class="faded small">
+<p><span class="hp note"><em>3.</em></span> <span class="hi">Significant aid toward breaking out of vicious circles of poverty</span></p>
+</div>
+</section>
+<section id="expanding-educational-opportunities-for-women-3" class="slide level2">
+<h2>Expanding Educational Opportunities for Women</h2>
+<p>Logically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:</p>
+<div class="small faded">
+<p><span class="hp note"><em>1.</em></span> <span class="hi">Rate of return on women’s education is higher than men’s in most developing nations</span></p>
+<p><span class="hp note"><em>2.</em></span> <span class="hi">Increasing women’s education has significant externalitites</span></p>
+</div>
+<p><span class="hp note"><em>3.</em></span> <span class="hi">Significant aid toward breaking out of vicious circles of poverty</span></p>
+<ul>
+<li>Women carry a disproportionate burden of poverty, we can think of education as a <span class="hp">binding constraint</span></li>
+<li>If we can ease access to education, we can expect to see greater development</li>
+</ul>
+<aside class="notes">
+<p>Burden of poverty: Set of eocnomic, physical, and psycohlogical constraints caused by living with scarcity</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="health-and-gender" class="slide level2">
+<h2>Health and Gender</h2>
+<p>Healthcare, generally worldwide, is <span class="hi">male-centered</span></p>
+<div>
+<ul>
+<li class="fragment">Medical research and treatment standars often based on <span class="hi">male physiology</span> <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> misdiagnosis for women</li>
+<li class="fragment"><span class="hi">Health funding</span> favors male-dominant conditions and women’s health is reduced to <span class="hi">reproduction</span></li>
+<li class="fragment">Limited access and agency, like cultural/societal norms, restrict women’s mobility and decision-making</li>
+<li class="fragment">There are <span class="hi">data gaps</span> as there is little sex-disaggregated health data which masks disparities</li>
+</ul>
+</div>
+</section>
+<section id="missing-women-mystery" class="slide level2">
+<h2>“Missing Women” Mystery</h2>
+<p>There is a general bias toward boys in most cultures, which creates this phenomenon</p>
+<div class="fragment">
+<ul>
+<li>The number of women <span class="hp">is far lower than what would be expected</span> given natural birth and survival rates</li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="hi">Amartya Sen (1990)</span> coined the term and estimated that tens of millions of women are <span class="hi">“missing”</span> due to excess female mortality</p>
+</div>
+</section>
+<section id="missing-women-mystery-1" class="slide level2">
+<h2>“Missing Women” Mystery</h2>
+<div>
+<ul>
+<li class="fragment"><span class="hp">Natural Ratio:</span> Normally, there are slightly more women than men in a population because women tend to live longer</li>
+<li class="fragment"><span class="hp">Observed Pattern:</span> In countries like India and China, the ratio is skewed toward men</li>
+<li class="fragment"><span class="hp">Main Causes:</span>
+<ul>
+<li class="fragment"><span class="hi">Sex-selective abortion</span></li>
+<li class="fragment"><span class="hi">Girl’s health neglect</span></li>
+<li class="fragment"><span class="hi">Discrimination in access to healthcare</span></li>
+</ul></li>
+<li class="fragment"><span class="hp">Economic Implications:</span> Fewer women can <span class="hi fragment">distort labor markets</span> <span class="hi fragment">,marriage markets</span> <span class="hi fragment">,long-term demographics</span></li>
+</ul>
+</div>
+<aside class="notes">
+<p>Labor markets: Fewer women mean smaller female labor force, reducing overall productivity and slowing economic growth. Can also distort wage gaps</p>
+<p>Marriage markets: (assuming heteronormative) With men greatly outnumbering women, it creates “marriage squeezes” where many men cannot find partners, increasing social tensions, trafficking, and forced marriages</p>
+<p>Long-term Demos: Persistent gender imbalance can lead to aging populations and reduced fertility rates, destabilizing population growth and dependency ratios over time</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="missing-women-mystery-2" class="slide level2">
+<h2>“Missing Women” Mystery</h2>
+
+<img data-src="images/missing-women.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+<p>Estimated percentage of females missing in five asian countries and average for sub-saharan africa</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
 
 
 </section></section>
