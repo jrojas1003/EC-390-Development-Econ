@@ -22,7 +22,7 @@ website:
   announcement: 
     icon: clipboard2-check-fill
     dismissable: true
-    content: "Week 04!!"
+    content: "Week 06!!"
     type: warning
     position: below-navbar
 
