@@ -1,0 +1,162 @@
+---
+name: gender gap
+---
+
+## Education
+
+Young females receive less education than young males in most low-income countries
+
+::: {.fragment}
+- Large majorities of illiterate people and those unable to attend school are female
+- This [educational gender gap]{.hi} is greater in the least-developed countries in Africa and in South Asia
+    - [Definition:]{.hi} Male-female differences in school access and completion
+:::
+
+::: {.fragment .small}
+- In higher-income countries, there is a trend of a significantly higher and growing share of female than male enrollment in university education
+- This has begun extending to many upper-middle-income countries across the world
+:::
+
+---
+
+## Educational Gender Gap
+
+Unsurprisingly, [educational discrimination against women]{.hp} is an obstacle for [economic development]{.hi} 
+
+It also reinforces [social inequality]{.hi}
+
+::: {.fragment}
+![](images/youth-literacy-2016.png){fig-align="center" height=450}
+:::
+
+::: {.notes}
+Inequality in literacy is largely concentrated in poorer regions of South Asia and Africa
+:::
+
+---
+
+## Expanding Educational Opportunities for Women
+
+Logically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:
+
+[_1._]{.hp .note} [Rate of return on women's education is higher than men's in most developing nations]{.hi}
+
+[_2._]{.hp .note} [Increasing women's education has significant externalitites]{.hi}
+
+[_3._]{.hp .note} [Significant aid toward breaking out of vicious circles of poverty]{.hi}
+
+---
+
+## Expanding Educational Opportunities for Women
+
+Logically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:
+
+[_1._]{.hp .note} [Rate of return on women's education is higher than men's in most developing nations]{.hi}
+
+- Given that few women are enrolled in educational institutions, the next (marginal) girl to enroll is likely to be more talented (on average) than the marginal boy
+
+::: {.faded}
+[_2._]{.hp .note} [Increasing women's education has significant externalitites]{.hi}
+
+[_3._]{.hp .note} [Significant aid toward breaking out of vicious circles of poverty]{.hi}
+:::
+
+---
+
+## Expanding Educational Opportunities for Women
+
+Logically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:
+
+::: {.faded .small}
+[_1._]{.hp .note} [Rate of return on women's education is higher than men's in most developing nations]{.hi}
+:::
+
+[_2._]{.hp .note} [Increasing women's education has significant externalitites]{.hi}
+
+- Increases in education leads to more than just increases in productivity
+- It also leads to greater labor force participation, later marriage, lower fertility, greatly improved child health and nutrition
+- All of this benefits [the next generation too]{.hi}
+
+::: {.faded .small}
+[_3._]{.hp .note} [Significant aid toward breaking out of vicious circles of poverty]{.hi}
+:::
+
+---
+
+## Expanding Educational Opportunities for Women
+
+Logically, increasing educational access to women is economically desirable. A non-exhaustive list of reasons:
+
+::: {.small .faded}
+[_1._]{.hp .note} [Rate of return on women's education is higher than men's in most developing nations]{.hi}
+
+[_2._]{.hp .note} [Increasing women's education has significant externalitites]{.hi}
+:::
+
+[_3._]{.hp .note} [Significant aid toward breaking out of vicious circles of poverty]{.hi}
+
+- Women carry a disproportionate burden of poverty, we can think of education as a [binding constraint]{.hp}
+- If we can ease access to education, we can expect to see greater development
+
+::: {.notes}
+Burden of poverty: Set of eocnomic, physical, and psycohlogical constraints caused by living with scarcity 
+:::
+
+---
+
+## Health and Gender
+
+Healthcare, generally worldwide, is [male-centered]{.hi}
+
+::: {.incremental}
+- Medical research and treatment standars often based on [male physiology]{.hi} {{< fa arrow-right >}} misdiagnosis for women
+- [Health funding]{.hi} favors male-dominant conditions and women's health is reduced to [reproduction]{.hi}
+- Limited access and agency, like cultural/societal norms, restrict women's mobility and decision-making
+- There are [data gaps]{.hi} as there is little sex-disaggregated health data which masks disparities 
+:::
+
+---
+
+## "Missing Women" Mystery
+
+There is a general bias toward boys in most cultures, which creates this phenomenon
+
+::: {.fragment}
+- The number of women [is far lower than what would be expected]{.hp} given natural birth and survival rates
+:::
+
+::: {.fragment}
+[Amartya Sen (1990)]{.hi} coined the term and estimated that tens of millions of women are ["missing"]{.hi} due to excess female mortality
+:::
+
+---
+
+## "Missing Women" Mystery
+
+::: {.incremental}
+- [Natural Ratio:]{.hp} Normally, there are slightly more women than men in a population because women tend to live longer
+- [Observed Pattern:]{.hp} In countries like India and China, the ratio is skewed toward men
+- [Main Causes:]{.hp} 
+    - [Sex-selective abortion]{.hi}
+    - [Girl's health neglect]{.hi}
+    - [Discrimination in access to healthcare]{.hi}
+- [Economic Implications:]{.hp} Fewer women can [distort labor markets]{.hi .fragment} [,marriage markets]{.hi .fragment} [,long-term demographics]{.hi .fragment}
+:::
+
+::: {.notes}
+Labor markets: Fewer women mean smaller female labor force, reducing overall productivity and slowing economic growth. Can also distort wage gaps
+
+Marriage markets: (assuming heteronormative) With men greatly outnumbering women, it creates "marriage squeezes" where many men cannot find partners, increasing social tensions, trafficking, and forced marriages
+
+Long-term Demos: Persistent gender imbalance can lead to aging populations and reduced fertility rates, destabilizing population growth and dependency ratios over time
+:::
+
+---
+
+## "Missing Women" Mystery
+
+![](images/missing-women.png){fig-align="center"}
+
+::: {.notes}
+Estimated percentage of females missing in five asian countries and average for sub-saharan africa
+:::

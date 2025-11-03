@@ -27,10 +27,10 @@ title-slide-attributes:
 
 {{< include 053-child-labor.qmd >}}
 
-# Gender Gap {.inverse .note}
-
-{{< include 054-gender-gap.qmd >}}
-
 # Health {.inverse .note}
 
-{{< include 055-health.qmd >}}
+{{< include 054-health.qmd >}}
+
+# Gender Gap {.inverse .note}
+
+{{< include 055-gender-gap.qmd >}}

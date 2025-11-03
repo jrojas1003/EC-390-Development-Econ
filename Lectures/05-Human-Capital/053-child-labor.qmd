@@ -2,5 +2,126 @@
 name: child labor
 ---
 
-## The Children DO NOT Yearn for the Mines
+## The Children DO NOT Yearn for the Mines 
 
+This is an [unfortunately]{.hi} widespread problem in developing countries
+
+When children under the [age of 15 work]{.h}:
+
+::: {.incremental}
+- Time working disrupts time in school [and in some cases prevents them from going altogether]{.hi .fragment}
+- The health of child workers are significantly worse
+    - This can cause [physical stunting]{.hi} which is very common
+- They are subject to cruel and exploitative working conditions
+:::
+
+---
+
+## Child Labor
+
+[Definition: Either under the minimum age for work (usually 15 years old) or up to 17 years of age, and engaged in work that poses a threat to their health, safety, or morals, or are subject to conditions of forced labor]{.hp .align-center}
+
+::: {.fragment}
+According to the [International Labor Organization (ILO)]{.hi}, as of 2015 there are:
+
+- [152 million]{.hp} children classified as ["child laborers"]{.hp}
+- 48% are reportedly just 11 years or younger
+- 73 million were found to be doing some hazardous work that directly endangers their [health, saftey, and moral development]{.hi}
+:::
+
+---
+
+## Child Labor
+
+[Geographical concentration]{.hi}
+
+::: {.fragment}
+- Africa and the Asia and Pacific region account for about 90% of all child labor
+- 71% work in agriculture, 12% in industry, 17% in services
+:::
+
+::: {.fragment}
+[Working Conditions]{.hi}
+:::
+
+::: {.incremental .small}
+- More than 50% of child laborers work in some form of child labor endanger their health or well-being:
+    - Hazard materials
+    - Sexual exploitation
+    - Trafficking
+    - Debt bondage
+- Every year, about 22,000 children die as a result of work-related accidents
+:::
+
+---
+
+## Child Work vs Leisure Time
+
+In some cases, work time comes from the child's [leisure time]{.hi} instead of school time
+
+- Recall not many child workers attend school
+
+::: {.incremental}
+- Even if they do go to school, child labor will:
+    - Reduce time for homework
+    - Cause the child to be tired at school, resulting in losing the benefit of being in school being less
+    - Likely cause them to drop out sooner than otherwise
+:::
+
+---
+
+## Ban on Child Labor
+
+It is not obvious that an [immediate ban]{.hi} would be in the best interest for the child
+
+::: {.fragment}
+- Without the ability to work, a child may lose valuable income, which may cause them to be severely malnourished
+    - With work (wages), school fees may become accessible
+    - Basic nutrition is more likely
+    - Health care may become available to them
+:::
+
+::: {.fragment}
+But there is a set of circumstances under which both the child and the family [benefit unambiguously]{.hi} from a ban:
+
+[Multiple Equilibria]{.hp .align-center}
+:::
+
+---
+
+## Ban on Child Labor - Multiple Equilibria
+
+Let's model child labor
+
+We first make two assumptions:
+
+::: {.fragment}
+[_1._]{.hp} A household with a sufficiently high icnome [would not]{.hi} send its children to work
+
+- As expected, there is strong evidence that this is true
+:::
+
+::: {.fragment}
+[_2._]{.hp} A child's and adult labor are [substitutes]{.hi}
+
+- In reality, children are not as productive as adults and adults can do any work that children can do
+:::
+
+::: {.fragment}
+- A frequent rationalisation for child labor often said is that children have special productive abilities, such as small fingers [Video](https://www.youtube.com/shorts/yTcpE4uP7Mw){target=_blank .hi}
+:::
+
+::: {.notes}
+As a result of this substitution of labor observation, we can consider the supply of adult and child labor together
+:::
+
+---
+
+## Ban on Child Labor - Multiple Equilibria
+
+![](images/child-labor-model.png){fig-align="center"}
+
+::: {.notes}
+x-axis: supply of labor 
+
+:::

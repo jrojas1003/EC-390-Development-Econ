@@ -1,0 +1,177 @@
+---
+name: health
+---
+
+## Health and Development
+
+A key set of questions are:
+
+[Does bad health explain low incomes in developing nations?]{.hp .align-center} 
+
+[or]{.hi .align-center} 
+
+[Does low income explain bad health in developing nations?]{.hp .align-center}
+
+<br><br>
+
+::: {.fragment}
+- Both are true and a lot of effort has been given to untangling them
+:::
+
+---
+
+## Scale of Health
+
+Some problems seem [very large (e.g. Malaria, HIV/AIDS)]{.hi}, there are also many fairly easy and effective solutions
+
+- Many health problems can be prevented or solved with simple solutions like:
+
+::: {.fragment}
+- Clean water, Bleach, Condoms, Bed Nets, etc.
+:::
+
+::: {.fragment}
+[Why are they underutilized?]{.hi .align-center}
+::: 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.incremental}
+- Information and Misperceptions
+- Behavioral Biases
+- Liquidity Constraints and Small Costs
+:::
+
+:::
+
+::: {.column width="50%"}
+
+::: {.incremental}
+- Social and Cultural Norms
+- Public Good and Externalities Problems
+- Weak Institutions and Delivery
+:::
+
+:::
+
+::::
+
+---
+
+## Health "Solutions" Take-Up Challenges 
+
+::: {.vertical-center}
+
+[_1._]{.hp} [Information and Misperceptions]{.hp}
+
+::: {.incremental}
+- Many people are [not fully aware]{.h} of the health benefits or proper use of interventions
+- Misconceptions, such as chlorine being harmful or mosquitos only bite during the day, [reduce adoption]{.hi}
+- Benefits are often [invisible]{.hi}
+:::
+
+:::
+
+::: {.notes}
+Invisible: preventing diarrhea or malaria does not provide immediate feedback
+:::
+
+---
+
+## Health "Solutions" Take-Up Challenges
+
+::: {.vertical-center}
+
+[_2._]{.hp} [Behavioral Biases]{.hp}
+
+::: {.incremental}
+- Things like [present bias]{.h} exist. People heavily discount future benefits and with reason. 
+- Fighting against [inertia and habits]{.h}
+- [Low salience]{.h}: Health prevention efforts do not feel urgent until someone falls sick
+:::
+
+:::
+
+::: {.notes}
+present bias: even if clean water prevents disease later, the effort or cost is now
+:::
+
+---
+
+## Health "Solutions" Take-Up Challenges
+
+::: {.vertical-center}
+
+[_3._]{.hp} [Constraints and Small Costs]{.hp}
+
+::: {.incremental}
+- Even if [interventions are affordable]{.hi}, the [upfront cost]{.hi} can be a binding constraint for households with tight income flows
+- The existence of [seasonal or uncertain income streams]{.hi} means households may not have funds at the right time
+- Tie in restricted capital markets and it may never be possible to purchase interventions
+:::
+
+:::
+
+::: {.notes}
+
+:::
+
+---
+
+## Health "Solutions" Take-Up Challenges
+
+::: {.vertical-center}
+
+[_4._]{.hp} [Social and Cultural Norms]{.hp}
+
+::: {.incremental}
+- Things like condom use or menstrual products may face [stigma]{.hp} in the household or society
+- Traditional beliefs or social hierarchies may discourage the use of ["foreign"]{.hi} or modern health products
+:::
+
+:::
+
+::: {.notes}
+
+:::
+
+---
+
+## Health "Solutions" Take-Up Challenges
+
+::: {.vertical-center}
+
+[_5._]{.hp} [Public Good and Externalities Problems]{.hp}
+
+::: {.incremental}
+- Many preventive goods, such as bed nets or water chlorination, have [positive externalities]{.hi-green}
+    - If others use them, you benefit too
+- This leads to [free-riding]{.hi} and [private underinvestment]{.hi}
+:::
+
+:::
+
+::: {.notes}
+
+:::
+
+---
+
+## Health "Solutions" Take-Up Challenges
+
+::: {.vertical-center}
+
+[_6._]{.hp} [Weak Institutions and Delivery]{.hp}
+
+::: {.incremental}
+- Health products may not reach remote areas reliably 
+- Weak institutions lead to things like [corruption and weak supply chains]{.hi} which limit beneficial campaigns
+:::
+
+:::
+
+::: {.notes}
+The poorest of the poor go without necessary aid
+:::
