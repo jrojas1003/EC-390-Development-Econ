@@ -1,0 +1,115 @@
+---
+name: agriculture
+---
+
+## Farming Across the World
+
+We can juxtapose farmers in the developing world to farmers in the US, to better understand the scale of the difference
+
+:::: {.columns}
+
+::: {.column width=50%}
+[Farmers in Developing Countries]{.hp .align-center}
+
+::: {.incremental}
+- Very small farms {{< fa arrow-right >}} Less than 10 acres (on average)
+- Less farming technology 
+- Need to adapt to hotter and more humid climates
+- Farmers supply food for themselves
+:::
+
+:::
+
+::: {.column width=50%}
+[Farmers in the US]{.hp .align-center}
+
+::: {.incremental}
+- Farms are large {{< fa arrow-right >}} 441 acres (on average)
+- Farming technology is highly advanced 
+- Technology is well-aligned with local climates
+- Farmers supply food for many people {{< fa arrow-right >}} 144 people per farmer (on average)
+:::
+
+:::
+
+::::
+
+::: {.notes}
+10 acres is about 1.5 Autzens
+
+440 acres is about 1.5 of campus
+:::
+
+---
+
+## Farming Across the World
+
+:::: {.columns}
+
+::: {.column width="50%" .fragment}
+[Farming in Sri Lanka]{.hi .align-center}
+
+![](images/sri-lanka-farm.jpg){fig-align="center"}
+:::
+
+::: {.column width="50%" .fragment}
+[Farming in the US]{.hi .align-center}
+
+![](images/us-farm.jpg){fig-align="center"}
+:::
+
+::::
+
+---
+
+## Malthusian Trap
+
+Malthus (1789) argued that population growth would lead to mass shortages of food
+
+::: {.fragment}
+- This is thought to describe how [population growth tends to outpace the growth of resources]{.hi}
+- This was called the "Malthusian Trap" or Malthusian Theory of Population
+:::
+
+---
+
+## Malthusian Trap
+
+Assumptions used for this argument:
+
+::: {.incremental .vertical-center}
+- Population grows exponentially [(1, 4, 9, 16,...)]{.hi}
+- [Diminishing returns]{.hp} to land, labor, capital, etc. means that [resources]{.hi} grow linearly [(1,2,3,4,...)]{.hi}
+- There exists a limit to the amount of food that can be produced
+- So there is a [carrying capacity]{.h} due to the food supply limit
+:::
+
+::: {.notes}
+Carrying capacity is the maximum population size that an environment can sustain indefinitely, given the available resources (like food, water, and space) and the technology available to use them.
+:::
+
+---
+
+## Malthusian Trap
+
+![](images/malthus.jpg){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+---
+
+## Malthusian Trap
+
+The assumptions are relatively true, but still we don't see any [Malthusian Trap]{.hp}
+
+[Why is this?]{.hi}
+
+::: {.fragment .vertical-center}
+[Technological advancement]{.h .align-center}
+:::
+
+::: {.notes}
+
+:::

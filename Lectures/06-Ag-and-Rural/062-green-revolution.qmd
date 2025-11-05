@@ -1,0 +1,215 @@
+---
+name: green revolution
+---
+
+## [Green Revolution]{.hi-green} [$\leftarrow$ I made it green]{.fragment .hi-green}
+
+::: {.fragment}
+Boost in grain production associated with the [scientific discovery of new hybrid-seed varieties]{.hi} of wheat, rice, and corn that resulted in high yields in many developing countries
+
+[Key Elements]{.hi}
+:::
+
+::: {.incremental}
+- [High-yield crop varieties]{.h}
+- [Chemical fertilizers and pesticides]{.h}
+- [Irrigation expansion]{.h}
+- [Modern farming techniques]{.h}
+:::
+
+::: {.fragment}
+[New Seeds]{.h}
+
+- Resistance to drought and pests
+- Give higher yields
+:::
+
+---
+
+![](images/growth_of_food.png){fig-align="center"}
+
+---
+
+![](images/growth_of_food2.png){fig-align="center"}
+
+---
+
+![](images/cereal.png){fig-align="center"}
+
+---
+
+## Agrarian Systems in Developing Countries
+
+There are [different agricultural practices]{.hi} in developing economies
+
+::: {.fragment .vertical-center}
+We can think of three separate stages
+
+[_1._]{.hp .note} [Agriculture-based countries]{.hp}
+
+[_2._]{.hp .note} [Transforming countries]{.hp}
+
+[_3._]{.hp .note} [Urbanized countries]{.hp}
+:::
+
+---
+
+## [_1._]{.hp .note} Agriculture-Based Countries
+
+- About 417 Million people live here
+
+::: {.incremental}
+- More than 66% of the poor in these countries live in [rural areas]{.h}
+- Agriculture accounts for 32% of GDP growth (on average)
+- Rely heavily on [traditional agricultural practices]{.hi}
+    - ["Slash-and-Burn"]{.hp} [{{< fa arrow-right >}} No Bueno]{.hp .fragment}
+:::
+
+---
+
+## Slash-and-Burn
+
+[Rotating plots of land]{.hi}
+
+Here is the process:
+
+::: {.incremental}
+- Remove trees and vegetation
+- Burn the area (increases nutrients in the soil)
+- Plant crops directly into nutrient-rich ash
+- Cultivate until plot becomes [infertile]{.hp}
+- Abandoment and fallow
+:::
+
+::: {.fragment}
+Very old agricultural process and it is not very efficient if you are not moving around the world
+
+- Also leads to [deforestation and erosion]{.hp}
+:::
+
+::: {.notes}
+Infertility happens after maybe 2-3 years, depending on land use
+
+Plot is left alone and let to grown on its own (fallow period)
+:::
+
+---
+
+## [_2._]{.hp .note} Transforming Countries
+
+- Largest concentration of people living in a rural setting (2.2 Billion)
+
+::: {.fragment}
+[As the name implies, its a transition toward urbanization]{.hi}
+:::
+
+::: {.incremental}
+- Rural poverty is high, but agriculture contributes about 7% to GDP growth
+- [Labor]{.h} begins to move out of agriculture and into other sectors [(manufacturing, services, and construction)]{.h}
+- [Urbanization]{.hi} accelerates as people migrate to cities for jobs
+- Potential for [income growth]{.h} 
+    - Increased probability of [income inequality]{.hp}
+:::
+
+---
+
+## [_3._]{.hp .note} Urbanized Countries
+
+- Half or more than the country's poor live in cities
+
+::: {.incremental}
+- Very few working people are in the agricultural sector
+- Agriculture contributes even less to GDP growth 
+- Typically will find an industrial agricultural sector (US)
+- Typically countries with large urban centers
+- [Technological innovation and human capital drive growth]{.hi}
+:::
+
+---
+
+## Three Systems of Agriculture
+
+![](images/three-system.png){fig-align="center"}
+
+---
+
+## Three Systems of Agriculture
+
+![](images/three-system1.png){fig-align="center"}
+
+---
+
+## Three Systems of Agriculture
+
+![](images/three-system2.png){fig-align="center"}
+
+---
+
+## Three Systems of Agriculture
+
+![](images/three-system3.png){fig-align="center"}
+
+---
+
+## Three Systems of Agriculture
+
+![](images/three-system-process.png){fig-align="center"}
+
+---
+
+## Problems in Agricultural Development
+
+As with everything, there are issues of inequality
+
+::: {.small}
+- Here we are talking about [inequality in land holdings]{.hp} (specially in LATAM)
+:::
+
+::: {.incremental}
+- [Huge]{.h} farms employ many people
+    - However, [land owners]{.hp} care more about [maintaining market power]{.hp} than increasing output
+- Medium sized farmers are rare
+    - Farms these size potentially have a better mix of capital and labor, are more productive, have lower transaction costs than larger farms
+- Some very small farms
+    - These are household farms
+    - Because they are small, there are [no economies of scale]{.hi}
+:::
+
+---
+
+## Land GINI
+
+![](images/land-gini.PNG){fig-align="center"}
+
+---
+
+## Problems in Agricultural Development
+
+[Subdivision of land in Asia]{.hi}
+
+::: {.incremental}
+- Pre-colonial Asian cultures prefer cooperation, [sharing resources]{.hi} within villages
+- [Colonial institutions]{.hp} assigned property rights to land
+- Most [landlords live elsewhere]{.hp}, and rely on [sharecroppers]{.h} to produce agricultural goods
+    - [Sharecroppers:]{.h} Renter farmers, which kickback a percentage of the crops in exchange for lease of the land
+- [Land is scarce]{.hp}, so rents are high
+- At the same time, [labor is abundance]{.hi}, so wages are low 
+:::
+
+---
+
+## Problems in Agricultural Development
+
+[Subsistence farming in Africa]{.hi}
+
+::: {.incremental .small}
+- Most farming takes place on small plots to produce for one family
+- Three main reasons for this persistence:
+    - Most farming is done by individuals using [traditional tools]{.hi}
+    - Farming usually involves shifting cultivation once land nutrients have been used
+    - Leads to inefficencies since individuals must wait for nutrients to replenish
+- This causes large swings in employment
+    - [During farming times]{.hi}, labor is scarce
+    - [During non-farming times]{.hi}, labor is in excess
+- It is hard to sustain populations with the amount of food grown in these economies
+:::

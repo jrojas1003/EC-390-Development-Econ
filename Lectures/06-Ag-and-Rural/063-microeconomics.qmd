@@ -1,0 +1,190 @@
+---
+name: microeconomics of ag
+---
+
+## Microeconomics of Farming
+
+[Classical Theory]{.hi} has [two factor models of production]{.hp} where [capital is fixed]{.h}, but [labor is variable]{.h}
+
+::: {.incremental}
+- Households can adjust how much they work on their farm, but not what tools they use
+- Gives rationale for [low productivity]{.h} 
+- [Does not]{.hp} explain why small farm owners are resistant to technological innovation
+- Theory says they will choose the method of production that gives the [lowest cost]{.h}
+- Also implies [perfect knowledge]{.hi} of types of technology, needed inputs, the weather, etc.
+:::
+
+---
+
+## Microeconomics of Farming 
+
+[The problem is that classical theory of agricultural production does not consider farmer's uncertainty]{.hi .align-center}
+
+::: {.fragment}
+Which would you prefer?
+:::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[10 dollars with certainty]{.hi .align-center .fragment}
+:::
+
+::: {.column width="50%"}
+[50% chance of getting 30 dollars and 50% chance of paying 10 dollars]{.hi .align-center .fragment}
+:::
+
+::::
+
+::: {.incremental}
+- Both have the same [expected payoff]{.hi}
+- But the [first]{.hi} has more [consistent outcomes]{.hi}
+- People tend to be [risk-averse]{.hp}
+    - Do not like uncertaincty/variance in their outcomes
+:::
+
+---
+
+## Microeconomics of Farming
+
+Take the following [farming techniques]{.hi}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Technique A]{.hp .align-center}
+
+::: {.incremental}
+- Offers a [lower average yield]{.hi}
+- Low variance
+:::
+:::
+
+::: {.column width="50%"}
+[Technique B]{.hp .align-center}
+
+::: {.incremental}
+- Offers a [higher average yield]{.hi}
+- Higher variance
+:::
+:::
+
+::::
+
+::: {.fragment}
+[Suppose you need a consistent food supply, which technique will leave you starving more often?]{.hp .align-center}
+:::
+
+---
+
+![](images/farming-techniques.png){fig-align="center"}
+
+::: {.fragment}
+[Risk-averse farmers will tend to choose the safe option rather than gamble on a new method]{.hi .align-center}
+:::
+
+---
+
+## Microeconomics of Farming
+
+But we are leaving potential higher yields on the table
+
+::: {.incremental}
+- [Crop insurance]{.hi} helps with this problem
+    - This can be an [actual insurance policy]{.hi}
+- This would mean that [farmers get paid]{.h} when they have [low yield]{.hp}
+- Alternatively, diversification of crops can work as insurance
+    - Farmers would still have some y ield even if one crop does not work out
+- The goal is to [allow farmers to take risks]{.hi}
+:::
+
+---
+
+## Microeconomics of Farming
+
+Let's do math
+
+::: {.incremental}
+- Consider my crop yield is $X$ and my neighbor's is $Y$
+- If I rely on my own crops, I get $E[X]$ on average with a variance of $Var(X)$
+- If my neighbor and I [share our yields]{.h} we each get:
+:::
+
+::: {.fragment .small}
+$$
+    \dfrac{E[X] + E[Y]}{2}
+$$
+
+on average with a variance of
+:::
+
+::: {.fragment .small}
+$$
+    Var\left(\dfrac{X + Y}{2}\right) = 0.25 * Var(X) + 0.25 * Var(Y) + 0.5 * Cov(X,Y)
+$$
+:::
+
+::: {.fragment .small}
+$$
+    \text{We can get this from:} \; Var(aX + bY) = a^{2}Var(X) + b^{2}Var(Y) + 2ab Cov(X,Y)
+$$
+:::
+
+---
+
+## Covariance
+
+::: {.small}
+$$
+   Var\left(\dfrac{X + Y}{2}\right) = 0.25 * Var(X) + 0.25 * Var(Y) + 0.5 * Cov(X,Y)
+$$
+:::
+
+::: {.incremental}
+- The last term in the equation is very important
+- [Covariance]{.hi} is a measure of [joint variability]{.hi}
+    - When [variables behave similarly]{.hi-green}, we call that [positive covariance]{.hi-green}
+    - When [variables behave dissimilarly]{.hi-red}, we call that [negative covariance]{.hi-red}
+- An example is the daily temperature and how sunny it is
+    - We should suspect that when it is sunny, the temperature is also high
+    - This would lead us to think that the sun and temperature have a [positive covariance]{.hi-green}
+:::
+
+---
+
+## Covariance in our Farming Example
+
+$$
+   Var\left(\dfrac{X + Y}{2}\right) = 0.25 * Var(X) + 0.25 * Var(Y) + 0.5 * Cov(X,Y)
+$$
+
+Imagine you and your neighbor are growing crops
+
+::: {.fragment}
+- You share a common goal: to produce a high amount of consistent food
+- What should you and your neighbor do to accomplish this?
+:::
+
+::: {.fragment}
+- Grow crops that have a [negative covariance]{.hi-red}
+- This would be a form of insurance (informal insurance)
+:::
+
+---
+
+## Consumption Smoothing
+
+[Definition:]{.h} Maintaining a consistent level of consumption over time
+
+::: {.incremental}
+- Why might the goal be to maintain a consistent level of consumption?
+    - We prefer to maintain a stable standard of living over time
+- How do we consumption smooth?
+    - Savings accounts, social security, [insurance]{.hi}, etc.
+:::
+
+::: {.fragment}
+- If a farmer has a really bad year, insurance kicks in and helps maintain consumption levels
+- But in many developing countries, saving is difficult and there is no formal insurance
+- What can individuals do?
+:::

@@ -1,0 +1,83 @@
+---
+title: "Agricultural Transformation and Rural Development"
+subtitle: "EC 390 - Development Economics"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC390, Lecture 06 | Ag. and Rural Dev"
+        preview-links: auto
+        code-f  old: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+## Motivation
+
+As of 2018, over [3 Billion people]{.hi} live in rural areas in developing countries and about 25% of them in [extreme poverty]{.hi}
+
+::: {.fragment}
+[Why do we discuss agriculture so much?]{.h}
+:::
+
+::: {.incremental}
+- Many people in developing nations [work in agriculture]{.hi}
+- We would like to address [subsitence economies]{.hp}
+- There is a "somewhat" positive relationship between growth in agriculture and growth in GDP
+:::
+
+---
+
+## Africa
+
+![](images/africa-growth.PNG){fig-align="center"}
+
+---
+
+## Asia
+
+![](images/asia-growth.PNG){fig-align="center"}
+
+---
+
+## Latin America
+
+![](images/latam-growth.PNG){fig-align="center"}
+
+---
+
+## Motivation
+
+Percent of people living in rural communities across the world:
+
+::: {.fragment}
+- Sub-Saharan Africa {{< fa arrow-right >}} 64%
+- South Asia {{< fa arrow-right >}} 69%
+- India {{< fa arrow-right >}} > 67%
+- Ethiopia, Nepal, Nepal, Niger, Papua New Guinea, Rwanda, South Sudan, Sri Lanka, Uganda {{< fa arrow-right >}} >80%
+:::
+
+::: {.fragment}
+Over [2/3 of the world's poor]{.hi} live in rural areas
+
+- Where Income = Subsistence Agriculture
+:::
+
+# Agriculture {.inverse .note}
+
+{{< include 061-agriculture.qmd >}}
+
+# Green Revolution {.inverse .note}
+
+{{< include 062-green-revolution.qmd >}}
+
+# Microeconomics of Farming {.inverse .note}
+
+{{< include 063-microeconomics.qmd >}}
+
+# Sharecropping {.inverse .note}
+
+{{< include 064-sharecropping.qmd >}}

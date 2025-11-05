@@ -1,0 +1,106 @@
+---
+name: sharecropping
+---
+
+## Sharecropping
+
+[Definition:]{.h} A form of agriculture in which a landowner allows a tenant to use the land in return for a share of the crops produced on their portion of land
+
+::: {.fragment .vertical-center}
+- Popular form of agriculture in many parts of the world
+- [Risk-aversion]{.hi} helps explain why we observe it so frequently, even though it is inefficient
+- To understand why, we need to think about the [incentives of the farmer and landlord]{.hi}
+:::
+
+---
+
+## Sharecropping
+
+Let's recall some microecon terms
+
+::: {.vertical-center}
+[_1._]{.hp .note} [Maringal Product of Labor (MPL)]{.hp}
+
+[_2._]{.hp .note} [Value of Marginal Product of Labor (VMPL)]{.hp}
+
+[_3._]{.hp .note} [Opportunity Cost]{.hp}
+:::
+
+---
+
+## Sharecropping
+
+Let's recall some microecon terms
+
+::: {.vertical-center}
+[_1._]{.hp .note} [Maringal Product of Labor (MPL)]{.hp}
+
+- The [change in output resulting from one more unit of labor]{.hi}
+- Example: The change in rice yield resulting from working one more hour on your farm
+
+::: {.faded .small}
+[_2._]{.hp .note} [Value of Marginal Product of Labor (VMPL)]{.hp}
+
+[_3._]{.hp .note} [Opportunity Cost]{.hp}
+:::
+
+:::
+
+## Sharecropping
+
+Let's recall some microecon terms
+
+::: {.vertical-center}
+
+::: {.faded .small}
+[_1._]{.hp .note} [Maringal Product of Labor (MPL)]{.hp}
+:::
+
+[_2._]{.hp .note} [Value of Marginal Product of Labor (VMPL)]{.hp}
+
+- [How much the output from an additional unit of labor is worth]{.hi}
+- Wage is one way to think about [VMPL]{.hp}
+
+::: {.faded .small}
+[_3._]{.hp .note} [Opportunity Cost]{.hp}
+:::
+
+:::
+
+---
+
+## Sharecropping
+
+Let's recall some microecon terms
+
+::: {.vertical-center}
+
+::: {.faded .small}
+[_1._]{.hp .note} [Maringal Product of Labor (MPL)]{.hp}
+
+[_2._]{.hp .note} [Value of Marginal Product of Labor (VMPL)]{.hp}
+:::
+
+[_3._]{.hp .note} [Opportunity Cost]{.hp}
+
+- The [value of the next best alternative]{.hi}
+- The opportunity cost of being in college is (in part) the wage you could be earning if you were working
+
+:::
+
+---
+
+## Optimal Labor
+
+If a farmer is working on their own plot of land, they will decide the optimal amount of hours to work
+
+::: {.fragment}
+[But how?]{.hp .align-center}
+:::
+
+::: {.incremental}
+- By finding where [marginal product of labor]{.hi} equals the [value of the next best alternative]{.h} [Why?]{.hp .fragment}
+    - If $VPML < \text{Opportunity Cost}$, then the farmer should [stop working and do something else]{.hi}
+    - If $VPML > \text{Opportunity Cost}$, then the farmer should [work more and dedicate themselves to this work]{.hi-green}
+- Because of this, there is [clearly one optimal labor amount]{.hi}
+:::
