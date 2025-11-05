@@ -78,3 +78,16 @@ title: Lectures
   </div>
 ```
 :::
+
+## Agriculture and Rural Development
+
+[Expand Slides](06-Ag-and-Rural/060-compile.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+<!-- [PDF Version](05-Human-Capital/EC%20390%20-%20Lecture%2005.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} -->
+
+::: {.align-center}
+```{=html}
+  <div class="embed-container">
+    <iframe class="slide deck" src="06-Ag-and-Rural/060-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+```
+:::
