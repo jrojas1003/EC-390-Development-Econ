@@ -32,12 +32,15 @@ name: Course Readings
 [Chapter 08 - Human Capital: Education and Health in Economic Development](Chapters/Economic-Development-13E/Econ-Dev-Ch8.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
+::: {.align-center}
+[Chapter 09 - Agricultural Transformation and Rural Development](Chapters/Economic-Development-13E/Econ-Dev-Ch9.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
+
 <!--
 [Chapter 06 - Comparative Economic Development](Chapters/Economic-Development-13E/Econ-Dev-Ch2.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 [Chapter 07 - Urbanisation and Rural–Urban Migration: Theory and Policy](Chapters/Economic-Development-13E/Econ-Dev-Ch7.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
-[Chapter 09 - Agricultural Transformation and Rural Development](Chapters/Economic-Development-13E/Econ-Dev-Ch9.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 [Chapter 11 - Development Policymaking and the Roles of Market, State, and Civil Society ](Chapters/Economic-Development-13E/Econ-Dev-Ch11.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
