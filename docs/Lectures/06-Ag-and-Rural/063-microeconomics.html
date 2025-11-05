@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lectures – EC 390 - Development Econ</title>
+<title>microeconomics – EC 390 - Development Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-047acea2f07c4c3e58575a36bff9b595.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-047acea2f07c4c3e58575a36bff9b595.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 390 - Development Econ</span>
     </a>
   </div>
@@ -89,19 +118,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../Lectures/list.html" aria-current="page"> 
+    <a class="nav-link" href="../../Lectures/list.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Readings/list.html"> 
+    <a class="nav-link" href="../../Readings/list.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/list.html"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/final-project.html"> 
+    <a class="nav-link" href="../../Assignments/final-project.html"> 
 <span class="menu-text">Final Project</span></a>
   </li>  
 </ul>
@@ -120,88 +149,198 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Lectures</h1>
+
+
+
+<section id="microeconomics-of-farming" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomics-of-farming">Microeconomics of Farming</h2>
+<p><span class="hi">Classical Theory</span> has <span class="hp">two factor models of production</span> where <span class="h">capital is fixed</span>, but <span class="h">labor is variable</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Households can adjust how much they work on their farm, but not what tools they use</li>
+<li>Gives rationale for <span class="h">low productivity</span></li>
+<li><span class="hp">Does not</span> explain why small farm owners are resistant to technological innovation</li>
+<li>Theory says they will choose the method of production that gives the <span class="h">lowest cost</span></li>
+<li>Also implies <span class="hi">perfect knowledge</span> of types of technology, needed inputs, the weather, etc.</li>
+</ul>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p><a href="00-Introduction/000-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="00-Introduction/000-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
-</div>
+<hr>
 </section>
-<section id="growth-development" class="level2">
-<h2 class="anchored" data-anchor-id="growth-development">Growth &amp; Development</h2>
-<p><a href="01-Growth-and-Dev/010-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="01-Growth-and-Dev/EC390 - Lecture01.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="01-Growth-and-Dev/010-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="microeconomics-of-farming-1" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomics-of-farming-1">Microeconomics of Farming</h2>
+<p><span class="hi align-center">The problem is that classical theory of agricultural production does not consider farmer’s uncertainty</span></p>
+<div class="fragment">
+<p>Which would you prefer?</p>
 </div>
-</section>
-<section id="theories-of-growth-and-development" class="level2">
-<h2 class="anchored" data-anchor-id="theories-of-growth-and-development">Theories of Growth and Development</h2>
-<p><a href="02-Theories-of-Growth/020-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="02-Theories-of-Growth/EC390 - Lecture02.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="02-Theories-of-Growth/020-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><span class="hi align-center fragment">10 dollars with certainty</span></p>
+</div><div class="column" style="width:50%;">
+<p><span class="hi align-center fragment">50% chance of getting 30 dollars and 50% chance of paying 10 dollars</span></p>
 </div>
-</section>
-<section id="underdevelopment" class="level2">
-<h2 class="anchored" data-anchor-id="underdevelopment">Underdevelopment</h2>
-<p><a href="03-Underdevelopment/030-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="03-Underdevelopment/EC390 - Lecture03.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="03-Underdevelopment/030-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
 </div>
-</section>
-<section id="poverty-and-inequality" class="level2">
-<h2 class="anchored" data-anchor-id="poverty-and-inequality">Poverty and Inequality</h2>
-<p><a href="04-Poverty-and-Inequity/040-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="04-Poverty-and-Inequity/EC 390 - Lecture04.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="04-Poverty-and-Inequity/040-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<div class="incremental">
+<ul class="incremental">
+<li>Both have the same <span class="hi">expected payoff</span></li>
+<li>But the <span class="hi">first</span> has more <span class="hi">consistent outcomes</span></li>
+<li>People tend to be <span class="hp">risk-averse</span>
+<ul class="incremental">
+<li>Do not like uncertaincty/variance in their outcomes</li>
+</ul></li>
+</ul>
 </div>
+<hr>
 </section>
-<section id="human-capital" class="level2">
-<h2 class="anchored" data-anchor-id="human-capital">Human Capital</h2>
-<p><a href="05-Human-Capital/050-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="05-Human-Capital/EC 390 - Lecture 05.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="05-Human-Capital/050-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="microeconomics-of-farming-2" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomics-of-farming-2">Microeconomics of Farming</h2>
+<p>Take the following <span class="hi">farming techniques</span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><span class="hp align-center">Technique A</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Offers a <span class="hi">lower average yield</span></li>
+<li>Low variance</li>
+</ul>
 </div>
+</div><div class="column" style="width:50%;">
+<p><span class="hp align-center">Technique B</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Offers a <span class="hi">higher average yield</span></li>
+<li>Higher variance</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="fragment">
+<p><span class="hp align-center">Suppose you need a consistent food supply, which technique will leave you starving more often?</span></p>
+</div>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/farming-techniques.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="fragment">
+<p><span class="hi align-center">Risk-averse farmers will tend to choose the safe option rather than gamble on a new method</span></p>
+</div>
+<hr>
 </section>
-<section id="agriculture-and-rural-development" class="level2">
-<h2 class="anchored" data-anchor-id="agriculture-and-rural-development">Agriculture and Rural Development</h2>
-<p><a href="06-Ag-and-Rural/060-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <!-- [PDF Version](05-Human-Capital/EC%20390%20-%20Lecture%2005.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} --></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="06-Ag-and-Rural/060-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="microeconomics-of-farming-3" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomics-of-farming-3">Microeconomics of Farming</h2>
+<p>But we are leaving potential higher yields on the table</p>
+<div class="incremental">
+<ul class="incremental">
+<li><span class="hi">Crop insurance</span> helps with this problem
+<ul class="incremental">
+<li>This can be an <span class="hi">actual insurance policy</span></li>
+</ul></li>
+<li>This would mean that <span class="h">farmers get paid</span> when they have <span class="hp">low yield</span></li>
+<li>Alternatively, diversification of crops can work as insurance
+<ul class="incremental">
+<li>Farmers would still have some y ield even if one crop does not work out</li>
+</ul></li>
+<li>The goal is to <span class="hi">allow farmers to take risks</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="microeconomics-of-farming-4" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomics-of-farming-4">Microeconomics of Farming</h2>
+<p>Let’s do math</p>
+<div class="incremental">
+<ul class="incremental">
+<li>Consider my crop yield is <span class="math inline">\(X\)</span> and my neighbor’s is <span class="math inline">\(Y\)</span></li>
+<li>If I rely on my own crops, I get <span class="math inline">\(E[X]\)</span> on average with a variance of <span class="math inline">\(Var(X)\)</span></li>
+<li>If my neighbor and I <span class="h">share our yields</span> we each get:</li>
+</ul>
+</div>
+<div class="fragment small">
+<p><span class="math display">\[
+    \dfrac{E[X] + E[Y]}{2}
+\]</span></p>
+<p>on average with a variance of</p>
+</div>
+<div class="fragment small">
+<p><span class="math display">\[
+    Var\left(\dfrac{X + Y}{2}\right) = 0.25 * Var(X) + 0.25 * Var(Y) + 0.5 * Cov(X,Y)
+\]</span></p>
+</div>
+<div class="fragment small">
+<p><span class="math display">\[
+    \text{We can get this from:} \; Var(aX + bY) = a^{2}Var(X) + b^{2}Var(Y) + 2ab Cov(X,Y)
+\]</span></p>
+</div>
+<hr>
+</section>
+<section id="covariance" class="level2">
+<h2 class="anchored" data-anchor-id="covariance">Covariance</h2>
+<div class="small">
+<p><span class="math display">\[
+   Var\left(\dfrac{X + Y}{2}\right) = 0.25 * Var(X) + 0.25 * Var(Y) + 0.5 * Cov(X,Y)
+\]</span></p>
+</div>
+<div class="incremental">
+<ul class="incremental">
+<li>The last term in the equation is very important</li>
+<li><span class="hi">Covariance</span> is a measure of <span class="hi">joint variability</span>
+<ul class="incremental">
+<li>When <span class="hi-green">variables behave similarly</span>, we call that <span class="hi-green">positive covariance</span></li>
+<li>When <span class="hi-red">variables behave dissimilarly</span>, we call that <span class="hi-red">negative covariance</span></li>
+</ul></li>
+<li>An example is the daily temperature and how sunny it is
+<ul class="incremental">
+<li>We should suspect that when it is sunny, the temperature is also high</li>
+<li>This would lead us to think that the sun and temperature have a <span class="hi-green">positive covariance</span></li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="covariance-in-our-farming-example" class="level2">
+<h2 class="anchored" data-anchor-id="covariance-in-our-farming-example">Covariance in our Farming Example</h2>
+<p><span class="math display">\[
+   Var\left(\dfrac{X + Y}{2}\right) = 0.25 * Var(X) + 0.25 * Var(Y) + 0.5 * Cov(X,Y)
+\]</span></p>
+<p>Imagine you and your neighbor are growing crops</p>
+<div class="fragment">
+<ul>
+<li>You share a common goal: to produce a high amount of consistent food</li>
+<li>What should you and your neighbor do to accomplish this?</li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>Grow crops that have a <span class="hi-red">negative covariance</span></li>
+<li>This would be a form of insurance (informal insurance)</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="consumption-smoothing" class="level2">
+<h2 class="anchored" data-anchor-id="consumption-smoothing">Consumption Smoothing</h2>
+<p><span class="h">Definition:</span> Maintaining a consistent level of consumption over time</p>
+<div class="incremental">
+<ul class="incremental">
+<li>Why might the goal be to maintain a consistent level of consumption?
+<ul class="incremental">
+<li>We prefer to maintain a stable standard of living over time</li>
+</ul></li>
+<li>How do we consumption smooth?
+<ul class="incremental">
+<li>Savings accounts, social security, <span class="hi">insurance</span>, etc.</li>
+</ul></li>
+</ul>
+</div>
+<div class="fragment">
+<ul>
+<li>If a farmer has a really bad year, insurance kicks in and helps maintain consumption levels</li>
+<li>But in many developing countries, saving is difficult and there is no formal insurance</li>
+<li>What can individuals do?</li>
+</ul>
 </div>
 
 

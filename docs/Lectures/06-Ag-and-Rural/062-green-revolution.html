@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lectures – EC 390 - Development Econ</title>
+<title>green-revolution – EC 390 - Development Econ</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/UO-icon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-047acea2f07c4c3e58575a36bff9b595.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/UO-icon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-047acea2f07c4c3e58575a36bff9b595.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -78,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">EC 390 - Development Econ</span>
     </a>
   </div>
@@ -89,19 +120,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../Lectures/list.html" aria-current="page"> 
+    <a class="nav-link" href="../../Lectures/list.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Readings/list.html"> 
+    <a class="nav-link" href="../../Readings/list.html"> 
 <span class="menu-text">Readings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/list.html"> 
+    <a class="nav-link" href="../../Assignments/list.html"> 
 <span class="menu-text">Homework</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Assignments/final-project.html"> 
+    <a class="nav-link" href="../../Assignments/final-project.html"> 
 <span class="menu-text">Final Project</span></a>
   </li>  
 </ul>
@@ -120,88 +151,259 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Lectures</h1>
+
+
+
+<section id="green-revolution-leftarrow-i-made-it-green" class="level2">
+<h2 class="anchored" data-anchor-id="green-revolution-leftarrow-i-made-it-green"><span class="hi-green">Green Revolution</span> <span class="fragment hi-green"><span class="math inline">\(\leftarrow\)</span> I made it green</span></h2>
+<div class="fragment">
+<p>Boost in grain production associated with the <span class="hi">scientific discovery of new hybrid-seed varieties</span> of wheat, rice, and corn that resulted in high yields in many developing countries</p>
+<p><span class="hi">Key Elements</span></p>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p><a href="00-Introduction/000-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="00-Introduction/000-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<div class="incremental">
+<ul class="incremental">
+<li><span class="h">High-yield crop varieties</span></li>
+<li><span class="h">Chemical fertilizers and pesticides</span></li>
+<li><span class="h">Irrigation expansion</span></li>
+<li><span class="h">Modern farming techniques</span></li>
+</ul>
 </div>
+<div class="fragment">
+<p><span class="h">New Seeds</span></p>
+<ul>
+<li>Resistance to drought and pests</li>
+<li>Give higher yields</li>
+</ul>
+</div>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/growth_of_food.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/growth_of_food2.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/cereal.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
 </section>
-<section id="growth-development" class="level2">
-<h2 class="anchored" data-anchor-id="growth-development">Growth &amp; Development</h2>
-<p><a href="01-Growth-and-Dev/010-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="01-Growth-and-Dev/EC390 - Lecture01.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="01-Growth-and-Dev/010-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="agrarian-systems-in-developing-countries" class="level2">
+<h2 class="anchored" data-anchor-id="agrarian-systems-in-developing-countries">Agrarian Systems in Developing Countries</h2>
+<p>There are <span class="hi">different agricultural practices</span> in developing economies</p>
+<div class="fragment vertical-center">
+<p>We can think of three separate stages</p>
+<p><span class="hp note"><em>1.</em></span> <span class="hp">Agriculture-based countries</span></p>
+<p><span class="hp note"><em>2.</em></span> <span class="hp">Transforming countries</span></p>
+<p><span class="hp note"><em>3.</em></span> <span class="hp">Urbanized countries</span></p>
 </div>
+<hr>
 </section>
-<section id="theories-of-growth-and-development" class="level2">
-<h2 class="anchored" data-anchor-id="theories-of-growth-and-development">Theories of Growth and Development</h2>
-<p><a href="02-Theories-of-Growth/020-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="02-Theories-of-Growth/EC390 - Lecture02.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="02-Theories-of-Growth/020-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="agriculture-based-countries" class="level2">
+<h2 class="anchored" data-anchor-id="agriculture-based-countries"><span class="hp note"><em>1.</em></span> Agriculture-Based Countries</h2>
+<ul>
+<li>About 417 Million people live here</li>
+</ul>
+<div class="incremental">
+<ul class="incremental">
+<li>More than 66% of the poor in these countries live in <span class="h">rural areas</span></li>
+<li>Agriculture accounts for 32% of GDP growth (on average)</li>
+<li>Rely heavily on <span class="hi">traditional agricultural practices</span>
+<ul class="incremental">
+<li><span class="hp">“Slash-and-Burn”</span> <span class="hp fragment"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> No Bueno</span></li>
+</ul></li>
+</ul>
 </div>
+<hr>
 </section>
-<section id="underdevelopment" class="level2">
-<h2 class="anchored" data-anchor-id="underdevelopment">Underdevelopment</h2>
-<p><a href="03-Underdevelopment/030-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="03-Underdevelopment/EC390 - Lecture03.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="03-Underdevelopment/030-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="slash-and-burn" class="level2">
+<h2 class="anchored" data-anchor-id="slash-and-burn">Slash-and-Burn</h2>
+<p><span class="hi">Rotating plots of land</span></p>
+<p>Here is the process:</p>
+<div class="incremental">
+<ul class="incremental">
+<li>Remove trees and vegetation</li>
+<li>Burn the area (increases nutrients in the soil)</li>
+<li>Plant crops directly into nutrient-rich ash</li>
+<li>Cultivate until plot becomes <span class="hp">infertile</span></li>
+<li>Abandoment and fallow</li>
+</ul>
 </div>
-</section>
-<section id="poverty-and-inequality" class="level2">
-<h2 class="anchored" data-anchor-id="poverty-and-inequality">Poverty and Inequality</h2>
-<p><a href="04-Poverty-and-Inequity/040-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="04-Poverty-and-Inequity/EC 390 - Lecture04.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="04-Poverty-and-Inequity/040-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<div class="fragment">
+<p>Very old agricultural process and it is not very efficient if you are not moving around the world</p>
+<ul>
+<li>Also leads to <span class="hp">deforestation and erosion</span></li>
+</ul>
 </div>
-</section>
-<section id="human-capital" class="level2">
-<h2 class="anchored" data-anchor-id="human-capital">Human Capital</h2>
-<p><a href="05-Human-Capital/050-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <a href="05-Human-Capital/EC 390 - Lecture 05.pdf" class="btn btn-primary btn-lg cv-download" target="_blank">PDF Version</a></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="05-Human-Capital/050-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<div class="notes">
+<p>Infertility happens after maybe 2-3 years, depending on land use</p>
+<p>Plot is left alone and let to grown on its own (fallow period)</p>
 </div>
+<hr>
 </section>
-<section id="agriculture-and-rural-development" class="level2">
-<h2 class="anchored" data-anchor-id="agriculture-and-rural-development">Agriculture and Rural Development</h2>
-<p><a href="06-Ag-and-Rural/060-compile.html" class="btn btn-primary btn-lg cv-download" target="_blank">Expand Slides</a> <!-- [PDF Version](05-Human-Capital/EC%20390%20-%20Lecture%2005.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} --></p>
-<div class="align-center">
-  <div class="embed-container">
-    <iframe class="slide deck" src="06-Ag-and-Rural/060-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
-  </div>
+<section id="transforming-countries" class="level2">
+<h2 class="anchored" data-anchor-id="transforming-countries"><span class="hp note"><em>2.</em></span> Transforming Countries</h2>
+<ul>
+<li>Largest concentration of people living in a rural setting (2.2 Billion)</li>
+</ul>
+<div class="fragment">
+<p><span class="hi">As the name implies, its a transition toward urbanization</span></p>
+</div>
+<div class="incremental">
+<ul class="incremental">
+<li>Rural poverty is high, but agriculture contributes about 7% to GDP growth</li>
+<li><span class="h">Labor</span> begins to move out of agriculture and into other sectors <span class="h">(manufacturing, services, and construction)</span></li>
+<li><span class="hi">Urbanization</span> accelerates as people migrate to cities for jobs</li>
+<li>Potential for <span class="h">income growth</span>
+<ul class="incremental">
+<li>Increased probability of <span class="hp">income inequality</span></li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="urbanized-countries" class="level2">
+<h2 class="anchored" data-anchor-id="urbanized-countries"><span class="hp note"><em>3.</em></span> Urbanized Countries</h2>
+<ul>
+<li>Half or more than the country’s poor live in cities</li>
+</ul>
+<div class="incremental">
+<ul class="incremental">
+<li>Very few working people are in the agricultural sector</li>
+<li>Agriculture contributes even less to GDP growth</li>
+<li>Typically will find an industrial agricultural sector (US)</li>
+<li>Typically countries with large urban centers</li>
+<li><span class="hi">Technological innovation and human capital drive growth</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="three-systems-of-agriculture" class="level2">
+<h2 class="anchored" data-anchor-id="three-systems-of-agriculture">Three Systems of Agriculture</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/three-system.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="three-systems-of-agriculture-1" class="level2">
+<h2 class="anchored" data-anchor-id="three-systems-of-agriculture-1">Three Systems of Agriculture</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/three-system1.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="three-systems-of-agriculture-2" class="level2">
+<h2 class="anchored" data-anchor-id="three-systems-of-agriculture-2">Three Systems of Agriculture</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/three-system2.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="three-systems-of-agriculture-3" class="level2">
+<h2 class="anchored" data-anchor-id="three-systems-of-agriculture-3">Three Systems of Agriculture</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/three-system3.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="three-systems-of-agriculture-4" class="level2">
+<h2 class="anchored" data-anchor-id="three-systems-of-agriculture-4">Three Systems of Agriculture</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/three-system-process.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="problems-in-agricultural-development" class="level2">
+<h2 class="anchored" data-anchor-id="problems-in-agricultural-development">Problems in Agricultural Development</h2>
+<p>As with everything, there are issues of inequality</p>
+<div class="small">
+<ul>
+<li>Here we are talking about <span class="hp">inequality in land holdings</span> (specially in LATAM)</li>
+</ul>
+</div>
+<div class="incremental">
+<ul class="incremental">
+<li><span class="h">Huge</span> farms employ many people
+<ul class="incremental">
+<li>However, <span class="hp">land owners</span> care more about <span class="hp">maintaining market power</span> than increasing output</li>
+</ul></li>
+<li>Medium sized farmers are rare
+<ul class="incremental">
+<li>Farms these size potentially have a better mix of capital and labor, are more productive, have lower transaction costs than larger farms</li>
+</ul></li>
+<li>Some very small farms
+<ul class="incremental">
+<li>These are household farms</li>
+<li>Because they are small, there are <span class="hi">no economies of scale</span></li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="land-gini" class="level2">
+<h2 class="anchored" data-anchor-id="land-gini">Land GINI</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/land-gini.PNG" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="problems-in-agricultural-development-1" class="level2">
+<h2 class="anchored" data-anchor-id="problems-in-agricultural-development-1">Problems in Agricultural Development</h2>
+<p><span class="hi">Subdivision of land in Asia</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Pre-colonial Asian cultures prefer cooperation, <span class="hi">sharing resources</span> within villages</li>
+<li><span class="hp">Colonial institutions</span> assigned property rights to land</li>
+<li>Most <span class="hp">landlords live elsewhere</span>, and rely on <span class="h">sharecroppers</span> to produce agricultural goods
+<ul class="incremental">
+<li><span class="h">Sharecroppers:</span> Renter farmers, which kickback a percentage of the crops in exchange for lease of the land</li>
+</ul></li>
+<li><span class="hp">Land is scarce</span>, so rents are high</li>
+<li>At the same time, <span class="hi">labor is abundance</span>, so wages are low</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="problems-in-agricultural-development-2" class="level2">
+<h2 class="anchored" data-anchor-id="problems-in-agricultural-development-2">Problems in Agricultural Development</h2>
+<p><span class="hi">Subsistence farming in Africa</span></p>
+<div class="incremental small">
+<ul class="incremental">
+<li>Most farming takes place on small plots to produce for one family</li>
+<li>Three main reasons for this persistence:
+<ul class="incremental">
+<li>Most farming is done by individuals using <span class="hi">traditional tools</span></li>
+<li>Farming usually involves shifting cultivation once land nutrients have been used</li>
+<li>Leads to inefficencies since individuals must wait for nutrients to replenish</li>
+</ul></li>
+<li>This causes large swings in employment
+<ul class="incremental">
+<li><span class="hi">During farming times</span>, labor is scarce</li>
+<li><span class="hi">During non-farming times</span>, labor is in excess</li>
+</ul></li>
+<li>It is hard to sustain populations with the amount of food grown in these economies</li>
+</ul>
 </div>
 
 
