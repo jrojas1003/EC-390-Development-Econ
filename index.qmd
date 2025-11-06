@@ -9,15 +9,17 @@ title: "Home"
 
 [Assignments]{.hp} this week are:
 
-&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Annotated Bibliography](https://jrojas1003.github.io/EC-390-Development-Econ/Assignments/Final-Project/02-Annotated-Bib/annotated-bib.pdf){.hi-orange} Due on Wednesday
+&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Annotated Bibliography](https://jrojas1003.github.io/EC-390-Development-Econ/Assignments/Final-Project/02-Annotated-Bib/annotated-bib.pdf){.hi-orange target=_blank} Due on Wednesday
 
 &nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Quiz 03](https://canvas.uoregon.edu/courses/274682/quizzes/413322){.hi-orange} Due on Friday
+
+&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Problem Set 03](https://jrojas1003.github.io/EC-390-Development-Econ/Assignments/Problem-Sets/PS03/ps03.pdf){.hi-orange target=_blank} Due November 13 @ 11:59pm
 
 This week's schedule involves:
 
 &nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 05 - Human Capital](Lectures/05-Human-Capital/050-compile.html){.hi-orange target=_blank}
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Start Lecture 06 - Agriculture and Rural Development
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Start [Lecture 06 - Agriculture and Rural Development](Lectures/06-Ag-and-Rural/060-compile.html){.hi-orange target=_blank}
 
 &nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; (Possibly) Start Lecture 07 - Population
 :::
