@@ -25,6 +25,7 @@
 % ---------------------------------------------------
 \usepackage{graphicx}   % Include graphics
 \usepackage{caption}    % Customization of captions
+\usepackage{subcaption}
 
 % ---------------------------------------------------
 % Text Styling
@@ -77,9 +78,9 @@
 % This is the name of the course (left header)
 \newcommand{\class}{\fontfamily{lmss} \textbf{EC 390}} 
 % This is the name of the assignment (center header)
-\newcommand{\examnum}{\fontfamily{lmss} \textbf{PS 01}} 
+\newcommand{\examnum}{\fontfamily{lmss} \textbf{PS 03}} 
 % This is the due date (right header)
-\newcommand{\examdate}{\fontfamily{lmss} \textbf{January 15 at 01:59pm}} 
+\newcommand{\examdate}{\fontfamily{lmss} \textbf{November 13 at 01:59pm}} 
 
 % ---------------------------------------------------
 % Points Options
@@ -121,7 +122,7 @@
 \fontfamily{lmss}\selectfont
 
 \begin{center}
-    \textbf{{\LARGE EC 390 Problem Set 01}} \\
+    \textbf{{\LARGE EC 390 Problem Set 03}} \\
     \bigskip 
 \end{center}
 
@@ -141,14 +142,130 @@ You will not be given full credit if your answers cannot be easily understood.
 \section*{Questions}
 
 \begin{questions}
-    
+  
+% Question 01
 \question 
-Text here
+Suppose that 2 farmers enter into an agreement where one farmer grows \textbf{carrots} and the other grows \textbf{leeks}. 
+The table below shows their yields over the past 5 years.
+
+\begin{table}[h!]
+    \centering
+\begin{tabular}{l|ccccc}
+    Crop    & Year 1 & Year 2 & Year 3 & Year 4 & Year 5 \\
+    \hline 
+    Carrots &    5    &   3    &   8    &   4    &   10   \\
+    Leeks   &    12   &   17   &   0    &   14   &    3   \\    
+\end{tabular} 
+\end{table}
 
 \begin{parts}
-    \part[5] Part 01
-    \part[10] Part 02
+    \part[5] 
+    Solve for the \textbf{expected yield} of \textbf{carrots} and \textbf{leeks} in year 6. 
+    Show your work. 
+    \vspace*{\stretch{1}}
+    \part[4]
+    Do \textbf{carrots} and \textbf{leeks} appear to have a positive or negative covariance?
+    Does this mean that these veggies are a good or bad choice for diversification?
+    (You do not need to calculate the covariance to answer this question)
+    \vspace*{\stretch{1}}
 \end{parts}
+
+\newpage
+% Question 02
+\question
+Recall a \textbf{sharecropping} agreement is where a farmer provides a percentage of their yield to a landowner in exchange for renting the land.
+Consider the graph below and answer the following questions (include calculations in your work).
+
+\begin{figure}[ht!]
+  \centering
+  \includegraphics[width=0.5\textwidth, height=0.4\textheight]{images/sharecropping.PNG}
+\end{figure}
+
+\begin{parts}
+  \part[5] 
+  Suppose the farmer has to pay 0\% of their yield to the landowner, and the farmer's next best alternative is working informally for \$5 an hour. 
+  Find the \textbf{optimal amount of labor} for the farmer. 
+  \vspace*{\stretch{1}}
+  \part[5] 
+  Now consider the case where the farmer keeps only $\alpha$\% (as shown in the graph).
+  Calculate the \textbf{farmer's profit, landlord's profit, and the deadweight loss} associated with this sharecropping agreement. 
+  (Answers should be numeric)
+  \vspace*{\stretch{1}}
+  \part[3] 
+  What is the benefit to the farmer from sharecropping?
+  \vspace*{\stretch{1}}
+\end{parts}
+
+\newpage
+% Question 03
+\question[2]
+What is \textbf{urban bias}? 
+Why can this lead to negative outcomes for society?
+\vspace*{\stretch{1}}
+
+% Question 04
+\question 
+Use the following graph on population age for the Philippines and Japan to answer the following questions:
+
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}[]{0.45\textwidth}
+        \includegraphics[width=0.9\textwidth]{images/japanage.png}
+        \label{fig:first}
+    \end{subfigure}
+    \begin{subfigure}[]{0.45\textwidth}
+        \includegraphics[width=0.9\textwidth]{images/philippinesage.png}
+    \end{subfigure}
+    \label{fig:sidebyside}
+\end{figure}
+
+\begin{parts}
+  \part[3] 
+  On average, which country has a younger population?
+  \vspace*{\stretch{1}}
+  \part[3] 
+  How might the age structure of the Philippines influence the \textbf{dependency burden} of the Philippines?
+  \vspace*{\stretch{1}}
+  \part[3] 
+  How might the age structure of Japan influence the \textbf{dependency burden} of Japan?
+  \vspace*{\stretch{1}}
+\end{parts}
+
+\newpage
+% Question 05
+\question 
+Use the following graph on \textbf{household preferences} to answer the following questions and show your work for each answer
+
+\begin{parts}
+  \part[4] 
+  Suppose the household budget is \$100.
+  If the household \textbf{spends all of their budget on children}, they can afford to have 8 children. 
+  If they \textbf{spend all of their budget on food}, they can afford 40 units.
+  What is the \textbf{price of a child and the price of food}?
+  \vspace*{\stretch{2}}
+  \part[4] 
+  \textbf{On the graph below}, draw the \textbf{households budget line} and determine the \textbf{optimal number of children} and the \textbf{optimal amount of food} the household will consume.
+  \begin{figure}[ht!]
+  \centering
+  \includegraphics[width=0.5\textheight]{images/fertility1.PNG}
+  \end{figure}
+  \vspace*{\stretch{1}}
+  \newpage
+  \part[5] 
+  Suppose the government is concerned that the fertility rate in the society is too high. 
+  To remedy this, the government imposes a ``four-child policy''. 
+  This policy mandates that each household can have at most four children. 
+  Under this policy, what is the households \textbf{new optimal point of consumption of children and food}?
+  \begin{figure}[ht!]
+  \centering
+  \includegraphics[width=0.5\textheight]{images/fertility1.PNG}
+  \end{figure}
+  \vspace*{\stretch{0.5}}
+  \part[4] 
+  Under the ``four-child policy'' is the \textbf{household better off, worse off, or neither}?
+  How can you tell?
+  \vspace*{\stretch{1}}
+\end{parts} 
 
 
 \end{questions}

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  24 SEP 2025 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.12.22)  6 NOV 2025 11:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/joserojas/Documents/Teaching/EC 390 - Development/Assignments/Problem-Sets/PS03/ps03.tex"
-(/Users/joserojas/Documents/Teaching/EC 390 - Development/Assignments/Problem-Sets/PS03/ps03.tex
+**"/Users/joserojas/Documents/Teaching/EC390 - Development-Econ/Assignments/Problem-Sets/PS03/ps03.tex"
+(/Users/joserojas/Documents/Teaching/EC390 - Development-Econ/Assignments/Problem-Sets/PS03/ps03.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/exam/exam.cls
@@ -291,6 +291,12 @@ Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count322
 \c@continuedfloat=\count323
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count324
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count325
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -313,10 +319,10 @@ Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
 \SOUL@hyphkern=\dimen188
 \SOUL@dimen=\dimen189
 \SOUL@dimeni=\dimen190
-\SOUL@minus=\count324
-\SOUL@comma=\count325
-\SOUL@apo=\count326
-\SOUL@grave=\count327
+\SOUL@minus=\count326
+\SOUL@comma=\count327
+\SOUL@apo=\count328
+\SOUL@grave=\count329
 \SOUL@spaceskip=\skip79
 \SOUL@ttwidth=\dimen191
 \SOUL@uldp=\dimen192
@@ -331,7 +337,7 @@ Package: lastpage 2023/10/14 v2.0e lastpage: 2.09 or 2e? (HMM)
 Package: lastpage2e 2023/10/14 v2.0e Decide which 2e lastpage version to use (HMM)
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lastpage/lastpagemodern.sty
 Package: lastpagemodern 2023-10-14 v2.0e Refers to last page's name (HMM; JPG)
-\c@lastpagecount=\count328
+\c@lastpagecount=\count330
 ) 
 )) (/usr/local/texlive/2024/texmf-dist/tex/latex/bbding/bbding.sty
 Package: bbding 1999/04/15 v1.01 Dingbats symbols
@@ -531,14 +537,14 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count329
+\c@section@level=\count331
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count330
+\etb@tempcnta=\count332
 )
 \@linkdim=\dimen261
-\Hy@linkcounter=\count331
-\Hy@pagecounter=\count332
+\Hy@linkcounter=\count333
+\Hy@pagecounter=\count334
  (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -546,7 +552,7 @@ Now handling font encoding PD1 ...
 ) (/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count333
+\Hy@SavedSpaceFactor=\count335
  (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -559,7 +565,7 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count334
+\c@Hy@tempcnt=\count336
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen262
  (/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
@@ -567,7 +573,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count335
+\Fld@menulength=\count337
 \Field@Width=\dimen263
 \Fld@charsize=\dimen264
 Package hyperref Info: Hyper figures OFF on input line 6063.
@@ -581,9 +587,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count336
-\c@Item=\count337
-\c@Hfootnote=\count338
+\Hy@abspage=\count338
+\c@Item=\count339
+\c@Hfootnote=\count340
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
@@ -592,8 +598,8 @@ File: hpdftex.def 2024-01-20 v7.01h Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count339
-\c@bookmark@seq@number=\count340
+\Fld@listcount=\count341
+\c@bookmark@seq@number=\count342
  (/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (/usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
@@ -603,37 +609,37 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip82
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 67.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 119.
+Package hyperref Info: Option `colorlinks' set `true' on input line 68.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 120.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count341
+\l__color_backend_stack_int=\count343
 \l__pdf_internal_box=\box99
 ) (./ps03.aux)
 \openout1 = `ps03.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for pmboxdraw/pmboxdraw/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 119.
-LaTeX Font Info:    ... okay on input line 119.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for pmboxdraw/pmboxdraw/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -673,16 +679,16 @@ LaTeX Font Info:    ... okay on input line 119.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count342
+\scratchcounter=\count344
 \scratchdimen=\dimen265
 \scratchbox=\box100
-\nofMPsegments=\count343
-\nofMParguments=\count344
+\nofMPsegments=\count345
+\nofMParguments=\count346
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count345
+\MPscratchCnt=\count347
 \MPscratchDim=\dimen266
-\MPnumerator=\count346
-\makeMPintoPDFobject=\count347
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
 \everyMPtoPDFconversion=\toks34
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -693,19 +699,70 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 119.
+Package hyperref Info: Link coloring ON on input line 120.
  (./ps03.out) (./ps03.out)
 \@outlinefile=\write3
 \openout3 = `ps03.out'.
 
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 121.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 122.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
+)
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 153.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 153.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 153.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 153.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 153.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 153.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 153.
+ [1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
 
 ]
-This exam contains 1 questions with 2 parts, 0 subparts, and 0 subsubparts.
-This exam has a total of 15 points.
+<images/sharecropping.PNG, id=16, 450.18187pt x 535.2497pt>
+File: images/sharecropping.PNG Graphic file (type png)
+<use images/sharecropping.PNG>
+Package pdftex.def Info: images/sharecropping.PNG  used on input line 181.
+(pdftex.def)             Requested size: 234.87901pt x 260.17566pt.
+ [2{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc} <./images/sharecropping.PNG>]
+<images/japanage.png, id=29, 612.2875pt x 426.59375pt>
+File: images/japanage.png Graphic file (type png)
+<use images/japanage.png>
+Package pdftex.def Info: images/japanage.png  used on input line 213.
+(pdftex.def)             Requested size: 190.24818pt x 132.54863pt.
+<images/philippinesage.png, id=30, 612.2875pt x 426.59375pt>
+File: images/philippinesage.png Graphic file (type png)
+<use images/philippinesage.png>
+Package pdftex.def Info: images/philippinesage.png  used on input line 217.
+(pdftex.def)             Requested size: 190.24818pt x 132.54863pt.
+ [3 <./images/japanage.png> <./images/philippinesage.png>]
+<images/fertility1.PNG, id=41, 546.54187pt x 526.96875pt>
+File: images/fertility1.PNG Graphic file (type png)
+<use images/fertility1.PNG>
+Package pdftex.def Info: images/fertility1.PNG  used on input line 250.
+(pdftex.def)             Requested size: 325.215pt x 313.57039pt.
+ [4 <./images/fertility1.PNG>]
+File: images/fertility1.PNG Graphic file (type png)
+<use images/fertility1.PNG>
+Package pdftex.def Info: images/fertility1.PNG  used on input line 261.
+(pdftex.def)             Requested size: 325.215pt x 313.57039pt.
+ [5]
+This exam contains 5 questions with 12 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 50 points.
 This exam has a total of 0 bonus points.
 
 enddocument/afterlastpage: lastpage setting LastPage.
@@ -718,18 +775,18 @@ Package rerunfilecheck Info: File `ps03.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14662 strings out of 474116
- 229143 string characters out of 5743681
- 1931187 words of memory out of 5000000
- 36849 multiletter control sequences out of 15000+600000
- 579528 words of font info for 46 fonts, out of 8000000 for 9000
+ 14978 strings out of 474116
+ 235340 string characters out of 5743681
+ 1936187 words of memory out of 5000000
+ 37118 multiletter control sequences out of 15000+600000
+ 590553 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,10n,67p,321b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on ps03.pdf (1 page, 72122 bytes).
+ 70i,10n,67p,334b,673s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on ps03.pdf (5 pages, 258631 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 85 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
+ 28 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
