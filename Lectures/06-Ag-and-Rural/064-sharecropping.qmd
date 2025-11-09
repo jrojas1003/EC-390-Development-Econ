@@ -104,3 +104,149 @@ If a farmer is working on their own plot of land, they will decide the optimal a
     - If $VPML > \text{Opportunity Cost}$, then the farmer should [work more and dedicate themselves to this work]{.hi-green}
 - Because of this, there is [clearly one optimal labor amount]{.hi}
 :::
+
+---
+
+## Optimal Labor
+
+![](images/optimal-labor-01.png){fig-align="center"}
+
+---
+
+## Sharecropping Impact
+
+Suppose the farmer [does not own the farm]{.hp}
+
+::: {.incremental .vertical-center}
+- Further suppose that the [farmer only gets to keep 60% of the VMPL]{.hi}
+- They give up [40% of their yield]{.hi} to the farm owner as a form of payment
+:::
+
+---
+
+## Optimal Labor 
+
+![](images/optimal-labor-02.png){fig-align="center"}
+
+---
+
+## Optimal Labor
+
+![](images/optimal-labor-03.png){fig-align="center"}
+
+---
+
+## Sharecropping Impact
+
+If we think of [profit]{.h} in this market as the [difference between VMPL and Opportunity Cost]{.h}, then [profit from working on the farm is given by]{.hi-purple}
+
+::: {.fragment}
+![](images/optimal-labor-04.png){fig-align="center" height="500"}
+:::
+
+::: {.notes}
+How much is produced minus the cost of it
+:::
+
+---
+
+## Sharecropping Impact
+
+Under sharecropping, the [farmer only gets profit]{.hi-green} while the [landlord gets profit]{.hi-red}
+
+::: {.fragment}
+![](images/optimal-labor-05.png){fig-align="center" height="500"}
+:::
+
+---
+
+## Sharecropping Impact
+
+Which leaves the awkward space known as [deadweight loss from sharecropping]{.hii}
+
+::: {.fragment}
+![](images/optimal-labor-06.png){fig-align="center" height="500"}
+:::
+
+---
+
+## Sharecropping Impact
+
+::: {.align-center}
+[The existence of]{.h} [Deadweight Loss]{.hii} [means that it is inefficient]{.h}
+:::
+
+::: {.incremental}
+- But if it is [inefficient]{.h}, why do we observe it in the world?
+- Let's think of the other alternatives:
+    - The [landlord]{.hi-red} pays the [farmer]{.hi-green} a [wage]{.hi} to farm the land
+    - The [farmer]{.hi-green} pays the [landlord]{.hi-red} a [fixed-rent]{.hi} to lease the land
+:::
+
+---
+
+## Are the Alternatives Better?
+
+::: {.align-center}
+[Landlord]{.hi-red} [pays a]{.h} [wage]{.hi} [to the]{.h} [farmer]{.hi-green}
+:::
+
+::: {.incremental}
+- The [landlord]{.hi-red} pays the [farmer]{.hi-green} but [monitoring the farmer is difficult]{.hi}
+- The [farmer's]{.hi-green} income is [guaranteed]{.h}, regardless of output
+- But output remains [uncertain]{.hi} due to weather, pests, etc.
+- So the [landlord]{.hi-red} [bears all the risk]{.h} of low-yields or crop failure
+- Even more important, the [farmer]{.hi-green} has an [incentive to neglect working]{.hi}
+    - Income does not depend on output [leads to a moral hazard situation]{.hp .fragment}
+:::
+
+::: {.fragment .align-center}
+[So Moral Hazard + Full risk on the landlord makes this more inefficient]{.hi}
+:::
+
+::: {.notes}
+Moral hazard: the risk that one party will take more risks because another party will bear the costs of those risks
+:::
+
+---
+
+## Are the Alternatives Better?
+
+::: {.align-center}
+[Farmer]{.hi-green} [pays a]{.h} [fixed-rent]{.hi} [to the]{.h} [landlord]{.hi-red}
+:::
+
+::: {.incremental}
+- The [farmer]{.hi-green} keeps all profits from the farm (after paying the fixed-rent)
+- So the [farmer]{.hi-green} bears all the [production risks]{.hi}
+- If [output was low]{.hi}, the farmer may lose income or not be able to pay rent
+- For a [risk-averse]{.hi} [farmer]{.hi-green}, this is very costly and makes them not want to take action
+- The [landlord]{.hi-red} avoids all risk, but [the farmer's welfare suffers]{.hi}
+:::
+
+::: {.fragment .align-center}
+[Full risk being being on the farmer means that this is more inefficient]{.hi}
+:::
+
+::: {.notes}
+
+:::
+
+---
+
+## Summary
+
+::: {.align-center}
+[Sharecropping is the compromise]{.hi}
+:::
+
+::: {.incremental}
+- If both the [landlord]{.hi-red} and the [farmer]{.hi-green} are [risk-averse]{.hi}, then share cropping is as close as we can get to efficiency
+    - If the [farmer]{.hi-green} just payed [fixed rent]{.hi} to the [landlord]{.hi-red}, the [farmer]{.hi-green} would bears all the risk of a poor crop
+    - If the [landlord]{.hi-red} simply paid a [wage]{.hi} to the [farmer]{.hi-green}, the [landlord]{.hi-red} bears all the risk of a poor crop
+- Sharecropping [splits both the risk and income]{.hi}
+:::
+
+::: {.notes}
+This relies heavily on both agents being risk-averse. Which is a reasonable assumption given the circumstances.
+::: 

@@ -81,3 +81,61 @@ Over [2/3 of the world's poor]{.hi} live in rural areas
 # Sharecropping {.inverse .note}
 
 {{< include 064-sharecropping.qmd >}}
+
+---
+
+## Core Requirements for Ag Development
+
+::: {.vertical-center}
+[_1._ Changing Incentives to Promote Small/Medium Farmers]{.hp} 
+
+[_2._ Pricing Policies for Agricultural Output]{.hp}
+
+[_3._ Supportive Policies for Integrated Rural Development]{.hp}
+:::
+
+---
+
+## Core Requirements for Ag Development
+
+::: {.vertical-center}
+[_1._ Changing Incentives to Promote Small/Medium Farmers]{.hp} 
+
+- Institutional Incentives like Crop Insurance
+- Scale-neutral Technological Advances: Leads to higher output for all size farms (better seeds, fertilizers, etc.)
+
+[_2._ Pricing Policies for Agricultural Output]{.hp .faded .small}
+
+[_3._ Supportive Policies for Integrated Rural Development]{.hp .faded .small}
+:::
+
+---
+
+## Core Requirements for Ag Development
+
+::: {.vertical-center}
+[_1._ Changing Incentives to Promote Small/Medium Farmers]{.hp .faded .small} 
+
+[_2._ Pricing Policies for Agricultural Output]{.hp}
+
+- More employment in urban areas leads to increased demand for food
+- Increased demand for food leads to better prices for farmers' output
+  - Smaller/Medium farmers benefit from their efforts
+
+[_3._ Supportive Policies for Integrated Rural Development]{.hp .faded .small}
+:::
+
+---
+
+## Core Requirements for Ag Development
+
+::: {.vertical-center}
+[_1._ Changing Incentives to Promote Small/Medium Farmers]{.hp .faded .small} 
+
+[_2._ Pricing Policies for Agricultural Output]{.hp .faded .small}
+
+[_3._ Supportive Policies for Integrated Rural Development]{.hp}
+
+- Rural institutions being stronger (Banks, Seed and Fertilizer Distributors, Technical and Educational Programs, etc.)
+- Rural insfractructure (Storage and Marketing Facilities, Rural Transport and Feeder Road Quality, etc.)
+:::
