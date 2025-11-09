@@ -91,3 +91,16 @@ title: Lectures
   </div>
 ```
 :::
+
+## Population
+
+[Expand Slides](07-Population/070-compile.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PDF Version](07-Population/EC%20390%20-%20Lecture%2007.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+
+::: {.align-center}
+```{=html}
+  <div class="embed-container">
+    <iframe class="slide deck" src="07-Population/070-compile.html" height="420" width="750" style="border: 1px solid #2e3846;"></iframe>
+  </div>
+```
+:::
