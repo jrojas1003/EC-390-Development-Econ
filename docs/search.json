@@ -81,7 +81,7 @@
     "href": "Lectures/list.html#agriculture-and-rural-development",
     "title": "Lectures",
     "section": "Agriculture and Rural Development",
-    "text": "Agriculture and Rural Development\nExpand Slides"
+    "text": "Agriculture and Rural Development\nExpand Slides PDF Version"
   },
   {
     "objectID": "Lectures/06-Ag-and-Rural/063-microeconomics.html",
@@ -4375,6 +4375,111 @@
     "text": "Optimal Labor\nIf a farmer is working on their own plot of land, they will decide the optimal amount of hours to work\n\nBut how?\n\n\n\nBy finding where marginal product of labor equals the value of the next best alternative Why?\n\nIf \\(VPML &lt; \\text{Opportunity Cost}\\), then the farmer should stop working and do something else\nIf \\(VPML &gt; \\text{Opportunity Cost}\\), then the farmer should work more and dedicate themselves to this work\n\nBecause of this, there is clearly one optimal labor amount"
   },
   {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#optimal-labor-1",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#optimal-labor-1",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Optimal Labor",
+    "text": "Optimal Labor"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\nSuppose the farmer does not own the farm\n\n\nFurther suppose that the farmer only gets to keep 60% of the VMPL\nThey give up 40% of their yield to the farm owner as a form of payment"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#optimal-labor-2",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#optimal-labor-2",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Optimal Labor",
+    "text": "Optimal Labor"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#optimal-labor-3",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#optimal-labor-3",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Optimal Labor",
+    "text": "Optimal Labor\n\n\nFarmer has an incentive to give lower effort"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact-1",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact-1",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\nIf we think of profit in this market as the difference between VMPL and Opportunity Cost, then profit from working on the farm is given by\n\n\n\n\n\n\n\n\nHow much is produced minus the cost of it"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact-2",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact-2",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\nUnder sharecropping, the farmer only gets profit while the landlord gets profit"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact-3",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact-3",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\nWhich leaves the awkward space known as deadweight loss from sharecropping"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact-4",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#sharecropping-impact-4",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\n\nThe existence of Deadweight Loss means that it is inefficient\n\n\n\nBut if it is inefficient, why do we observe it in the world?\nLet’s think of the other alternatives:\n\nThe landlord pays the farmer a wage to farm the land\nThe farmer pays the landlord a fixed-rent to lease the land"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#are-the-alternatives-better",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#are-the-alternatives-better",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Are the Alternatives Better?",
+    "text": "Are the Alternatives Better?\n\nLandlord pays a wage to the farmer\n\n\n\nThe landlord pays the farmer but monitoring the farmer is difficult\nThe farmer’s income is guaranteed, regardless of output\nBut output remains uncertain due to weather, pests, etc.\nSo the landlord bears all the risk of low-yields or crop failure\nEven more important, the farmer has an incentive to neglect working\n\nIncome does not depend on output leads to a moral hazard situation\n\n\n\n\nSo Moral Hazard + Full risk on the landlord makes this more inefficient\n\n\nMoral hazard: the risk that one party will take more risks because another party will bear the costs of those risks"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#are-the-alternatives-better-1",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#are-the-alternatives-better-1",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Are the Alternatives Better?",
+    "text": "Are the Alternatives Better?\n\nFarmer pays a fixed-rent to the landlord\n\n\n\nThe farmer keeps all profits from the farm (after paying the fixed-rent)\nSo the farmer bears all the production risks\nIf output was low, the farmer may lose income or not be able to pay rent\nFor a risk-averse farmer, this is very costly and makes them not want to take action\nThe landlord avoids all risk, but the farmer’s welfare suffers\n\n\n\nFull risk being being on the farmer means that this is more inefficient"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#summary",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#summary",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Summary",
+    "text": "Summary\n\nSharecropping is the compromise\n\n\n\nIf both the landlord and the farmer are risk-averse, then share cropping is as close as we can get to efficiency\n\nIf the farmer just payed fixed rent to the landlord, the farmer would bears all the risk of a poor crop\nIf the landlord simply paid a wage to the farmer, the landlord bears all the risk of a poor crop\n\nSharecropping splits both the risk and income\n\n\n\nThis relies heavily on both agents being risk-averse. Which is a reasonable assumption given the circumstances."
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#core-requirements-for-ag-development",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#core-requirements-for-ag-development",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Core Requirements for Ag Development",
+    "text": "Core Requirements for Ag Development\n\n1. Changing Incentives to Promote Small/Medium Farmers\n2. Pricing Policies for Agricultural Output\n3. Supportive Policies for Integrated Rural Development"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#core-requirements-for-ag-development-1",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#core-requirements-for-ag-development-1",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Core Requirements for Ag Development",
+    "text": "Core Requirements for Ag Development\n\n1. Changing Incentives to Promote Small/Medium Farmers\n\nInstitutional Incentives like Crop Insurance\nScale-neutral Technological Advances: Leads to higher output for all size farms (better seeds, fertilizers, etc.)\n\n2. Pricing Policies for Agricultural Output\n3. Supportive Policies for Integrated Rural Development"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#core-requirements-for-ag-development-2",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#core-requirements-for-ag-development-2",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Core Requirements for Ag Development",
+    "text": "Core Requirements for Ag Development\n\n1. Changing Incentives to Promote Small/Medium Farmers\n2. Pricing Policies for Agricultural Output\n\nMore employment in urban areas leads to increased demand for food\nIncreased demand for food leads to better prices for farmers’ output\n\nSmaller/Medium farmers benefit from their efforts\n\n\n3. Supportive Policies for Integrated Rural Development"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/060-compile.html#core-requirements-for-ag-development-3",
+    "href": "Lectures/06-Ag-and-Rural/060-compile.html#core-requirements-for-ag-development-3",
+    "title": "Agricultural Transformation and Rural Development",
+    "section": "Core Requirements for Ag Development",
+    "text": "Core Requirements for Ag Development\n\n1. Changing Incentives to Promote Small/Medium Farmers\n2. Pricing Policies for Agricultural Output\n3. Supportive Policies for Integrated Rural Development\n\nRural institutions being stronger (Banks, Seed and Fertilizer Distributors, Technical and Educational Programs, etc.)\nRural insfractructure (Storage and Marketing Facilities, Rural Transport and Feeder Road Quality, etc.)"
+  },
+  {
     "objectID": "Lectures/06-Ag-and-Rural/062-green-revolution.html",
     "href": "Lectures/06-Ag-and-Rural/062-green-revolution.html",
     "title": "EC 390 - Development Econ",
@@ -4536,17 +4641,94 @@
     "text": "Optimal Labor\nIf a farmer is working on their own plot of land, they will decide the optimal amount of hours to work\n\nBut how?\n\n\n\nBy finding where marginal product of labor equals the value of the next best alternative Why?\n\nIf \\(VPML &lt; \\text{Opportunity Cost}\\), then the farmer should stop working and do something else\nIf \\(VPML &gt; \\text{Opportunity Cost}\\), then the farmer should work more and dedicate themselves to this work\n\nBecause of this, there is clearly one optimal labor amount"
   },
   {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#optimal-labor-1",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#optimal-labor-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Optimal Labor",
+    "text": "Optimal Labor"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact",
+    "title": "EC 390 - Development Econ",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\nSuppose the farmer does not own the farm\n\n\nFurther suppose that the farmer only gets to keep 60% of the VMPL\nThey give up 40% of their yield to the farm owner as a form of payment"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#optimal-labor-2",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#optimal-labor-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Optimal Labor",
+    "text": "Optimal Labor"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#optimal-labor-3",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#optimal-labor-3",
+    "title": "EC 390 - Development Econ",
+    "section": "Optimal Labor",
+    "text": "Optimal Labor\n\n\n\n\n\n\nFarmer has an incentive to give lower effort"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact-1",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\nIf we think of profit in this market as the difference between VMPL and Opportunity Cost, then profit from working on the farm is given by\n\n\n\n\n\n\n\n\nHow much is produced minus the cost of it"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact-2",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\nUnder sharecropping, the farmer only gets profit while the landlord gets profit"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact-3",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact-3",
+    "title": "EC 390 - Development Econ",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\nWhich leaves the awkward space known as deadweight loss from sharecropping"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact-4",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#sharecropping-impact-4",
+    "title": "EC 390 - Development Econ",
+    "section": "Sharecropping Impact",
+    "text": "Sharecropping Impact\n\nThe existence of Deadweight Loss means that it is inefficient\n\n\n\nBut if it is inefficient, why do we observe it in the world?\nLet’s think of the other alternatives:\n\nThe landlord pays the farmer a wage to farm the land\nThe farmer pays the landlord a fixed-rent to lease the land"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#are-the-alternatives-better",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#are-the-alternatives-better",
+    "title": "EC 390 - Development Econ",
+    "section": "Are the Alternatives Better?",
+    "text": "Are the Alternatives Better?\n\nLandlord pays a wage to the farmer\n\n\n\nThe landlord pays the farmer but monitoring the farmer is difficult\nThe farmer’s income is guaranteed, regardless of output\nBut output remains uncertain due to weather, pests, etc.\nSo the landlord bears all the risk of low-yields or crop failure\nEven more important, the farmer has an incentive to neglect working\n\nIncome does not depend on output leads to a moral hazard situation\n\n\n\n\nSo Moral Hazard + Full risk on the landlord makes this more inefficient\n\n\nMoral hazard: the risk that one party will take more risks because another party will bear the costs of those risks"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#are-the-alternatives-better-1",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#are-the-alternatives-better-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Are the Alternatives Better?",
+    "text": "Are the Alternatives Better?\n\nFarmer pays a fixed-rent to the landlord\n\n\n\nThe farmer keeps all profits from the farm (after paying the fixed-rent)\nSo the farmer bears all the production risks\nIf output was low, the farmer may lose income or not be able to pay rent\nFor a risk-averse farmer, this is very costly and makes them not want to take action\nThe landlord avoids all risk, but the farmer’s welfare suffers\n\n\n\nFull risk being being on the farmer means that this is more inefficient"
+  },
+  {
+    "objectID": "Lectures/06-Ag-and-Rural/064-sharecropping.html#summary",
+    "href": "Lectures/06-Ag-and-Rural/064-sharecropping.html#summary",
+    "title": "EC 390 - Development Econ",
+    "section": "Summary",
+    "text": "Summary\n\nSharecropping is the compromise\n\n\n\nIf both the landlord and the farmer are risk-averse, then share cropping is as close as we can get to efficiency\n\nIf the farmer just payed fixed rent to the landlord, the farmer would bears all the risk of a poor crop\nIf the landlord simply paid a wage to the farmer, the landlord bears all the risk of a poor crop\n\nSharecropping splits both the risk and income\n\n\n\nThis relies heavily on both agents being risk-averse. Which is a reasonable assumption given the circumstances."
+  },
+  {
     "objectID": "Readings/list.html",
     "href": "Readings/list.html",
     "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "Chapter 01 - Introducing Economic Development: A Global Perspective\n\n\nChapter 02 - Comparative Economic Development\n\n\nChapter 03 - Classic Theories of Economic Growth and Development\n\n\nChapter 04 - Contemporary Models of Development and Underdevelopment\n\n\nChapter 05 - Poverty, Inequality, and Development\n\n\nChapter 08 - Human Capital: Education and Health in Economic Development\n\n\nChapter 09 - Agricultural Transformation and Rural Development"
+    "text": "Chapter 01 - Introducing Economic Development: A Global Perspective\n\n\nChapter 02 - Comparative Economic Development\n\n\nChapter 03 - Classic Theories of Economic Growth and Development\n\n\nChapter 04 - Contemporary Models of Development and Underdevelopment\n\n\nChapter 05 - Poverty, Inequality, and Development\n\n\nChapter 08 - Human Capital: Education and Health in Economic Development\n\n\nChapter 09 - Agricultural Transformation and Rural Development\n\n\nChapter 06 - Comparative Economic Development"
   },
   {
     "objectID": "Readings/list.html#readings",
     "href": "Readings/list.html#readings",
     "title": "EC 390 - Development Econ",
     "section": "",
-    "text": "Chapter 01 - Introducing Economic Development: A Global Perspective\n\n\nChapter 02 - Comparative Economic Development\n\n\nChapter 03 - Classic Theories of Economic Growth and Development\n\n\nChapter 04 - Contemporary Models of Development and Underdevelopment\n\n\nChapter 05 - Poverty, Inequality, and Development\n\n\nChapter 08 - Human Capital: Education and Health in Economic Development\n\n\nChapter 09 - Agricultural Transformation and Rural Development"
+    "text": "Chapter 01 - Introducing Economic Development: A Global Perspective\n\n\nChapter 02 - Comparative Economic Development\n\n\nChapter 03 - Classic Theories of Economic Growth and Development\n\n\nChapter 04 - Contemporary Models of Development and Underdevelopment\n\n\nChapter 05 - Poverty, Inequality, and Development\n\n\nChapter 08 - Human Capital: Education and Health in Economic Development\n\n\nChapter 09 - Agricultural Transformation and Rural Development\n\n\nChapter 06 - Comparative Economic Development"
   }
 ]
