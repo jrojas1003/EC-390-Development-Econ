@@ -134,6 +134,10 @@ Suppose the farmer [does not own the farm]{.hp}
 
 ![](images/optimal-labor-03.png){fig-align="center"}
 
+::: {.notes}
+Farmer has an incentive to give lower effort 
+:::
+
 ---
 
 ## Sharecropping Impact
