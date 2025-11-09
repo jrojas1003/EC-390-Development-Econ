@@ -1,3 +1,175 @@
 ---
 name: theories
 ---
+
+## History of Population Growth 
+
+<br>
+
+![](images/pop-growth.png){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+---
+
+## Which Areas Are Growing the Fastest?
+
+![](images/growth-area.png){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+---
+
+## Population Distributions
+
+![](images/pop-distribution.png){fig-align="center"}
+
+::: {.notes}
+Notice how the youth is concentrated in lower income countries
+:::
+
+---
+
+## China and the One Child Policy
+
+<iframe src="https://www.populationpyramid.net/china/1980/" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
+::: {.notes}
+1980 to 2010 to 2050 (forecast)
+
+Policy was from 1979 to 2015
+:::
+
+---
+
+## Population Differences
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="33%"}
+[Phillipines (2025)]{.h .align-center}
+
+![](images/phillipines-2025.png)
+:::
+
+::: {.column width="33%"}
+[Costa Rica (2025)]{.h .align-center}
+
+![](images/costa-rica-2025.png)
+:::
+
+::: {.column width="33%"}
+[Japan (2025)]{.h .align-center}
+
+![](images/japan-2025.png)
+:::
+
+::::
+
+---
+
+## Age Structure and Dependency Burden
+
+::: {.align-center}
+[Every country, in every stage of development, has a]{.h} [dependency burden]{.hp}
+:::
+
+::: {.incremental}
+- [Definition:]{.h} The ratio of non-working aged individuals to working individuals
+- In [Developed Nations]{.hp}, population growth has slowed. 
+    - There is a [large dependency burden]{.h} due to the [large number of retirees]{.hp} relative to working age individuals
+- In [Developing Nations]{.hi}, poopulation growth is usually high.
+    - There is a [large dependency burden]{.h} due to the [large number of children]{.hi} relative to working age individuals
+:::
+
+---
+
+## Poverty and Fertility
+
+[North America]{.hi .align-center}
+
+![](images/north-america-fertility.png){fig-align="center"}
+
+---
+
+## Poverty and Fertility
+
+[Africa]{.hi .align-center}
+
+![](images/africa-fertility.png){fig-align="center"}
+
+---
+
+## Poverty and Fertility
+
+[What is the relationship between poverty and fertility?]{.hi .align-center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/north-america-fertility.png){fig-align="center"}
+
+[North America]{.hi .align-center}
+:::
+
+::: {.column width="50%"}
+![](images/africa-fertility.png){fig-align="center"}
+
+[Africa]{.hi .align-center}
+:::
+
+::::
+
+::: {.align-center .fragment}
+[Positive Correlation but]{.h} [causality]{.hp} [is unclear]{.h}
+:::
+
+---
+
+## Development and Fertility
+
+::: {.align-center}
+[Not surprisingly]{.h} [development and fertility]{.hi} [are negatively correlated]{.h}
+:::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/north-america-hdi.png){fig-align="center"}
+
+[North America]{.hi .align-center}
+:::
+
+::: {.column width="50%"}
+![](images/africa-hdi.png){fig-align="center"}
+
+[Africa]{.hi .align-center}
+:::
+
+::::
+
+::: {.notes}
+
+:::
+
+---
+
+## Consequences of High Fertility
+
+The latest empirical research points out that high fertility is a concern with possible severe consequences
+
+::: {.fragment}
+- Fast population growth tends to lower per capita economic growth
+- Increased poverty and inequality
+- Reduced education
+- Health outcomes (risky pregnancies and dangers in frequent births)
+- Food shortages
+- Environmental issues (increased pollution)
+- International migration
+:::

@@ -2,3 +2,116 @@
 name: demographic transition
 ---
 
+## Fertility Rates Eventually Decline
+
+All contemporary developed nations have more or less passed through the same [four stages of modern population history]{.hi}
+
+::: {.fragment}
+
+::: {.vertical-center}
+[_Stage 01._]{.hp .note} [High Birth Rates and High Death Rates]{.hi}
+
+[_Stage 02._]{.hp .note} [High Birth Rates with Decline in Death Rates]{.hi} [(Transition)]{.h .small}
+
+[_Stage 03._]{.hp .note} [Declining Birth Rates and Low Death Rates]{.hi}
+
+[_Stage 04._]{.hp .note} [Low Birth Rates and Low Death Rates]{.hi}
+:::
+
+:::
+
+---
+
+## Demographic Transtion Stages
+
+All contemporary developed nations have more or less passed through the same [four stages of modern population history]{.hi}
+
+<br>
+
+[_Stage 01._]{.hp .note} [High Birth Rates and High Death Rates]{.hi}
+
+- Populations grow very slowly because [both birth rates and death rates are high]{.h} and roughly balance each other
+- High mortality comes from poor sanitation, limited medical care, and frequent famines or epidemics
+
+::: {.faded .small}
+[_Stage 02._]{.hp .note} [High Birth Rates with Decline in Death Rates]{.hi} [(Transition)]{.h}
+
+[_Stage 03._]{.hp .note} [Declining Birth Rates and Low Death Rates]{.hi}
+
+[_Stage 04._]{.hp .note} [Low Birth Rates and Low Death Rates]{.hi}
+:::
+
+---
+
+## Demographic Transtion Stages
+
+All contemporary developed nations have more or less passed through the same [four stages of modern population history]{.hi}
+
+<br>
+
+::: {.faded .small}
+[_Stage 01._]{.hp .note} [High Birth Rates and High Death Rates]{.hi}
+:::
+
+[_Stage 02._]{.hp .note} [High Birth Rates with Decline in Death Rates]{.hi} [(Transition)]{.h}
+
+- Increased access to medicine, sanitation, and stronger food supply sources [reduce death rates sharply]{.h}
+- Birth rates remain high for a while, [causing a population boom or “demographic explosion”]{.h}
+
+::: {.faded .small}
+[_Stage 03._]{.hp .note} [Declining Birth Rates and Low Death Rates]{.hi}
+
+[_Stage 04._]{.hp .note} [Low Birth Rates and Low Death Rates]{.hi}
+:::
+
+---
+
+## Demographic Transtion Stages
+
+All contemporary developed nations have more or less passed through the same [four stages of modern population history]{.hi}
+
+<br>
+
+::: {.faded .small}
+[_Stage 01._]{.hp .note} [High Birth Rates and High Death Rates]{.hi}
+
+[_Stage 02._]{.hp .note} [High Birth Rates with Decline in Death Rates]{.hi} [(Transition)]{.h}
+:::
+
+[_Stage 03._]{.hp .note} [Declining Birth Rates and Low Death Rates]{.hi}
+
+- As living standards rise, education and urbanization lead [families to have fewer children]{.h}
+
+- [Population growth slows and stabilizes]{.h}, creating the conditions typical of modern developed economies
+
+::: {.faded .small}
+[_Stage 04._]{.hp .note} [Low Birth Rates and Low Death Rates]{.hi}
+:::
+
+---
+
+## Demographic Transtion Stages
+
+All contemporary developed nations have more or less passed through the same [four stages of modern population history]{.hi}
+
+<br>
+
+::: {.faded .small}
+[_Stage 01._]{.hp .note} [High Birth Rates and High Death Rates]{.hi}
+
+[_Stage 02._]{.hp .note} [High Birth Rates with Decline in Death Rates]{.hi} [(Transition)]{.h}
+
+[_Stage 03._]{.hp .note} [Declining Birth Rates and Low Death Rates]{.hi}
+:::
+
+[_Stage 04._]{.hp .note} [Low Birth Rates and Low Death Rates]{.hi}
+
+- Societies experience stable or even shrinking populations as [fertility may fall below replacement levels]{.h}
+
+- [Aging populations and slower growth become key]{.h} social and economic challenges
+
+---
+
+##
+
+![](images/demo-transition-model.webp){fig-align="center"}

@@ -22,7 +22,13 @@ $selection-bg: #5E81AC !default;
 $body-bg: #4c566a !default;
 $code-bg: #F5F5F5 !default;
 $code-color: #5E81AC !default;
-
+$uo-green: #007030 !default;
+$uo-yellow: #FEE11A !default;
+$light-green: #D1D9CE;
+$cream: #f4f1ea;
+$gray: #64605f;
+$purple: #9158A2;
+$orange: #ad7237;
 /*-- scss:rules --*/
 
 
@@ -276,3 +282,28 @@ section.has-light-background h1 {
   color: #ffffff !important;
 }
 
+// Button Stuff
+:root {
+  --uo-green: #007030;
+  --uo-yellow: #FEE11A;
+}
+
+.reveal a.button {
+  background-color: var(--uo-green);
+  color: var(--uo-yellow);
+  padding: 2px 10px;      /* ↓ smaller padding */
+  border-radius: 4px;     /* ↓ slightly smaller corners */
+  text-decoration: none;
+  font-weight: 600;       /* ↓ a bit less bold for balance */
+  font-size: 0.50em;      /* ↓ smaller text */
+  display: inline-block;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  transition: background-color 0.2s ease, transform 0.1s ease, box-shadow 0.2s ease;
+}
+
+.reveal a.button:hover {
+  background-color: var(--uo-green);
+  color: #fffecb;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}

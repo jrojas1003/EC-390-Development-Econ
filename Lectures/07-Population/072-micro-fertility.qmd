@@ -2,3 +2,191 @@
 name: micro of fertility
 ---
 
+## Microeconomic Theory of Fertility
+
+Empirical evidence to support the idea that [economic conditions cause fertility rates to be high]{.hi}
+
+::: {.fragment}
+- Families have a [limited amount of resources]{.hp}, which can be used to support children or parents (a budget)
+- The more children parents decide to have, the [less resources]{.hp} parents have for themselves
+- Parents have a tradeoff to consider: [children provide benefits, but they also have a cost]{.hi .fragment}
+:::
+
+---
+
+## Microeconomic Theory of Fertility
+
+Consider the following example
+
+::: {.incremental}
+- Suppose a household has an income of $30
+- There are only two goods to consider:
+    - [Food]{.hi-red} and [Children]{.hi-teal}
+    - [Food]{.hi-red} is a [normal good]{.h} with price equal to $5
+    - [Children]{.hi-teal} are an [inferior good]{.h} with price equal to $6
+- The household has preferences over [food]{.hi-red} and [children]{.hi-teal}, which we represent with [indifference curves]{.hi}
+:::
+
+---
+
+## Indifference Curves
+
+![](images/indiff-curves.png){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+---
+
+## Indifference Curves (Higher Utility)
+
+![](images/indiff-curves-02.png){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+---
+
+## Finding the Budget Line
+
+We know the household has a total of [$30]{.hi} to spend and they can spend it either on [Food]{.hi-red} or [Children]{.hi-teal}
+
+::: {.incremental}
+- If they buy only [Food]{.hi-red}, they can afford [6 units]{.hi-red} [{{< fa arrow-right >}} $\dfrac{30}{5} = 6$]{.h .fragment}
+- If they "buy" only [Children]{.hi-teal}, they can afford [5 kids]{.hi-teal} [{{< fa arrow-right >}} $\dfrac{30}{6} = 5$]{.h .fragment}
+- With these two points, we can draw the [budget line]{.hi}
+:::
+
+## Budget Line
+
+![](images/budget.png){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+---
+
+## Optimal Choice
+
+![](images/max-point-01.png){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+---
+
+## Higher Budget
+
+Now let's say that the [households income increaes]{.hi} to $60
+
+- The price of [both goods remains the same]{.hi}
+
+::: {.incremental}
+- Now, if they buy only [Food]{.hi-red}, they can afford [12 units]{.hi-red} [{{< fa arrow-right >}} $\dfrac{60}{5} = 12$]{.h .fragment}
+- And, if they "buy" only [Children]{.hi-teal}, they can afford [10 kids]{.hi-teal} [{{< fa arrow-right >}} $\dfrac{60}{6} = 10$]{.h .fragment}
+- With these two points, we can draw the [new]{.hi} budget line
+:::
+
+---
+
+## Higher Budget
+
+![](images/max-point-02.png){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+---
+
+## Optimized Choice (Again)
+
+![](images/max-point-03.png){fig-align="center"}
+
+::: {.notes}
+
+:::
+
+---
+
+## Microeconomics of Fertility Decisions
+
+![](images/max-point-03.png){fig-align="center"}
+
+- When income increased, the household [was better off buying more food and fewer children]{.hi}
+- The household got wealthier, and kids are an inferior good 
+
+---
+
+## Children as an Inferior Good?
+
+[This is generally what we observe]{.hi .align-center}
+
+::: {.incremental}
+- As income per capita increases, birth rates fall
+- Parents face a trade-off:
+    - There is a finite amount of resources
+    - [Example]{.h} Income is limited
+        - Do you [have a lot of children and invest very little in each?]{.hi}
+        - Do you [have few kids and invest a lot in each?]{.hi}
+- This is known as the ["Quality vs Quantity Trade-Off"]{.hp}
+:::
+
+---
+
+<!-- ## Microeconomics of Fertility Decisions
+
+Let's consider the [demand for Surviving Children]{.hi} 
+
+$$
+    C_{d} = f(Y, P_{c}, P_{x}, t_{x})
+$$
+
+:::: {.columns}
+
+::: {.column width="50%" .small}
+- $Y$: Household income
+- $P_{c}$: "Net" price of children
+:::
+
+::: {.column width="50%" .small}
+- $P_{x}$: Price of all other goods
+- $t_{x}$: Preference for goods relative to children
+:::
+
+::::
+
+::: {.fragment}
+[We can expect the following relationships:]{.hi}
+:::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.incremental .align-center}
+- $\dfrac{\partial C_{d}}{\partial Y} > 0$
+- $\dfrac{\partial C_{d}}{\partial P_{c}} < 0$
+:::
+
+:::
+
+::: {.column width="50%" .align-center}
+
+::: {.incremental}
+- $\dfrac{\partial C_{d}}{\partial P_{x}} > 0$
+- $\dfrac{\partial C_{d}}{\partial t_{x}} < 0$
+:::
+
+:::
+
+::::
+
+::: {.notes}
+$P_{c}$ difference between anticipated costs and benefits
+::: -->
+
