@@ -40,6 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-047acea2f07c4c3e58575a36bff9b595.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -125,8 +156,219 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<section id="microeconomic-theory-of-fertility" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomic-theory-of-fertility">Microeconomic Theory of Fertility</h2>
+<p>Empirical evidence to support the idea that <span class="hi">economic conditions cause fertility rates to be high</span></p>
+<div class="fragment">
+<ul>
+<li>Families have a <span class="hp">limited amount of resources</span>, which can be used to support children or parents (a budget)</li>
+<li>The more children parents decide to have, the <span class="hp">less resources</span> parents have for themselves</li>
+<li>Parents have a tradeoff to consider: <span class="hi fragment">children provide benefits, but they also have a cost</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="microeconomic-theory-of-fertility-1" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomic-theory-of-fertility-1">Microeconomic Theory of Fertility</h2>
+<p>Consider the following example</p>
+<div class="incremental">
+<ul class="incremental">
+<li>Suppose a household has an income of $30</li>
+<li>There are only two goods to consider:
+<ul class="incremental">
+<li><span class="hi-red">Food</span> and <span class="hi-teal">Children</span></li>
+<li><span class="hi-red">Food</span> is a <span class="h">normal good</span> with price equal to $5</li>
+<li><span class="hi-teal">Children</span> are an <span class="h">inferior good</span> with price equal to $6</li>
+</ul></li>
+<li>The household has preferences over <span class="hi-red">food</span> and <span class="hi-teal">children</span>, which we represent with <span class="hi">indifference curves</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="indifference-curves" class="level2">
+<h2 class="anchored" data-anchor-id="indifference-curves">Indifference Curves</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/indiff-curves.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="notes">
+
+</div>
+<hr>
+</section>
+<section id="indifference-curves-higher-utility" class="level2">
+<h2 class="anchored" data-anchor-id="indifference-curves-higher-utility">Indifference Curves (Higher Utility)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/indiff-curves-02.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="notes">
+
+</div>
+<hr>
+</section>
+<section id="finding-the-budget-line" class="level2">
+<h2 class="anchored" data-anchor-id="finding-the-budget-line">Finding the Budget Line</h2>
+<p>We know the household has a total of <span class="hi">$30</span> to spend and they can spend it either on <span class="hi-red">Food</span> or <span class="hi-teal">Children</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>If they buy only <span class="hi-red">Food</span>, they can afford <span class="hi-red">6 units</span> <span class="h fragment"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\(\dfrac{30}{5} = 6\)</span></span></li>
+<li>If they “buy” only <span class="hi-teal">Children</span>, they can afford <span class="hi-teal">5 kids</span> <span class="h fragment"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\(\dfrac{30}{6} = 5\)</span></span></li>
+<li>With these two points, we can draw the <span class="hi">budget line</span></li>
+</ul>
+</div>
+</section>
+<section id="budget-line" class="level2">
+<h2 class="anchored" data-anchor-id="budget-line">Budget Line</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/budget.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="notes">
+
+</div>
+<hr>
+</section>
+<section id="optimal-choice" class="level2">
+<h2 class="anchored" data-anchor-id="optimal-choice">Optimal Choice</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/max-point-01.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="notes">
+
+</div>
+<hr>
+</section>
+<section id="higher-budget" class="level2">
+<h2 class="anchored" data-anchor-id="higher-budget">Higher Budget</h2>
+<p>Now let’s say that the <span class="hi">households income increaes</span> to $60</p>
+<ul>
+<li>The price of <span class="hi">both goods remains the same</span></li>
+</ul>
+<div class="incremental">
+<ul class="incremental">
+<li>Now, if they buy only <span class="hi-red">Food</span>, they can afford <span class="hi-red">12 units</span> <span class="h fragment"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\(\dfrac{60}{5} = 12\)</span></span></li>
+<li>And, if they “buy” only <span class="hi-teal">Children</span>, they can afford <span class="hi-teal">10 kids</span> <span class="h fragment"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\(\dfrac{60}{6} = 10\)</span></span></li>
+<li>With these two points, we can draw the <span class="hi">new</span> budget line</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="higher-budget-1" class="level2">
+<h2 class="anchored" data-anchor-id="higher-budget-1">Higher Budget</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/max-point-02.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="notes">
+
+</div>
+<hr>
+</section>
+<section id="optimized-choice-again" class="level2">
+<h2 class="anchored" data-anchor-id="optimized-choice-again">Optimized Choice (Again)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/max-point-03.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="notes">
+
+</div>
+<hr>
+</section>
+<section id="microeconomics-of-fertility-decisions" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomics-of-fertility-decisions">Microeconomics of Fertility Decisions</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/max-point-03.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<ul>
+<li>When income increased, the household <span class="hi">was better off buying more food and fewer children</span></li>
+<li>The household got wealthier, and kids are an inferior good</li>
+</ul>
+<hr>
+</section>
+<section id="children-as-an-inferior-good" class="level2">
+<h2 class="anchored" data-anchor-id="children-as-an-inferior-good">Children as an Inferior Good?</h2>
+<p><span class="hi align-center">This is generally what we observe</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>As income per capita increases, birth rates fall</li>
+<li>Parents face a trade-off:
+<ul class="incremental">
+<li>There is a finite amount of resources</li>
+<li><span class="h">Example</span> Income is limited
+<ul class="incremental">
+<li>Do you <span class="hi">have a lot of children and invest very little in each?</span></li>
+<li>Do you <span class="hi">have few kids and invest a lot in each?</span></li>
+</ul></li>
+</ul></li>
+<li>This is known as the <span class="hp">“Quality vs Quantity Trade-Off”</span></li>
+</ul>
+</div>
+<hr>
+<!-- ## Microeconomics of Fertility Decisions
+
+Let's consider the [demand for Surviving Children]{.hi} 
+
+$$
+    C_{d} = f(Y, P_{c}, P_{x}, t_{x})
+$$
+
+:::: {.columns}
+
+::: {.column width="50%" .small}
+- $Y$: Household income
+- $P_{c}$: "Net" price of children
+:::
+
+::: {.column width="50%" .small}
+- $P_{x}$: Price of all other goods
+- $t_{x}$: Preference for goods relative to children
+:::
+
+::::
+
+::: {.fragment}
+[We can expect the following relationships:]{.hi}
+:::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.incremental .align-center}
+- $\dfrac{\partial C_{d}}{\partial Y} > 0$
+- $\dfrac{\partial C_{d}}{\partial P_{c}} < 0$
+:::
+
+:::
+
+::: {.column width="50%" .align-center}
+
+::: {.incremental}
+- $\dfrac{\partial C_{d}}{\partial P_{x}} > 0$
+- $\dfrac{\partial C_{d}}{\partial t_{x}} < 0$
+:::
+
+:::
+
+::::
+
+::: {.notes}
+$P_{c}$ difference between anticipated costs and benefits
+::: -->
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

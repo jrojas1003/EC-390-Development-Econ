@@ -7,7 +7,9 @@
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.39">
 
   <meta name="author" content="Jose Rojas-Fallas">
@@ -31,7 +33,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-c5e14714ffc9ec0ce59f011fd588f7d8.css">
+  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-c918d1cb0b2bb56d4fc2f4733154f38e.css">
   <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -142,21 +144,526 @@ Jose Rojas-Fallas
 
   <p class="date">2025</p>
 </section>
+<section>
 <section id="theories-of-population-growth" class="title-slide slide level1 inverse note center">
 <h1>Theories of Population Growth</h1>
 
 </section>
+<section id="history-of-population-growth" class="slide level2">
+<h2>History of Population Growth</h2>
+<p><br></p>
 
+<img data-src="images/pop-growth.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="which-areas-are-growing-the-fastest" class="slide level2">
+<h2>Which Areas Are Growing the Fastest?</h2>
+
+<img data-src="images/growth-area.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="population-distributions" class="slide level2">
+<h2>Population Distributions</h2>
+
+<img data-src="images/pop-distribution.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+<p>Notice how the youth is concentrated in lower income countries</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="china-and-the-one-child-policy" class="slide level2">
+<h2>China and the One Child Policy</h2>
+<iframe src="https://www.populationpyramid.net/china/1980/" loading="lazy" style="width: 100%; height: 600px; border: 0px none;" allow="web-share; clipboard-write">
+</iframe>
+<aside class="notes">
+<p>1980 to 2010 to 2050 (forecast)</p>
+<p>Policy was from 1979 to 2015</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="population-differences" class="slide level2">
+<h2>Population Differences</h2>
+<p><br></p>
+<div class="columns">
+<div class="column" style="width:33%;">
+<p><span class="h align-center">Phillipines (2025)</span></p>
+<p><img data-src="images/phillipines-2025.png"></p>
+</div><div class="column" style="width:33%;">
+<p><span class="h align-center">Costa Rica (2025)</span></p>
+<p><img data-src="images/costa-rica-2025.png"></p>
+</div><div class="column" style="width:33%;">
+<p><span class="h align-center">Japan (2025)</span></p>
+<p><img data-src="images/japan-2025.png"></p>
+</div></div>
+</section>
+<section id="age-structure-and-dependency-burden" class="slide level2">
+<h2>Age Structure and Dependency Burden</h2>
+<div class="align-center">
+<p><span class="h">Every country, in every stage of development, has a</span> <span class="hp">dependency burden</span></p>
+</div>
+<div>
+<ul>
+<li class="fragment"><span class="h">Definition:</span> The ratio of non-working aged individuals to working individuals</li>
+<li class="fragment">In <span class="hp">Developed Nations</span>, population growth has slowed.
+<ul>
+<li class="fragment">There is a <span class="h">large dependency burden</span> due to the <span class="hp">large number of retirees</span> relative to working age individuals</li>
+</ul></li>
+<li class="fragment">In <span class="hi">Developing Nations</span>, poopulation growth is usually high.
+<ul>
+<li class="fragment">There is a <span class="h">large dependency burden</span> due to the <span class="hi">large number of children</span> relative to working age individuals</li>
+</ul></li>
+</ul>
+</div>
+</section>
+<section id="poverty-and-fertility" class="slide level2">
+<h2>Poverty and Fertility</h2>
+<p><span class="hi align-center">North America</span></p>
+
+<img data-src="images/north-america-fertility.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="poverty-and-fertility-1" class="slide level2">
+<h2>Poverty and Fertility</h2>
+<p><span class="hi align-center">Africa</span></p>
+
+<img data-src="images/africa-fertility.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="poverty-and-fertility-2" class="slide level2">
+<h2>Poverty and Fertility</h2>
+<p><span class="hi align-center">What is the relationship between poverty and fertility?</span></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/north-america-fertility.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+<p><span class="hi align-center">North America</span></p>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/africa-fertility.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+<p><span class="hi align-center">Africa</span></p>
+</div></div>
+<div class="align-center fragment">
+<p><span class="h">Positive Correlation but</span> <span class="hp">causality</span> <span class="h">is unclear</span></p>
+</div>
+</section>
+<section id="development-and-fertility" class="slide level2">
+<h2>Development and Fertility</h2>
+<div class="align-center">
+<p><span class="h">Not surprisingly</span> <span class="hi">development and fertility</span> <span class="h">are negatively correlated</span></p>
+</div>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/north-america-hdi.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+<p><span class="hi align-center">North America</span></p>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/africa-hdi.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+<p><span class="hi align-center">Africa</span></p>
+</div></div>
+<aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="consequences-of-high-fertility" class="slide level2">
+<h2>Consequences of High Fertility</h2>
+<p>The latest empirical research points out that high fertility is a concern with possible severe consequences</p>
+<div class="fragment">
+<ul>
+<li>Fast population growth tends to lower per capita economic growth</li>
+<li>Increased poverty and inequality</li>
+<li>Reduced education</li>
+<li>Health outcomes (risky pregnancies and dangers in frequent births)</li>
+<li>Food shortages</li>
+<li>Environmental issues (increased pollution)</li>
+<li>International migration</li>
+</ul>
+</div>
+</section></section>
+<section>
 <section id="microeconomics-of-fertility-decisions" class="title-slide slide level1 inverse note center">
 <h1>Microeconomics of Fertility Decisions</h1>
 
 </section>
+<section id="microeconomic-theory-of-fertility" class="slide level2">
+<h2>Microeconomic Theory of Fertility</h2>
+<p>Empirical evidence to support the idea that <span class="hi">economic conditions cause fertility rates to be high</span></p>
+<div class="fragment">
+<ul>
+<li>Families have a <span class="hp">limited amount of resources</span>, which can be used to support children or parents (a budget)</li>
+<li>The more children parents decide to have, the <span class="hp">less resources</span> parents have for themselves</li>
+<li>Parents have a tradeoff to consider: <span class="hi fragment">children provide benefits, but they also have a cost</span></li>
+</ul>
+</div>
+</section>
+<section id="microeconomic-theory-of-fertility-1" class="slide level2">
+<h2>Microeconomic Theory of Fertility</h2>
+<p>Consider the following example</p>
+<div>
+<ul>
+<li class="fragment">Suppose a household has an income of $30</li>
+<li class="fragment">There are only two goods to consider:
+<ul>
+<li class="fragment"><span class="hi-red">Food</span> and <span class="hi-teal">Children</span></li>
+<li class="fragment"><span class="hi-red">Food</span> is a <span class="h">normal good</span> with price equal to $5</li>
+<li class="fragment"><span class="hi-teal">Children</span> are an <span class="h">inferior good</span> with price equal to $6</li>
+</ul></li>
+<li class="fragment">The household has preferences over <span class="hi-red">food</span> and <span class="hi-teal">children</span>, which we represent with <span class="hi">indifference curves</span></li>
+</ul>
+</div>
+</section>
+<section id="indifference-curves" class="slide level2">
+<h2>Indifference Curves</h2>
 
+<img data-src="images/indiff-curves.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="indifference-curves-higher-utility" class="slide level2">
+<h2>Indifference Curves (Higher Utility)</h2>
+
+<img data-src="images/indiff-curves-02.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="finding-the-budget-line" class="slide level2">
+<h2>Finding the Budget Line</h2>
+<p>We know the household has a total of <span class="hi">$30</span> to spend and they can spend it either on <span class="hi-red">Food</span> or <span class="hi-teal">Children</span></p>
+<div>
+<ul>
+<li class="fragment">If they buy only <span class="hi-red">Food</span>, they can afford <span class="hi-red">6 units</span> <span class="h fragment"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\(\dfrac{30}{5} = 6\)</span></span></li>
+<li class="fragment">If they “buy” only <span class="hi-teal">Children</span>, they can afford <span class="hi-teal">5 kids</span> <span class="h fragment"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\(\dfrac{30}{6} = 5\)</span></span></li>
+<li class="fragment">With these two points, we can draw the <span class="hi">budget line</span></li>
+</ul>
+</div>
+</section>
+<section id="budget-line" class="slide level2">
+<h2>Budget Line</h2>
+
+<img data-src="images/budget.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="optimal-choice" class="slide level2">
+<h2>Optimal Choice</h2>
+
+<img data-src="images/max-point-01.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="higher-budget" class="slide level2">
+<h2>Higher Budget</h2>
+<p>Now let’s say that the <span class="hi">households income increaes</span> to $60</p>
+<ul>
+<li>The price of <span class="hi">both goods remains the same</span></li>
+</ul>
+<div>
+<ul>
+<li class="fragment">Now, if they buy only <span class="hi-red">Food</span>, they can afford <span class="hi-red">12 units</span> <span class="h fragment"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\(\dfrac{60}{5} = 12\)</span></span></li>
+<li class="fragment">And, if they “buy” only <span class="hi-teal">Children</span>, they can afford <span class="hi-teal">10 kids</span> <span class="h fragment"><i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\(\dfrac{60}{6} = 10\)</span></span></li>
+<li class="fragment">With these two points, we can draw the <span class="hi">new</span> budget line</li>
+</ul>
+</div>
+</section>
+<section id="higher-budget-1" class="slide level2">
+<h2>Higher Budget</h2>
+
+<img data-src="images/max-point-02.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="optimized-choice-again" class="slide level2">
+<h2>Optimized Choice (Again)</h2>
+
+<img data-src="images/max-point-03.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="microeconomics-of-fertility-decisions-1" class="slide level2">
+<h2>Microeconomics of Fertility Decisions</h2>
+
+<img data-src="images/max-point-03.png" class="quarto-figure quarto-figure-center r-stretch"><ul>
+<li>When income increased, the household <span class="hi">was better off buying more food and fewer children</span></li>
+<li>The household got wealthier, and kids are an inferior good</li>
+</ul>
+</section>
+<section id="children-as-an-inferior-good" class="slide level2">
+<h2>Children as an Inferior Good?</h2>
+<p><span class="hi align-center">This is generally what we observe</span></p>
+<div>
+<ul>
+<li class="fragment">As income per capita increases, birth rates fall</li>
+<li class="fragment">Parents face a trade-off:
+<ul>
+<li class="fragment">There is a finite amount of resources</li>
+<li class="fragment"><span class="h">Example</span> Income is limited
+<ul>
+<li class="fragment">Do you <span class="hi">have a lot of children and invest very little in each?</span></li>
+<li class="fragment">Do you <span class="hi">have few kids and invest a lot in each?</span></li>
+</ul></li>
+</ul></li>
+<li class="fragment">This is known as the <span class="hp">“Quality vs Quantity Trade-Off”</span></li>
+</ul>
+</div>
+</section>
+<section class="slide level2">
+
+<!-- ## Microeconomics of Fertility Decisions
+
+Let's consider the [demand for Surviving Children]{.hi} 
+
+$$
+    C_{d} = f(Y, P_{c}, P_{x}, t_{x})
+$$
+
+:::: {.columns}
+
+::: {.column width="50%" .small}
+- $Y$: Household income
+- $P_{c}$: "Net" price of children
+:::
+
+::: {.column width="50%" .small}
+- $P_{x}$: Price of all other goods
+- $t_{x}$: Preference for goods relative to children
+:::
+
+::::
+
+::: {.fragment}
+[We can expect the following relationships:]{.hi}
+:::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.incremental .align-center}
+- $\dfrac{\partial C_{d}}{\partial Y} > 0$
+- $\dfrac{\partial C_{d}}{\partial P_{c}} < 0$
+:::
+
+:::
+
+::: {.column width="50%" .align-center}
+
+::: {.incremental}
+- $\dfrac{\partial C_{d}}{\partial P_{x}} > 0$
+- $\dfrac{\partial C_{d}}{\partial t_{x}} < 0$
+:::
+
+:::
+
+::::
+
+::: {.notes}
+$P_{c}$ difference between anticipated costs and benefits
+::: -->
+</section></section>
+<section>
 <section id="demographic-transition" class="title-slide slide level1 inverse note center">
 <h1>Demographic Transition</h1>
 
-
 </section>
+<section id="fertility-rates-eventually-decline" class="slide level2">
+<h2>Fertility Rates Eventually Decline</h2>
+<p>All contemporary developed nations have more or less passed through the same <span class="hi">four stages of modern population history</span></p>
+<div class="fragment">
+<div class="vertical-center">
+<p><span class="hp note"><em>Stage 01.</em></span> <span class="hi">High Birth Rates and High Death Rates</span></p>
+<p><span class="hp note"><em>Stage 02.</em></span> <span class="hi">High Birth Rates with Decline in Death Rates</span> <span class="h small">(Transition)</span></p>
+<p><span class="hp note"><em>Stage 03.</em></span> <span class="hi">Declining Birth Rates and Low Death Rates</span></p>
+<p><span class="hp note"><em>Stage 04.</em></span> <span class="hi">Low Birth Rates and Low Death Rates</span></p>
+</div>
+</div>
+</section>
+<section id="demographic-transtion-stages" class="slide level2">
+<h2>Demographic Transtion Stages</h2>
+<p>All contemporary developed nations have more or less passed through the same <span class="hi">four stages of modern population history</span></p>
+<p><br></p>
+<p><span class="hp note"><em>Stage 01.</em></span> <span class="hi">High Birth Rates and High Death Rates</span></p>
+<ul>
+<li>Populations grow very slowly because <span class="h">both birth rates and death rates are high</span> and roughly balance each other</li>
+<li>High mortality comes from poor sanitation, limited medical care, and frequent famines or epidemics</li>
+</ul>
+<div class="faded small">
+<p><span class="hp note"><em>Stage 02.</em></span> <span class="hi">High Birth Rates with Decline in Death Rates</span> <span class="h">(Transition)</span></p>
+<p><span class="hp note"><em>Stage 03.</em></span> <span class="hi">Declining Birth Rates and Low Death Rates</span></p>
+<p><span class="hp note"><em>Stage 04.</em></span> <span class="hi">Low Birth Rates and Low Death Rates</span></p>
+</div>
+</section>
+<section id="demographic-transtion-stages-1" class="slide level2">
+<h2>Demographic Transtion Stages</h2>
+<p>All contemporary developed nations have more or less passed through the same <span class="hi">four stages of modern population history</span></p>
+<p><br></p>
+<div class="faded small">
+<p><span class="hp note"><em>Stage 01.</em></span> <span class="hi">High Birth Rates and High Death Rates</span></p>
+</div>
+<p><span class="hp note"><em>Stage 02.</em></span> <span class="hi">High Birth Rates with Decline in Death Rates</span> <span class="h">(Transition)</span></p>
+<ul>
+<li>Increased access to medicine, sanitation, and stronger food supply sources <span class="h">reduce death rates sharply</span></li>
+<li>Birth rates remain high for a while, <span class="h">causing a population boom or “demographic explosion”</span></li>
+</ul>
+<div class="faded small">
+<p><span class="hp note"><em>Stage 03.</em></span> <span class="hi">Declining Birth Rates and Low Death Rates</span></p>
+<p><span class="hp note"><em>Stage 04.</em></span> <span class="hi">Low Birth Rates and Low Death Rates</span></p>
+</div>
+</section>
+<section id="demographic-transtion-stages-2" class="slide level2">
+<h2>Demographic Transtion Stages</h2>
+<p>All contemporary developed nations have more or less passed through the same <span class="hi">four stages of modern population history</span></p>
+<p><br></p>
+<div class="faded small">
+<p><span class="hp note"><em>Stage 01.</em></span> <span class="hi">High Birth Rates and High Death Rates</span></p>
+<p><span class="hp note"><em>Stage 02.</em></span> <span class="hi">High Birth Rates with Decline in Death Rates</span> <span class="h">(Transition)</span></p>
+</div>
+<p><span class="hp note"><em>Stage 03.</em></span> <span class="hi">Declining Birth Rates and Low Death Rates</span></p>
+<ul>
+<li><p>As living standards rise, education and urbanization lead <span class="h">families to have fewer children</span></p></li>
+<li><p><span class="h">Population growth slows and stabilizes</span>, creating the conditions typical of modern developed economies</p></li>
+</ul>
+<div class="faded small">
+<p><span class="hp note"><em>Stage 04.</em></span> <span class="hi">Low Birth Rates and Low Death Rates</span></p>
+</div>
+</section>
+<section id="demographic-transtion-stages-3" class="slide level2">
+<h2>Demographic Transtion Stages</h2>
+<p>All contemporary developed nations have more or less passed through the same <span class="hi">four stages of modern population history</span></p>
+<p><br></p>
+<div class="faded small">
+<p><span class="hp note"><em>Stage 01.</em></span> <span class="hi">High Birth Rates and High Death Rates</span></p>
+<p><span class="hp note"><em>Stage 02.</em></span> <span class="hi">High Birth Rates with Decline in Death Rates</span> <span class="h">(Transition)</span></p>
+<p><span class="hp note"><em>Stage 03.</em></span> <span class="hi">Declining Birth Rates and Low Death Rates</span></p>
+</div>
+<p><span class="hp note"><em>Stage 04.</em></span> <span class="hi">Low Birth Rates and Low Death Rates</span></p>
+<ul>
+<li><p>Societies experience stable or even shrinking populations as <span class="h">fertility may fall below replacement levels</span></p></li>
+<li><p><span class="h">Aging populations and slower growth become key</span> social and economic challenges</p></li>
+</ul>
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
+
+
+
+<img data-src="images/demo-transition-model.webp" class="quarto-figure quarto-figure-center r-stretch"></section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
