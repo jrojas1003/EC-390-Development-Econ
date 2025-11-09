@@ -82,7 +82,7 @@ title: Lectures
 ## Agriculture and Rural Development
 
 [Expand Slides](06-Ag-and-Rural/060-compile.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
-[PDF Version](06-Ag-and-Rural/EC%20390%20-%20Lecture%2006.pdf.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PDF Version](06-Ag-and-Rural/EC%20390%20-%20Lecture%2006.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 ::: {.align-center}
 ```{=html}
