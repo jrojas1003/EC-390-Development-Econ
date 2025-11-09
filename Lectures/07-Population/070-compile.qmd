@@ -1,0 +1,28 @@
+---
+title: "Population"
+subtitle: "EC 390 - Development Economics"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC390, Lecture 07 | Population"
+        preview-links: auto
+        code-f  old: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+# Theories of Population Growth {.inverse .note}
+
+{{< include 071-theories.qmd >}}
+
+# Microeconomics of Fertility Decisions {.inverse .note}
+
+{{< include 072-micro-fertility.qmd >}}
+
+# Demographic Transition {.inverse .note}
+
+{{< include 073-demo-transition.qmd >}}
