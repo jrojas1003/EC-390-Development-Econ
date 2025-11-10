@@ -6,6 +6,7 @@ title: Assignments
 
 ::: {.align-center}
 [Answer Key](Midterm/midterm-answer-key.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[Statistics](Midterm/stats.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
 ## Problem Sets
