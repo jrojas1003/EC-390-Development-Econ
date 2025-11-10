@@ -1,0 +1,28 @@
+---
+title: "Rural-Urban Migration"
+subtitle: "EC 390 - Development Economics"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC390, Lecture 08 | Migration"
+        preview-links: auto
+        code-f  old: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+# Migration {.inverse .note}
+
+{{< include 081-introduction.qmd >}}
+
+# Role of Cities {.inverse .note}
+
+{{< include 082-role-of-cities.qmd >}}
+
+# Microeconomics of Migration {.inverse .note}
+
+{{< include 083-microecon-migration.qmd >}}

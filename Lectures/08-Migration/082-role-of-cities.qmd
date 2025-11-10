@@ -1,0 +1,176 @@
+---
+name: role of cities
+---
+
+## Role of Cities
+
+[Cities can be thought of as a massive coordination success]{.hp .align-center}
+
+::: {.incremental}
+- As distance between consumers and producers increases we see:
+    - Communication being more difficult
+    - Transportation becomes more expensive
+    - Market information is less transparent 
+- [Example:]{.h}
+    - Shopping for a car in Portland allows you a lot of opportunity for information
+    - Shopping for a car in Tillamook can be more difficult with less information
+:::
+
+::: {.notes}
+In a city like Portland, there are many car dealerships, private sellers, and online listings within a short distance. 
+
+- Consumers can compare prices, models, and conditions easily.
+
+- There is more competition among sellers, which encourages transparency and better deals.
+
+- Buyers can quickly verify information and switch to another seller if needed.
+
+In contrast, in a rural area like Tillamook:
+
+- There are fewer sellers and dealerships, so buyers have limited options to compare.
+
+- It takes more time and money to travel to other towns to view cars or verify prices.
+
+- Because of this isolation, market information is less complete—buyers may not know what a “fair price” really is, and sellers face less pressure to be competitive.
+:::
+
+---
+
+## Agglomeration Economies
+
+[Definition:]{.h} Being close to others makes production and consumption cheaper and more efficient than being isolated
+
+<br> 
+
+::: {.fragment}
+There are also [spillover effects]{.hi} from agglomeration
+
+[_1._]{.hp .note} [Knowledge Spillovers]{.hp}
+
+[_2._]{.hp .note} [Labor Market Spillovers]{.hp}
+
+[_3._]{.hp .note} [Shared Infrastructure and Services Spillovers]{.hp}
+
+[_4._]{.hp .note} [Market Access and Consumer Spillovers]{.hp}
+
+[_5._]{.hp .note} [Social and Institutional Spillovers]{.hp}
+:::
+
+::: {.notes}
+def extension: whether across many industries (urbanization) or within the same industry (localization)
+:::
+
+---
+
+## Agglomeration Spillovers
+
+[_1._]{.hp .note} [Knowledge Spillovers]{.hp}
+
+- Skills and ideas spread faster than in isolated rural economies
+- Things like observing new production techniques or copying better business practices raise productivity
+
+::: {.faded .small}
+[_2._]{.hp .note} [Labor Market Spillovers]{.hp}
+
+[_3._]{.hp .note} [Shared Infrastructure and Services Spillovers]{.hp}
+
+[_4._]{.hp .note} [Market Access and Consumer Spillovers]{.hp}
+
+[_5._]{.hp .note} [Social and Institutional Spillovers]{.hp}
+:::
+
+---
+
+## Agglomeration Spillovers
+
+::: {.small .faded}
+[_1._]{.hp .note} [Knowledge Spillovers]{.hp}
+:::
+
+[_2._]{.hp .note} [Labor Market Spillovers]{.hp}
+
+- Cities create ["thicker labor markets"]{.h}, where workers and employers can find better matches
+- Firms get access to more skilled labor, and workers find more job opportunities
+
+::: {.small .faded}
+[_3._]{.hp .note} [Shared Infrastructure and Services Spillovers]{.hp}
+
+[_4._]{.hp .note} [Market Access and Consumer Spillovers]{.hp}
+
+[_5._]{.hp .note} [Social and Institutional Spillovers]{.hp}
+:::
+
+---
+
+## Agglomeration Spillovers
+
+::: {.small .faded}
+[_1._]{.hp .note} [Knowledge Spillovers]{.hp}
+
+[_2._]{.hp .note} [Labor Market Spillovers]{.hp}
+:::
+
+[_3._]{.hp .note} [Shared Infrastructure and Services Spillovers]{.hp}
+
+- Concentration of firms makes it cheaper for governments to provide roads, electricity, sanitation, and internet access
+- Reduces costs for all businesses and supports further investment
+
+::: {.small .faded}
+[_4._]{.hp .note} [Market Access and Consumer Spillovers]{.hp}
+
+[_5._]{.hp .note} [Social and Institutional Spillovers]{.hp}
+:::
+
+---
+
+## Agglomeration Spillovers
+
+::: {.small .faded}
+[_1._]{.hp .note} [Knowledge Spillovers]{.hp}
+
+[_2._]{.hp .note} [Labor Market Spillovers]{.hp}
+
+[_3._]{.hp .note} [Shared Infrastructure and Services Spillovers]{.hp}
+:::
+
+[_4._]{.hp .note} [Market Access and Consumer Spillovers]{.hp}
+
+- Urban areas bring together large groups of consumers, [creating bigger and more diverse markets]{.hi}
+- Encourages entrepreneurship and specialization
+
+::: {.small .faded}
+[_5._]{.hp .note} [Social and Institutional Spillovers]{.hp}
+:::
+
+---
+
+## Agglomeration Spillovers
+
+::: {.small .faded}
+[_1._]{.hp .note} [Knowledge Spillovers]{.hp}
+
+[_2._]{.hp .note} [Labor Market Spillovers]{.hp}
+
+[_3._]{.hp .note} [Shared Infrastructure and Services Spillovers]{.hp}
+
+[_4._]{.hp .note} [Market Access and Consumer Spillovers]{.hp}
+:::
+
+[_5._]{.hp .note} [Social and Institutional Spillovers]{.hp}
+
+- Cities often become centers for [education, finance, and governance]{.hi}
+- Urban exposure can change social norms (gender equality, attitudes toward education, or entrepreneurship, etc.)
+
+---
+
+## Agglomeration Example (Sillicon Valley)
+
+![](images/sillicon-valley.jpg){fig-align="center"}
+
+---
+
+## Role of Cities
+
+That was a lot of [benefits]{.hi-green} that cities may give
+
+But what about [cons]{.hp}?

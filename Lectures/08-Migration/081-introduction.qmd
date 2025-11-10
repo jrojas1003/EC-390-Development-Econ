@@ -1,0 +1,109 @@
+---
+name: intro
+---
+
+## So Far...
+
+We have seen that most societies start as [agrarian]{.hi}
+
+::: {.incremental}
+- Then new technology makes [agriculture more efficient]{.hi}
+- Which means that fewer people need to work in agriculture
+- The [surplus agricultural labor]{.hi} transitions toward the industrial sector
+- But [where do they work?]{.hp} 
+    - [Cities]{.h}
+:::
+
+---
+
+## Urban/Rural Population
+
+![](images/urban-rural-pop.png){fig-align="center"}
+
+---
+
+## Urbanization and Per Capita GDP
+
+![](images/urban-gdp-corr.png){fig-align="center"}
+
+---
+
+## Migration and Growth
+
+![](images/urban-shift.png){fig-align="center"}
+
+::: {.fragment}
+[There is a clear correlation between urban migration and growth]{.hi .align-center}
+
+[But the direction isn't very clear]{.hp .align-center}
+:::
+
+::: {.notes}
+Q: Does urbanization lead to economic growth? Or does economic growth lead to urbanization?
+Difficult to infer causality
+Causality: Cause and effect
+
+Countries were less urbanized in 1970 compared to today
+:::
+
+---
+
+## Migration
+
+[What factors could be contributing to the growth of cities?]{.hi .align-center}
+
+[We can think of two different categories:]{.h}
+
+::: {.fragment .vertical-center}
+[_1._]{.hp .note} [Push Factors]{.hp}
+
+[_2._]{.hp .note} [Pull Factors]{.hp}
+:::
+
+---
+
+## Migration
+
+[What factors could be contributing to the growth of cities?]{.hi .align-center}
+
+[We can think of two different categories:]{.h}
+
+[_1._]{.hp .note} [Push Factors]{.hp}
+
+::: {.incremental}
+- [Lack of Economic Opportunities:]{.h} Low agricultural productivity, underemployment, unstable farm incomes
+- [Poor Living Conditions]{.h} Limited access to healthcare, education, poor infrastructure
+- [Environmental pressures]{.h} Drought, soil degradation, natural disasters
+:::
+
+[_2._]{.hp .note .faded .small} [Pull Factors]{.hp .faded .small}
+
+---
+
+## Migration
+
+[What factors could be contributing to the growth of cities?]{.hi .align-center}
+
+[We can think of two different categories:]{.h}
+
+[_1._]{.hp .note .faded .small} [Push Factors]{.hp .faded .small}
+
+[_2._]{.hp .note} [Pull Factors]{.hp}
+
+::: {.incremental}
+- [Employment prospect]{.h} Cities offer more jobs, especially in manufacturing, services, and the informal sector
+- [Better Services and Amenities]{.h} Access to education, healthcare, and infrastructure draws migrants
+- [Social and Lifestyle Appeal]{.h} Greater connectivity, modern lifestyles, and social mobility 
+:::
+
+---
+
+## Key Terms
+
+::: {.incremental .vertical-center}
+- [Urban Bias:]{.hp} Governments favor urban areas over rural areas
+
+- [Rural-to-Urban Migration:]{.hp} Movement of people from farms to urban center
+
+- [Agglomeration Economy]{.hp} Cost advantages of grouping consumers and producers in the same area
+:::
