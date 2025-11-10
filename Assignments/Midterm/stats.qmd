@@ -1,0 +1,76 @@
+---
+title: "Midterm Statistics"
+subtitle: "EC 390 - Development Economics"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number  : true
+        footer: "Fall 2025 Midterm"
+        preview-links: auto
+        code-f  old: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
+
+## Midterm Review
+
+[_Midterm Answer Key_]{.hp .align-center} 
+
+::: {.align-center}
+[Link](midterm-answer-key.pdf){target=_blank .button}
+:::
+
+[_Statistics_]{.hp .align-center}
+
+:::: {.columns}
+
+::: {.column width="20%"}
+[Mean]{.h .align-center} 
+
+<br>
+
+[73]{.h .fragment .align-center} 
+:::
+
+::: {.column width="20%"}
+[Median]{.h .align-center} 
+
+<br>
+
+[72]{.h .fragment .align-center} 
+:::
+
+::: {.column width="20%"}
+[Max]{.h .align-center} 
+
+<br>
+
+[96]{.h .fragment .align-center} 
+:::
+
+::: {.column width="20%"}
+[Min]{.h .align-center} 
+
+<br>
+
+[37]{.h .fragment .align-center} 
+:::
+
+::: {.column width="20%"}
+[Standard Deviation]{.h .align-center} 
+
+[13.7]{.h .fragment .align-center} 
+:::
+
+::::
+
+---
+
+## Distribution
+
+<br><br>
+
+![](distribution.png){fig-align="center"}
