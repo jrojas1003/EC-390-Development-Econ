@@ -1,0 +1,149 @@
+\documentclass[11pt]{article}
+
+% ---------------------------------------------------
+% Page Layout
+% ---------------------------------------------------
+\usepackage{geometry}   % Flexible page dimensions
+\geometry{margin=1in, centering}
+
+% ---------------------------------------------------
+% Encoding and Fonts
+% ---------------------------------------------------
+\usepackage[utf8]{inputenc}   % Input encoding
+\usepackage[T1]{fontenc}      % Output font encoding
+\usepackage{lmodern}          % Latin Modern fonts (improves output)
+
+% ---------------------------------------------------
+% Tables and Columns
+% ---------------------------------------------------
+\usepackage{multicol}   % Multiple column environments
+\usepackage{multirow}   % Multi-row cells in tables
+\usepackage{booktabs}   % Better looking tables
+
+% ---------------------------------------------------
+% Graphics and Figures
+% ---------------------------------------------------
+\usepackage{graphicx}   % Include graphics
+\usepackage{caption}    % Customization of captions
+
+% ---------------------------------------------------
+% Text Styling
+% ---------------------------------------------------
+\usepackage{color}      % Color support
+\usepackage{soul}       % Highlighting, underlining, strikethrough, etc.
+\usepackage{parskip}    % Skips line in paragraph instead of indent
+% ---------------------------------------------------
+% Headers, Footers, and Symbols
+% ---------------------------------------------------
+\usepackage{fancyhdr}   % Custom headers/footers
+\usepackage{lastpage}   % Reference last page in document
+\usepackage{bbding}     % Special symbols (checkmarks, etc.)
+\usepackage{pmboxdraw}  % Box drawing characters
+\usepackage{fontawesome} % Allows customization of icons 
+
+% ---------------------------------------------------
+% Section Formatting
+% ---------------------------------------------------
+\usepackage{titlesec}   % Customize section titles
+
+% ---------------------------------------------------
+% Hyperlinks and URLs
+% ---------------------------------------------------
+\usepackage{url}        % Simple URL typesetting
+\usepackage{hyperref}   % Clickable hyperlinks
+
+% ---------------------------------------------------
+% FancyHDR Options
+% ---------------------------------------------------
+\fancyhead[L]{\fontfamily{lmss}\selectfont EC 390}
+\fancyhead[R]{\fontfamily{lmss}\selectfont Final Project Part III}
+\setlength{\headheight}{13.59999pt} % Fixes caution produced by package
+
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+  
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    citecolor=blue,
+}
+
+\pagenumbering{arabic}
+
+\begin{document}
+
+\thispagestyle{fancy}
+\fontfamily{lmss}\selectfont
+
+\begin{center}
+\textbf{\huge EC 390: Presentation Outline (Rough Draft)}\\  
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ASSIGNMENT OVERVIEW
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Overview}
+
+The third step of the final project involves submitting an outline or rough draft of your presentation.
+The purpose is for you to see tangible progress on your term-long project. 
+Presenting a project is not an easy task, and usually requires plenty of drafting, editing, and feedback.
+The most difficult part of presenting work/projects/proposals is finding a good flow and way to talk about the work. 
+There is only so much we can say, while making sense, in 10 minutes. 
+The goal of a presentation is to develop those skills. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INSTRUCTIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Instructions}
+
+\begin{itemize}
+    \item[\faCheckSquareO] \textbf{Prepare a draft presentation} (PowerPoint, Google Slides, or PDF Export)
+    \item[\faCheckSquareO] It should include \textbf{all major sections} of your final presentation 
+    \begin{itemize}
+        \item[\faFolderOpenO] Title slide (with name, project title, and course)
+        \item[\faFolderOpenO] Introduction/Motivation: Explain why your topic is important 
+        \item[\faFolderOpenO] Research Question: Clearly state the central question or hypothesis 
+        \item[\faFolderOpenO] Literature Review: Introduce the research articles you read. Highlight how your question builds on or differs from existing work. 
+        \item[\faFolderOpenO] Proposed Approach: Describe how you plan to answer your question. 
+        \item[\faFolderOpenO] Expected Contribution: Explain what we might learn from your project and why it matters  
+    \end{itemize}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SUBMISSION DETAILS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Formatting and Submission}
+
+\begin{itemize}
+    \item[\faFileO] Length: Equivalent to a \textbf{10-minute presentation} (Roughly $\sim 8$ slides)
+    \item[\faFileO] Submit as a \textbf{PDF} or link to an accessible online presentation (if using Google Slides)
+    \item[\faFileO] Due \textbf{November 19 at 11:59pm} on Canvas \href{https://canvas.uoregon.edu/courses/274682/assignments/1916915}{(Submit Here)}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% GRADING RUBRIC
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Grading}
+
+This draft is graded on \textbf{completion and effort} rather than polish. 
+To earn full credit:
+\begin{itemize}
+    \item[\faTags] All required sections are present and sufficiently developed
+    \item[\faTags] Slides show meaningful progress toward a coherent proposal
+\end{itemize}
+
+\section*{Tips}
+
+\begin{itemize}
+    \item[\faStickyNoteO] Use concise bullet points and clear visuals
+    \item[\faStickyNoteO] Focus on making your research question and approach \textbf{understandable to a general economics audience}
+    \item[\faStickyNoteO] Clarity and structure matter more than perfection    
+\end{itemize}
+
+\end{document}
