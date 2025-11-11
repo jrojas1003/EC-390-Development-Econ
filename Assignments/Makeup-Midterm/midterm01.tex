@@ -1,0 +1,418 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                EC 380 MIDTERM TEMPLATE
+%                  LaTeX Preamble
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[12pt]{exam} % Exam document class with 12pt font
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  FONT AND ENCODING
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{libertine}           % Professional serif font (Linux Libertine)
+\usepackage[utf8]{inputenc}      % Allows accented characters and symbols
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  PAGE GEOMETRY AND LAYOUT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[margin=1in]{geometry} % Sets 1-inch margins
+\pagestyle{headandfoot}           % Custom headers and footers (exam class feature)
+\firstpageheadrule                % Horizontal line on first page header
+\runningheadrule                  % Horizontal line on following pages
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  MATH AND SYMBOLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{amsmath, amssymb}     % AMS math environments and extra symbols
+\usepackage{amsthm}               % Theorem, lemma, and proof environments
+\usepackage{siunitx}              % Consistent formatting for numbers and units
+\usepackage{cancel}               % Strike out math terms (e.g., unit cancellation)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  LAYOUT TOOLS AND LISTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[shortlabels]{enumitem} % Custom list formatting (e.g., [a)], [i])
+\usepackage{multicol}              % Enables multi-column layout (e.g., two-column questions)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  GRAPHICS AND VISUALS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{graphicx}              % Include external images
+\usepackage{tikz}                  % Create vector graphics directly in LaTeX
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  CODE AND TEXT HIGHLIGHTING
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{listings}              % Code formatting and syntax highlighting
+\usepackage{soul}                  % Text highlighting and underlining
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  EXAM CLASS SETTINGS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\printanswers                    % Uncomment to show answers
+\CorrectChoiceEmphasis{\color{red}\bfseries\itshape} % Style for correct answers
+\addpoints                         % Enable point tracking throughout exam
+\bracketedpoints                   % Show point values in [brackets] instead of (parentheses)
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  CUSTOM COMMANDS FOR COURSE INFORMATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\class}{\textbf{EC 390}}                  % Course name
+\newcommand{\examnum}{\textbf{Midterm Exam}}   % Exam identifier
+\newcommand{\examdate}{\textbf{October 29}}        % Exam date
+\newcommand{\timelimit}{}                             % (Optional) Time limit placeholder
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  HEADER AND FOOTER CONFIGURATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\firstpageheader{\class}{\examnum}{\examdate}
+\runningheader{\class}{\examnum}{\examdate}
+
+\firstpagefooter{Points earned: \makebox[1in]{\hrulefill} / 
+\pointsonpage{\thepage} points}{}{\thepage\ of \numpages}
+
+\runningfooter{Points earned: \makebox[1in]{\hrulefill} / 
+\pointsonpage{\thepage} points}{}{\thepage\ of \numpages}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  TITLE INFORMATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Make-Up Midterm Exam}
+\author{EC 390 -- Development Economics}
+\date{Fall 2025}
+
+\begin{document}
+\fontfamily{lmss}\selectfont
+%-------------------------------------------------------------------------------
+\begin{coverpages}
+
+\maketitle
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+Give every question your best attempt. \\
+Best of luck. \\
+You got this!
+}}}\end{center}
+\vspace{2cm}
+\makebox[0.6\textwidth]{Name:\enspace\hrulefill}
+\makebox[0.35\textwidth]{95\#:\enspace\hrulefill}
+
+\vspace{1cm}
+\noindent
+The maximum amount of points on this exam is 100 points. 
+You have a total of 1h 20min (80 minutes) to complete the exam, unless otherwise noted. 
+The only items allowed on your desk at any time are a pen and/or pencil, scratch paper, a 3x5 note card, and a calculator. 
+Everything else must be stored in your bag underneath your desk. 
+Any form of cheating will result on a zero on the exam.\\
+
+\noindent There are three sections to be completed:
+
+\begin{itemize}
+    \item \textbf{Multiple Choice:} 5 Questions
+    \item \textbf{Short Answer Questions:} 2 Questions
+    \item \textbf{Multi-Part Analysis Questions:} 1 Question (5 parts)
+\end{itemize}
+
+\noindent Point totals and question specific instructions are listed for each section.
+Please ask for clarification if a question is not clear to you.\\
+
+\noindent The exam is a total of \numpages $\,$ pages. 
+There are 8 pages of questions + 2 pages for scratch paper.
+
+\noindent \textbf{Please verify you have all \numpages $\,$ in your exam. If you do not, let me know immediately.}
+
+\end{coverpages}
+%-------------------------------------------------------------------------------
+
+%-------------------------------------------------------------------------------
+\section*{Multiple Choice - 40 Points}
+Circle or "X" the answer you think most correctly answers the following questions. 
+If you mark a choice and would like to change it, \textbf{clearly indicate which one is your correct answer}. 
+%-------------------------------------------------------------------------------
+\begin{questions}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 01
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+Country A reports their GDP to be \$8 Billion.
+Residents earn \$2 Billion abroad, non-residents earn \$1.5 Billion domestically.
+If domestic firms save \$3 Billion this year, what is the \textbf{Gross National Income (GNI)} of Country A?
+
+\begin{choices}
+    \choice \$14.5 Billion
+    \choice \$ 11.5 Billion
+    \CorrectChoice \$8.5 Billion
+    \choice \$10 Billion
+\end{choices}
+\vspace*{\stretch{1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 02
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+The ``Education Basket'' cointains: 1 textbook, 3 pens, 2 notebooks. 
+Prices for \textbf{Richland} and \textbf{Poortown} are given below:
+
+\begin{table}[htbp]
+    \centering
+    \begin{tabular}{|lcc|}
+        \hline
+        Item & Richland & Poortown\\
+        \hline
+        Textbook & 30 & 13 \\
+        Pen & 2 & 1 \\
+        Notebook & 5 & 3 \\
+        Backpack & 50 & 42 \\
+        \hline
+    \end{tabular}
+\end{table}
+
+What is the \textbf{Purchasing Power Parity} between \textbf{Richland} and \textbf{Poortown} $(PPP_{Rich.,Poor.})$?
+
+\begin{choices}
+    \choice 37/17 = 2.17
+    \choice 87/59 = 1.47
+    \CorrectChoice 46/22 = 2.09
+    \choice 22/46 = 0.47
+\end{choices}
+\vspace*{\stretch{1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 03
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+Suppose that Chile follows the \textbf{Harrod-Domar} model of economic growth.
+What will happen to the growth rate of Chile if an earthquake strikes the country and their \textbf{capital efficiency falls}, assuming the \textbf{savings rate} does not change?
+
+\begin{choices}
+    \choice Growth rate $\uparrow$, because it now takes more capital to produce one unit of output
+    \CorrectChoice Growth rate $\downarrow$, because it now takes more capital to produce one unit of output
+    \choice Growth rate does not change, because the savings rate does not change
+    \choice Capital efficiency does not factor in the Harrod-Domar model
+\end{choices}
+\vspace*{\stretch{1}}
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 04
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+\textbf{Conditional convergence} implies that:
+
+\begin{choices}
+    \choice The raito of income between poor and rich countries remains constant over time
+    \choice All countries converge to identical $y^{*}$
+    \choice Absolut convergence exists
+    \CorrectChoice Countries converge conditional on country characteristics
+\end{choices}
+\vspace*{\stretch{1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 05
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+Consider the \textbf{Two-Sector Lewis Model}. 
+Assume that the agricultural (traditional) sector has surpulus labor, and the industrial (modern) sector reinvests all profits.
+Suppose that \textbf{productivity in the agricultural sector rises dueto technological improvements}.
+
+Which of the following statements best describes the dynamic effect of this productivity increase on the process of structural transformation?
+
+\begin{choices}
+    \CorrectChoice It slows the transfer of labor to the modern sector by raising the equilibrium subsistence wage, reducing the modern sector's profit rate
+    \choice It accelerates the transfer of labor to the modern sector because rural wages remain fixed while agricultural output rises
+    \choice It delays the Lewis turning point because higher agricultural productivity incrases profits in the modern sector, sustaining capital accumulation
+    \choice It has no long-run effect on structural transformation since labor migration depends only on the savings rate in the modern sector
+\end{choices}
+\vspace*{\stretch{1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 06
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+Which of the following statements is correct?
+
+\begin{choices}
+    \choice When there is perfect inequality in a country, the Lorenz Curve is a 45$^{\circ}$ line
+    \choice Gini coefficient of 1 for a country indicates perfect equality
+    \choice Gini coefficient of 0.5 for a country indicates perfect inequality
+    \CorrectChoice None of the above
+\end{choices}
+\vspace*{\stretch{1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 07
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+Lorelai values future payoffs more than Rory. 
+This means:
+
+\begin{choices}
+    \choice Lorelai has a higher discount rate than Rory
+    \CorrectChoice Lorelai has a lower discount rate than Rory
+    \choice Lorelai and Rory have the same discount rate
+    \choice Rory is more wealthy than Lorelai
+\end{choices}
+\vspace*{\stretch{1}}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 08
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+In a developing economy, multiple sectors require electricity to operate profitably. 
+However, the power company can only cover fixed costs if enough firms demand electricity. 
+Because no firm wants to invest until reliable power is available, the economy remains stagnant.
+Which of the following government actions would most effectively address this \textbf{coordination failure}?
+
+\begin{choices}
+    \CorrectChoice Publicly invest in the power grid and guarantee initial energy supply constraints
+    \choice Offer firms short-term credit at the market rate
+    \choice Reduce income taxes for high-income households
+    \choice Alter the savings rate through their central bank
+\end{choices}
+\vspace*{\stretch{1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 09
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+In the article \emph{``To Do With the Price of Fish''}, access to cellphones led to price stabilization in the market for fish because
+
+\begin{choices}
+    \choice Cellphones led to a reduction in the number of fishermen, which increased the price of fish and led to higher profits
+    \choice Cellphones allowed fishermen to sell directly to customers, rather than sell their fish to intermediaries
+    \choice Fishermen sold their phones for better fishing equipment, which led to higher profits
+    \CorrectChoice Cellphones allowed for fishermen to overcome a coordination failure
+\end{choices}
+\vspace*{\stretch{1}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 10
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question[4]
+A country has abundant foreign savings and low inflation. 
+However, \textbf{private investment remains very low}.
+Data shows that: (1) Real interest rates are very high; (2) Firms report difficulty obtaining loans despite strong profitability; (3) Returns to education are low and unemployment among skilled workers is high.
+
+According to the growth diagnostics approach, which of the following is most likely the \textbf{binding constraint} to growth?
+
+\begin{choices}
+    \choice Low human capital accumulation
+    \choice Macroeconomic instability
+    \CorrectChoice Poor access to financing
+    \choice Low social returns to infrastructure
+\end{choices}
+\vspace*{\stretch{1}}
+
+%-------------------------------------------------------------------------------
+\newpage
+\section*{Short Answer - 20 Points}
+Answer the following questions to the best of your ability. 
+For full credit, show all of your work and clearly indicate your final solution for each part by circling the answer.
+%-------------------------------------------------------------------------------
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 11
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question
+
+Consider the following graph
+
+\begin{figure}[htbp!]
+    \centering
+    \includegraphics[width=0.85\textwidth]{images/multiple-equi.png}
+\end{figure}
+
+\begin{parts}
+    \part[8]
+    \textbf{Identify and label the equilibria points} on the graph. 
+    In the space below, \textbf{categorize each equilibrium as stable or unstable}.
+    \vspace*{\stretch{2}}
+    \part[2]
+    On the graph, \textbf{draw the path that investment takes} (i.e. the dynamics of the investment) if average investment begane at $A$ and show where invetsment would eventually end up.
+\end{parts}
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 12
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question
+In the \textbf{O-Ring Model}, a firm's output is given by $BF(q_{i},q_{j}) = q_{i}q_{j}$ where $0 \leq q_{i},q_{j} \leq 1$ and $B > 0$ is some positive constant.
+
+Let $B = 20$ and $q_{i} = 0.8$ and $q_{j} = 0.5$.
+
+\begin{parts}
+    \part[3]
+    A firm has two choices: Hire a \textbf{2-person team} of $q_{i}$ workers or hire a \textbf{4-person team} of $q_{j}$ workers.
+    Compute the output for both possibilities.
+    \vspace*{\stretch{1}}
+    \part[3]
+    If the firm can add another worker to the \textbf{2-person team} and their $q = 0.7$, what happens to output?
+    Compute it
+    \vspace*{\stretch{1}}
+    \part[4]
+    Explain intuitively why increasing the team size is not necessarily a good outcome for firms
+    \vspace*{\stretch{1}}
+\end{parts}
+
+%-------------------------------------------------------------------------------
+\newpage
+\section*{Multi-Part Analysis - 40 Points}
+Answer the following questions to the best of your ability. 
+For full credit, show all of your work and clearly indicate your final solution for each part by circling the answer.
+%-------------------------------------------------------------------------------
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  QUESTION 13
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\question
+You are hired by the government of Stars Hollow to analyze economic growth in the country. 
+Taylor Doose, the government official that hired you, wants you to use the \textbf{Solow Model} of growth to predict what will occur in the economy under the following scenarios.
+
+\begin{parts}
+    \part[5]
+    What will happen to \textbf{capital per worker $(k)$} and \textbf{output per worker $(y)$} in population growth in Stars Hollow decreases?
+    Show graphically.
+    \vspace*{\stretch{1}}
+    \part[5]
+    What will happen to to \textbf{capital per worker $(k)$} and \textbf{output per worker $(y)$} if workers save less of their income? 
+    Show graphically.
+    \vspace*{\stretch{1}}
+    \newpage
+    \part[15]
+    Starts Hollow is particularly concerned about one situation:
+    What will happen to \textbf{capital per worker $(k)$} if \emph{both} population growth decreases \emph{AND} the savings rate decreases?
+    Show graphically and explain your answer.
+
+    \textbf{Hint: There may multiple cases to analyze - be sure to discuss each one.}
+    \newpage
+    \part[5]
+    Stars Hollow always competes with Hartford, a neighboring country.
+    The Solow model predicts that countries with the \textbf{same savings rate and population growth} should converge to the same \textbf{income per worker $(y)$}.
+    Why would it be the case that \textbf{convergence between} Stars Hollow and Hartford may not occur?
+    \vspace*{\stretch{1}}
+    \part[10]
+    Models of economic growth that emphasize savings have been shown to consistently overestimate economic growth in developing countries.
+    \textbf{Identify the key assumption(s) of savings.}
+    Explain how the failure of the critical assumption(s) in these models result in an overestimate of economic growth.
+    \vspace*{\stretch{1}}
+\end{parts}
+
+\newpage
+\thispagestyle{empty}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  SCRATCH PAPER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection*{Scratch Paper}
+
+\newpage
+\thispagestyle{empty}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%  SCRATCH PAPER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection*{Scratch Paper}
+
+\end{questions}
+
+\end{document}
