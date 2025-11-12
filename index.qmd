@@ -4,24 +4,24 @@ title: "Home"
 
 ::: {.callout-warning}
 
-## Week 05 Update!
-[Welcome to Week 06!]{.hi}
+## Week 07 Update!
+[Welcome to Week 07!]{.hi}
 
 [Assignments]{.hp} this week are:
 
-&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Annotated Bibliography](https://jrojas1003.github.io/EC-390-Development-Econ/Assignments/Final-Project/02-Annotated-Bib/annotated-bib.pdf){.hi-orange target=_blank} Due on Wednesday
-
-&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Quiz 03](https://canvas.uoregon.edu/courses/274682/quizzes/413322){.hi-orange} Due on Friday
+&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Presentation Draft Instructions](Assignments/Final-Project/03-Presentation-Rough-Draft/rough-draft.pdf){.hi-orange target=_blank}
 
 &nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Problem Set 03](https://jrojas1003.github.io/EC-390-Development-Econ/Assignments/Problem-Sets/PS03/ps03.pdf){.hi-orange target=_blank} Due November 13 @ 11:59pm
 
+&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Quiz 04](https://canvas.uoregon.edu/courses/274682/quizzes/413323){.hi-orange} Due on Friday
+
 This week's schedule involves:
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Complete [Lecture 05 - Human Capital](Lectures/05-Human-Capital/050-compile.html){.hi-orange target=_blank}
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; [Lecture 06 - Agriculture and Rural Development](Lectures/06-Ag-and-Rural/060-compile.html){.hi-orange target=_blank}
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Start [Lecture 06 - Agriculture and Rural Development](Lectures/06-Ag-and-Rural/060-compile.html){.hi-orange target=_blank}
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Start [Lecture 07 - Population](Lectures/07-Population/070-compile.html){.hi-orange target=_blank}
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; (Possibly) Start Lecture 07 - Population
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; (Maybe) Start [Lecture 08 - Migration](Lectures/08-Migration/080-compile.html){.hi-orange target=_blank}
 :::
 
 ## Syllabus
