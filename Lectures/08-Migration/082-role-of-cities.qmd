@@ -174,3 +174,294 @@ def extension: whether across many industries (urbanization) or within the same 
 That was a lot of [benefits]{.hi-green} that cities may give
 
 But what about [cons]{.hp}?
+
+<br>
+
+::: {.fragment}
+[_1._]{.hp .note} [Overcrowding and Housing Shortages]{.hp}
+
+[_2._]{.hp .note} [Infrastructure Strain]{.hp}
+
+[_3._]{.hp .note} [Inequality and Informal Employment]{.hp}
+
+[_4._]{.hp .note} [Environmental Degradation]{.hp}
+
+[_5._]{.hp .note} [Rising Cost of Living]{.hp}
+
+[_6._]{.hp .note} [Social and Governance Challenges]{.hp}
+:::
+
+---
+
+## Cons of Cities
+
+[_1._]{.hp .note} [Overcrowding and Housing Shortages]{.hp}
+
+- Rapid inflows of people can overwhelm housing supply, leading to [slums and informal settlements]{.h}
+- Overcrowded conditions often lack clean water, sanitation, and electricity
+
+::: {.faded .small}
+[_2._]{.hp .note} [Infrastructure Strain]{.hp}
+
+[_3._]{.hp .note} [Inequality and Informal Employment]{.hp}
+
+[_4._]{.hp .note} [Environmental Degradation]{.hp}
+
+[_5._]{.hp .note} [Rising Cost of Living]{.hp}
+
+[_6._]{.hp .note} [Social and Governance Challenges]{.hp}
+:::
+
+---
+
+## Cons of Cities
+
+::: {.faded .small}
+[_1._]{.hp .note} [Overcrowding and Housing Shortages]{.hp}
+:::
+
+[_2._]{.hp .note} [Infrastructure Strain]{.hp}
+
+- Cities may grow faster than their roads, public transit, and utilities can expand
+- Leading to [congestion, power outages, and inadequate waste management]{.hp}
+- Governments struggle to finance and coordinate urban planning
+
+::: {.faded .small}
+[_3._]{.hp .note} [Inequality and Informal Employment]{.hp}
+
+[_4._]{.hp .note} [Environmental Degradation]{.hp}
+
+[_5._]{.hp .note} [Rising Cost of Living]{.hp}
+
+[_6._]{.hp .note} [Social and Governance Challenges]{.hp}
+:::
+
+---
+
+## Cons of Cities
+
+::: {.faded .small}
+[_1._]{.hp .note} [Overcrowding and Housing Shortages]{.hp}
+
+[_2._]{.hp .note} [Infrastructure Strain]{.hp}
+:::
+
+[_3._]{.hp .note} [Inequality and Informal Employment]{.hp}
+
+- Economic opportunities are unevenly distributed. Some residents find good jobs, while many end up in [low-paying informal work]{.h}
+- Inequality can deepen between migrants, long-term residents, and social classes
+
+::: {.faded .small}
+[_4._]{.hp .note} [Environmental Degradation]{.hp}
+
+[_5._]{.hp .note} [Rising Cost of Living]{.hp}
+
+[_6._]{.hp .note} [Social and Governance Challenges]{.hp}
+:::
+
+---
+
+## Cons of Cities
+
+::: {.faded .small}
+[_1._]{.hp .note} [Overcrowding and Housing Shortages]{.hp}
+
+[_2._]{.hp .note} [Infrastructure Strain]{.hp}
+
+[_3._]{.hp .note} [Inequality and Informal Employment]{.hp}
+:::
+
+[_4._]{.hp .note} [Environmental Degradation]{.hp}
+
+- Urban expansion can cause [air and water pollution]{.h}, loss of green spaces, and higher carbon emission
+- Poor waste disposal and traffic congestion contribute to environmental stress and poor public health
+
+::: {.faded .small}
+[_5._]{.hp .note} [Rising Cost of Living]{.hp}
+
+[_6._]{.hp .note} [Social and Governance Challenges]{.hp}
+:::
+
+---
+
+## Cons of Cities
+
+::: {.faded .small}
+[_1._]{.hp .note} [Overcrowding and Housing Shortages]{.hp}
+
+[_2._]{.hp .note} [Infrastructure Strain]{.hp}
+
+[_3._]{.hp .note} [Inequality and Informal Employment]{.hp}
+
+[_4._]{.hp .note} [Environmental Degradation]{.hp}
+:::
+
+[_5._]{.hp .note} [Rising Cost of Living]{.hp}
+
+- As demand for land and services increases, [housing, food, and transport costs rise]{.h}
+- The poor may be priced out of central areas, [deepening spatial inequality]{.h}
+
+::: {.faded .small}
+[_6._]{.hp .note} [Social and Governance Challenges]{.hp}
+:::
+
+---
+
+## Cons of Cities
+
+::: {.faded .small}
+[_1._]{.hp .note} [Overcrowding and Housing Shortages]{.hp}
+
+[_2._]{.hp .note} [Infrastructure Strain]{.hp}
+
+[_3._]{.hp .note} [Inequality and Informal Employment]{.hp}
+
+[_4._]{.hp .note} [Environmental Degradation]{.hp}
+
+[_5._]{.hp .note} [Rising Cost of Living]{.hp}
+:::
+
+[_6._]{.hp .note} [Social and Governance Challenges]{.hp}
+
+- Rapid urbanization can outpace local government capacity to regulate land use, collect taxes, and deliver services
+- This can lead to [informal governance]{.h}, corruption, and weak urban institutions
+
+---
+
+## The Issue of Congestion
+
+In the economic sense, we [define it as:]{.h}
+
+::: {.align-center}
+[An action taken by one agent that decreases the]{.hp} [incentives]{.hp} [for other agents to take similar actions]{.h}
+:::
+
+::: {.fragment}
+- The [opposite of complementarity]{.hp}
+:::
+
+---
+
+## The Issue of Congestion
+
+The most [obvious form of congestion]{.hi} is [traffic]{.hp}
+
+![](images/congestion.jpg){fig-align="center"}
+
+::: {.notes}
+As there are more people on the road, the less others want to be on the road
+A study in Bangladesh estimated traffic congestion to cost the economy $12.5 Billion per year
+NYC $11 Billion
+:::
+
+---
+
+## The Issue of Congestion
+
+A [lesss obvious form is]{.hi} [rent]{.hp}
+
+::: {.incremental}
+- The [more people live in a city]{.h}, the [higher the cost of rent]{.hp}
+- The [higher the rent]{.hp}, the [less people want to live there]{.hp}
+:::
+
+::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/high-rent.png){fig-align="center" height="400"}
+:::
+
+::: {.column width="50%"}
+![](images/high-rent-02.jpg){fig-align="center" height="400"}
+:::
+
+::::
+
+:::
+
+---
+
+## Colonialism and Urban Development
+
+- Many colonies were used [only for resource extraction]{.hi}
+
+::: {.incremental}
+- Settlements were set up near resources or export points (coasts)
+- Colonizers have [little need to build roads linking villages]{.hi}
+- All roads [lead to the central city]{.hi} (usually on the coast or near bodies of water)
+:::
+
+::: {.fragment}
+[Transportation routes linking industries play a key role]{.h}
+:::
+
+::: {.incremental}
+- Urban concentrations appear where [transport routes cross]{.hi}
+- This emphasizes the lasting impacts of historical events
+- When all roads lead to [one place]{.hi}, what should we expect to happen to populations of that area?
+:::
+
+---
+
+## Senegal
+
+::: {.align-center}
+[French colony concentrated in]{.h} [Dakar]{.hi-red}
+:::
+
+![](images/senegal.PNG){fig-align="center"}
+
+::: {.notes}
+Pre-colonial: Part of Ghana, Mali, and Jolof empires; active in gold and slave trade routes.
+
+Early contact (15th–17th c.): Portuguese, Dutch, British, and French establish coastal posts; Saint-Louis (1659) and Gorée (1677) become French trading hubs.
+
+French expansion (19th c.): Governor Faidherbe extends rule inland, promotes peanut exports, builds roads/railways; Four Communes gain limited citizenship.
+
+Colonial consolidation (1900–1945): Dakar made capital of French West Africa; assimilation policies spread French language, schools, and culture.
+
+Path to independence: Post-WWII nationalism led by Léopold Sédar Senghor → autonomy (1958) → independence (1960).
+
+Legacy: French language, centralized administration in Dakar, and export-oriented economy remain colonial imprints.
+:::
+
+---
+
+## Senegal
+
+::: {.align-center}
+[Population Concentration]{.hi}
+:::
+
+![](images/senegal2.PNG){fig-align="center"}
+
+---
+
+## Urban Giantism Problems
+
+There are many potential problems when the majority of the country lives in a [single city]{.hi}
+
+::: {.incremental .vertical-center}
+- Obviously [congestion]{.hp} is a problem 
+- But we can also experience [Urban Bias]{.h}
+    - [Definition:]{.h} More resources go to cities than rural areas
+- This may also lead to [political instability]{.hi}
+:::
+
+::: {.notes}
+Concentration of people, power, and opportunity in a single city amplifies inequality and political tension. 
+
+In developing countries, where institutions and service capacity are limited, this imbalance often makes urban unrest and regime instability more likely.
+:::
+
+---
+
+## Political Instability
+
+![](images/unstable.png){fig-align="center"}
+
+::: {.notes}
+
+:::

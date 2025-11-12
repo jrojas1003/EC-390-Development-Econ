@@ -1,3 +1,208 @@
 ---
 name: microeconomics
 ---
+
+## Microeconomics of Migration
+
+The [decision to migrate]{.hi} is one of [potential trade-offs]{.hp}
+
+::: {.incremental .vertical-center}
+- Do I stay in a [rural area and try to make a living farming]{.h}?
+- Do I move away [to a new place and look for work there]{.h}?
+- These decisions have costs and benefits, which is why [the decision to migrate is an economic one]{.hi}
+:::
+
+---
+
+## Microeconomics of Migration
+
+[Consider an agent living in a rural area]{.hi .align-center}
+
+::: {.incremental}
+- The agent has a choice:
+    - Work in the [rural area]{.h} (farming) and receive [wage $X per day]{.h}
+    - Move to [the city and work there]{.hi} (manufacturing) and receive [wage $Y per day]{.hi}
+    - Where $Y > X$
+- What should the [agent do]{.h}? [Move to the city]{.hp}
+:::
+
+[But]{.hi-red .fragment .align-center}
+
+::: {.incremental}
+- What if there is [no guarantee of employment]{.hp} once they move?
+- Let's introduce a model that will [allow us to use this uncertainty]{.hi}
+:::
+
+---
+
+## Todaro Migration Model
+
+[Premise:]{.h} Agents consider labor market opportunities available to them in the rural and urban sectors and choose the one that maximizes their expected gains from migration 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+::: {.fragment}
+[Main Assumptions]{.hi .align-center}
+
+- Agents have knowledge of labor markets
+- Migration has no cost
+- Two regions to work in
+:::
+:::
+
+::: {.column width="50%"}
+::: {.incremental}
+[Two Regions]{.hi .align-center .fragment}
+
+- Rural with [rural wage $(w^{R})$]{.h} which is flexible enough that there is [full employment]{.hi}
+- City with [city wage $(w^{C})$]{.hi-teal} which is fixed
+:::
+:::
+
+::::
+
+::: {.notes}
+Rural: Everyone can at least work on their own farm
+
+Urban: Consider some form of minimum wage or the need for urban employers to pay their workers a large enough wage to attract talented workers
+:::
+
+---
+
+## Todaro Migration Model: Setup
+
+::: {.fragment}
+- There are a total of [N workers]{.h} in the economy
+
+- There are [$N^{C}$]{.hi-teal} and [$N^{R}$]{.h} workers who live in the [city]{.hi-teal} and [rural]{.h} area, respectively:
+
+[$N = N^{C} + N^{R}$]{.align-center}
+:::
+
+::: {.incremental}
+- [Not all workers who live in the city are employed]{.hp}
+- Populations in both areas look like:
+:::
+
+::: {.fragment .small}
+\begin{align*}
+    N^{C} &= L^{C} + U^{C} \\
+    N^{R} &= L^{R}
+\end{align*}
+
+- where $L^{C}, U^{C},$ and $L^{R}$ are the number of city employed workers, city unemployed workers, and rural employed workers
+:::
+
+::: {.notes}
+Some are [unemployed]{.hi} or [work in an informal sector]{.hi}
+:::
+
+---
+
+## Todaro Migration Model
+
+::: {.vertical-center}
+- If we combine the previous equations we get:
+
+[$U^{C} = N - L^{C} - L^{R}$]{.align-center}
+
+::: {.fragment}
+- We can take one step further and calculate [the unemployment rate]{.hi} as:
+
+$$
+    u^{C} = \dfrac{U^{C}}{U^{C} + L^{C}} = \dfrac{N - L^{C} - L^{R}}{N - L^{R}}
+$$
+:::
+
+:::
+
+::: {.notes}
+The number of unemployed people in the city is equal to the total number of people minus the number of employed city workers minus the number of rural workers
+:::
+
+---
+
+## Todaro Migration Model: Equilibrium
+
+- Agents in the model base their migration decision on their expected income in the city
+
+::: {.incremental}
+- Even though the wage is the city is fixed, there is some probability that if the agent migrates they will be unemployed
+- The [expected city wage]{.hi} is given by:
+
+[$E(w^{C}) = \dfrac{L^{C}}{N - L^{R}} \times w^{C} + \left( 1 - \dfrac{L^{C}}{N - L^{R}} \right) \times 0$]{.align-center .fragment}
+
+- [Where $\left( 1 - \dfrac{L^{C}}{N - L^{R}} \right)$ is the probability that the agent will not find a job]{.small}
+:::
+
+::: {.notes}
+Explain parts here
+:::
+
+---
+
+## Todaro Migration Model: Equilibrium
+
+[$E(w^{C}) = \dfrac{L^{C}}{N - L^{R}} \times w^{C}$]{.align-center}
+
+<br><br>
+
+[In this model, an equilibrium is a set of numbers]{.hi}
+
+::: {.incremental}
+- Equilbirum = $(L^{C}, U^{C}, L^{R}, w^{R}, w^{C})$
+- We can solve for it using graphs
+- Let's try an example
+:::
+
+::: {.notes}
+Second part is just zero so expected wage is just this
+:::
+
+---
+
+## 
+
+![](images/todaro-01.png){fig-align="center"}
+
+---
+
+## 
+
+![](images/todaro-02.png){fig-align="center"}
+
+---
+
+## 
+
+![](images/todaro-03.png){fig-align="center"}
+
+---
+
+## 
+
+![](images/todaro-04.png){fig-align="center"}
+
+---
+
+## 
+
+![](images/todaro-05.png){fig-align="center"}
+
+---
+
+## 
+
+![](images/todaro-06.png){fig-align="center"}
+
+---
+
+## 
+
+![](images/todaro-07.png){fig-align="center"}
+
+---
+
+## Numeric Example
+
