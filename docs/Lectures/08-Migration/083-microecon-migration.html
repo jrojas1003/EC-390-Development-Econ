@@ -68,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -125,8 +154,225 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<section id="microeconomics-of-migration" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomics-of-migration">Microeconomics of Migration</h2>
+<p>The <span class="hi">decision to migrate</span> is one of <span class="hp">potential trade-offs</span></p>
+<div class="incremental vertical-center">
+<ul class="incremental">
+<li>Do I stay in a <span class="h">rural area and try to make a living farming</span>?</li>
+<li>Do I move away <span class="h">to a new place and look for work there</span>?</li>
+<li>These decisions have costs and benefits, which is why <span class="hi">the decision to migrate is an economic one</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="microeconomics-of-migration-1" class="level2">
+<h2 class="anchored" data-anchor-id="microeconomics-of-migration-1">Microeconomics of Migration</h2>
+<p><span class="hi align-center">Consider an agent living in a rural area</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>The agent has a choice:
+<ul class="incremental">
+<li>Work in the <span class="h">rural area</span> (farming) and receive <span class="h">wage $X per day</span></li>
+<li>Move to <span class="hi">the city and work there</span> (manufacturing) and receive <span class="hi">wage $Y per day</span></li>
+<li>Where <span class="math inline">\(Y &gt; X\)</span></li>
+</ul></li>
+<li>What should the <span class="h">agent do</span>? <span class="hp">Move to the city</span></li>
+</ul>
+</div>
+<p><span class="hi-red fragment align-center">But</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>What if there is <span class="hp">no guarantee of employment</span> once they move?</li>
+<li>Let’s introduce a model that will <span class="hi">allow us to use this uncertainty</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="todaro-migration-model" class="level2">
+<h2 class="anchored" data-anchor-id="todaro-migration-model">Todaro Migration Model</h2>
+<p><span class="h">Premise:</span> Agents consider labor market opportunities available to them in the rural and urban sectors and choose the one that maximizes their expected gains from migration</p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="fragment">
+<p><span class="hi align-center">Main Assumptions</span></p>
+<ul>
+<li>Agents have knowledge of labor markets</li>
+<li>Migration has no cost</li>
+<li>Two regions to work in</li>
+</ul>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="incremental">
+<p><span class="hi align-center fragment">Two Regions</span></p>
+<ul class="incremental">
+<li>Rural with <span class="h">rural wage <span class="math inline">\((w^{R})\)</span></span> which is flexible enough that there is <span class="hi">full employment</span></li>
+<li>City with <span class="hi-teal">city wage <span class="math inline">\((w^{C})\)</span></span> which is fixed</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="notes">
+<p>Rural: Everyone can at least work on their own farm</p>
+<p>Urban: Consider some form of minimum wage or the need for urban employers to pay their workers a large enough wage to attract talented workers</p>
+</div>
+<hr>
+</section>
+<section id="todaro-migration-model-setup" class="level2">
+<h2 class="anchored" data-anchor-id="todaro-migration-model-setup">Todaro Migration Model: Setup</h2>
+<div class="fragment">
+<ul>
+<li><p>There are a total of <span class="h">N workers</span> in the economy</p></li>
+<li><p>There are <span class="hi-teal"><span class="math inline">\(N^{C}\)</span></span> and <span class="h"><span class="math inline">\(N^{R}\)</span></span> workers who live in the <span class="hi-teal">city</span> and <span class="h">rural</span> area, respectively:</p></li>
+</ul>
+<p><span class="align-center"><span class="math inline">\(N = N^{C} + N^{R}\)</span></span></p>
+</div>
+<div class="incremental">
+<ul class="incremental">
+<li><span class="hp">Not all workers who live in the city are employed</span></li>
+<li>Populations in both areas look like:</li>
+</ul>
+</div>
+<div class="fragment small">
+<p><span class="math display">\[\begin{align*}
+    N^{C} &amp;= L^{C} + U^{C} \\
+    N^{R} &amp;= L^{R}
+\end{align*}\]</span></p>
+<ul>
+<li>where <span class="math inline">\(L^{C}, U^{C},\)</span> and <span class="math inline">\(L^{R}\)</span> are the number of city employed workers, city unemployed workers, and rural employed workers</li>
+</ul>
+</div>
+<div class="notes">
+<p>Some are <span class="hi">unemployed</span> or <span class="hi">work in an informal sector</span></p>
+</div>
+<hr>
+</section>
+<section id="todaro-migration-model-1" class="level2">
+<h2 class="anchored" data-anchor-id="todaro-migration-model-1">Todaro Migration Model</h2>
+<div class="vertical-center">
+<ul>
+<li>If we combine the previous equations we get:</li>
+</ul>
+<p><span class="align-center"><span class="math inline">\(U^{C} = N - L^{C} - L^{R}\)</span></span></p>
+<div class="fragment">
+<ul>
+<li>We can take one step further and calculate <span class="hi">the unemployment rate</span> as:</li>
+</ul>
+<p><span class="math display">\[
+    u^{C} = \dfrac{U^{C}}{U^{C} + L^{C}} = \dfrac{N - L^{C} - L^{R}}{N - L^{R}}
+\]</span></p>
+</div>
+</div>
+<div class="notes">
+<p>The number of unemployed people in the city is equal to the total number of people minus the number of employed city workers minus the number of rural workers</p>
+</div>
+<hr>
+</section>
+<section id="todaro-migration-model-equilibrium" class="level2">
+<h2 class="anchored" data-anchor-id="todaro-migration-model-equilibrium">Todaro Migration Model: Equilibrium</h2>
+<ul>
+<li>Agents in the model base their migration decision on their expected income in the city</li>
+</ul>
+<div class="incremental">
+<ul class="incremental">
+<li>Even though the wage is the city is fixed, there is some probability that if the agent migrates they will be unemployed</li>
+<li>The <span class="hi">expected city wage</span> is given by:</li>
+</ul>
+<p><span class="align-center fragment"><span class="math inline">\(E(w^{C}) = \dfrac{L^{C}}{N - L^{R}} \times w^{C} + \left( 1 - \dfrac{L^{C}}{N - L^{R}} \right) \times 0\)</span></span></p>
+<ul class="incremental">
+<li><span class="small">Where <span class="math inline">\(\left( 1 - \dfrac{L^{C}}{N - L^{R}} \right)\)</span> is the probability that the agent will not find a job</span></li>
+</ul>
+</div>
+<div class="notes">
+<p>Explain parts here</p>
+</div>
+<hr>
+</section>
+<section id="todaro-migration-model-equilibrium-1" class="level2">
+<h2 class="anchored" data-anchor-id="todaro-migration-model-equilibrium-1">Todaro Migration Model: Equilibrium</h2>
+<p><span class="align-center"><span class="math inline">\(E(w^{C}) = \dfrac{L^{C}}{N - L^{R}} \times w^{C}\)</span></span></p>
+<p><br><br></p>
+<p><span class="hi">In this model, an equilibrium is a set of numbers</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li>Equilbirum = <span class="math inline">\((L^{C}, U^{C}, L^{R}, w^{R}, w^{C})\)</span></li>
+<li>We can solve for it using graphs</li>
+<li>Let’s try an example</li>
+</ul>
+</div>
+<div class="notes">
+<p>Second part is just zero so expected wage is just this</p>
+</div>
+<hr>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/todaro-01.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/todaro-02.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/todaro-03.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/todaro-04.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="section-4" class="level2">
+<h2 class="anchored" data-anchor-id="section-4"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/todaro-05.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="section-5" class="level2">
+<h2 class="anchored" data-anchor-id="section-5"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/todaro-06.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="section-6" class="level2">
+<h2 class="anchored" data-anchor-id="section-6"></h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/todaro-07.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="numeric-example" class="level2">
+<h2 class="anchored" data-anchor-id="numeric-example">Numeric Example</h2>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
