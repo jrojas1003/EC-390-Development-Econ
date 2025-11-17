@@ -4,25 +4,190 @@ title: "Home"
 
 ::: {.callout-warning}
 
-## Week 07 Update!
-[Welcome to Week 07!]{.hi}
+## Weekly Update and Announcements!
+[Welcome to Week 08!]{.hi}
 
 [Assignments]{.hp} this week are:
 
 &nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Presentation Draft Instructions](Assignments/Final-Project/03-Presentation-Rough-Draft/rough-draft.pdf){.hi-orange target=_blank}
 
-&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Problem Set 03](https://jrojas1003.github.io/EC-390-Development-Econ/Assignments/Problem-Sets/PS03/ps03.pdf){.hi-orange target=_blank} Due November 13 @ 11:59pm
-
-&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Quiz 04](https://canvas.uoregon.edu/courses/274682/quizzes/413323){.hi-orange} Due on Friday
+&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Quiz 04](https://canvas.uoregon.edu/courses/274682/quizzes/413323){.hi-orange} Due on Wednesday
 
 This week's schedule involves:
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; [Lecture 06 - Agriculture and Rural Development](Lectures/06-Ag-and-Rural/060-compile.html){.hi-orange target=_blank}
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; [Lecture 08 - Migration](Lectures/08-Migration/080-compile.html){.hi-orange target=_blank}
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; Start [Lecture 07 - Population](Lectures/07-Population/070-compile.html){.hi-orange target=_blank}
-
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; (Maybe) Start [Lecture 08 - Migration](Lectures/08-Migration/080-compile.html){.hi-orange target=_blank}
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; [Lecture 09 - Governance & Institutions]{.hi-orange}
 :::
+
+## Grade Projection Calculator
+
+This table lets you enter your scores by category and automatically see your totals.
+
+It is roughly the same as the Grade Projector on Canvas.
+
+```{=html}
+<!-- Tabulator assets -->
+<link href="https://unpkg.com/tabulator-tables@5.6.1/dist/css/tabulator.min.css" rel="stylesheet">
+<script src="https://unpkg.com/tabulator-tables@5.6.1/dist/js/tabulator.min.js"></script>
+
+<!-- Custom UO Styling -->
+<style>
+  /* UO Colors */
+  :root {
+    --uo-green: #007030;
+    --uo-yellow: #FEE11A;
+  }
+
+  /* Table header styling */
+  #grade-table .tabulator-col {
+    background-color: var(--uo-green) !important;
+    color: white !important;
+    font-weight: bold !important;
+    font-size: 1em;
+  }
+
+  /* Hover color */
+  #grade-table .tabulator-row:hover {
+    background-color: var(--uo-yellow) !important;
+  }
+
+  /* Make category labels bold */
+  #grade-table .tabulator-cell:first-child {
+    font-weight: 600;
+  }
+
+  /* Centered summary with UO-green text */
+  #grade-summary {
+    color: var(--uo-green);
+  }
+</style>
+
+<!-- Table container -->
+<div id="grade-table"></div>
+
+<!-- Summary output -->
+<div id="grade-summary"
+     style="
+       margin-top:1em;
+       font-weight:bold;
+       font-size:1.3em;
+       text-align:center;
+     ">
+</div>
+
+<script>
+
+// ------------------------------
+// TABLE DATA
+// ------------------------------
+var gradeData = [
+  {category: "Quiz", item: "Quiz 1", possible: 10, scored: 0},
+  {category: "Quiz", item: "Quiz 2", possible: 10, scored: 0},
+  {category: "Quiz", item: "Quiz 3", possible: 10, scored: 0},
+  {category: "Quiz", item: "Quiz 4", possible: 10, scored: 0},
+
+  {category: "Problem Set", item: "PS 1", possible: 50, scored: 0},
+  {category: "Problem Set", item: "PS 2", possible: 50, scored: 0},
+  {category: "Problem Set", item: "PS 3", possible: 50, scored: 0},
+  {category: "Problem Set", item: "PS 4", possible: 50, scored: 0},
+
+  {category: "Exam", item: "Midterm", possible: 100, scored: 0},
+
+  {category: "Final Project", item: "Topic Selection", possible: 5, scored: 0},
+  {category: "Final Project", item: "Annotated Bibliography", possible: 10, scored: 0},
+  {category: "Final Project", item: "Rough Slides/Presentation Outline", possible: 10, scored: 0},
+  {category: "Final Project", item: "Final Presentation", possible: 15, scored: 0}
+];
+
+// ------------------------------
+// WEIGHTS
+// ------------------------------
+var weights = {
+  "Quiz": 0.10,
+  "Problem Set": 0.20,
+  "Exam": 0.30,
+  "Final Project": 0.40
+};
+
+// ------------------------------
+// TABULATOR TABLE
+// ------------------------------
+var table = new Tabulator("#grade-table", {
+    data: gradeData,
+    layout: "fitColumns",
+    reactiveData: true,
+    columns: [
+        {title: "Category", field: "category", headerSort:false},
+        {title: "Item", field: "item", headerSort:false},
+        {title: "Points Possible", field: "possible", hozAlign:"right"},
+        {
+          title: "Points Scored",
+          field: "scored",
+          editor: "number",
+          validator: ["min:0"],
+          hozAlign: "right",
+          cellEdited: function(){ updateSummary(); }
+        }
+    ]
+});
+
+// ------------------------------
+// LETTER GRADE FUNCTION
+// ------------------------------
+function letterGrade(pct) {
+    if (pct >= 93) return "A";
+    if (pct >= 90) return "A-";
+    if (pct >= 87) return "B+";
+    if (pct >= 83) return "B";
+    if (pct >= 80) return "B-";
+    if (pct >= 77) return "C+";
+    if (pct >= 73) return "C";
+    if (pct >= 70) return "C-";
+    if (pct >= 67) return "D+";
+    if (pct >= 63) return "D";
+    if (pct >= 60) return "D-";
+    return "F";
+}
+
+// ------------------------------
+// WEIGHTED GRADE CALCULATION
+// ------------------------------
+function updateSummary() {
+    let data = table.getData();
+
+    // Gather totals by category
+    let categories = {};
+
+    data.forEach(row => {
+        if (!categories[row.category]) {
+            categories[row.category] = {scored: 0, possible: 0};
+        }
+        categories[row.category].scored += Number(row.scored || 0);
+        categories[row.category].possible += row.possible;
+    });
+
+    // Compute weighted grade
+    let finalPct = 0;
+
+    for (const cat in categories) {
+        let pct = categories[cat].scored / categories[cat].possible; // category percentage
+        let weight = weights[cat];
+        finalPct += pct * weight; // add weighted contribution
+    }
+
+    finalPct = (finalPct * 100).toFixed(2);
+    let grade = letterGrade(finalPct);
+
+    document.getElementById("grade-summary").innerHTML =
+      `Weighted Final Grade: ${finalPct}% — Letter Grade: ${grade}`;
+}
+
+// Initialize
+updateSummary();
+
+</script>
+```
 
 ## Syllabus
 
