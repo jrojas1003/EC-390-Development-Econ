@@ -532,11 +532,123 @@
     "text": "Todaro Migration Model: Equilibrium\n\\(E(w^{C}) = \\dfrac{L^{C}}{N - L^{R}} \\times w^{C}\\)\n\nIn this model, an equilibrium is a set of numbers\n\n\nEquilbirum = \\((L^{C}, U^{C}, L^{R}, w^{R}, w^{C})\\)\nWe can solve for it using graphs\nLet’s try an example\n\n\n\nSecond part is just zero so expected wage is just this"
   },
   {
-    "objectID": "Lectures/08-Migration/080-compile.html#numeric-example",
-    "href": "Lectures/08-Migration/080-compile.html#numeric-example",
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example",
     "title": "Rural-Urban Migration",
-    "section": "Numeric Example",
-    "text": "Numeric Example"
+    "section": "Numerical Example",
+    "text": "Numerical Example\nLet’s look at an example with numbers\n\n\n\n\n\n\n\n\nUrban Wages\n\n\n\n\n\n\nRural Wages"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example-1",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example-1",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example",
+    "text": "Numerical Example\nWe want to put both demand curves on the same graph\n\n\nWe put urban wages on the right-hand side and rural wages on the left-hand side\nBe careful to notice the difference in axis values\n\nUrban wages are higher than rural wages"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---combined-demand-curves",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---combined-demand-curves",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Combined Demand Curves",
+    "text": "Numerical Example - Combined Demand Curves"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---stage-01",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---stage-01",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Stage 01",
+    "text": "Numerical Example - Stage 01\n\n\nLet the wage in the urban area be fixed at 10  \\((w^{C} = 10)\\)\nUrban employers demand 2 units of labor  \\((L^{c} = 2)\\)\n\n\n\nFor now, suppose no one migrates to the city\n\nEveryone works in the rural sector and receives a wage of 1:\n\\(w^{R} = 1\\) and \\(L^{R} = 8\\)"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---stage-01-1",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---stage-01-1",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Stage 01",
+    "text": "Numerical Example - Stage 01"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---equilibrium",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---equilibrium",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Equilibrium?",
+    "text": "Numerical Example - Equilibrium?\n\n\n\n\n\n\n\n\nIs this an equilibrium?\n\n\nThe $10 urban wage is tempting for rural workers\nBut there is a chance they will not get a job in the city\nSo there are still migration dynamics to consider\nLet’s suppose that, at first, two rural workers choose to migrate\nThis means there are now 4 workers in the urban area"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---stage-02-migration",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---stage-02-migration",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Stage 02 (Migration)",
+    "text": "Numerical Example - Stage 02 (Migration)\nSo with 2 brave souls migrating to the city, we now have 4 people in the urban area which implies:\n\n\nThere is an increase in the number of people living in the urban area\nThere is a decrease in the number of people living in the rural area\nThe increase in the urban population reduces the probability that an urban worker is able to find employment\nAt the same time, the reduction in the rural population increases rural wages"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---stage-02-migration-1",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---stage-02-migration-1",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Stage 02 (Migration)",
+    "text": "Numerical Example - Stage 02 (Migration)"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---finding-new-wages",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---finding-new-wages",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Finding New Wages",
+    "text": "Numerical Example - Finding New Wages\nRecall we can find the rural wage by:\n\\[\n    w^{R} = \\dfrac{L^{C}}{N - L^{R}} \\times w^{C}\n\\]\n\n\nWe know that \\(L^{C} = 2, N = 10, L^{R} = 6\\) and \\(w^{C} = 10\\)\n\n\n\n\\[\n    w^{R} = \\dfrac{2}{10 - 6} \\times 10 = 5\n\\]\nIs this an equilibrium?\nLet’s check our graph again\n\n\nrural wages is equal to expected urban wages in equilibrium"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---finding-new-wages-1",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---finding-new-wages-1",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Finding New Wages",
+    "text": "Numerical Example - Finding New Wages\n\n\nNot an equilibrium\nWhen there are 6 people in the rural area, the wage \\(w^{R}\\) is 3.3\n\n\nNot enough people migrated to the city\nLet’s see what happens when 3 people migrate"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---stage-03-3-migrants",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---stage-03-3-migrants",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Stage 03 (3 Migrants)",
+    "text": "Numerical Example - Stage 03 (3 Migrants)\n\n\nrural wages increase due to lower population\nunemployment in the city is higher"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#numerical-example---stage-03-wages",
+    "href": "Lectures/08-Migration/080-compile.html#numerical-example---stage-03-wages",
+    "title": "Rural-Urban Migration",
+    "section": "Numerical Example - Stage 03 (Wages)",
+    "text": "Numerical Example - Stage 03 (Wages)\n\nIf 3 people migrate, then \\(L^{R} = 5\\) and \\(w^{R} = 4\\)\n\n\nOur equilibrium condition is such that \\(w^{R} = E[w^{C}]\\) :\n\n\\[\\begin{align*}\n    w^{R} = E[w^{C}] = \\dfrac{L^{C}}{N - L^{R}} \\times w^{C} = \\dfrac{2}{10 - 5} \\times 10 = 4\n\\end{align*}\\]\n\n\nThis is an equilibrium!\nWe write this as \\((L^{R} = 5, L^{C} = 2, U^{C} = 3, w^{C} = 10, w^{R} = 4)\\)\nWriting it like this is important: it shows that the equilibrium is a set of values\n\n\n\nThe order is not important, but rather that all of them appear and have a value"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#summary",
+    "href": "Lectures/08-Migration/080-compile.html#summary",
+    "title": "Rural-Urban Migration",
+    "section": "Summary",
+    "text": "Summary\n\n\nBiggest benefit of urbanization and migration to cities are agglomeration economies\nBiggest cost of urbanization and migration is congestion\nOutcomes of urbanization and migration are less clear:\n\nDoes urbanization lead to higher social capital?\nDoes urbanization lead to more inequality and less social capital?\nWho is able to migrate? The wealthiest? The best educated?\n\nEqually important is the ability of receiving cities to properly accommodate migrants\nPossibly the biggest issue surrounding urbanization in developing countries involves the lack of opportunity in rural areas"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#policies",
+    "href": "Lectures/08-Migration/080-compile.html#policies",
+    "title": "Rural-Urban Migration",
+    "section": "Policies",
+    "text": "Policies\nWhat can be done about some of the problems urbanization causes?\n\nBecause this is a relatively new phenomenon, we do not have perfect solutions yet\n\n\n1. Better Rural-Urban Balance\n2. Anticipation"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#policies-1",
+    "href": "Lectures/08-Migration/080-compile.html#policies-1",
+    "title": "Rural-Urban Migration",
+    "section": "Policies",
+    "text": "Policies\nWhat can be done about some of the problems urbanization causes?\n\nBecause this is a relatively new phenomenon, we do not have perfect solutions yet\n\n1. Better Rural-Urban Balance\n\nMost policies are focused on urban sectors due to their economic and political importance\nThis highlights the need for policies aimed at assisting rural workers\n\nEx: Better access to credit and insurance markets for farmers should reduce the risk of working in rural areas\n\n\n\n2. Anticipation"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#policies-2",
+    "href": "Lectures/08-Migration/080-compile.html#policies-2",
+    "title": "Rural-Urban Migration",
+    "section": "Policies",
+    "text": "Policies\nWhat can be done about some of the problems urbanization causes?\n\nBecause this is a relatively new phenomenon, we do not have perfect solutions yet\n\n\n1. Better Rural-Urban Balance\n\n2. Anticipation\n\nUrbanization is not stopping and adjustments toward this is important\nAdjusting zoning laws might help ease congestion in major cities\nSerious investment in infrastructure is needed"
+  },
+  {
+    "objectID": "Lectures/08-Migration/080-compile.html#policies-3",
+    "href": "Lectures/08-Migration/080-compile.html#policies-3",
+    "title": "Rural-Urban Migration",
+    "section": "Policies",
+    "text": "Policies\nWhat can be done about some of the problems urbanization causes?\n\nBecause this is a relatively new phenomenon, we do not have perfect solutions yet\n\n\n1. Better Rural-Urban Balance\n2. Anticipation\n\n3. Its on us to be conscious of how growth needs to be more guided\n\nGrowth for the sake of growth may not be a correct path"
   },
   {
     "objectID": "Lectures/07-Population/072-micro-fertility.html",
@@ -5705,11 +5817,123 @@
     "text": "Todaro Migration Model: Equilibrium\n\\(E(w^{C}) = \\dfrac{L^{C}}{N - L^{R}} \\times w^{C}\\)\n\nIn this model, an equilibrium is a set of numbers\n\n\nEquilbirum = \\((L^{C}, U^{C}, L^{R}, w^{R}, w^{C})\\)\nWe can solve for it using graphs\nLet’s try an example\n\n\n\nSecond part is just zero so expected wage is just this"
   },
   {
-    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numeric-example",
-    "href": "Lectures/08-Migration/083-microecon-migration.html#numeric-example",
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example",
     "title": "EC 390 - Development Econ",
-    "section": "Numeric Example",
-    "text": "Numeric Example"
+    "section": "Numerical Example",
+    "text": "Numerical Example\nLet’s look at an example with numbers\n\n\n\n\n\n\n\n\nUrban Wages\n\n\n\n\n\n\nRural Wages"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example-1",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example",
+    "text": "Numerical Example\nWe want to put both demand curves on the same graph\n\n\nWe put urban wages on the right-hand side and rural wages on the left-hand side\nBe careful to notice the difference in axis values\n\nUrban wages are higher than rural wages"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---combined-demand-curves",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---combined-demand-curves",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Combined Demand Curves",
+    "text": "Numerical Example - Combined Demand Curves"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-01",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-01",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Stage 01",
+    "text": "Numerical Example - Stage 01\n\n\nLet the wage in the urban area be fixed at 10  \\((w^{C} = 10)\\)\nUrban employers demand 2 units of labor  \\((L^{c} = 2)\\)\n\n\n\nFor now, suppose no one migrates to the city\n\nEveryone works in the rural sector and receives a wage of 1:\n\\(w^{R} = 1\\) and \\(L^{R} = 8\\)"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-01-1",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-01-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Stage 01",
+    "text": "Numerical Example - Stage 01"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---equilibrium",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---equilibrium",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Equilibrium?",
+    "text": "Numerical Example - Equilibrium?\n\n\n\n\n\n\n\n\nIs this an equilibrium?\n\n\nThe $10 urban wage is tempting for rural workers\nBut there is a chance they will not get a job in the city\nSo there are still migration dynamics to consider\nLet’s suppose that, at first, two rural workers choose to migrate\nThis means there are now 4 workers in the urban area"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-02-migration",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-02-migration",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Stage 02 (Migration)",
+    "text": "Numerical Example - Stage 02 (Migration)\nSo with 2 brave souls migrating to the city, we now have 4 people in the urban area which implies:\n\n\nThere is an increase in the number of people living in the urban area\nThere is a decrease in the number of people living in the rural area\nThe increase in the urban population reduces the probability that an urban worker is able to find employment\nAt the same time, the reduction in the rural population increases rural wages"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-02-migration-1",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-02-migration-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Stage 02 (Migration)",
+    "text": "Numerical Example - Stage 02 (Migration)"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---finding-new-wages",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---finding-new-wages",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Finding New Wages",
+    "text": "Numerical Example - Finding New Wages\nRecall we can find the rural wage by:\n\\[\n    w^{R} = \\dfrac{L^{C}}{N - L^{R}} \\times w^{C}\n\\]\n\n\nWe know that \\(L^{C} = 2, N = 10, L^{R} = 6\\) and \\(w^{C} = 10\\)\n\n\n\n\\[\n    w^{R} = \\dfrac{2}{10 - 6} \\times 10 = 5\n\\]\nIs this an equilibrium?\nLet’s check our graph again\n\n\nrural wages is equal to expected urban wages in equilibrium"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---finding-new-wages-1",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---finding-new-wages-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Finding New Wages",
+    "text": "Numerical Example - Finding New Wages\n\n\n\n\n\n\nNot an equilibrium\nWhen there are 6 people in the rural area, the wage \\(w^{R}\\) is 3.3\n\n\nNot enough people migrated to the city\nLet’s see what happens when 3 people migrate"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-03-3-migrants",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-03-3-migrants",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Stage 03 (3 Migrants)",
+    "text": "Numerical Example - Stage 03 (3 Migrants)\n\n\n\n\n\n\nrural wages increase due to lower population\nunemployment in the city is higher"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-03-wages",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#numerical-example---stage-03-wages",
+    "title": "EC 390 - Development Econ",
+    "section": "Numerical Example - Stage 03 (Wages)",
+    "text": "Numerical Example - Stage 03 (Wages)\n\nIf 3 people migrate, then \\(L^{R} = 5\\) and \\(w^{R} = 4\\)\n\n\nOur equilibrium condition is such that \\(w^{R} = E[w^{C}]\\) :\n\n\\[\\begin{align*}\n    w^{R} = E[w^{C}] = \\dfrac{L^{C}}{N - L^{R}} \\times w^{C} = \\dfrac{2}{10 - 5} \\times 10 = 4\n\\end{align*}\\]\n\n\nThis is an equilibrium!\nWe write this as \\((L^{R} = 5, L^{C} = 2, U^{C} = 3, w^{C} = 10, w^{R} = 4)\\)\nWriting it like this is important: it shows that the equilibrium is a set of values\n\n\n\nThe order is not important, but rather that all of them appear and have a value"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#summary",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#summary",
+    "title": "EC 390 - Development Econ",
+    "section": "Summary",
+    "text": "Summary\n\n\nBiggest benefit of urbanization and migration to cities are agglomeration economies\nBiggest cost of urbanization and migration is congestion\nOutcomes of urbanization and migration are less clear:\n\nDoes urbanization lead to higher social capital?\nDoes urbanization lead to more inequality and less social capital?\nWho is able to migrate? The wealthiest? The best educated?\n\nEqually important is the ability of receiving cities to properly accommodate migrants\nPossibly the biggest issue surrounding urbanization in developing countries involves the lack of opportunity in rural areas"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#policies",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#policies",
+    "title": "EC 390 - Development Econ",
+    "section": "Policies",
+    "text": "Policies\nWhat can be done about some of the problems urbanization causes?\n\nBecause this is a relatively new phenomenon, we do not have perfect solutions yet\n\n\n1. Better Rural-Urban Balance\n2. Anticipation"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#policies-1",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#policies-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Policies",
+    "text": "Policies\nWhat can be done about some of the problems urbanization causes?\n\nBecause this is a relatively new phenomenon, we do not have perfect solutions yet\n\n1. Better Rural-Urban Balance\n\nMost policies are focused on urban sectors due to their economic and political importance\nThis highlights the need for policies aimed at assisting rural workers\n\nEx: Better access to credit and insurance markets for farmers should reduce the risk of working in rural areas\n\n\n\n2. Anticipation"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#policies-2",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#policies-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Policies",
+    "text": "Policies\nWhat can be done about some of the problems urbanization causes?\n\nBecause this is a relatively new phenomenon, we do not have perfect solutions yet\n\n\n1. Better Rural-Urban Balance\n\n2. Anticipation\n\nUrbanization is not stopping and adjustments toward this is important\nAdjusting zoning laws might help ease congestion in major cities\nSerious investment in infrastructure is needed"
+  },
+  {
+    "objectID": "Lectures/08-Migration/083-microecon-migration.html#policies-3",
+    "href": "Lectures/08-Migration/083-microecon-migration.html#policies-3",
+    "title": "EC 390 - Development Econ",
+    "section": "Policies",
+    "text": "Policies\nWhat can be done about some of the problems urbanization causes?\n\nBecause this is a relatively new phenomenon, we do not have perfect solutions yet\n\n\n1. Better Rural-Urban Balance\n2. Anticipation\n\n3. Its on us to be conscious of how growth needs to be more guided\n\nGrowth for the sake of growth may not be a correct path"
   },
   {
     "objectID": "Readings/list.html",

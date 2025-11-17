@@ -40,6 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-047acea2f07c4c3e58575a36bff9b595.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -368,8 +370,283 @@ window.Quarto = {
 </div>
 <hr>
 </section>
-<section id="numeric-example" class="level2">
-<h2 class="anchored" data-anchor-id="numeric-example">Numeric Example</h2>
+<section id="numerical-example" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example">Numerical Example</h2>
+<p>Let’s look at an example with numbers</p>
+<div class="fragment">
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/numerical-ex-01.PNG" class="quarto-figure quarto-figure-center figure-img" height="450"></p>
+</figure>
+</div>
+<p><span class="hi-orange align-center">Urban Wages</span></p>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/numerical-ex-02.PNG" class="quarto-figure quarto-figure-center figure-img" height="450"></p>
+</figure>
+</div>
+<p><span class="hi-green align-center">Rural Wages</span></p>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="numerical-example-1" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example-1">Numerical Example</h2>
+<p>We want to put <span class="h">both demand curves</span> on the same graph</p>
+<div class="fragment">
+<ul>
+<li>We put <span class="hi-orange">urban wages</span> on the right-hand side and <span class="hi-green">rural wages</span> on the left-hand side</li>
+<li>Be careful to notice the difference in axis values
+<ul>
+<li><span class="hi-orange">Urban wages</span> are higher than <span class="hi-green">rural wages</span></li>
+</ul></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="numerical-example---combined-demand-curves" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---combined-demand-curves">Numerical Example - Combined Demand Curves</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/numerical-ex-03.PNG" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="numerical-example---stage-01" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---stage-01">Numerical Example - Stage 01</h2>
+<div class="vertical-center">
+<ul>
+<li><p>Let the wage in the urban area be fixed at <span class="hi">10 <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\((w^{C} = 10)\)</span></span></p></li>
+<li><p><span class="hi-orange">Urban employers</span> demand <span class="hi">2 units of labor <i class="fa-solid fa-arrow-right" aria-label="arrow-right"></i> <span class="math inline">\((L^{c} = 2)\)</span></span></p></li>
+</ul>
+<div class="fragment">
+<ul>
+<li>For now, suppose <span class="h">no one migrates to the city</span>
+<ul>
+<li>Everyone works in the <span class="hi-green">rural sector</span> and receives a wage of 1:</li>
+<li><span class="hi"><span class="math inline">\(w^{R} = 1\)</span> and <span class="math inline">\(L^{R} = 8\)</span></span></li>
+</ul></li>
+</ul>
+</div>
+</div>
+<hr>
+</section>
+<section id="numerical-example---stage-01-1" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---stage-01-1">Numerical Example - Stage 01</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/numerical-ex-04.PNG" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="numerical-example---equilibrium" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---equilibrium">Numerical Example - Equilibrium?</h2>
+<div class="columns">
+<div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="images/numerical-ex-04.PNG" class="quarto-figure quarto-figure-left figure-img" height="600"></p>
+</figure>
+</div>
+</div><div class="column" style="width:60%;">
+<p><span class="hp align-center">Is this an equilibrium?</span></p>
+<div class="incremental small">
+<ul class="incremental">
+<li>The <span class="hi-orange">$10 urban wage</span> is tempting for rural workers</li>
+<li>But there is a chance they will not get a job in the city</li>
+<li>So there are still <span class="hi">migration dynamics</span> to consider</li>
+<li>Let’s suppose that, at first, two rural workers choose to <span class="hp">migrate</span></li>
+<li>This means there are now <span class="hi-orange">4 workers in the urban area</span></li>
+</ul>
+</div>
+</div>
+</div>
+<hr>
+</section>
+<section id="numerical-example---stage-02-migration" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---stage-02-migration">Numerical Example - Stage 02 (Migration)</h2>
+<p>So with 2 brave souls <span class="hp">migrating</span> to the city, we now have <span class="hi-orange">4 people in the urban area</span> which implies:</p>
+<div class="incremental">
+<ul class="incremental">
+<li>There is an <span class="h">increase</span> in the number of people living in the <span class="hi-orange">urban area</span></li>
+<li>There is a <span class="h">decrease</span> in the number of people living in the <span class="hi-green">rural area</span></li>
+<li>The increase in the <span class="hi-orange">urban population</span> <span class="h">reduces</span> the probability that an urban worker is able to find employment</li>
+<li>At the same time, the <span class="hi-green">reduction in the rural population</span> <span class="h">increases</span> <span class="hi-green">rural wages</span></li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="numerical-example---stage-02-migration-1" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---stage-02-migration-1">Numerical Example - Stage 02 (Migration)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/numerical-ex-05.PNG" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<hr>
+</section>
+<section id="numerical-example---finding-new-wages" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---finding-new-wages">Numerical Example - Finding New Wages</h2>
+<p>Recall we can find the <span class="hi-green">rural wage</span> by:</p>
+<p><span class="math display">\[
+    w^{R} = \dfrac{L^{C}}{N - L^{R}} \times w^{C}
+\]</span></p>
+<div class="fragment">
+<ul>
+<li>We know that <span class="math inline">\(L^{C} = 2, N = 10, L^{R} = 6\)</span> and <span class="math inline">\(w^{C} = 10\)</span></li>
+</ul>
+</div>
+<div class="fragment">
+<p><span class="math display">\[
+    w^{R} = \dfrac{2}{10 - 6} \times 10 = 5
+\]</span></p>
+<p><span class="hp align-center">Is this an equilibrium?</span></p>
+<p><span class="align-center">Let’s check our graph again</span></p>
+</div>
+<div class="notes">
+<p>rural wages is equal to expected urban wages in equilibrium</p>
+</div>
+<hr>
+</section>
+<section id="numerical-example---finding-new-wages-1" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---finding-new-wages-1">Numerical Example - Finding New Wages</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/numerical-ex-05.PNG" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="fragment align-center">
+<p><span class="hi-red">Not an equilibrium</span></p>
+<p>When there are 6 people in the <span class="hi-green">rural area</span>, the wage <span class="math inline">\(w^{R}\)</span> is 3.3</p>
+</div>
+<div class="notes">
+<p>Not enough people migrated to the city</p>
+<p>Let’s see what happens when 3 people migrate</p>
+</div>
+<hr>
+</section>
+<section id="numerical-example---stage-03-3-migrants" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---stage-03-3-migrants">Numerical Example - Stage 03 (3 Migrants)</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/numerical-ex-06.PNG" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+</figure>
+</div>
+<div class="notes">
+<p>rural wages increase due to lower population</p>
+<p>unemployment in the city is higher</p>
+</div>
+<hr>
+</section>
+<section id="numerical-example---stage-03-wages" class="level2">
+<h2 class="anchored" data-anchor-id="numerical-example---stage-03-wages">Numerical Example - Stage 03 (Wages)</h2>
+<div class="align-center">
+<p>If 3 people migrate, then <span class="math inline">\(L^{R} = 5\)</span> and <span class="math inline">\(w^{R} = 4\)</span></p>
+</div>
+<ul>
+<li>Our equilibrium condition is such that <span class="math inline">\(w^{R} = E[w^{C}]\)</span> :</li>
+</ul>
+<p><span class="math display">\[\begin{align*}
+    w^{R} = E[w^{C}] = \dfrac{L^{C}}{N - L^{R}} \times w^{C} = \dfrac{2}{10 - 5} \times 10 = 4
+\end{align*}\]</span></p>
+<div class="incremental">
+<ul class="incremental">
+<li><span class="hi-red">This is an equilibrium!</span></li>
+<li>We write this as <span class="math inline">\((L^{R} = 5, L^{C} = 2, U^{C} = 3, w^{C} = 10, w^{R} = 4)\)</span></li>
+<li>Writing it like this is important: it shows that the equilibrium is a set of values</li>
+</ul>
+</div>
+<div class="notes">
+<p>The order is not important, but rather that all of them appear and have a value</p>
+</div>
+<hr>
+</section>
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<div class="incremental">
+<ul class="incremental">
+<li>Biggest <span class="hi-green">benefit</span> of urbanization and migration to cities are <span class="h">agglomeration economies</span></li>
+<li>Biggest <span class="hi-red">cost</span> of urbanization and migration is <span class="h">congestion</span></li>
+<li>Outcomes of urbanization and migration are less clear:
+<ul class="incremental">
+<li>Does urbanization lead to higher social capital?</li>
+<li>Does urbanization lead to more inequality and less social capital?</li>
+<li>Who is able to migrate? The wealthiest? The best educated?</li>
+</ul></li>
+<li>Equally important is the ability of receiving cities to properly accommodate migrants</li>
+<li>Possibly the biggest issue surrounding urbanization in developing countries involves the lack of opportunity in rural areas</li>
+</ul>
+</div>
+<hr>
+</section>
+<section id="policies" class="level2">
+<h2 class="anchored" data-anchor-id="policies">Policies</h2>
+<p>What can be done about some of the problems urbanization causes?</p>
+<ul>
+<li>Because this is a relatively new phenomenon, we do not have perfect solutions yet</li>
+</ul>
+<div class="fragment">
+<p><span class="hp note"><em>1.</em></span> <span class="hp">Better Rural-Urban Balance</span></p>
+<p><span class="hp note"><em>2.</em></span> <span class="hp">Anticipation</span></p>
+</div>
+<hr>
+</section>
+<section id="policies-1" class="level2">
+<h2 class="anchored" data-anchor-id="policies-1">Policies</h2>
+<p>What can be done about some of the problems urbanization causes?</p>
+<ul>
+<li>Because this is a relatively new phenomenon, we do not have perfect solutions yet</li>
+</ul>
+<p><span class="hp note"><em>1.</em></span> <span class="hp">Better Rural-Urban Balance</span></p>
+<ul>
+<li>Most policies are focused on urban sectors due to their economic and political importance</li>
+<li>This highlights the need for policies aimed at assisting rural workers
+<ul>
+<li>Ex: Better access to credit and insurance markets for farmers should reduce the risk of working in rural areas</li>
+</ul></li>
+</ul>
+<div class="small faded">
+<p><span class="hp note"><em>2.</em></span> <span class="hp">Anticipation</span></p>
+</div>
+<hr>
+</section>
+<section id="policies-2" class="level2">
+<h2 class="anchored" data-anchor-id="policies-2">Policies</h2>
+<p>What can be done about some of the problems urbanization causes?</p>
+<ul>
+<li>Because this is a relatively new phenomenon, we do not have perfect solutions yet</li>
+</ul>
+<div class="small faded">
+<p><span class="hp note"><em>1.</em></span> <span class="hp">Better Rural-Urban Balance</span></p>
+</div>
+<p><span class="hp note"><em>2.</em></span> <span class="hp">Anticipation</span></p>
+<ul>
+<li>Urbanization is not stopping and adjustments toward this is important</li>
+<li>Adjusting zoning laws might help ease congestion in major cities</li>
+<li>Serious investment in infrastructure is needed</li>
+</ul>
+<hr>
+</section>
+<section id="policies-3" class="level2">
+<h2 class="anchored" data-anchor-id="policies-3">Policies</h2>
+<p>What can be done about some of the problems urbanization causes?</p>
+<ul>
+<li>Because this is a relatively new phenomenon, we do not have perfect solutions yet</li>
+</ul>
+<div class="faded small">
+<p><span class="hp note"><em>1.</em></span> <span class="hp">Better Rural-Urban Balance</span></p>
+<p><span class="hp note"><em>2.</em></span> <span class="hp">Anticipation</span></p>
+</div>
+<p><span class="hp note"><em>3.</em></span> <span class="hp">Its on us to be conscious of how growth needs to be more guided</span></p>
+<div class="notes">
+<p>Growth for the sake of growth may not be a correct path</p>
+</div>
 
 
 </section>
