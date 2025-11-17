@@ -204,5 +204,277 @@ Second part is just zero so expected wage is just this
 
 ---
 
-## Numeric Example
+## Numerical Example
 
+Let's look at an example with numbers
+
+:::: {.fragment}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/numerical-ex-01.PNG){height="450" fig-align="center"}
+
+[Urban Wages]{.hi-orange .align-center}
+:::
+
+::: {.column width="50%"}
+![](images/numerical-ex-02.PNG){height="450" fig-align="center"}
+
+[Rural Wages]{.hi-green .align-center}
+:::
+
+::::
+
+::::
+
+---
+
+## Numerical Example
+
+We want to put [both demand curves]{.h} on the same graph
+
+::: {.fragment}
+- We put [urban wages]{.hi-orange} on the right-hand side and [rural wages]{.hi-green} on the left-hand side
+- Be careful to notice the difference in axis values 
+    - [Urban wages]{.hi-orange} are higher than [rural wages]{.hi-green}
+:::
+
+---
+
+## Numerical Example - Combined Demand Curves
+
+![](images/numerical-ex-03.PNG){fig-align="center"}
+
+---
+
+## Numerical Example - Stage 01
+
+::: {.vertical-center}
+- Let the wage in the urban area be fixed at [10 {{< fa arrow-right >}} $(w^{C} = 10)$]{.hi}
+
+- [Urban employers]{.hi-orange} demand [2 units of labor {{< fa arrow-right >}} $(L^{c} = 2)$]{.hi}
+
+::: {.fragment}
+- For now, suppose [no one migrates to the city]{.h}
+    - Everyone works in the [rural sector]{.hi-green} and receives a wage of 1:
+    - [$w^{R} = 1$ and $L^{R} = 8$]{.hi}
+:::
+:::
+
+---
+
+## Numerical Example - Stage 01
+
+![](images/numerical-ex-04.PNG){fig-align="center"}
+
+---
+
+## Numerical Example - Equilibrium?
+
+:::: {.columns}
+
+::: {.column width=40%}
+![](images/numerical-ex-04.PNG){fig-align="left" height="600"}
+:::
+
+::: {.column width="60%"}
+[Is this an equilibrium?]{.hp .align-center}
+
+::: {.incremental .small}
+- The [$10 urban wage]{.hi-orange} is tempting for rural workers
+- But there is a chance they will not get a job in the city 
+- So there are still [migration dynamics]{.hi} to consider
+- Let's suppose that, at first, two rural workers choose to [migrate]{.hp}
+- This means there are now [4 workers in the urban area]{.hi-orange}
+:::
+
+:::
+
+::::
+
+---
+
+## Numerical Example - Stage 02 (Migration)
+
+So with 2 brave souls [migrating]{.hp} to the city, we now have [4 people in the urban area]{.hi-orange} which implies:
+
+::: {.incremental}
+- There is an [increase]{.h} in the number of people living in the [urban area]{.hi-orange}
+- There is a [decrease]{.h} in the number of people living in the [rural area]{.hi-green}
+- The increase in the [urban population]{.hi-orange} [reduces]{.h} the probability that an urban worker is able to find employment
+- At the same time, the [reduction in the rural population]{.hi-green} [increases]{.h} [rural wages]{.hi-green}
+:::
+
+---
+
+## Numerical Example - Stage 02 (Migration)
+
+![](images/numerical-ex-05.PNG){fig-align="center"}
+
+---
+
+## Numerical Example - Finding New Wages
+
+Recall we can find the [rural wage]{.hi-green} by:
+
+$$
+    w^{R} = \dfrac{L^{C}}{N - L^{R}} \times w^{C}
+$$
+
+::: {.fragment}
+- We know that $L^{C} = 2, N = 10, L^{R} = 6$ and $w^{C} = 10$
+:::
+
+::: {.fragment}
+$$
+    w^{R} = \dfrac{2}{10 - 6} \times 10 = 5
+$$
+
+[Is this an equilibrium?]{.hp .align-center} 
+
+[Let's check our graph again]{.align-center}
+:::
+
+::: {.notes}
+rural wages is equal to expected urban wages in equilibrium
+:::
+
+---
+
+## Numerical Example - Finding New Wages
+
+![](images/numerical-ex-05.PNG){fig-align="center"}
+
+::: {.fragment .align-center}
+[Not an equilibrium]{.hi-red}
+
+When there are 6 people in the [rural area]{.hi-green}, the wage $w^{R}$ is 3.3
+:::
+
+::: {.notes}
+Not enough people migrated to the city
+
+Let's see what happens when 3 people migrate
+:::
+
+---
+
+## Numerical Example - Stage 03 (3 Migrants)
+
+![](images/numerical-ex-06.PNG){fig-align="center"}
+
+::: {.notes}
+rural wages increase due to lower population
+
+unemployment in the city is higher
+:::
+
+---
+
+## Numerical Example - Stage 03 (Wages)
+
+::: {.align-center}
+If 3 people migrate, then $L^{R} = 5$ and $w^{R} = 4$
+:::
+
+- Our equilibrium condition is such that $w^{R} = E[w^{C}]$ :
+
+\begin{align*}
+    w^{R} = E[w^{C}] = \dfrac{L^{C}}{N - L^{R}} \times w^{C} = \dfrac{2}{10 - 5} \times 10 = 4
+\end{align*}
+
+::: {.incremental}
+- [This is an equilibrium!]{.hi-red}
+- We write this as $(L^{R} = 5, L^{C} = 2, U^{C} = 3, w^{C} = 10, w^{R} = 4)$
+- Writing it like this is important: it shows that the equilibrium is a set of values
+:::
+
+::: {.notes}
+The order is not important, but rather that all of them appear and have a value
+:::
+
+---
+
+## Summary
+
+::: {.incremental}
+- Biggest [benefit]{.hi-green} of urbanization and migration to cities are [agglomeration economies]{.h}
+- Biggest [cost]{.hi-red} of urbanization and migration is [congestion]{.h}
+- Outcomes of urbanization and migration are less clear:
+    - Does urbanization lead to higher social capital?
+    - Does urbanization lead to more inequality and less social capital?
+    - Who is able to migrate? The wealthiest? The best educated?
+- Equally important is the ability of receiving cities to properly accommodate migrants
+- Possibly the biggest issue surrounding urbanization in developing countries involves the lack of opportunity in rural areas
+:::
+
+--- 
+
+## Policies
+
+What can be done about some of the problems urbanization causes?
+
+- Because this is a relatively new phenomenon, we do not have perfect solutions yet
+
+::: {.fragment}
+[_1._]{.hp .note} [Better Rural-Urban Balance]{.hp}
+
+[_2._]{.hp .note} [Anticipation]{.hp}
+:::
+
+---
+
+## Policies
+
+What can be done about some of the problems urbanization causes?
+
+- Because this is a relatively new phenomenon, we do not have perfect solutions yet
+
+[_1._]{.hp .note} [Better Rural-Urban Balance]{.hp}
+
+- Most policies are focused on urban sectors due to their economic and political importance
+- This highlights the need for policies aimed at assisting rural workers
+    - Ex: Better access to credit and insurance markets for farmers should reduce the risk of working in rural areas
+
+::: {.small .faded}
+[_2._]{.hp .note} [Anticipation]{.hp}
+:::
+
+---
+
+## Policies
+
+What can be done about some of the problems urbanization causes?
+
+- Because this is a relatively new phenomenon, we do not have perfect solutions yet
+
+::: {.small .faded}
+[_1._]{.hp .note} [Better Rural-Urban Balance]{.hp}
+:::
+
+[_2._]{.hp .note} [Anticipation]{.hp}
+
+- Urbanization is not stopping and adjustments toward this is important 
+- Adjusting zoning laws might help ease congestion in major cities
+- Serious investment in infrastructure is needed
+
+---
+
+## Policies
+
+What can be done about some of the problems urbanization causes?
+
+- Because this is a relatively new phenomenon, we do not have perfect solutions yet
+
+::: {.faded .small}
+[_1._]{.hp .note} [Better Rural-Urban Balance]{.hp}
+
+[_2._]{.hp .note} [Anticipation]{.hp}
+:::
+
+[_3._]{.hp .note} [Its on us to be conscious of how growth needs to be more guided]{.hp}
+
+::: {.notes}
+Growth for the sake of growth may not be a correct path
+:::
