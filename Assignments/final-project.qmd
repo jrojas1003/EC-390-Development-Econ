@@ -29,7 +29,7 @@ title: Final Project
 [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916915){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
-::: {.align-enter}
+::: {.align-center}
 [Example](Final-Project/03-Presentation-Rough-Draft/weai-example.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
