@@ -12,7 +12,7 @@
 \usepackage[utf8]{inputenc}   % Input encoding
 \usepackage[T1]{fontenc}      % Output font encoding
 \usepackage{lmodern}          % Latin Modern fonts (improves output)
-
+\usepackage{amsmath}          % Math package
 % ---------------------------------------------------
 % Tables and Columns
 % ---------------------------------------------------
@@ -87,7 +87,7 @@
 % ---------------------------------------------------
 \addpoints              % Allows to add points up to include table at end of document
 \bracketedpoints        % Puts points per question inside brackets instead of parenthesis 
-
+%\printanswers
 % ---------------------------------------------------
 % Header & Footer Options
 % ---------------------------------------------------
@@ -161,12 +161,24 @@ The table below shows their yields over the past 5 years.
 \begin{parts}
     \part[5] 
     Solve for the \textbf{expected yield} of \textbf{carrots} and \textbf{leeks} in year 6. 
-    Show your work. 
+    Show your work.
+    \begin{solution}
+      \begin{align*}
+        \text{Expected Yield of Carrots:} \;\; \dfrac{5+3+8+4+10}{5} = 6\\ \\
+        \text{Expected Yield of Leeks:} \;\; \dfrac{12+17+0+14+3}{5} = 9.2
+      \end{align*}
+    \end{solution} 
     \vspace*{\stretch{1}}
     \part[4]
     Do \textbf{carrots} and \textbf{leeks} appear to have a positive or negative covariance?
     Does this mean that these veggies are a good or bad choice for diversification?
     (You do not need to calculate the covariance to answer this question)
+    \begin{solution}
+      They have a negative covariance. 
+      Years in which carrots have a high yield, leeks yield is low, and vice-versa. 
+
+      This means that they are a good choice for diversification, as they serve as informal insurance for each other. 
+    \end{solution}
     \vspace*{\stretch{1}}
 \end{parts}
 
@@ -185,14 +197,29 @@ Consider the graph below and answer the following questions (include calculation
   \part[5] 
   Suppose the farmer has to pay 0\% of their yield to the landowner, and the farmer's next best alternative is working informally for \$5 an hour. 
   Find the \textbf{optimal amount of labor} for the farmer. 
+  \begin{solution}
+    With an outside option of \$5 an hour, the optimal choice of labor by the farmer would be 30 hours when they get to keep all of their yield.
+  \end{solution}
   \vspace*{\stretch{1}}
   \part[5] 
   Now consider the case where the farmer keeps only $\alpha$\% (as shown in the graph).
   Calculate the \textbf{farmer's profit, landlord's profit, and the deadweight loss} associated with this sharecropping agreement. 
   (Answers should be numeric)
+  \begin{solution}
+    The area of $A$ is the deadweight loss, the area of $B$ is the farmer's profit, and the area of $C$ is the landlord's profit.
+    \begin{align*}
+      A &= 1/2 * 10 * 2 = 10 \\
+      B &= 1/2 * 20 * 3 = 30 \\
+      C &= (1/2 * 30 * 6) - A - B = 50
+    \end{align*}
+  \end{solution}
   \vspace*{\stretch{1}}
   \part[3] 
   What is the benefit to the farmer from sharecropping?
+  \begin{solution}
+    Sharecropping is beneficial to the farmer because it serves as a form of insurance against a bad crop. 
+    It helps the farmer spread the risk at the cost of sharing the yields.
+  \end{solution}
   \vspace*{\stretch{1}}
 \end{parts}
 
@@ -201,8 +228,13 @@ Consider the graph below and answer the following questions (include calculation
 \question[2]
 What is \textbf{urban bias}? 
 Why can this lead to negative outcomes for society?
-\vspace*{\stretch{1}}
+\begin{solution}
+  \textbf{Urban bias} is the favoring of urban areas over rural ones. 
+  For example, greater resources are invested in cities than in rural zones.
 
+  This can lead to negative outcomes because as rural areas are left behind, inequalities can grow larger and possibly lead to political unrest.
+\end{solution}
+\vspace*{\stretch{1}}
 % Question 04
 \question 
 Use the following graph on population age for the Philippines and Japan to answer the following questions:
@@ -222,12 +254,21 @@ Use the following graph on population age for the Philippines and Japan to answe
 \begin{parts}
   \part[3] 
   On average, which country has a younger population?
+  \begin{solution}
+    Philippines
+  \end{solution}
   \vspace*{\stretch{1}}
   \part[3] 
   How might the age structure of the Philippines influence the \textbf{dependency burden} of the Philippines?
+  \begin{solution}
+    It would shift the dependency burden toward young children (under the working age)
+  \end{solution}
   \vspace*{\stretch{1}}
   \part[3] 
   How might the age structure of Japan influence the \textbf{dependency burden} of Japan?
+  \begin{solution}
+    It would shift the dependency burden toward the older population (retirees)
+  \end{solution}
   \vspace*{\stretch{1}}
 \end{parts}
 
@@ -242,13 +283,22 @@ Use the following graph on \textbf{household preferences} to answer the followin
   If the household \textbf{spends all of their budget on children}, they can afford to have 8 children. 
   If they \textbf{spend all of their budget on food}, they can afford 40 units.
   What is the \textbf{price of a child and the price of food}?
-  \vspace*{\stretch{2}}
+  \begin{solution}
+    \begin{align*}
+      \text{Price of a child:} \;\; P_{c} = \dfrac{Budget}{Units} = \dfrac{100}{8} = 12.5 \\ \\
+      \text{Price of food:} \;\; P_{f} = \dfrac{Budget}{Units} = \dfrac{100}{40} = 2.5
+    \end{align*}
+  \end{solution}
+  \vspace*{\stretch{1}}
   \part[4] 
   \textbf{On the graph below}, draw the \textbf{households budget line} and determine the \textbf{optimal number of children} and the \textbf{optimal amount of food} the household will consume.
   \begin{figure}[ht!]
   \centering
-  \includegraphics[width=0.5\textheight]{images/fertility1.PNG}
+  \includegraphics[width=0.45\textheight]{images/fertility1.PNG}
   \end{figure}
+  \begin{solution}
+    $Q^{*}_{C} = 6 \;\;, \;\; Q^{*}_{f} = 10$
+  \end{solution}
   \vspace*{\stretch{1}}
   \newpage
   \part[5] 
@@ -260,13 +310,20 @@ Use the following graph on \textbf{household preferences} to answer the followin
   \centering
   \includegraphics[width=0.5\textheight]{images/fertility1.PNG}
   \end{figure}
+  \begin{solution}
+    $Q^{*}_{C} = 4 \;\;, \;\; Q^{*}_{f} = 20$
+  \end{solution}
   \vspace*{\stretch{0.5}}
   \part[4] 
   Under the ``four-child policy'' is the \textbf{household better off, worse off, or neither}?
   How can you tell?
+  \begin{solution}
+    The household is \textbf{worse off}. 
+    You can tell this because they are at a \textbf{lower indifference curve} due to the limit in children. 
+    Any time we have to pick a lower (toward the origin) indifference curve we know they are worse off. 
+  \end{solution}
   \vspace*{\stretch{1}}
 \end{parts} 
-
 
 \end{questions}
 
