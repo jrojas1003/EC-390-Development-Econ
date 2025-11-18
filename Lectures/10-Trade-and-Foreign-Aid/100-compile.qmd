@@ -1,0 +1,16 @@
+---
+title: "Trade and Foreign Aid"
+subtitle: "EC 390 - Development Economics"
+author: Jose Rojas-Fallas
+date: last-modified
+date-format: "YYYY"
+format:
+    revealjs:
+        theme: [default, styles.scss]
+        slide-number: true
+        footer: "EC390, Lecture 10 | Trade & Foreign Aid"
+        preview-links: auto
+        code-f  old: FALSE
+title-slide-attributes: 
+  data-background-position: left
+---
