@@ -38,6 +38,10 @@ title: Assignments
 [Problem Set 03 - Due Wednesday, November 13 @ 12:00pm]{.text-center .h .large} 
 
 ::: {.align-center}
+[Answer Key](Problem-Sets/PS03/Answer-Key-PS03.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
+
+::: {.align-center}
 [PS03 Questions](Problem-Sets/PS03/ps03.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916928){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
