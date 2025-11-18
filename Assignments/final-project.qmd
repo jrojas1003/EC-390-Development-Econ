@@ -11,6 +11,8 @@ title: Final Project
 [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916912){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
+## 
+
 [Annotated Bibliography - Due Wednesday, November 05 @ 11:59pm]{.text-center .h .large}
 
 ::: {.align-center}
@@ -22,7 +24,9 @@ title: Final Project
 [Example from Dante Yasui](Final-Project/02-Annotated-Bib/Dante-Example/EconHistory_annotatedbib.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
-## Presentation Outline (Week 08) 
+## 
+
+[Presentation Outline (Week 08)]{.text-center .h .large}
 
 ::: {.align-center}
 [Instructions](Final-Project/03-Presentation-Rough-Draft/rough-draft.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
@@ -33,4 +37,6 @@ title: Final Project
 [Example](Final-Project/03-Presentation-Rough-Draft/weai-example.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
-## Final Presentation (Week 10)
+## 
+
+[Final Presentation (Week 10)]{.text-center .h .large}
