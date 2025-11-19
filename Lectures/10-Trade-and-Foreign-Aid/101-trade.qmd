@@ -1,0 +1,82 @@
+---
+name: trade
+---
+
+## Why is Trade Is Important
+
+![](images/global-shipping-density.jpg){fig-align="center" height="600"}
+
+---
+
+## Case Study: Japan
+
+Japan's [economic growth after WWII was large]{.hi} 
+
+::: {.fragment .vertical-center}
+- Trade played a large role 
+- First they exported textiles
+- Then started exporting more advanced consumer goods: Electronics, vehicles, machines, etc.
+- Exports increased from [19 Billion USD in 1970]{.hi} to [270 Billion USD in 1989]{.hp}
+:::
+
+---
+
+## Case Study: Japan
+
+![](images/japan-growth.jpeg){fig-align="center"}
+
+---
+
+## Trade and Growth
+
+- More recently, [China's economy]{.hi} has grown substantially and many economists point to their emphasis on trade as a main cause
+
+::: {.fragment}
+- If we look at Japan's share of global exports over time, the drop coincides with China's entry into the world market
+
+![](images/japan-share-global-exports.jpg){fig-align="center"}
+:::
+
+---
+
+## Trade and Growth
+
+- More recently, [China's economy]{.hi} has grown substantially and many economists point to their emphasis on trade as a main cause
+
+- [Big question:]{.hi} If we hae empirical evidence that [trade can help grow an economy]{.h}, why doesn't everyone ["trade their way out of poverty"]{.hp}?
+
+::: {.fragment}
+[They're trying, but its not that easy]{.hp .align-center}
+:::
+
+::: {.fragment}
+![](images/us-mfg-loss.PNG){fig-align="center"}
+:::
+
+---
+
+## Trade and Growth
+
+![](images/china-mfg.webp){fig-align="center"}
+
+---
+
+## Trade and Growth
+
+![](images/us-mfg-employment.jpeg){fig-align="center"}
+
+---
+
+## Winners and Losers
+
+- Economists like to argue that [trade results in the most efficient allocation of production]{.hi}
+
+    - Goods are produced where costs are lower
+
+::: {.incremental}
+- In general, this results in lower prices for consumers and increased welfare
+- However, benefits are not distributed equally across the population
+- If the US imports cars from Japan, what happens to US auto workers?
+- [In theory]{.hi}, those that ["lose"]{.hp} from trade could be compensated by those that ["win"]{.hi-green}
+- [In practice]{.hi}, that does not happen
+:::

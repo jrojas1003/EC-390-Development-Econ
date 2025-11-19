@@ -17,17 +17,17 @@ title-slide-attributes:
 
 # Trade {.inverse .note}
 
-
-
-- Traditional Theory of Trade (12.3)
+{{< include 101-trade.qmd >}}
+<!-- - Traditional Theory of Trade (12.3)
 - Critique of Theory (12.4)
 - Export Promotion vs Import Substitution (12.5)
 - Export-Oriented Industrialisation Strategy (12.6.1)
-- Economic Integration (12.7)
+- Economic Integration (12.7) -->
 
-## Foreign Aid
+# Foreign Aid {.inverse .note}
 
-- FDI and MNCs (14.2)
+{{< include 102-foreign-aid.qmd >}}
+<!-- - FDI and MNCs (14.2)
 - Remittances (14.3)
 - Foreign Aid
   - 14.4.1
@@ -37,4 +37,4 @@ title-slide-attributes:
 - Conflict and Development (14.5)
   - 14.5.2
   - 14.5.3
-  - 14.5.4
+  - 14.5.4 -->
