@@ -24,9 +24,9 @@ title-slide-attributes:
   - Market failure
 - Government Failure (11.4) -->
 
-# Theory {.inverse .note}
+# Democracy versus Autocracy {.inverse .note}
 
-{{< include 092-theory.qmd >}}
+{{< include 092-dem-vs-aut.qmd >}}
 
 <!-- - The Market Economy (11.5)
 - Development Political Economy (11.7) -->

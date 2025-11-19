@@ -269,3 +269,49 @@ What went wrong? [Many things]{.hi}
 ::: {.notes}
 The answer has been a shift toward
 :::
+
+---
+
+## What Helps a Well-Functioning Market?
+
+Although not an exhaustive list, a good foundation for a healthy market economy has:
+
+:::: {.columns}
+
+::: {.column width="50%"}
+::: {.small}
+[_1._]{.hp .note} [Property Rights]{.hp .note} 
+
+[_2._]{.hp .note} [Commercial Laws and an Independent Judiciary]{.hp .note} 
+
+[_3._]{.hp .note} [Freedom to Establish Businesses in All Sectors*]{.hp .note} 
+
+[_4._]{.hp .note} [A Stable Currency and Banking System]{.hp .note} 
+
+[_5._]{.hp .note} [Public Supervision of Natural Monopolies]{.hp .note} 
+
+[_6._]{.hp .note} [Available Information About Products in All Markets]{.hp .note} 
+:::
+:::
+
+::: {.column width="50%"}
+::: {.small}
+[_7._]{.hp .note} [Protection of Consumers' Preferences]{.hp .note} 
+
+[_8._]{.hp .note} [Provision of Public Goods and Management of Externalities]{.hp .note} 
+
+[_9._]{.hp .note} [Ability to Stabilize Monetary and Fiscal Policies]{.hp .note} 
+
+[_10._]{.hp .note} [Safety Nets]{.hp .note} 
+
+[_11._]{.hp .note} [Encouragement of Innovation]{.hp .note} 
+
+[_12._]{.hp .note} [Security from Violence]{.hp .note} 
+:::
+:::
+
+::::
+
+::: {.notes}
+* except those with significant externalities. Freedom of entry
+:::

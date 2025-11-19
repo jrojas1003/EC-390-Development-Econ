@@ -2,3 +2,100 @@
 name: conflict and development
 ---
 
+## Type of Institutions
+
+We can break down institutions into two broad groups
+
+[_1._]{.hp .note} [Inclusive Institutions]{.hp}
+
+[_2._]{.hp .note} [Extractive Institutions]{.hp}
+
+- Typically, places with [extractive institutions are less economically developed]{.hi}
+
+---
+
+## Type of Institutions
+
+[_1._]{.hp .note} [Inclusive Institutions]{.hp}
+
+::: {.fragment}
+- Secure property rights
+- Law and Order
+- Markets and state support for these markets
+- (relatively) free entry of new businesses
+- Uphold and protect contracts
+- Access to education and opportunity for large majority of citizens
+:::
+
+::: {.fragment}
+- They sound great
+- But they are not necessairly the starting point for many societies
+:::
+
+---
+
+## Type of Institutions
+
+[_2._]{.hp .note} [Extractive Institutions]{.hp}
+
+::: {.fragment}
+- Designed by the politically powerful elites 
+- Designed to [extract resources]{.hi} from the rest of society
+:::
+
+::: {.fragment}
+They have:
+
+- Weak or insecure property rights
+- Barriers to entry and limited economic mobility
+- Little incentive for rulers to promote broad-based growth
+:::
+
+::: {.fragment}
+This leads to [low investment, persistent inequality, and slower long-run development]{.h}
+:::
+
+::: {.notes}
+Examples: Force labor were the basis of ancient greece, egypt, rome
+
+Plantation economies in LATAM and the US South
+
+Extraction based colonization in Africa
+:::
+
+---
+
+## Colonial Origins Comparative
+
+How come some places, with the same colonial origin, have [extractive institutions]{.hp} and others do not?
+
+::: {.fragment}
+The United States and India were both British colonies
+
+- But the US is more developed than India and has "stronger" institutions
+
+- Research has hypothesized that colonizers set up [extractive institutions]{.hp} in places where they were unable to live (high disease burdens, difficult climates, etc.)
+- The existence of [extractive institutions]{.hp} in the colonized country sets them back
+    - Even after independence from colonial powers
+    - Makes development more difficult
+:::
+
+::: {.notes}
+Research findings: Places with higher settler mortality have lower GDP per capita today
+
+Quality of institutions set up by colonial powers play a role in current economic deveploment of former colony
+
+Not perfect, but the lesson to take home is that institutions play a role in development
+:::
+
+---
+
+## What Are "Good" Institutions?
+
+- One of the biggest points of contention is [defining a good institution]{.h}
+
+::: {.incremental .vertical-center}
+- One person's idea of what a good institution is may be slightly different than someone else
+- There is no standard measure of institutional quality, so often we have to come up with ways to measure it
+- We can point back to our list of what comprises a well-functioning market and work from there
+:::

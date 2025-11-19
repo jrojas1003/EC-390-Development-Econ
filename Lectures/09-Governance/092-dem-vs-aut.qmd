@@ -1,0 +1,52 @@
+---
+name: democracy versus autocracy
+---
+
+## Which Facilitates Faster Growth?
+
+[If we think about individual incentives, it's not as straightforward an answer as we might think]{.small}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Democracy]{.hi .align-center}
+
+::: {.incremental .small}
+- Politicians seeking election have an incentive to reflect the will and interests of a majority of the people
+- At the same time, an upcoming election creates the incentive to seek short-term goals, rather than long-term development
+- [Worse outcome]{.hp}: A corrupt politician knows they are on the way out, so they have an incentive to loot what they can 
+:::
+
+:::
+
+::: {.column width="50%"}
+[Autocracy]{.hi .align-center}
+
+::: {.incremental .small}
+- In high-growth corruption is present but not greater than in most other developing countries
+- The autocratic regime has a strong incentive of achieving high growth in order to remain in power [(or risk revolution)]{.h .fragment}
+- But they also have the incentive to use the state for strictly private gains and if they fear a loss of power, they will also have the incentive to "steal fast" and fortify their position of power by force
+:::
+
+:::
+
+::::
+
+---
+
+## Nuance
+
+A lot goes into growth, so it should be no surprise that this is also a complex issue
+
+::: {.fragment .small}
+- Overall, we value freedom more than not
+- Democracy tends to be better for for broader development objectives like equity, education, health, and disaster prevention
+    - Although many existing democracies have significant flaws and fall short 
+:::
+
+::: {.fragment}
+Possibly the most convincing argument (in my own opinion), is about stability:
+
+- [Democracies]{.hi} tend to be stable and [stable economies]{.hi} grow faster than unstable ones
+- This may mean that [the positive effect on growth by democracies]{.h} may be due to their stability
+:::
