@@ -14,3 +14,27 @@ format:
 title-slide-attributes: 
   data-background-position: left
 ---
+
+# Role of Government {.inverse .note}
+
+{{< include 091-role-of-govt.qmd >}}
+
+<!-- - Balance between private markets and public policy
+- Economic planning (11.2)
+  - Market failure
+- Government Failure (11.4) -->
+
+# Theory {.inverse .note}
+
+{{< include 092-theory.qmd >}}
+
+<!-- - The Market Economy (11.5)
+- Development Political Economy (11.7) -->
+
+# Governance and Institutions {.inverse .note}
+
+{{< include 093-conflict-and-development.qmd >}}
+
+<!-- - Trends in Governance and Reform (11.9)
+- Development Roles of NGOs (11.8)
+- Project apraisal and social cost-benefit analysis (11.3.4) -->

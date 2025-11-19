@@ -1,0 +1,271 @@
+---
+name: role of government
+---
+
+## What SHOULD Governments Do?
+
+Governments promote [well-being and growth]{.hi} for their population
+
+::: {.fragment}
+Ideally, they:
+
+- Strike a balance between [private markets]{.h} and [public policy]{.h}
+- Set the rules of the game
+- It [ideally]{.hp} behaves as a [social planner]{.h}
+    - Decision-maker that allocates resources to [maximize overall societal welfare]{.hi} rather than individual interests
+:::
+
+---
+
+## What DO Governments Do?
+
+They can [directly]{.h} influence markets
+
+::: {.fragment}
+- Price Controls
+- Taxes, Tariffs
+- Industry Regulation, Entry Restrictions, Licensing
+:::
+
+::: {.fragment}
+They can also influence markets [indirectly]{.hi}
+:::
+
+::: {.fragment}
+- Infrastructure Investments
+- Human Capital Investments
+- Targeted Investments (promote import substitutions or target a specific export good)
+- Policy, Protect Property Rights, Patents, etc.
+:::
+
+---
+
+## Market Failures
+
+Historically, [governments]{.h} primary role has been to fix [market failures]{.hi}
+
+- [Definition:]{.h} A phenomenom resulting from existing [market imperfections]{.h} that weakn the functioning of a market economy
+
+::: {.fragment}
+This is a pretty general term, but it can be:
+
+- The complete absence of a market (i.e. insurance)
+- Disequilibrium due to errors in communication
+- Misallignment between private incentives and social welfare goals
+- Individuals/firms not experiencing the full cost of negative externalities (i.e. pollution)
+:::
+
+---
+
+## Addressing Market Failures
+
+Because [market failures]{.hi} occur when the market has some sort of flaw, a [government]{.h} intervenes by correcting these flaws
+
+This can be:
+
+::: {.fragment}
+- [Provide public goods]{.hi} that the market would not supply efficiently
+- [Subsidize or increase investment]{.hi} to overcome underinvestment 
+- [Regulate monopolies and ensure healthy competition]{.hi} exists in markets
+- [Correct externalities]{.hi} such that they are factored in the market
+- [Improve information access]{.hi} by offering market data, setting standards, etc.
+- [Strengthen property rights and legal institutions]{.hi} to reduce costs and uncertainty
+:::
+
+---
+
+## Governments in the Developing World
+
+::: {.small}
+Up until around the 1980s the [developing world]{.hi} strongly belived in coming up with and executing a [national development plan]{.hi}
+
+- This was thought to give the only [institutional]{.h} help to get past obstacles to development and achieve high growth'
+
+- This acceptance of planning as a development tool rests on a number of [fundamental economic and institutional arguments]{.hp}
+
+    - We will focus on [market failure and later on, foreign aid]{.hi}
+
+- Unfortunately, all the planning in the world did not live up to the hype
+
+- However, [economic planning]{.hi} is an important role in accelerating growth, reducing poverty, and reaching human development goals
+:::
+
+::: {.fragment}
+- [Definition:]{.h} A deliberate and conscious attempt by the state to formulate decision on how factors of production will be allocated across the economy
+:::
+
+---
+
+## Government Planning Failures
+
+So the results of development planning have been generally dissapointing
+
+But what went wrong? [Many things]{.hi .fragment}
+
+::: {.fragment}
+[_1._]{.hp .note} [Theory Versus Practice]{.hp}
+
+[_2._]{.hp .note} [Deficiencies in Plans and Implementation]{.hp}
+ 
+[_3._]{.hp .note} [Economic Shocks (External and Internal)]{.hp}
+
+[_4._]{.hp .note} [Institutional Weaknesses]{.hp}
+
+[_5._]{.hp .note} [Political Will]{.hp}
+
+[_6._]{.hp .note} [Fragile States]{.hp}
+:::
+
+---
+
+## Government Planning Failures
+
+What went wrong? [Many things]{.hi}
+
+[_1._]{.hp .note} [Theory Versus Practice]{.hp}
+
+- Most economic theory can be increasingly frustrating [(it doesn't make sense in the real world)]{.hi}
+- Policies may look sound on paper, but break down once implemented
+- Planners may fail to properly understand constraints, incentives, and underestimate adaptability by agents
+
+::: {.faded .small}
+[_2._]{.hp .note} [Deficiencies in Plans and Implementation]{.hp}
+ 
+[_3._]{.hp .note} [Economic Shocks (External and Internal)]{.hp}
+
+[_4._]{.hp .note} [Institutional Weaknesses]{.hp}
+
+[_5._]{.hp .note} [Political Will]{.hp}
+
+[_6._]{.hp .note} [Fragile States]{.hp}
+:::
+
+---
+
+## Government Planning Failures
+
+What went wrong? [Many things]{.hi}
+
+::: {.faded .small}
+[_1._]{.hp .note} [Theory Versus Practice]{.hp}
+:::
+
+[_2._]{.hp .note} [Deficiencies in Plans and Implementation]{.hp}
+
+- Plans were overly ambitious, poorly sequenced, or lacked clear priorites
+- Weak capacity to implement can lead to delays, cost overruns, and unfinished projects
+
+::: {.faded .small}
+[_3._]{.hp .note} [Economic Shocks (External and Internal)]{.hp}
+
+[_4._]{.hp .note} [Institutional Weaknesses]{.hp}
+
+[_5._]{.hp .note} [Political Will]{.hp}
+
+[_6._]{.hp .note} [Fragile States]{.hp}
+:::
+
+::: {.notes}
+Bailey bridge in costa rica
+:::
+
+---
+
+## Government Planning Failures
+
+What went wrong? [Many things]{.hi}
+
+::: {.faded .small}
+[_1._]{.hp .note} [Theory Versus Practice]{.hp}
+
+[_2._]{.hp .note} [Deficiencies in Plans and Implementation]{.hp}
+:::
+
+[_3._]{.hp .note} [Economic Shocks (External and Internal)]{.hp}
+
+- Commodity prices collapse, financial crises occur, and things generally happen that derail plans
+
+::: {.faded .small}
+[_4._]{.hp .note} [Institutional Weaknesses]{.hp}
+
+[_5._]{.hp .note} [Political Will]{.hp}
+
+[_6._]{.hp .note} [Fragile States]{.hp}
+:::
+
+---
+
+## Government Planning Failures
+
+What went wrong? [Many things]{.hi}
+
+::: {.faded .small}
+[_1._]{.hp .note} [Theory Versus Practice]{.hp}
+
+[_2._]{.hp .note} [Deficiencies in Plans and Implementation]{.hp}
+
+[_3._]{.hp .note} [Economic Shocks (External and Internal)]{.hp}
+:::
+
+[_4._]{.hp .note} [Institutional Weaknesses]{.hp}
+
+- Governments are a collective of many people which may lack technical skills, coordination, and accountability
+- This is where things like [corruption and rent-seeking]{.h} comes into play (diverting resources)
+
+::: {.faded .small}
+[_5._]{.hp .note} [Political Will]{.hp}
+
+[_6._]{.hp .note} [Fragile States]{.hp}
+:::
+
+---
+
+## Government Planning Failures
+
+What went wrong? [Many things]{.hi}
+
+::: {.faded .small}
+[_1._]{.hp .note} [Theory Versus Practice]{.hp}
+
+[_2._]{.hp .note} [Deficiencies in Plans and Implementation]{.hp}
+
+[_3._]{.hp .note} [Economic Shocks (External and Internal)]{.hp}
+
+[_4._]{.hp .note} [Institutional Weaknesses]{.hp}
+:::
+
+[_5._]{.hp .note} [Political Will]{.hp}
+
+- Political leaders prioritize short-term gains over long-term development
+- Frequent changes in government may cause policy reversals and halt delivery of plans
+
+::: {.faded .small}
+[_6._]{.hp .note} [Fragile States]{.hp}
+:::
+
+---
+
+## Government Planning Failures
+
+What went wrong? [Many things]{.hi}
+
+::: {.faded .small}
+[_1._]{.hp .note} [Theory Versus Practice]{.hp}
+
+[_2._]{.hp .note} [Deficiencies in Plans and Implementation]{.hp}
+
+[_3._]{.hp .note} [Economic Shocks (External and Internal)]{.hp}
+
+[_4._]{.hp .note} [Institutional Weaknesses]{.hp}
+
+[_5._]{.hp .note} [Political Will]{.hp}
+:::
+
+[_6._]{.hp .note} [Fragile States]{.hp}
+
+- Ongoing conflict, weak sovereignty, or contested authority makes planning innefective
+- Basic state functions (taxation, delivery of services, law enforcement) were unreliable
+
+::: {.notes}
+The answer has been a shift toward
+:::

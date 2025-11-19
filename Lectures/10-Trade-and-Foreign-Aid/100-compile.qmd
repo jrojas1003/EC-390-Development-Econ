@@ -14,3 +14,27 @@ format:
 title-slide-attributes: 
   data-background-position: left
 ---
+
+# Trade {.inverse .note}
+
+
+
+- Traditional Theory of Trade (12.3)
+- Critique of Theory (12.4)
+- Export Promotion vs Import Substitution (12.5)
+- Export-Oriented Industrialisation Strategy (12.6.1)
+- Economic Integration (12.7)
+
+## Foreign Aid
+
+- FDI and MNCs (14.2)
+- Remittances (14.3)
+- Foreign Aid
+  - 14.4.1
+  - 14.4.3
+  - 14.4.5
+  - 14.4.6
+- Conflict and Development (14.5)
+  - 14.5.2
+  - 14.5.3
+  - 14.5.4
