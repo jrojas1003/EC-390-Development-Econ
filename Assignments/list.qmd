@@ -47,7 +47,7 @@ title: Assignments
 
 ---
 
-[Problem Set 04 - Due Wednesday, November 26 @ 12:00pm]{.text-center .h .large} 
+[Problem Set 04 - Due Wednesday, November 27 @ 11:59pm]{.text-center .h .large} 
 
 ::: {.align-center}
 [PS04 Questions](Problem-Sets/PS04/ps04.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916929){target=_blank .btn .btn-primary .btn-lg .cv-download}
