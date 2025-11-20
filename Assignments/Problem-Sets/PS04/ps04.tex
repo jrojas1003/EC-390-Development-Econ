@@ -12,6 +12,7 @@
 \usepackage[utf8]{inputenc}   % Input encoding
 \usepackage[T1]{fontenc}      % Output font encoding
 \usepackage{lmodern}          % Latin Modern fonts (improves output)
+\usepackage{amsmath}          % Math package
 
 % ---------------------------------------------------
 % Tables and Columns
@@ -19,6 +20,7 @@
 \usepackage{multicol}   % Multiple column environments
 \usepackage{multirow}   % Multi-row cells in tables
 \usepackage{booktabs}   % Better looking tables
+\usepackage{paralist}   % Horizontal lists
 
 % ---------------------------------------------------
 % Graphics and Figures
@@ -77,15 +79,17 @@
 % This is the name of the course (left header)
 \newcommand{\class}{\fontfamily{lmss} \textbf{EC 390}} 
 % This is the name of the assignment (center header)
-\newcommand{\examnum}{\fontfamily{lmss} \textbf{PS 01}} 
+\newcommand{\examnum}{\fontfamily{lmss} \textbf{PS 04}} 
 % This is the due date (right header)
-\newcommand{\examdate}{\fontfamily{lmss} \textbf{January 15 at 01:59pm}} 
+\newcommand{\examdate}{\fontfamily{lmss} \textbf{November 27 at 11:59pm}} 
 
 % ---------------------------------------------------
 % Points Options
 % ---------------------------------------------------
 \addpoints              % Allows to add points up to include table at end of document
 \bracketedpoints        % Puts points per question inside brackets instead of parenthesis 
+%\printanswers
+\unframedsolutions
 
 % ---------------------------------------------------
 % Header & Footer Options
@@ -142,15 +146,173 @@ You will not be given full credit if your answers cannot be easily understood.
 
 \begin{questions}
     
+% ===================================================
+% QUESTION 01
+% ===================================================
 \question 
-Text here
+Use the graph below to answer the following questions:
+
+\begin{figure}[ht!]
+  \centering
+  \includegraphics[width=\textwidth]{images/todaro-question.png}
+\end{figure}
 
 \begin{parts}
-    \part[5] Part 01
-    \part[10] Part 02
+    \part[3]
+    Suppose $w^{C} = 18$. How many people work in the city?
+    \begin{solution}
+      1
+    \end{solution}
+    \vspace*{\stretch{1}} 
+    \part[10]
+    Suppose $w^{C} = 18$. Solve for the equilibrium and show it graphically.
+    Show \textbf{ALL} your work to get the equilibrium
+    \begin{solution}
+      \begin{align*}
+        E(w^{C}) = w^{R} = \dfrac{1}{10 - L^{R}} * 18
+      \end{align*}
+      \begin{center}
+      \begin{tabular}{l|ccc}
+        $L^{R}$ & $E(w^{C})$ & $w^{R}$ & Equilibrium? \\
+        \hline
+        9       &     18     &    1    &      No      \\ 
+        7       &      6     &    2    &      No      \\ 
+        4       &      3     &    3    &     Yes      \\ 
+      \end{tabular}
+    \end{center}
+    \end{solution}
+    \vspace*{\stretch{3}} 
 \end{parts}
 
+\newpage
+% ===================================================
+% QUESTION 02
+% ===================================================
+\question 
+Using the demand and supply functions below, answer the following questions:
+
+$$
+  \textbf{Demand:} \;\; P = 120 - \dfrac{4}{7}Q_{d} \;\;\; ; \;\;\; \textbf{Supply:} \;\; P = \dfrac{1}{4}Q_{s}
+$$
+
+Suppose a \textbf{Developing Nation} opens up to \textbf{free-trade} and now faces a world price, $P_{w} = 25$.
+
+\begin{parts}
+  \part[5] 
+  Sketch the market with the \textbf{new price line} and corresponding equilibria points for \textbf{quantity demanded and supplied}
+  \begin{solution}
+      \begin{center}
+        \includegraphics[width=0.75\textwidth]{images/trade-question.png}
+      \end{center}
+  \end{solution}
+  \vspace*{\stretch{1}} 
+  \part[10] 
+  Calculate the \textbf{equilibrium values for quantity demanded, quantity supplied, imports, and surplus values}.
+  \begin{solution}
+    Find $Q_{D}, Q_{S}$ at $P^{w} = 25$ and then find CS and PS
+
+    \begin{multicols}{3}
+      \centering
+      \textbf{Demand}
+
+      \begin{align*}
+        25 &= 120 - \dfrac{4}{7}Q_{d} \\
+        \dfrac{4}{7}Q_{d} &= 120 - 25 \\
+        Q_{d} &= \dfrac{95 \times 7}{4} = 166.25  
+      \end{align*}
+      
+      \columnbreak
+
+      \textbf{Supply}
+
+      \begin{align*}
+        25 &= \dfrac{1}{4}Q_{S} \\ 
+        Q_{S} &= 100
+      \end{align*}
+      
+      \columnbreak
+
+      \textbf{Surplus}
+
+      \begin{align*}
+        CS &= \dfrac{1}{2}(120 - 25) * 166.25 \\
+        CS &= 7,896.88 \\
+        \vspace*{0.5cm} \\
+        PS &= \dfrac{1}{2}(25) * 100 \\
+        PS &= 1250
+      \end{align*}
+      
+      \columnbreak
+
+    \end{multicols}
+  \end{solution}
+  \vspace*{\stretch{1}}
+  \part[2] 
+  Should we expect social welfare to be larger or smaller, relative to \textbf{no trade}?
+  \begin{solution}
+    In theory, it should be larger. In reality, it depends on magnitudes.
+  \end{solution}
+  \vspace*{\stretch{1}} 
+
+  \newpage
+  \part[5] 
+  Now suppose \textbf{the government intervenes, setting a tariff rate of} $t = 4$.
+  Sketch the updated demand and supply curves.
+  Label it properly and \textbf{highlight which regions are the deadweight loss areas}.
+  \begin{solution}
+    \begin{center} 
+      \includegraphics[width=\textwidth]{images/trade-question-02.png}
+    \end{center}
+  \end{solution}
+  \vspace*{\stretch{1}} 
+  \part[15] 
+  Calculate the equilibria:
+  
+  \textbf{(1) Quantity Supplied} \hspace{1em} \textbf{(2) Quantity Demanded} \hspace{1em} \textbf{(3) Quantity Imported} \hspace{1em} \textbf{(4) Consumer,Producer Surplus, and Government Revenues}
+
+  \begin{solution}
+    \begin{multicols}{3}
+      \centering
+      \textbf{Supply}
+      \begin{align*}
+        P^{t} &= \dfrac{1}{4}Q_{S} \\
+        29 &= \dfrac{1}{4}Q_{S} \\
+        Q_{S} &= 116  
+      \end{align*}
+
+      \textbf{Demand}
+      \begin{align*}
+        29 &= 120 - \dfrac{4}{7} Q_{D} \\
+        \dfrac{4}{7} Q_{D} &= 91 \\
+        Q_{D} &= 159.25
+      \end{align*}
+
+      \columnbreak
+
+      \textbf{Imports}
+      \vspace*{-3cm}
+      \begin{align*}
+        &Q_{D} - Q_{S} \\
+        &= 159.25 - 116 \\
+        &= 43.25
+      \end{align*}
+
+      \columnbreak
+
+      \textbf{Surplus and Gov't Revenue}
+      \begin{align*}
+        CS &= \dfrac{1}{2}(120 - 29) \cdot 159.25 \\
+        CS &= 7,245.88 \\
+        PS &= \dfrac{1}{2}(29) \cdot 116 \\
+        PS &= 1,682 \\
+        \text{Gov't Rev} &= t \cdot imports \\
+        &= 4 \cdot 43.25 \\
+        &= 173
+      \end{align*}
+    \end{multicols}
+  \end{solution}
+  \vspace*{\stretch{1}} 
+\end{parts}
 
 \end{questions}
-
 \end{document}
