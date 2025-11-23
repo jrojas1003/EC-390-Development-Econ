@@ -43,7 +43,7 @@ Japan's [economic growth after WWII was large]{.hi}
 
 - More recently, [China's economy]{.hi} has grown substantially and many economists point to their emphasis on trade as a main cause
 
-- [Big question:]{.hi} If we hae empirical evidence that [trade can help grow an economy]{.h}, why doesn't everyone ["trade their way out of poverty"]{.hp}?
+- [Big question:]{.hi} If we have empirical evidence that [trade can help grow an economy]{.h}, why doesn't everyone ["trade their way out of poverty"]{.hp}?
 
 ::: {.fragment}
 [They're trying, but its not that easy]{.hp .align-center}
@@ -80,3 +80,402 @@ Japan's [economic growth after WWII was large]{.hi}
 - [In theory]{.hi}, those that ["lose"]{.hp} from trade could be compensated by those that ["win"]{.hi-green}
 - [In practice]{.hi}, that does not happen
 :::
+
+---
+
+## Backlash From Trade
+
+- Recently (over the past few years) there has been a great deal of push back in [developed countries]{.hi} against [free trade and globalization]{.hp}
+
+    - [Globalization:]{.h} The increasing integration of national economies into expanding international markets
+
+::: {.fragment}
+- This resistance to globalization comes from [both political sides]{.hi}
+
+- The rise of [populism]{.h} across the globe has been partly attributed to this [anti-globalization/anti-trade sentiment]{.h}
+:::
+
+---
+
+## Globalization
+
+As with everything, there are [Benefits]{.hi-green} and [Costs]{.hi-red}
+
+:::: {.columns}
+
+::: {.column width="50%" .align-center}
+[Benefits]{.hi-green}
+
+::: {.fragment}
+- Efficiency gains from trade
+- More rapid transfers of technology
+- Reduced probability of international wars
+- Increased demand for a countries products (exports)
+:::
+
+:::
+
+::: {.column width="50%" .align-center}
+[Costs]{.hi-red}
+
+::: {.fragment}
+- Emphasizes [inequalities]{.hi} across and within countries
+- Accelerates environmental degradation
+- International dominance of riches nations 
+:::
+
+:::
+
+::::
+
+::: {.fragment .small}
+- [All countries face these benefits AND costs]{.h}, but the [benefits are greater]{.hi-green} and the [costs are higher]{.hi-red} for developing countries
+
+- In theory, the benefits outweigh the costs
+:::
+
+---
+
+## Globalization and Trade
+
+- [Trade liberalization]{.h} has been key to the encouragement of globalization
+
+- [Trade liberalization]{.h} refers to the reduction of global [tariffs]{.hp}
+
+    - [Tariff:]{.hp} [A fixed-percentage tax on the value of an imported commodity levied at the point of entry into the importing country]{.h}
+
+::: {.fragment}
+- Trade liberalization has occured through international agreements to lower the costs of trade between countries
+    - It came into fashion after WWII, when European countries (and the US) signed the General Agreement on Tariffs and Trade (GATT)
+- European countries realized that by integrating their economies they could reduce the likelihood of another large-scale war on the continent
+:::
+
+---
+
+## Free Trade and Growth
+
+- [Free trade:]{.h} The importation and exportation of goods without any barriers in the form of tariffs, quotas, or other restrictions
+
+- Much like [free markets]{.hi}, free trade has many desirable properties
+    - Also like free markets, [free trade exists more in theory than in practice]{.hi}
+
+- Nevertheless, [free trade]{.h} is what we use as a basis for international trade in economics
+
+- Let's set up a [basic model of trade]{.hi}
+
+---
+
+## Model of Trade
+
+[Motivation:]{.hi} Developed economies are better at producing most goods. Then wehy do we see countries trading?
+
+Let's use some [simple assumptions]{.hi}:
+
+::: {.fragment}
+- Two countries
+- Two goods
+- One factor of production [{{< fa arrow-right >}} only require labor to produce any good]{.fragment}
+- No transport costs
+:::
+
+::: {.fragment}
+- Our factor of production assumption implies that if we observe trade between two countries, it [must]{.hp} be driven by differences in labor productivities across borders
+:::
+
+--- 
+
+## Model of Trade
+
+- Let's start with a single country for now and let's assume there are two goods: [Good Y and Good X]{.hi}
+
+- Production Possibility Frontiers (PPFs) show all the possible combinations (bundles) of goods that a country can produce
+
+    - A country's [budget line]{.hi}
+
+::: {.fragment}
+![](images/PPC-01.png){fig-align="center" height="325"}
+:::
+
+::: {.notes}
+On or below the PPF is feasible (the country is capable of producing that bundle)
+
+Below the frontier are inefficient (resources are not being used to their fullest potential)
+
+Above the frontier is impossible
+:::
+
+---
+
+## Model of Trade
+
+Let's put numbers to the model
+
+- If the country only produces cars, they can produce 20 cars
+- If the country only produces wheat, they can produce 80 units 
+
+![](images/ppf-numbers-01.png){fig-align="center"}
+
+---
+
+## Model of Trade
+
+The [slope of the PPF]{.hi} tells us the [opportunity cost of producing them]{.hi}
+
+- In order to produce 80 wheat, the country must give up 20 cars
+
+- This means that the opportunity cost of producing 1 car is 4 units of wheat
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/ppf-numbers-01.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+[Opportunity Cost]{.hi .align-center}
+
+$$
+    80W = 20C \rightarrow \dfrac{80}{20}W = C 
+$$
+
+$$
+    4W = 1C
+$$
+:::
+
+::::
+
+---
+
+## Two Countries, Two Goods
+
+::: {.small}
+Let's add a second country 
+
+- They each can produce goods at the following rates (if they specialize):
+:::
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+<br><br><br>
+
+::: {.align-center}
+|       |  [A]{.hi-green} |  [B]{.hi-red} | 
+|:-----:|:--:|:--:|
+| Wheat | 80 | 60 | 
+| Cars  | 20 | 30 | 
+:::
+
+:::
+
+::: {.column width="70%"}
+::: {.fragment}
+![](images/ppf-numbers-02.png){fig-align="center" }
+:::
+:::
+
+::::
+
+---
+
+## Two Countries, Two Goods
+
+::: {.small}
+Let's add a second country 
+
+- They each can produce goods at the following rates (if they specialize):
+:::
+
+:::: {.columns}
+
+::: {.column width="30%"}
+
+<br><br><br>
+
+::: {.align-center}
+|       |  [A]{.hi-green} |  [B]{.hi-red} | 
+|:-----:|:--:|:--:|
+| Wheat | 80 | 60 | 
+| Cars  | 20 | 30 | 
+:::
+
+:::
+
+::: {.column width="70%"}
+[Opportunity Costs]{.hi .align-center}
+
+::: {.small}
+- Opportunity cost of producing 1 car in [country A]{.hi-green} is 4 units of wheat
+- Opportunity cost of producing 1 car in [country B]{.hi-red} is 2 units of wheat
+:::
+
+::: {.fragment}
+- It is "cheaper" to produce cars in [country B]{.hi-red}
+- Lower opportunity cost = [comparative advantage]{.hi}
+- Trade is based on [comparative advantages]{.hi}
+:::
+
+:::
+
+::::
+
+---
+
+## Specialization
+
+Our model then predicts that [country B]{.hi-red} will specialize in producing cars and [country A]{.hi-green} will specialize in producing wheat
+
+- [A]{.hi-green} and [B]{.hi-red} will then trade with each other so they can both consume cars and wheat
+
+- Specialization in the good for which you have a [comparatie advantage]{.hi}, then trading with another country should [increase welfare for both trading partners]{.h}
+
+::: {.fragment}
+- Since both countries specialize in the good that they produce relatively cheaper, the "international market price" will fall somewhere between the price in both countries
+
+    - The international price will be [higher than the exporting country's price]{.hi} and [lower than the importing country's price]{.hi}
+:::
+
+::: {.notes}
+If international prices were any different, then there would be no incentive to export/import
+:::
+
+---
+
+## World Trade (Local Perspective)
+
+How does this look like in terms of demand and supply in one country?
+
+Let's start under [autarky (no trade)]{.hp}
+
+::: {.fragment}
+![](images/local-trade-01.png){fig-align="center" height="500"}
+:::
+
+---
+
+## World Trade (Local Perspective)
+
+There's [Consumer]{.hi-green} and [Producer]{.hi-orange} Surplus
+
+![](images/local-trade-02.png){fig-align="center"}
+
+---
+
+## World Trade (Local Perspective)
+
+Now we introduce trade, which comes with a [World Price]{.hi}
+
+![](images/local-trade-03.png){fig-align="center"}
+
+---
+
+## World Trade (Local Perspective)
+
+Because [consumers demand]{.hi-green} [more than]{.h} [local producers make]{.hi-orange}, demand must be met somehow
+
+- [The country imports the difference]{.hi}
+
+![](images/local-trade-imports.png){fig-align="center"}
+
+---
+
+## World Trade (Local Perspective)
+
+This new price shifts [Consumer]{.hi-green} and [Producer]{.hi-orange} Surplus
+
+![](images/local-trade-04.png){fig-align="center"}
+
+::: {.notes}
+Notice that local consumers gain and local producers "lose out"
+
+We find that there is a general GAIN in social welfare, we've just shifted the surplus around a bit. 
+:::
+
+---
+
+## World Trade (Government Intervention)
+
+Let's imagine that the government notices this loss in [Producer Surplus]{.hi-orange} and they decide they would like to [protect their domestic industry]{.hi} somewhat
+
+So they enact a [tariff]{.hp} on the imported good
+
+::: {.fragment}
+- This will [raise the price of the imported good]{.h}
+- It will generate [government revenue]{.hi}
+- It will reduce [consumer surplus]{.hi-green}
+- It will increase [domestic producer surplus]{.hi-orange}
+- And it will induce some market inefficiencies [(Deadweight Loss)]{.hi}
+:::
+
+---
+
+## World Trade (Government Intervention)
+
+[Prices go up]{.h} to $P^{W} + t$ which produces new quantity demanded and supplied locally
+
+![](images/local-trade-05.png){fig-align="center"}
+
+---
+
+## World Trade (Government Intervention)
+
+The [Government collects tariff revenues]{.hi} $= \text{Imports} \times \text{tariff}$
+
+![](images/local-trade-06.png){fig-align="center"}
+
+---
+
+## World Trade (Government Intervention)
+
+[Consumer Surplus]{.hi-green} shrinks slightly and [Producer Surplus]{.hi-orange} grows 
+
+![](images/local-trade-07.png){fig-align="center"}
+
+---
+
+## World Trade (Government Intervention)
+
+[The tariff (tax)]{.hp} creates inefficiencies [(Deadweight Loss)]{.h}
+
+![](images/local-trade-08.png){fig-align="center"}
+
+---
+
+## Developing Nations and Trade
+
+There are two main strategies that developing countries have taken when faced with increased globalization
+
+:::: {.columns}
+
+::: {.column width="50%"}
+[Import Substitution Industrialization]{.hi .align-center .small}
+
+::: {.fragment .tiny}
+- Development strategy to promote [domestic production]{.hi} of imported goods through protectionism and state intervention
+- High tariffs
+- Subsidies for Domestic Industry
+- Goal is to break dependency on foreign commodities
+- Create domestic industrial capacity
+- Inefficient
+- Small domestic markets limited scale economies
+:::
+
+:::
+
+::: {.column width="50%"}
+[Export Promotion]{.hi .align-center .small}
+
+::: {.fragment .tiny}
+- A strategy centered on [integrating domestic firms into global markets]{.hi}, incentivizing production for export, and fostering competitiveness
+- Low or moderate tariffs toward gradual liberalization
+- Incentives for foreign direct investment
+- Learning-by-Exporting
+- Requires strong state capacity and credible institutions
+- Can create enclave sectors dominated by MNCs
+:::
+
+:::
+
+::::

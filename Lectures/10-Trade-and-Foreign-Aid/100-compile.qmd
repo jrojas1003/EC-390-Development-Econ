@@ -24,10 +24,10 @@ title-slide-attributes:
 - Export-Oriented Industrialisation Strategy (12.6.1)
 - Economic Integration (12.7) -->
 
-# Foreign Aid {.inverse .note}
+<!-- # Foreign Aid {.inverse .note}
 
 {{< include 102-foreign-aid.qmd >}}
-<!-- - FDI and MNCs (14.2)
+- FDI and MNCs (14.2)
 - Remittances (14.3)
 - Foreign Aid
   - 14.4.1
