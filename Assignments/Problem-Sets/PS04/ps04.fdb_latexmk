@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1763616530.41361 "/Users/joserojas/Documents/Teaching/EC390-Development-Econ/Assignments/Problem-Sets/PS04/ps04.tex" "ps04.pdf" "ps04" 1763616531.17959 0
-  "/Users/joserojas/Documents/Teaching/EC390-Development-Econ/Assignments/Problem-Sets/PS04/ps04.tex" 1763616529.45957 10240 ebfaff73eb332fb8d24cacd90f840d7b ""
+["pdflatex"] 1763669154.36561 "/Users/joserojas/Documents/Teaching/EC390-Development-Econ/Assignments/Problem-Sets/PS04/ps04.tex" "ps04.pdf" "ps04" 1763669155.15775 0
+  "/Users/joserojas/Documents/Teaching/EC390-Development-Econ/Assignments/Problem-Sets/PS04/ps04.tex" 1763669154.16616 10240 ebfaff73eb332fb8d24cacd90f840d7b ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -119,9 +119,9 @@
   "images/todaro-question.png" 1763613211.34745 249616 749c78338184a2bfa1c81bec3fe53848 ""
   "images/trade-question-02.png" 1763615359.83113 246785 92447d72a3229b5b2544a5dc86baaf34 ""
   "images/trade-question.png" 1763614001.54894 245143 d7d6849858c8d178fbdb06ab35671561 ""
-  "ps04.aux" 1763616531.12132 1714 914aa28c30b0dfe9fdeb2fcac2873737 "pdflatex"
-  "ps04.out" 1763616530.71822 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "ps04.tex" 1763616529.45957 10240 ebfaff73eb332fb8d24cacd90f840d7b ""
+  "ps04.aux" 1763669155.09733 1714 914aa28c30b0dfe9fdeb2fcac2873737 "pdflatex"
+  "ps04.out" 1763669154.68947 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "ps04.tex" 1763669154.16616 10240 ebfaff73eb332fb8d24cacd90f840d7b ""
   (generated)
   "ps04.aux"
   "ps04.log"
