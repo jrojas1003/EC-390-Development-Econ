@@ -55,7 +55,7 @@ title: Assignments
 
 ---
 
-## Quizzes 
+## Quizzes
 
 [Due October 01 @ 12:00pm]{.text-center .h .large}
 
