@@ -112,11 +112,11 @@
     "text": "Governance & Institutions\nExpand Slides"
   },
   {
-    "objectID": "Lectures/list.html#trade-foreign-aid",
-    "href": "Lectures/list.html#trade-foreign-aid",
+    "objectID": "Lectures/list.html#trade",
+    "href": "Lectures/list.html#trade",
     "title": "Lectures",
-    "section": "Trade & Foreign Aid",
-    "text": "Trade & Foreign Aid\nExpand Slides"
+    "section": "Trade",
+    "text": "Trade\nExpand Slides"
   },
   {
     "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#case-study-japan",
@@ -144,7 +144,7 @@
     "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#trade-and-growth-1",
     "title": "EC 390 - Development Econ",
     "section": "Trade and Growth",
-    "text": "Trade and Growth\n\nMore recently, China’s economy has grown substantially and many economists point to their emphasis on trade as a main cause\nBig question: If we hae empirical evidence that trade can help grow an economy, why doesn’t everyone “trade their way out of poverty”?\n\n\nThey’re trying, but its not that easy"
+    "text": "Trade and Growth\n\nMore recently, China’s economy has grown substantially and many economists point to their emphasis on trade as a main cause\nBig question: If we have empirical evidence that trade can help grow an economy, why doesn’t everyone “trade their way out of poverty”?\n\n\nThey’re trying, but its not that easy"
   },
   {
     "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#trade-and-growth-2",
@@ -166,6 +166,160 @@
     "title": "EC 390 - Development Econ",
     "section": "Winners and Losers",
     "text": "Winners and Losers\n\nEconomists like to argue that trade results in the most efficient allocation of production\n\nGoods are produced where costs are lower\n\n\n\n\nIn general, this results in lower prices for consumers and increased welfare\nHowever, benefits are not distributed equally across the population\nIf the US imports cars from Japan, what happens to US auto workers?\nIn theory, those that “lose” from trade could be compensated by those that “win”\nIn practice, that does not happen"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#backlash-from-trade",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#backlash-from-trade",
+    "title": "EC 390 - Development Econ",
+    "section": "Backlash From Trade",
+    "text": "Backlash From Trade\n\nRecently (over the past few years) there has been a great deal of push back in developed countries against free trade and globalization\n\nGlobalization: The increasing integration of national economies into expanding international markets\n\n\n\n\nThis resistance to globalization comes from both political sides\nThe rise of populism across the globe has been partly attributed to this anti-globalization/anti-trade sentiment"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#globalization",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#globalization",
+    "title": "EC 390 - Development Econ",
+    "section": "Globalization",
+    "text": "Globalization\nAs with everything, there are Benefits and Costs\n\n\nBenefits\n\n\nEfficiency gains from trade\nMore rapid transfers of technology\nReduced probability of international wars\nIncreased demand for a countries products (exports)\n\n\n\nCosts\n\n\nEmphasizes inequalities across and within countries\nAccelerates environmental degradation\nInternational dominance of riches nations\n\n\n\n\n\n\nAll countries face these benefits AND costs, but the benefits are greater and the costs are higher for developing countries\nIn theory, the benefits outweigh the costs"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#globalization-and-trade",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#globalization-and-trade",
+    "title": "EC 390 - Development Econ",
+    "section": "Globalization and Trade",
+    "text": "Globalization and Trade\n\nTrade liberalization has been key to the encouragement of globalization\nTrade liberalization refers to the reduction of global tariffs\n\nTariff: A fixed-percentage tax on the value of an imported commodity levied at the point of entry into the importing country\n\n\n\n\nTrade liberalization has occured through international agreements to lower the costs of trade between countries\n\nIt came into fashion after WWII, when European countries (and the US) signed the General Agreement on Tariffs and Trade (GATT)\n\nEuropean countries realized that by integrating their economies they could reduce the likelihood of another large-scale war on the continent"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#free-trade-and-growth",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#free-trade-and-growth",
+    "title": "EC 390 - Development Econ",
+    "section": "Free Trade and Growth",
+    "text": "Free Trade and Growth\n\nFree trade: The importation and exportation of goods without any barriers in the form of tariffs, quotas, or other restrictions\nMuch like free markets, free trade has many desirable properties\n\nAlso like free markets, free trade exists more in theory than in practice\n\nNevertheless, free trade is what we use as a basis for international trade in economics\nLet’s set up a basic model of trade"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#model-of-trade",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#model-of-trade",
+    "title": "EC 390 - Development Econ",
+    "section": "Model of Trade",
+    "text": "Model of Trade\nMotivation: Developed economies are better at producing most goods. Then wehy do we see countries trading?\nLet’s use some simple assumptions:\n\n\nTwo countries\nTwo goods\nOne factor of production  only require labor to produce any good\nNo transport costs\n\n\n\n\nOur factor of production assumption implies that if we observe trade between two countries, it must be driven by differences in labor productivities across borders"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#model-of-trade-1",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#model-of-trade-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Model of Trade",
+    "text": "Model of Trade\n\nLet’s start with a single country for now and let’s assume there are two goods: Good Y and Good X\nProduction Possibility Frontiers (PPFs) show all the possible combinations (bundles) of goods that a country can produce\n\nA country’s budget line\n\n\n\n\n\n\n\n\n\n\nOn or below the PPF is feasible (the country is capable of producing that bundle)\nBelow the frontier are inefficient (resources are not being used to their fullest potential)\nAbove the frontier is impossible"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#model-of-trade-2",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#model-of-trade-2",
+    "title": "EC 390 - Development Econ",
+    "section": "Model of Trade",
+    "text": "Model of Trade\nLet’s put numbers to the model\n\nIf the country only produces cars, they can produce 20 cars\nIf the country only produces wheat, they can produce 80 units"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#model-of-trade-3",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#model-of-trade-3",
+    "title": "EC 390 - Development Econ",
+    "section": "Model of Trade",
+    "text": "Model of Trade\nThe slope of the PPF tells us the opportunity cost of producing them\n\nIn order to produce 80 wheat, the country must give up 20 cars\nThis means that the opportunity cost of producing 1 car is 4 units of wheat\n\n\n\n\n\n\n\n\n\nOpportunity Cost\n\\[\n    80W = 20C \\rightarrow \\dfrac{80}{20}W = C\n\\]\n\\[\n    4W = 1C\n\\]"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#two-countries-two-goods",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#two-countries-two-goods",
+    "title": "EC 390 - Development Econ",
+    "section": "Two Countries, Two Goods",
+    "text": "Two Countries, Two Goods\n\nLet’s add a second country\n\nThey each can produce goods at the following rates (if they specialize):\n\n\n\n\n\n\n\n\n\n\nA\nB\n\n\n\n\nWheat\n80\n60\n\n\nCars\n20\n30"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#two-countries-two-goods-1",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#two-countries-two-goods-1",
+    "title": "EC 390 - Development Econ",
+    "section": "Two Countries, Two Goods",
+    "text": "Two Countries, Two Goods\n\nLet’s add a second country\n\nThey each can produce goods at the following rates (if they specialize):\n\n\n\n\n\n\n\n\n\n\nA\nB\n\n\n\n\nWheat\n80\n60\n\n\nCars\n20\n30\n\n\n\n\n\nOpportunity Costs\n\n\nOpportunity cost of producing 1 car in country A is 4 units of wheat\nOpportunity cost of producing 1 car in country B is 2 units of wheat\n\n\n\n\nIt is “cheaper” to produce cars in country B\nLower opportunity cost = comparative advantage\nTrade is based on comparative advantages"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#specialization",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#specialization",
+    "title": "EC 390 - Development Econ",
+    "section": "Specialization",
+    "text": "Specialization\nOur model then predicts that country B will specialize in producing cars and country A will specialize in producing wheat\n\nA and B will then trade with each other so they can both consume cars and wheat\nSpecialization in the good for which you have a comparatie advantage, then trading with another country should increase welfare for both trading partners\n\n\n\nSince both countries specialize in the good that they produce relatively cheaper, the “international market price” will fall somewhere between the price in both countries\n\nThe international price will be higher than the exporting country’s price and lower than the importing country’s price\n\n\n\n\nIf international prices were any different, then there would be no incentive to export/import"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nHow does this look like in terms of demand and supply in one country?\nLet’s start under autarky (no trade)"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective-1",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective-1",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nThere’s Consumer and Producer Surplus"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective-2",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective-2",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nNow we introduce trade, which comes with a World Price"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective-3",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective-3",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nBecause consumers demand more than local producers make, demand must be met somehow\n\nThe country imports the difference"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective-4",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-local-perspective-4",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nThis new price shifts Consumer and Producer Surplus\n\n\n\n\n\n\nNotice that local consumers gain and local producers “lose out”\nWe find that there is a general GAIN in social welfare, we’ve just shifted the surplus around a bit."
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nLet’s imagine that the government notices this loss in Producer Surplus and they decide they would like to protect their domestic industry somewhat\nSo they enact a tariff on the imported good\n\n\nThis will raise the price of the imported good\nIt will generate government revenue\nIt will reduce consumer surplus\nIt will increase domestic producer surplus\nAnd it will induce some market inefficiencies (Deadweight Loss)"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention-1",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention-1",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nPrices go up to \\(P^{W} + t\\) which produces new quantity demanded and supplied locally"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention-2",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention-2",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nThe Government collects tariff revenues \\(= \\text{Imports} \\times \\text{tariff}\\)"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention-3",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention-3",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nConsumer Surplus shrinks slightly and Producer Surplus grows"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention-4",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#world-trade-government-intervention-4",
+    "title": "EC 390 - Development Econ",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nThe tariff (tax) creates inefficiencies (Deadweight Loss)"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#developing-nations-and-trade",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/101-trade.html#developing-nations-and-trade",
+    "title": "EC 390 - Development Econ",
+    "section": "Developing Nations and Trade",
+    "text": "Developing Nations and Trade\nThere are two main strategies that developing countries have taken when faced with increased globalization\n\n\nImport Substitution Industrialization\n\n\nDevelopment strategy to promote domestic production of imported goods through protectionism and state intervention\nHigh tariffs\nSubsidies for Domestic Industry\nGoal is to break dependency on foreign commodities\nCreate domestic industrial capacity\nInefficient\nSmall domestic markets limited scale economies\n\n\n\nExport Promotion\n\n\nA strategy centered on integrating domestic firms into global markets, incentivizing production for export, and fostering competitiveness\nLow or moderate tariffs toward gradual liberalization\nIncentives for foreign direct investment\nLearning-by-Exporting\nRequires strong state capacity and credible institutions\nCan create enclave sectors dominated by MNCs"
   },
   {
     "objectID": "Lectures/09-Governance/093-conflict-and-development.html",
@@ -6346,7 +6500,7 @@
     "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#trade-and-growth-1",
     "title": "Trade and Foreign Aid",
     "section": "Trade and Growth",
-    "text": "Trade and Growth\n\nMore recently, China’s economy has grown substantially and many economists point to their emphasis on trade as a main cause\nBig question: If we hae empirical evidence that trade can help grow an economy, why doesn’t everyone “trade their way out of poverty”?\n\n\nThey’re trying, but its not that easy"
+    "text": "Trade and Growth\n\nMore recently, China’s economy has grown substantially and many economists point to their emphasis on trade as a main cause\nBig question: If we have empirical evidence that trade can help grow an economy, why doesn’t everyone “trade their way out of poverty”?\n\n\nThey’re trying, but its not that easy"
   },
   {
     "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#trade-and-growth-2",
@@ -6368,6 +6522,160 @@
     "title": "Trade and Foreign Aid",
     "section": "Winners and Losers",
     "text": "Winners and Losers\n\nEconomists like to argue that trade results in the most efficient allocation of production\n\nGoods are produced where costs are lower\n\n\n\n\nIn general, this results in lower prices for consumers and increased welfare\nHowever, benefits are not distributed equally across the population\nIf the US imports cars from Japan, what happens to US auto workers?\nIn theory, those that “lose” from trade could be compensated by those that “win”\nIn practice, that does not happen"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#backlash-from-trade",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#backlash-from-trade",
+    "title": "Trade and Foreign Aid",
+    "section": "Backlash From Trade",
+    "text": "Backlash From Trade\n\nRecently (over the past few years) there has been a great deal of push back in developed countries against free trade and globalization\n\nGlobalization: The increasing integration of national economies into expanding international markets\n\n\n\n\nThis resistance to globalization comes from both political sides\nThe rise of populism across the globe has been partly attributed to this anti-globalization/anti-trade sentiment"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#globalization",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#globalization",
+    "title": "Trade and Foreign Aid",
+    "section": "Globalization",
+    "text": "Globalization\nAs with everything, there are Benefits and Costs\n\n\nBenefits\n\n\nEfficiency gains from trade\nMore rapid transfers of technology\nReduced probability of international wars\nIncreased demand for a countries products (exports)\n\n\n\nCosts\n\n\nEmphasizes inequalities across and within countries\nAccelerates environmental degradation\nInternational dominance of riches nations\n\n\n\n\n\nAll countries face these benefits AND costs, but the benefits are greater and the costs are higher for developing countries\nIn theory, the benefits outweigh the costs"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#globalization-and-trade",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#globalization-and-trade",
+    "title": "Trade and Foreign Aid",
+    "section": "Globalization and Trade",
+    "text": "Globalization and Trade\n\nTrade liberalization has been key to the encouragement of globalization\nTrade liberalization refers to the reduction of global tariffs\n\nTariff: A fixed-percentage tax on the value of an imported commodity levied at the point of entry into the importing country\n\n\n\n\nTrade liberalization has occured through international agreements to lower the costs of trade between countries\n\nIt came into fashion after WWII, when European countries (and the US) signed the General Agreement on Tariffs and Trade (GATT)\n\nEuropean countries realized that by integrating their economies they could reduce the likelihood of another large-scale war on the continent"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#free-trade-and-growth",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#free-trade-and-growth",
+    "title": "Trade and Foreign Aid",
+    "section": "Free Trade and Growth",
+    "text": "Free Trade and Growth\n\nFree trade: The importation and exportation of goods without any barriers in the form of tariffs, quotas, or other restrictions\nMuch like free markets, free trade has many desirable properties\n\nAlso like free markets, free trade exists more in theory than in practice\n\nNevertheless, free trade is what we use as a basis for international trade in economics\nLet’s set up a basic model of trade"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#model-of-trade",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#model-of-trade",
+    "title": "Trade and Foreign Aid",
+    "section": "Model of Trade",
+    "text": "Model of Trade\nMotivation: Developed economies are better at producing most goods. Then wehy do we see countries trading?\nLet’s use some simple assumptions:\n\n\nTwo countries\nTwo goods\nOne factor of production  only require labor to produce any good\nNo transport costs\n\n\n\n\nOur factor of production assumption implies that if we observe trade between two countries, it must be driven by differences in labor productivities across borders"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#model-of-trade-1",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#model-of-trade-1",
+    "title": "Trade and Foreign Aid",
+    "section": "Model of Trade",
+    "text": "Model of Trade\n\nLet’s start with a single country for now and let’s assume there are two goods: Good Y and Good X\nProduction Possibility Frontiers (PPFs) show all the possible combinations (bundles) of goods that a country can produce\n\nA country’s budget line\n\n\n\n\n\n\n\n\n\n\nOn or below the PPF is feasible (the country is capable of producing that bundle)\nBelow the frontier are inefficient (resources are not being used to their fullest potential)\nAbove the frontier is impossible"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#model-of-trade-2",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#model-of-trade-2",
+    "title": "Trade and Foreign Aid",
+    "section": "Model of Trade",
+    "text": "Model of Trade\nLet’s put numbers to the model\n\nIf the country only produces cars, they can produce 20 cars\nIf the country only produces wheat, they can produce 80 units"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#model-of-trade-3",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#model-of-trade-3",
+    "title": "Trade and Foreign Aid",
+    "section": "Model of Trade",
+    "text": "Model of Trade\nThe slope of the PPF tells us the opportunity cost of producing them\n\nIn order to produce 80 wheat, the country must give up 20 cars\nThis means that the opportunity cost of producing 1 car is 4 units of wheat\n\n\n\n\n\n\n\n\n\nOpportunity Cost\n\\[\n    80W = 20C \\rightarrow \\dfrac{80}{20}W = C\n\\]\n\\[\n    4W = 1C\n\\]"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#two-countries-two-goods",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#two-countries-two-goods",
+    "title": "Trade and Foreign Aid",
+    "section": "Two Countries, Two Goods",
+    "text": "Two Countries, Two Goods\n\nLet’s add a second country\n\nThey each can produce goods at the following rates (if they specialize):\n\n\n\n\n\n\n\n\n\n\nA\nB\n\n\n\n\nWheat\n80\n60\n\n\nCars\n20\n30"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#two-countries-two-goods-1",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#two-countries-two-goods-1",
+    "title": "Trade and Foreign Aid",
+    "section": "Two Countries, Two Goods",
+    "text": "Two Countries, Two Goods\n\nLet’s add a second country\n\nThey each can produce goods at the following rates (if they specialize):\n\n\n\n\n\n\n\n\n\n\nA\nB\n\n\n\n\nWheat\n80\n60\n\n\nCars\n20\n30\n\n\n\n\n\nOpportunity Costs\n\n\nOpportunity cost of producing 1 car in country A is 4 units of wheat\nOpportunity cost of producing 1 car in country B is 2 units of wheat\n\n\n\n\nIt is “cheaper” to produce cars in country B\nLower opportunity cost = comparative advantage\nTrade is based on comparative advantages"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#specialization",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#specialization",
+    "title": "Trade and Foreign Aid",
+    "section": "Specialization",
+    "text": "Specialization\nOur model then predicts that country B will specialize in producing cars and country A will specialize in producing wheat\n\nA and B will then trade with each other so they can both consume cars and wheat\nSpecialization in the good for which you have a comparatie advantage, then trading with another country should increase welfare for both trading partners\n\n\n\nSince both countries specialize in the good that they produce relatively cheaper, the “international market price” will fall somewhere between the price in both countries\n\nThe international price will be higher than the exporting country’s price and lower than the importing country’s price\n\n\n\n\nIf international prices were any different, then there would be no incentive to export/import"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nHow does this look like in terms of demand and supply in one country?\nLet’s start under autarky (no trade)"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective-1",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective-1",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nThere’s Consumer and Producer Surplus"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective-2",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective-2",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nNow we introduce trade, which comes with a World Price"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective-3",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective-3",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nBecause consumers demand more than local producers make, demand must be met somehow\n\nThe country imports the difference"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective-4",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-local-perspective-4",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Local Perspective)",
+    "text": "World Trade (Local Perspective)\nThis new price shifts Consumer and Producer Surplus\n\n\nNotice that local consumers gain and local producers “lose out”\nWe find that there is a general GAIN in social welfare, we’ve just shifted the surplus around a bit."
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nLet’s imagine that the government notices this loss in Producer Surplus and they decide they would like to protect their domestic industry somewhat\nSo they enact a tariff on the imported good\n\n\nThis will raise the price of the imported good\nIt will generate government revenue\nIt will reduce consumer surplus\nIt will increase domestic producer surplus\nAnd it will induce some market inefficiencies (Deadweight Loss)"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention-1",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention-1",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nPrices go up to \\(P^{W} + t\\) which produces new quantity demanded and supplied locally"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention-2",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention-2",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nThe Government collects tariff revenues \\(= \\text{Imports} \\times \\text{tariff}\\)"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention-3",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention-3",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nConsumer Surplus shrinks slightly and Producer Surplus grows"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention-4",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#world-trade-government-intervention-4",
+    "title": "Trade and Foreign Aid",
+    "section": "World Trade (Government Intervention)",
+    "text": "World Trade (Government Intervention)\nThe tariff (tax) creates inefficiencies (Deadweight Loss)"
+  },
+  {
+    "objectID": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#developing-nations-and-trade",
+    "href": "Lectures/10-Trade-and-Foreign-Aid/100-compile.html#developing-nations-and-trade",
+    "title": "Trade and Foreign Aid",
+    "section": "Developing Nations and Trade",
+    "text": "Developing Nations and Trade\nThere are two main strategies that developing countries have taken when faced with increased globalization\n\n\nImport Substitution Industrialization\n\n\nDevelopment strategy to promote domestic production of imported goods through protectionism and state intervention\nHigh tariffs\nSubsidies for Domestic Industry\nGoal is to break dependency on foreign commodities\nCreate domestic industrial capacity\nInefficient\nSmall domestic markets limited scale economies\n\n\n\nExport Promotion\n\n\nA strategy centered on integrating domestic firms into global markets, incentivizing production for export, and fostering competitiveness\nLow or moderate tariffs toward gradual liberalization\nIncentives for foreign direct investment\nLearning-by-Exporting\nRequires strong state capacity and credible institutions\nCan create enclave sectors dominated by MNCs"
   },
   {
     "objectID": "Readings/list.html",
