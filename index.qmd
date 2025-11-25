@@ -5,19 +5,16 @@ title: "Home"
 ::: {.callout-warning}
 
 ## Weekly Update and Announcements!
-[Welcome to Week 08!]{.hi}
+[Week 09 (Half Week Due to Thanksgiving)]{.hi}
 
 [Assignments]{.hp} this week are:
 
-&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Presentation Draft Instructions](Assignments/Final-Project/03-Presentation-Rough-Draft/rough-draft.pdf){.hi-orange target=_blank}
-
-&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Quiz 04](https://canvas.uoregon.edu/courses/274682/quizzes/413323){.hi-orange} Due on Wednesday
+&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Problem Set 04](Assignments/Problem-Sets/PS04/ps04.pdf){.hi-orange target=_blank}
 
 This week's schedule involves:
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; [Lecture 08 - Migration](Lectures/08-Migration/080-compile.html){.hi-orange target=_blank}
+&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; [Lecture 10 - Trade](Lectures/10-Trade-and-Foreing-Aid/100-compile.html){.hi-orange target=_blank}
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; [Lecture 09 - Governance & Institutions]{.hi-orange}
 :::
 
 ## Grade Projection Calculator
