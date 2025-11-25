@@ -108,6 +108,7 @@ title: Lectures
 ## Migration
 
 [Expand Slides](08-Migration/080-compile.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PDF Version](08-Population/Lecture-09-slides.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 ::: {.align-center}
 ```{=html}
@@ -120,6 +121,7 @@ title: Lectures
 ## Governance & Institutions
 
 [Expand Slides](09-Governance/090-compile.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PDF Version](09-Governance/Lecture-09-slides.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 ::: {.align-center}
 ```{=html}
@@ -132,6 +134,7 @@ title: Lectures
 ## Trade 
 
 [Expand Slides](10-Trade-and-Foreign-Aid/100-compile.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PDF Version](10-Trade-and-Foreign-Aid/Lecture-10-slides.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 
 ::: {.align-center}
 ```{=html}
