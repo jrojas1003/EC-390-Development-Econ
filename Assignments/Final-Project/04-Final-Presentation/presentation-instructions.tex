@@ -1,0 +1,225 @@
+\documentclass[11pt]{article}
+
+% ---------------------------------------------------
+% Page Layout
+% ---------------------------------------------------
+\usepackage{geometry}   % Flexible page dimensions
+\geometry{margin=1in, centering}
+
+% ---------------------------------------------------
+% Encoding and Fonts
+% ---------------------------------------------------
+\usepackage[utf8]{inputenc}   % Input encoding
+\usepackage[T1]{fontenc}      % Output font encoding
+\usepackage{lmodern}          % Latin Modern fonts (improves output)
+
+% ---------------------------------------------------
+% Tables and Columns
+% ---------------------------------------------------
+\usepackage{multicol}   % Multiple column environments
+\usepackage{multirow}   % Multi-row cells in tables
+\usepackage{booktabs}   % Better looking tables
+
+% ---------------------------------------------------
+% Graphics and Figures
+% ---------------------------------------------------
+\usepackage{graphicx}   % Include graphics
+\usepackage{caption}    % Customization of captions
+
+% ---------------------------------------------------
+% Text Styling
+% ---------------------------------------------------
+\usepackage{color}      % Color support
+\usepackage{soul}       % Highlighting, underlining, strikethrough, etc.
+\usepackage{parskip}    % Skips line in paragraph instead of indent
+% ---------------------------------------------------
+% Headers, Footers, and Symbols
+% ---------------------------------------------------
+\usepackage{fancyhdr}   % Custom headers/footers
+\usepackage{lastpage}   % Reference last page in document
+\usepackage{bbding}     % Special symbols (checkmarks, etc.)
+\usepackage{pmboxdraw}  % Box drawing characters
+\usepackage{fontawesome} % Allows customization of icons 
+
+% ---------------------------------------------------
+% Section Formatting
+% ---------------------------------------------------
+\usepackage{titlesec}   % Customize section titles
+
+% ---------------------------------------------------
+% Hyperlinks and URLs
+% ---------------------------------------------------
+\usepackage{url}        % Simple URL typesetting
+\usepackage{hyperref}   % Clickable hyperlinks
+
+% ---------------------------------------------------
+% FancyHDR Options
+% ---------------------------------------------------
+\fancyhead[L]{\fontfamily{lmss}\selectfont EC 390}
+\fancyhead[R]{\fontfamily{lmss}\selectfont Final Project Part IV}
+\setlength{\headheight}{13.59999pt} % Fixes caution produced by package
+
+
+\titleformat{\section}
+  {\normalfont\large\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries\sffamily}{\thesection}{1em}{}
+  
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    citecolor=blue,
+}
+
+\pagenumbering{arabic}
+
+\begin{document}
+
+\thispagestyle{fancy}
+\fontfamily{lmss}\selectfont
+
+\begin{center}
+\textbf{\huge EC 390: Final Presentation Instructions \& Rubric}\\  
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ASSIGNMENT OVERVIEW
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Overview}
+
+For the final part of your project, you will create a \textbf{recorded presentation video} summarizing your work. 
+This is your chance to communicate your key ideas clearly and concisely. 
+Focus on presenting the key parts of your project. 
+Ideally you touch on all of: (1) Motivation of your project, (2) Directly mention your research question and why it matters, (3) Supporting evidence of your topic's importance (this is your literature review), (4) Possible approaches to answering your question, and what possible finding an answer could teach us.
+
+The most important thing is that you avoid reading your slides verbatim.
+Ideally, you've worked on this for a good amount of time so you should be able to speak about your project confidently.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INSTRUCTIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{2cm}
+\section*{Presentation Requirements}
+
+\subsubsection*{Video Format}
+
+\begin{itemize}
+    \item[\faCheckSquareO] \textbf{Length:} 6 to 8 minutes
+    \item[\faCheckSquareO] You must appear on screen at least briefly (picture-in-picture is fine)
+    \item[\faCheckSquareO] The video should show your slides as you present
+    \item[\faCheckSquareO] Upload the video file or link to Canvas 
+        \begin{itemize}
+            \item[\faFileVideoO] Accepted file types: .mp4, .mov, .m4v, Google Drive link, Zoom link, or unlisted YouTube video
+        \end{itemize}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% SUBMISSION GUIDELINES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection*{Submission}
+
+\begin{itemize}
+    \item[\faCheckSquareO] Upload your presentation video to \href{https://canvas.uoregon.edu/courses/274682/assignments/1916918}{Canvas}
+    \item[\faCheckSquareO] Due \textbf{Wednesday, December 10, 2025 at 2:30pm} 
+    \item[\faCheckSquareO] Make sure that your file \textbf{plays correctly and the sound is recorded properly}. 
+    \item[\faCheckSquareO] If you submit a link (to YouTube or Zoom), \textbf{verify that it is viewable to anyone with a link}. I recommend you check the link using incognito mode on your browser, that should give you a good idea if it is or not. 
+    \item[\faCheckSquareO] \textbf{NOTE: IF I CANNOT VIEW YOUR FILE, I WILL TREAT IT AS INCOMPLETE.} 
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% GRADING RUBRIC
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+\section*{Content Guidelines}
+
+\begin{itemize}
+
+    \item \textbf{A. Introduction, Motivation \& Research Question — 4 points}
+    \begin{itemize}
+        \item[\faCheckSquareO] Incorporates a clear \textbf{title slide} (name, project title, course).
+        \item[\faCheckSquareO] Explains why the topic is important and economically relevant.
+        \item[\faCheckSquareO] Clearly states the central research question or hypothesis.
+         
+        \textbf{Scoring:}
+
+        \begin{itemize}
+            \item \textbf{4:} Clear, compelling motivation; excellent question; strong connection to project goals.
+            \item \textbf{3:} Mostly clear; adequate motivation; question stated.
+            \item \textbf{2:} Vague motivation or unclear question.
+            \item \textbf{1--0:} Missing key elements or unclear.
+        \end{itemize}
+    \end{itemize}
+
+    \item \textbf{B. Literature Review \& Economic Concepts — 4 points}
+    \begin{itemize}
+        \item[\faCheckSquareO] Introduces the key research articles reviewed for your project.
+        \item[\faCheckSquareO] Highlights how the project builds on, extends, or differs from existing work.
+        \item[\faCheckSquareO] Uses relevant economic concepts, models, or mechanisms correctly.
+         
+        \textbf{Scoring:}
+
+        \begin{itemize}
+            \item \textbf{4:} Excellent integration of literature and economic theory.
+            \item \textbf{3:} Good integration with minor gaps.
+            \item \textbf{2:} Superficial or incomplete use of literature or concepts.
+            \item \textbf{1--0:} Absent or incorrect.
+        \end{itemize}
+    \end{itemize}
+
+    \item \textbf{C. Evidence, Analysis \& Proposed Approach — 5 points}
+    \begin{itemize}
+        \item[\faCheckSquareO] Clearly explains the empirical or conceptual approach used to answer the question.
+        \item[\faCheckSquareO] Summarizes the key evidence, results, or progress made since the proposal stage.
+        \item[\faCheckSquareO] Provides correct interpretation and logical connections to the research question.
+         
+        \textbf{Scoring:}
+
+        \begin{itemize}
+            \item \textbf{5:} Strong approach, clear evidence, and the approach directly addresses the question.
+            \item \textbf{4:} Solid explanation with minor issues.
+            \item \textbf{3:} Basic or partially developed analysis.
+            \item \textbf{2--0:} Minimal or inaccurate evidence or unclear approach.
+        \end{itemize}
+    \end{itemize}
+\newpage
+    \item \textbf{D. Expected Contribution \& Professional Organization — 3 points}
+    \begin{itemize}
+        \item[\faCheckSquareO] Clearly explains the expected contribution or what we learn from the project.
+        \item[\faCheckSquareO] Describes why the contribution matters (economic or policy relevance).
+        \item[\faCheckSquareO] Presentation is well-organized, polished, logical, and professional.
+         
+        \textbf{Scoring:}
+
+        \begin{itemize}
+            \item \textbf{3:} Clear, well-organized, polished; strong statement of contribution.
+            \item \textbf{2:} Mostly clear; contribution mentioned but underdeveloped.
+            \item \textbf{1--0:} Hard to follow or contribution unclear.
+        \end{itemize}
+    \end{itemize}
+
+    \item \textbf{E. Presentation Video Quality — 4 points}
+    \begin{itemize}
+        \item[\faCheckSquareO] Clear, confident delivery with well-designed slides.
+        \item[\faCheckSquareO] Effective pacing and adherence to the 6--8 minute length.
+        \item[\faCheckSquareO] Acceptable audio/video quality; meets upload requirements.
+         
+        \textbf{Scoring:}
+
+        \begin{itemize}
+            \item \textbf{4:} Excellent delivery, pacing, design, and technical quality.
+            \item \textbf{3:} Generally clear; minor issues with pacing/design/recording.
+            \item \textbf{2:} Uneven clarity or low-quality recording; missing elements.
+            \item \textbf{1--0:} Unclear, unprepared, or missing major components.
+        \end{itemize}
+    \end{itemize}
+
+\end{itemize}
+
+
+\end{document}
