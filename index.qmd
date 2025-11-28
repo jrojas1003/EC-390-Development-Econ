@@ -5,17 +5,23 @@ title: "Home"
 ::: {.callout-warning}
 
 ## Weekly Update and Announcements!
-[Week 09 (Half Week Due to Thanksgiving)]{.hi}
+[Week 10 (Last Update!)]{.hi}
 
-[Assignments]{.hp} this week are:
+This week we have our final in-person presentations. 
+As I mentioned in class, as an incentive to have an audience for our brave volunteers I will be giving extra credit to anyone that attends these presentations. 
 
-&nbsp;&nbsp;  {{< fa square-check size=lg >}} &nbsp; [Problem Set 04](Assignments/Problem-Sets/PS04/ps04.pdf){.hi-orange target=_blank}
+If you are in attendance, and check-in (sign-up sheet), then you can get 0.5% per day. 
 
-This week's schedule involves:
+The presentation order is:
 
-&nbsp;&nbsp;  {{< fa book-open size=lg >}} &nbsp; [Lecture 10 - Trade](Lectures/10-Trade-and-Foreing-Aid/100-compile.html){.hi-orange target=_blank}
-
-:::
+| Monday            | Wednesday            |
+|:-----------------:|:---------------------:|
+| Alex Swick        | Suzy Oakes            |
+| Bryce Mayer       | Alani Rampersad       |
+| Joey Floyd        | Natalie Enríquez      |
+| Blake Conlon      | Jameson Bortnem       |
+| Travis Weninger   | Ashley Baranowski     |
+| Landon Matysik    | Lauren Nagle          |
 
 ## Grade Projection Calculator
 
