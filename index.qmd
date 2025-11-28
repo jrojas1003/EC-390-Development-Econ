@@ -23,6 +23,8 @@ The presentation order is:
 | Travis Weninger   | Ashley Baranowski     |
 | Landon Matysik    | Lauren Nagle          |
 
+:::
+
 ## Grade Projection Calculator
 
 This table lets you enter your scores by category and automatically see your totals.
