@@ -16,12 +16,13 @@ The presentation order is:
 
 | Monday            | Wednesday            |
 |:-----------------:|:---------------------:|
-| Alex Swick        | Suzy Oakes            |
-| Bryce Mayer       | Alani Rampersad       |
-| Joey Floyd        | Natalie Enríquez      |
-| Blake Conlon      | Jameson Bortnem       |
-| Travis Weninger   | Ashley Baranowski     |
-| Landon Matysik    | Lauren Nagle          |
+| Bryce Mayer       | Alex Swick            |
+| Joey Floyd        | Suzy Oakes            |
+| Blake Conlon      | Alani Rampersad       |
+| Travis Weninger   | Natalie Enríquez      |
+| Landon Matysik    | Jameson Bortnem       |
+|                   | Ashley Baranowski     |
+|                   | Lauren Nagle          |
 
 :::
 
