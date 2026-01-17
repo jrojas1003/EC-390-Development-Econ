@@ -2,89 +2,97 @@
 title: Assignments
 ---
 
-## Midterm
-
-::: {.align-center}
-[Answer Key](Midterm/midterm-answer-key.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-[Statistics](Midterm/stats.html){target=_blank .btn .btn-primary .btn-lg .cv-download}
-:::
-
 ## Problem Sets
 
-[Problem Set 01 - Due Wednesday, October 08 @ 12:00pm]{.text-center .h .large} 
+[Problem Set 01]{.text-center .h .large .align-center} 
 
 ::: {.align-center}
-[Answer Key](Problem-Sets/PS01/Answer-Key-PS01.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-:::
-
-::: {.align-center}
-[PS01 Questions](Problem-Sets/PS01/ps01.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
-[Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916923){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PS01 Questions](Problem-Sets/PS01/ps01.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 ::: 
 
 ---
 
-[Problem Set 02 - Due Wednesday, October 22 @ 12:00pm]{.text-center .h .large} 
+[Problem Set 02]{.text-center .h .large .align-center} 
 
 ::: {.align-center}
-[Answer Key](Problem-Sets/PS02/Answer-Key-PS02.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-:::
-
-::: {.align-center}
-[PS02 Questions](Problem-Sets/PS02/ps02.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916927){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PS02 Questions](Problem-Sets/PS02/ps02.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download} 
 :::
 ---
 
-[Problem Set 03 - Due Wednesday, November 13 @ 12:00pm]{.text-center .h .large} 
+[Problem Set 03]{.text-center .h .large .align-center} 
+
 
 ::: {.align-center}
-[Answer Key](Problem-Sets/PS03/Answer-Key-PS03.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
-:::
-
-::: {.align-center}
-[PS03 Questions](Problem-Sets/PS03/ps03.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916928){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PS03 Questions](Problem-Sets/PS03/ps03.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
 ---
 
-[Problem Set 04 - Due Wednesday, November 27 @ 11:59pm]{.text-center .h .large} 
+[Problem Set 04]{.text-center .h .large .align-center} 
 
 ::: {.align-center}
-[PS04 Questions](Problem-Sets/PS04/ps04.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4} [Submit on Canvas](https://canvas.uoregon.edu/courses/274682/assignments/1916929){target=_blank .btn .btn-primary .btn-lg .cv-download}
+[PS04 Questions](Problem-Sets/PS04/ps04.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
+:::
+
+---
+
+## Exams
+
+::: {.align-center}
+[Fall 2025 Midterm Answer Key](Midterm/midterm-answer-key.pdf){target=_blank .btn .btn-primary .btn-lg .cv-download}
 :::
 
 ---
 
 ## Quizzes
 
-[Due October 01 @ 12:00pm]{.text-center .h .large}
+::: {.callout-note collapse="true"}
+## Quiz 01 - Respond to the Prompt Below
 
-::: {.align-center}
-[Quiz 01](https://canvas.uoregon.edu/courses/274682/quizzes/413316){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
+There is no single 'silver bullet' that can solve the challenges of development.
+
+**But if you had to choose one factor—whether a policy, institution, technology, or social change—that you believe would make the biggest difference in improving economic outcomes in developing countries, what would it be? Explain your reasoning**.
 :::
 
 ---
 
-[Due October 15 @ 12:00pm]{.text-center .h .large}
+::: {.callout-note collapse="true"}
+## Quiz 02 - Respond to the Prompt Below
 
-::: {.align-center}
-[Quiz 02](https://canvas.uoregon.edu/courses/274682/quizzes/413321){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
+The Solow Growth Model predicts that economies will converge to a **steady state determined by savings, population growth and capital depreciation**. 
+Yet some countries remain trapped in persistent low-growth equilibria. 
+
+> How do you think that coordination failures can prevent an economy from reaching the "steady state growth path"? Why is large scale coordination difficult (think about individual incentives)?
 :::
+
 
 ---
 
-[Due November 05 @ 12:00pm]{.text-center .h .large}
+::: {.callout-note collapse="true"}
+## Quiz 03 - Respond to the Prompt Below
 
-::: {.align-center}
-[Quiz 03](https://canvas.uoregon.edu/courses/274682/quizzes/413322){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
+We have talked about how education has its benefits and costs, and that it ultimately is worth it (when possible).
+
+Think about your own decision to pursue higher education.
+
+What trade-offs did you or your family face in making that decision?
+
+What would it take for it to "pay-off" for you?
 :::
+
 
 ---
 
-[Due November 19 @ 12:00pm]{.text-center .h .large}
+::: {.callout-note collapse="true"}
+## Quiz 04 - Respond to the Prompt Below
 
-::: {.align-center}
-[Quiz 04](https://canvas.uoregon.edu/courses/274682/quizzes/413323){target=_blank .btn .btn-primary .btn-lg .cv-download .me-4}
+In recent times, we have seen a significant movement against globalization. Societal preferences have largely swung against foreign aid, free trade, and immigration. 
+
+At the same time, these factors are significantly correlated with each other. Where greater and more efficient foreign aid may diminish immigration numbers as the origin country provides a better opportunity for growth. This makes these observed shifts in preferences complex and paradoxical.
+
+Foreign aid often aims to reduce poverty and create jobs in developing countries, while migration allows individuals to seek better opportunities abroad.
+
+Do these two forces **complement or substitute** each other in promoting development? How should we think about immigration as we face **population crises across developed nations**?
 :::
 
 ---

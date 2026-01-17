@@ -18,13 +18,6 @@ website:
         text: Homework
       - href: Assignments/final-project.qmd
         text: Final Project
-        
-  announcement: 
-    icon: clipboard2-check-fill
-    dismissable: true
-    content: "Almost Thanksgiving!"
-    type: warning
-    position: below-navbar
 
 format:
   html:

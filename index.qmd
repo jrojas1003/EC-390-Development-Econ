@@ -5,25 +5,11 @@ title: "Home"
 ::: {.callout-warning}
 
 ## Weekly Update and Announcements!
-[Week 10 (Last Update!)]{.hi}
+[Welcome to my Development Economics Course]{.h}
 
-This week we have our final in-person presentations. 
-As I mentioned in class, as an incentive to have an audience for our brave volunteers I will be giving extra credit to anyone that attends these presentations. 
+Feel free to explore the site, look at course content, and I hope things you have an easy time navigating. 
 
-If you are in attendance, and check-in (sign-up sheet), then you can get 0.5% per day. 
-
-The presentation order is:
-
-| Monday            | Wednesday            |
-|:-----------------:|:---------------------:|
-| Bryce Mayer       | Alex Swick            |
-| Joey Floyd        | Suzy Oakes            |
-| Blake Conlon      | Alani Rampersad       |
-| Travis Weninger   | Natalie Enríquez      |
-| Landon Matysik    | Jameson Bortnem       |
-|                   | Ashley Baranowski     |
-|                   | Lauren Nagle          |
-
+If you run into any issues, please write me an email at ***jrojas2@uoregon.edu*** 
 :::
 
 ## Grade Projection Calculator
@@ -262,4 +248,4 @@ For more details, read the [Syllabus](Documents/Syllabus/Syllabus.pdf){target="_
 
 ## Acknowledgements
 
-This class has been created using materials passed down by a former UO graduate student. 
+This class has been created using materials passed down by former UO graduate students. 
